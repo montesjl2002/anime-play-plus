@@ -35,6 +35,17 @@
     ]
   },
   {
+    "id": "fdde88b1-84b6-46ad-94b6-713e6031cdb6",
+    "nombre": "ASSASSINS PRIDE",
+    "imagen": "https://drive.google.com/uc?export=view&id=1ME8D465LY2McBX0_fS-4VbiDC-_Qox4J",
+    "descripcion": "Melida es una noble sin rastro de magia… o eso parece. Su nuevo tutor, Kufa, oculta un oscuro secreto: no está allí solo para enseñarla, sino para juzgarla. Si ella no manifiesta mana, su verdadera misión es asesinarla.",
+    "idioma": "JAP",
+    "generos": [
+      "Acción",
+      "Fantasía"
+    ]
+  },
+  {
     "id": "7b21084a-321c-465d-b13a-bf0b5c2abd24",
     "nombre": "Akame ga Kill!",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8aa257503ef86474dffd0a518bb57d7a.jpg",
