@@ -1,0 +1,192 @@
+{
+  "id": "a1c11293-e6d4-4178-9e87-d3d953b69396",
+  "nombre": "Violet Evergarden",
+  "descripcion": "Una exsoldado llamada Violet comienza a trabajar como escritora de cartas para entender las emociones y descubrir el significado de las palabras “te amo”.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1LMyzwonTT0EkiKFd1BU-dHxjfIKQ31TM",
+  "anio": 2018,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "9c0c3f90-9246-46eb-abaa-d9fedb17fec7",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "a3f2c35f-3266-43a5-817a-860cdaaa380c",
+          "nombre": "\"Te amo\" y la muñeca de memoria automática",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XBy9abJ7d6uDkwj/%5BAnimeOnlineNinja%5D_Violet_Evergarden_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "cd6e4b88-b0fe-42ff-bea2-5962f430749f",
+          "nombre": "Nunca volverá",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-sch4u5khpksf.html"
+            }
+          ]
+        },
+        {
+          "id": "931fee99-2e0c-4f71-80b6-31af462977f8",
+          "nombre": "Que seas una ejemplar muñeca de memoria automática",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.net/embed-3ejkwwyhr7qu.html"
+            }
+          ]
+        },
+        {
+          "id": "3196836b-893e-41b0-8c91-285864d288b0",
+          "nombre": "No serás una herramienta, sino una persona digna de ese nombre",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-plgsy1d8pes1.html"
+            }
+          ]
+        },
+        {
+          "id": "1578688b-2cfb-4c2c-a333-94ef38a4d8db",
+          "nombre": "¿Escribes cartas que unen a las personas?",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-kyxi1dmorg2k.html"
+            }
+          ]
+        },
+        {
+          "id": "652d8e90-ac08-4e2c-9ee1-d45a28efae8f",
+          "nombre": "En algún lugar, bajo un cielo estrellado",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-bhgbmwxxoid4.html"
+            }
+          ]
+        },
+        {
+          "id": "c52b4b24-def4-4d2b-8ef6-37ca4d9e53a7",
+          "nombre": "Episodio 7",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-0gxma9cqmv8i.html"
+            }
+          ]
+        },
+        {
+          "id": "d63d4c17-4ae2-487c-bc3b-99bc7395b3aa",
+          "nombre": "Episodio 8",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mc9tstob4ynz.html"
+            }
+          ]
+        },
+        {
+          "id": "7c1f66ed-127c-47cf-acd4-21b341eb92f2",
+          "nombre": "Violet Evergarden",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6meihrk701e3.html"
+            }
+          ]
+        },
+        {
+          "id": "5f2eed97-245e-4f43-90e3-88422956b870",
+          "nombre": "Un ser querido siempre velará por ti",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-c7lszbb2vbcd.html"
+            }
+          ]
+        },
+        {
+          "id": "9a37c562-e8ab-4403-b540-ab3f52637993",
+          "nombre": "¡No quiero que muera nadie más!",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-5877srpc7la5.html"
+            }
+          ]
+        },
+        {
+          "id": "8226555f-cd86-4ad5-8706-46606683493e",
+          "nombre": "Episodio 12",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5d86qgg6v2t4.html"
+            }
+          ]
+        },
+        {
+          "id": "6bb36637-3523-44d9-a873-1f12a2147075",
+          "nombre": "La muñeca de memoria automática y \"Te amo\"",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-22T20:52:41.277704",
+          "fechaActualizacion": "2026-07-22T20:52:41.277704",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-kr2ql4t4s2uk.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
