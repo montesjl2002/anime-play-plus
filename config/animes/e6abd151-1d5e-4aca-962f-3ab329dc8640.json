@@ -1,0 +1,178 @@
+{
+  "id": "e6abd151-1d5e-4aca-962f-3ab329dc8640",
+  "nombre": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+  "descripcion": "Obligado por su hermana menor a jugar un otome bajo amenaza de delatarlo a sus padres por cierto asunto comprometedor, Leon se sumerge a regañadientes en un mundo que detesta. A pesar de su odio por el juego, su historia y sus personajes, juega hasta el agotamiento… hasta que, tras una muerte repentina, despierta en el lugar que menos esperaba: ¡dentro del otome que tanto desprecia, convertido en un simple personaje de fondo!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/06b3979281876602d3279a8c70188d9a.jpe",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Ciencia Ficción"
+  ],
+  "temporadas": [
+    {
+      "id": "7678a8bf-c573-48e4-905e-d15be4862dcb",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "fb4e2e1d-627c-4d4c-9768-16b87ce853b3",
+          "nombre": "Odio este mundo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/e6t7zcst41nu"
+            }
+          ]
+        },
+        {
+          "id": "96b52378-44c2-4df0-8111-61254f429383",
+          "nombre": "Oye, chica, ¿vamos a beber té?",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/734ympbztjtj"
+            }
+          ]
+        },
+        {
+          "id": "3b57a279-96d3-4865-98ed-60c8f58b79b9",
+          "nombre": "Te reto a un duelo, príncipe",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/7v6hi2x20j1h"
+            }
+          ]
+        },
+        {
+          "id": "7b5c244b-16c5-428b-8dcc-b7fca1f93590",
+          "nombre": "¿Les molesta si me contengo?",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/rst6f6wbft42"
+            }
+          ]
+        },
+        {
+          "id": "b682e7f7-f8a7-4fdd-996e-c1966f1a7d7c",
+          "nombre": "Es lo máximo",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/8vnsh06qwpb8"
+            }
+          ]
+        },
+        {
+          "id": "719d469a-5c12-4d23-ac7b-182a71d4490d",
+          "nombre": "Es mi primer festival escolar",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/9sjjljj6tg42"
+            }
+          ]
+        },
+        {
+          "id": "97584fd9-49d2-4816-8819-41d7ed08e49a",
+          "nombre": "Odiamos al mismo chico guapo",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/2xvkytilarpm"
+            }
+          ]
+        },
+        {
+          "id": "e7408024-47fa-437e-a9da-f384ed3900b1",
+          "nombre": "No estoy jugando",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/9li6t4x0xlvr"
+            }
+          ]
+        },
+        {
+          "id": "4e2489fc-7ecf-4d74-b912-62d35313f480",
+          "nombre": "Una chica muy conveniente",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/5hn74z6lgxy0"
+            }
+          ]
+        },
+        {
+          "id": "b7e6375c-3f4f-4efa-9bfa-0de61ed99e82",
+          "nombre": "A diferencia de los falsos nobles",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/rbjui4xv14t8"
+            }
+          ]
+        },
+        {
+          "id": "c8c12102-e2c3-42ea-a842-1517a5c3191f",
+          "nombre": "Lo que puedo hacer ahora",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/rkc8ae6tkuxm"
+            }
+          ]
+        },
+        {
+          "id": "854694ad-6d09-40f9-85e1-cccd2f03d5a4",
+          "nombre": "Por muy cruel que sea el mundo de este juego otome",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T21:02:05.127728",
+          "fechaActualizacion": "2026-07-22T21:02:05.127728",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vide0.net/e/ucr5x3cu1cnd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
