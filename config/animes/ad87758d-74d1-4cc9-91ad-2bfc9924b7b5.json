@@ -11,5 +11,12 @@
     "Fantasía",
     "Romance"
   ],
-  "temporadas": []
+  "temporadas": [
+    {
+      "id": "c48d1d24-7e23-40a8-b1be-74bad5825570",
+      "numero": 1,
+      "nombre": "Temporada 1",
+      "episodios": []
+    }
+  ]
 }
