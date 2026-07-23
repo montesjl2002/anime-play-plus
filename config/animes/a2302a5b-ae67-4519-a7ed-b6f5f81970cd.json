@@ -1,0 +1,49 @@
+{
+  "id": "a2302a5b-ae67-4519-a7ed-b6f5f81970cd",
+  "nombre": "The Insipid Prince's Furtive Grab for the Throne",
+  "descripcion": "Todo el imperio se ríe del príncipe Arnold, conocido por su aparente falta de talento y ambición. Pero tras esa fachada se oculta uno de los mayores secretos del reino: es un aventurero de rango SS y un prodigio capaz de dominar incluso la magia prohibida. Mientras todos lo subestiman, Arnold mueve los hilos desde las sombras, eliminando amenazas que nadie más podría enfrentar y preparando, en silencio, su camino hacia el trono. Así comienza la historia del príncipe más poderoso del imperio, un hombre que oculta sus verdaderas garras hasta que llega el momento de reclamar aquello que le pertenece.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/0960a2651591817d8c9a8e24298a6b31.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "d3a027da-4e23-4d0b-aef2-89387790013c",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "df01d597-aeb4-4219-8e8e-79635428efc6",
+          "nombre": "El príncipe insípido",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-23T17:29:46.066104",
+          "fechaActualizacion": "2026-07-23T17:29:46.066104",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/u2g52hos6gev"
+            }
+          ]
+        },
+        {
+          "id": "3fb55273-c5ef-4f87-b614-9a0c889a469c",
+          "nombre": "¿Una cita en la capital imperial?",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-23T17:29:46.066104",
+          "fechaActualizacion": "2026-07-23T17:29:46.066104",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-esne1lap70rp.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
