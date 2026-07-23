@@ -22,5 +22,16 @@
       "Drama",
       "Ciencia Ficción"
     ]
+  },
+  {
+    "id": "e4867edc-bb34-474a-8707-5f64b9e6bdcf",
+    "nombre": "A Couple of Cuckoos",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/7f6315794cec689a8ec5ff695788ea99.jpg",
+    "descripcion": "Nagi Umino, estudiante de preparatoria, descubre que fue intercambiado al nacer y está a punto de conocer a sus padres biológicos. El mismo día conoce a Erika Amano, una chica de familia acomodada que le pide fingir ser su novio para evitar un matrimonio arreglado. Lo que ninguno imagina es que, además de ser prometidos por error… ¡son los bebés que fueron intercambiados al nacer!",
+    "idioma": "LAT",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ]
   }
 ]
