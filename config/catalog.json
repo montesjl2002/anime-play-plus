@@ -57,5 +57,16 @@
       "Drama",
       "Fantasía"
     ]
+  },
+  {
+    "id": "e61c953d-6d12-431e-81e4-5489cb9076b6",
+    "nombre": "Am I Actually the Strongest?",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eceac71dbf61b38c7b94fc14e590c7b2.jpg",
+    "descripcion": "Haruto es un chico tímido y solitario que lleva una vida gris... hasta que el destino interviene. Una diosa lo elige para reencarnar en un mundo completamente distinto, lleno de magia y peligros. Como bendición divina, Haruto recibe un poder mágico oculto a los ojos de los demás, un don único que podría cambiarlo todo... si logra reunir el valor para usarlo.",
+    "idioma": "JAP",
+    "generos": [
+      "Comedia",
+      "Fantasía"
+    ]
   }
 ]
