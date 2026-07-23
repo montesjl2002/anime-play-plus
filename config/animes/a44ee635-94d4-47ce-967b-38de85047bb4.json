@@ -1,0 +1,88 @@
+{
+  "id": "a44ee635-94d4-47ce-967b-38de85047bb4",
+  "nombre": "The Villager of Level 999",
+  "descripcion": "En el mundo de Earthclear, el destino de cada persona queda sellado desde su nacimiento por un rol predeterminado, y el de Aldeano es considerado el más débil y sin futuro. Mientras la mayoría jamás supera el nivel 5, Koji Kagami rompe todas las reglas al alcanzar el increíble nivel 999. Durante una expedición conoce a Alice, la hija del Rey Demonio, y descubre que ambos comparten un mismo ideal: poner fin a la guerra y lograr la convivencia entre humanos y demonios. Con un poder que desafía el destino y un sueño que amenaza el equilibrio del mundo, Koji deberá enfrentarse a quienes harán cualquier cosa para impedir que esa paz se haga realidad.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/12ef246b33a4112986ba6a0cde041df1.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "41a2a4fb-883b-4ee7-94ee-7800ed5383ea",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "ed1d4dcc-4947-4f0a-b746-50ce0e05549b",
+          "nombre": "Nv. 1: Cómo funciona el mundo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-23T17:56:04.985724",
+          "fechaActualizacion": "2026-07-23T17:56:04.985724",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ehy6snfsyj2t"
+            }
+          ]
+        },
+        {
+          "id": "43a9e785-9dbb-4805-9552-cf780bc97890",
+          "nombre": "Nv. 2: Más tonto que las piedras",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-23T17:56:04.985724",
+          "fechaActualizacion": "2026-07-23T17:56:04.985724",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-01f3jp7aj3if.html"
+            }
+          ]
+        },
+        {
+          "id": "88059930-4be6-4630-ba40-458b867e747d",
+          "nombre": "Nv. 3: Coexistencia entre humanos y demonios",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-23T17:56:04.985724",
+          "fechaActualizacion": "2026-07-23T17:56:04.985724",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/nh3glsowu12k"
+            }
+          ]
+        },
+        {
+          "id": "320bd737-c77d-4216-a80b-1dfb0cede4c0",
+          "nombre": "Nv. 4: Te tengo algunas preguntas",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-23T17:56:04.985724",
+          "fechaActualizacion": "2026-07-23T17:56:04.985724",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/4DbKWOq06ptKaJ3/%5BAnimeOnlineNinja%5D_The_Villager_of_Level_999_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "4a95a39e-68fa-428f-95c8-2c6a897b4ced",
+          "nombre": "Nv. 5: Roles asignados",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-23T17:56:04.985724",
+          "fechaActualizacion": "2026-07-23T17:56:04.985724",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-opupqzcje5hv.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
