@@ -1,0 +1,236 @@
+{
+  "id": "b946a0ae-3c38-4330-9233-a47f55d046c0",
+  "nombre": "Arifureta From Commonplace to Worlds Strongest",
+  "descripcion": "Después de que envían a Hajime Nagumo y sus compañeros de clase a otro mundo, se encuentra bajo el poder y a merced del Laberinto.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/262100ca8b0ad88cda46ab260d978af9.jpg",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "4b14a984-cb6b-450a-bf4e-64c4f2976931",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "080f5191-a7fa-4334-964e-b4696793fe72",
+          "nombre": "El monstruo del abismo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/5dzcjpo3z8xsq3yor9ea0pu1mije57s3"
+            }
+          ]
+        },
+        {
+          "id": "8ab391bf-20fd-4034-a956-d45b1498862e",
+          "nombre": "La princesa dorada vampiro",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/wsf2pugne705c80fbyvee5unkgvdneo7"
+            }
+          ]
+        },
+        {
+          "id": "f11769e7-5ef6-423a-b4f2-c71abee1e1f2",
+          "nombre": "La princesa dorada vampiro",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/5umhz8ipddtxezzt12j6gzx3uxy7an3w"
+            }
+          ]
+        },
+        {
+          "id": "0d03d461-69cb-43d7-b28d-c3af46a07b3b",
+          "nombre": "El guardián de lo profundo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/adahkr3ekvr7c2jp55785i8dg8do2ca3"
+            }
+          ]
+        },
+        {
+          "id": "7db60630-3806-49bd-b754-548bb5b1818e",
+          "nombre": "La guarida del aventurero",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/klrlo5vtp304oa9ibsflf5gbwkvamwxo"
+            }
+          ]
+        },
+        {
+          "id": "6821c1fc-09d2-4075-8d37-b7f559a3c700",
+          "nombre": "Conejo inservible",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/e8dc76et6xqtv3nvoww60w03jvgrrhka"
+            }
+          ]
+        },
+        {
+          "id": "52a8bd2e-ffd7-45d0-8a49-c7d9024eac19",
+          "nombre": "Laberinto Great Reisen",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/m2h438y0evepvezz7bmqymccilsfbvng"
+            }
+          ]
+        },
+        {
+          "id": "7c10bca8-8dd4-43a6-9fb6-3c733d130ed5",
+          "nombre": "Matadragones",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/bl5tn54wpiefro9d52z5ah2kqsyn9aq9"
+            }
+          ]
+        },
+        {
+          "id": "6de80d58-19ea-4f06-a7b4-fee8faf711c8",
+          "nombre": "Reunión con el pasado",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/vmp5ltqb00byswdux7ij19w9spxiyshe"
+            }
+          ]
+        },
+        {
+          "id": "2afcd7f2-7ee6-4f0f-aefc-4be667ed6b43",
+          "nombre": "La espada de la diosa",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/klqyrfatuv3xwt460yk7anxezlwfcxcu"
+            }
+          ]
+        },
+        {
+          "id": "22d4f4ca-cddb-463e-a64f-e7868590b086",
+          "nombre": "El día libre de los monstruos",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/g2i9261u2k6qyb53f5kydczms6qpv16i"
+            }
+          ]
+        },
+        {
+          "id": "9666cb4c-263e-46da-8de4-e1c9ab16897d",
+          "nombre": "La sombra se avecina",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/c7pp30ok9xf12mkzcijb8adcl8spo3h3"
+            }
+          ]
+        },
+        {
+          "id": "bb930984-ea84-4f97-9e92-8ba05cd63844",
+          "nombre": "El mejor siendo el peor",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/pir9qzpey4ce3lfgwu3mwztko8jcbqfu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9393d555-1391-4563-bf01-514c600b764a",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "26e87ae6-a03b-4bb4-8eee-ffb4a21efba1",
+          "nombre": "Irregular",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/6WwMkjmrM9UOPg/%5BAnimeOnlineNinja%5D_Arifureta_S2_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "feea8c4e-34f7-4e7c-8c2d-801b839df4ec",
+          "nombre": "Luz ardiente",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/46WyAv2oalFKYjz/%5BAnimeOnlineNinja%5D_Arifureta_S2_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "5b9abd1f-ba06-4fe6-866f-a4f81569261a",
+          "nombre": "Blanco y negro",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-22T21:15:59.982047",
+          "fechaActualizacion": "2026-07-22T21:15:59.982047",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/ehntq7clwlre0okgoaqibghi9b0z4vza"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
