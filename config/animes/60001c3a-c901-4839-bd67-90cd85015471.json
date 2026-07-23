@@ -1,0 +1,180 @@
+{
+  "id": "60001c3a-c901-4839-bd67-90cd85015471",
+  "nombre": "Wise Man's Grandchild",
+  "descripcion": "Un joven muere en un accidente de coche y renace en un nuevo mundo mágico. Él ha enseñado todo lo que alguna vez necesitaría saber, ¡excepto el sentido común!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/908263a2588b24bd827345eb0e57b7e8.jpg",
+  "anio": 2019,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Romance",
+    "Seinen"
+  ],
+  "temporadas": [
+    {
+      "id": "c19597e5-390c-488b-8ba5-0fbf994f6837",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "8ed3caa9-a967-40f7-91ac-21df2c6b0089",
+          "nombre": "Un bebé en el bosque va a la capital",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/my6lru9jseyluun1lxnojd5ybue1212v"
+            }
+          ]
+        },
+        {
+          "id": "9777e579-cef5-4f83-bc5d-745c57759786",
+          "nombre": "El nuevo estudiante no convencional",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0tgqr2gm1cvh.html"
+            }
+          ]
+        },
+        {
+          "id": "d7e310fa-cd46-418b-9de5-2d8c373f7891",
+          "nombre": "¡Surge una emergencia!",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/gw6p83s9tb04hm0itsgo5n5sxjnc5piz"
+            }
+          ]
+        },
+        {
+          "id": "6db41c1f-b2ce-4604-b89b-65a8912379ba",
+          "nombre": "El nombre del instigador",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/8pb30p51f4h78jh6mpmreg4x6o7rrttp"
+            }
+          ]
+        },
+        {
+          "id": "fbab76f7-ae85-4378-a8c1-3f8e277bc83e",
+          "nombre": "Un nuevo héroe pionero",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/y9myplphtmkndcscqyhvcovien8d7m1p"
+            }
+          ]
+        },
+        {
+          "id": "4545f762-8ffb-4871-a9ba-fe0a97e86be5",
+          "nombre": "Estallido de guerra y ejercicio de entrenamiento conjunto",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/lebd9jzpg211g7l8rx5b01b7gokt3aj8"
+            }
+          ]
+        },
+        {
+          "id": "244df876-59ab-4c5f-a7c4-78cb35f71986",
+          "nombre": "¡Vamos al campamento!",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/oWGAlqM240FJ6VK"
+            }
+          ]
+        },
+        {
+          "id": "ac0a5f78-ad3b-4db6-a6ab-7f078418a2fb",
+          "nombre": "Una promesa iluminada por las estrellas",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/89qvyekofv3wmao9cqovmjb2kyo3kvwg"
+            }
+          ]
+        },
+        {
+          "id": "3a1ba0ed-509e-4713-8e19-6bcd1d00c99e",
+          "nombre": "El nieto, el equipo mágico y la fiesta de compromiso",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/vn0t9s3kngbv9uejikdk6nvtou3n7hsv"
+            }
+          ]
+        },
+        {
+          "id": "a6a83560-0ba4-4dcb-a3a5-f61f0f971b69",
+          "nombre": "La Caída del Imperio",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/p6cgkuhjj3sq5yt6b2iq51v8e09ul56j"
+            }
+          ]
+        },
+        {
+          "id": "25a22bd0-882a-47a5-b78b-7163a9af32a9",
+          "nombre": "El cuerpo de magos más poderoso de todos los tiempos",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/fqz5yztu9dib5reujx9y86i8yln2sjjc"
+            }
+          ]
+        },
+        {
+          "id": "aba2362b-3a86-41d5-80a1-b6b3d6f3be76",
+          "nombre": "Y así, en el mundo ...",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T20:43:49.928095",
+          "fechaActualizacion": "2026-07-22T20:43:49.928095",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/kku4kbunmj0gyaj894tveszxbzh9qizo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
