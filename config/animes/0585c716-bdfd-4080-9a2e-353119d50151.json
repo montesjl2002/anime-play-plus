@@ -1,0 +1,36 @@
+{
+  "id": "0585c716-bdfd-4080-9a2e-353119d50151",
+  "nombre": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+  "descripcion": "Rishe, hija de un duque, ha reencarnado seis veces, siempre comenzando con la ruptura de su compromiso. Tras vivir como mercader, sirvienta y caballera, decide tomarse la vida con calma... hasta que el príncipe que la mató en una vida pasada le propone matrimonio. Para evitar una guerra y prolongar su vida, acepta convertirse en la prometida del heredero de una nación enemiga.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/9217662a508e16c1987377d026272ec3.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance"
+  ],
+  "temporadas": [
+    {
+      "id": "fc2d8c0b-905c-41be-b63c-5e9cfe140d89",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "aa7dec17-d869-4bbd-9d30-7be51b20bbf8",
+          "nombre": "El prometido que me asesinó",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T19:22:34.123713",
+          "fechaActualizacion": "2026-07-22T19:22:34.123713",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/VBJOeJk4GQhzrP/%5BAnimeOnlineNinja%5D_7th_Time_Loop_The_Villainess_Enjoys_a_Carefree_Life_Married_to_Her_Worst_Enemy%21_01.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
