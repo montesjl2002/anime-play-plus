@@ -93,6 +93,20 @@
     ]
   },
   {
+    "id": "b663f68a-fd09-4f15-ba88-0d6ddd776242",
+    "nombre": "Attack on Titan",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/323c82257b2f6567fabbb7bd55bfa753.jpg",
+    "descripcion": "En un mundo devastado por gigantes devoradores de humanos llamados titanes, la humanidad sobrevive confinada tras enormes murallas. Todo cambia cuando un titán colosal rompe las defensas y destruye el hogar de Eren Jaeger, quien, junto a sus amigos Mikasa y Armin, se une a la Legión de Reconocimiento para luchar por la libertad. Sin embargo, descubrirán oscuros secretos que cambiarán todo lo que creían saber sobre los titanes, la guerra y ellos mismos.",
+    "idioma": "LAT",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Drama",
+      "Fantasía",
+      "Thriller"
+    ]
+  },
+  {
     "id": "804db3d1-bca2-4b7d-907a-17d5aa41a2e3",
     "nombre": "Tomodachi Game",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/d2280990a50b7a201392d2a0cd7b2cff.jpe",
