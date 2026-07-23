@@ -1,0 +1,178 @@
+{
+  "id": "fdde88b1-84b6-46ad-94b6-713e6031cdb6",
+  "nombre": "ASSASSINS PRIDE",
+  "descripcion": "Melida es una noble sin rastro de magia… o eso parece. Su nuevo tutor, Kufa, oculta un oscuro secreto: no está allí solo para enseñarla, sino para juzgarla. Si ella no manifiesta mana, su verdadera misión es asesinarla.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1ME8D465LY2McBX0_fS-4VbiDC-_Qox4J",
+  "anio": 2019,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "b8186463-9207-45de-a2e8-97c54e9599b7",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "6ef3f8ba-56f8-4448-86dc-744b059d06dd",
+          "nombre": "La piedad de un asesino",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-6yqb5ofurs9z.html"
+            }
+          ]
+        },
+        {
+          "id": "6eb4ae40-82ad-43f4-af37-614432c8d758",
+          "nombre": "Cuando cambia el mundo de la chica",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ipa0hwwqafr4.html"
+            }
+          ]
+        },
+        {
+          "id": "d142580f-3c2b-4b0f-8c21-59d79f83cf20",
+          "nombre": "Más allá del punto crítico",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-5y2lmyt1vlzp.html"
+            }
+          ]
+        },
+        {
+          "id": "76ef1bfd-19a4-45ac-a401-79bc62ff5487",
+          "nombre": "Dos señoritas se reúnen en el castillo encadenado",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-lljd76f7nd35.html"
+            }
+          ]
+        },
+        {
+          "id": "77fb989a-140e-414e-b786-340393c964f4",
+          "nombre": "La Princesa Dorada y la Princesa Plateada",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.4shared.com/web/embed/file/v1K4IXgsiq"
+            }
+          ]
+        },
+        {
+          "id": "e011f61a-27c2-447f-becb-aa5ae1d4bc54",
+          "nombre": "La Bruja Gris",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-yahobckwpddu.html"
+            }
+          ]
+        },
+        {
+          "id": "5be2d3b6-cf7f-43e2-8e1b-083867c24cf6",
+          "nombre": "Sin rastro arriba o abajo",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.4shared.com/web/embed/file/ecOXlbvmea"
+            }
+          ]
+        },
+        {
+          "id": "fed365da-4f17-482f-9395-f63ad5b7b238",
+          "nombre": "El último testamento de cierto esqueleto",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-fb75ukjifztt.html"
+            }
+          ]
+        },
+        {
+          "id": "68fa5223-a802-4954-ab96-73f440c8dde7",
+          "nombre": "Un pacto eterno",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.4shared.com/web/embed/file/v02rdeD6ea"
+            }
+          ]
+        },
+        {
+          "id": "a8a38931-da9a-421b-a815-d2d5bc8ef141",
+          "nombre": "Biblioteca laberinto",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.4shared.com/web/embed/file/bAciarIjea"
+            }
+          ]
+        },
+        {
+          "id": "86bf0bbb-0f1a-4dd5-b6ff-ed0c4b257584",
+          "nombre": "Mensajeros de la muerte",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-xd4clrkcthjc.html"
+            }
+          ]
+        },
+        {
+          "id": "21790039-d749-48c7-bce4-cd343c874997",
+          "nombre": "El orgullo de un instructor asesino",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T20:25:34.269011",
+          "fechaActualizacion": "2026-07-22T20:25:34.269011",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-otsefoj139h7.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
