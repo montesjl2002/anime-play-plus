@@ -5,7 +5,7 @@
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/9217662a508e16c1987377d026272ec3.jpg",
   "anio": 2024,
   "estado": "Finalizado",
-  "idioma": "",
+  "idioma": "JAP",
   "generos": [
     "Drama",
     "Fantasía",
@@ -16,7 +16,21 @@
       "id": "c48d1d24-7e23-40a8-b1be-74bad5825570",
       "numero": 1,
       "nombre": "Temporada 1",
-      "episodios": []
+      "episodios": [
+        {
+          "id": "825ccf9b-87e9-4e58-a89f-b7277fb2b63a",
+          "nombre": "El prometido que me asesinó",
+          "etiqueta": "S1 | E1",
+          "fechaPublicacion": "2026-07-22T18:06:47.169427",
+          "fechaActualizacion": "2026-07-22T18:06:47.169427",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/VBJOeJk4GQhzrP/%5BAnimeOnlineNinja%5D_7th_Time_Loop_The_Villainess_Enjoys_a_Carefree_Life_Married_to_Her_Worst_Enemy%21_01.mp4"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
