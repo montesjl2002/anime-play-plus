@@ -68,5 +68,18 @@
       "Comedia",
       "Fantasía"
     ]
+  },
+  {
+    "id": "60001c3a-c901-4839-bd67-90cd85015471",
+    "nombre": "Wise Man's Grandchild",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/908263a2588b24bd827345eb0e57b7e8.jpg",
+    "descripcion": "Un joven muere en un accidente de coche y renace en un nuevo mundo mágico. Él ha enseñado todo lo que alguna vez necesitaría saber, ¡excepto el sentido común!",
+    "idioma": "LAT",
+    "generos": [
+      "Aventura",
+      "Fantasía",
+      "Romance",
+      "Seinen"
+    ]
   }
 ]
