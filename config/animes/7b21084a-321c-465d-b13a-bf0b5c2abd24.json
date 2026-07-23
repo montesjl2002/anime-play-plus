@@ -1,0 +1,336 @@
+{
+  "id": "7b21084a-321c-465d-b13a-bf0b5c2abd24",
+  "nombre": "Akame ga Kill!",
+  "descripcion": "En un imperio corrupto, Tatsumi deja su aldea para salvarla de la pobreza. En su viaje conoce a Akame, una asesina de élite del grupo rebelde Night Raid. Juntos lucharán contra la tiranía del imperio desde las sombras.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8aa257503ef86474dffd0a518bb57d7a.jpg",
+  "anio": 2014,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "c5bd1333-4efc-4350-a4c2-09ef45c3c979",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "120700b9-9a5b-4e2d-bd03-9083e68f793c",
+          "nombre": "Mata la oscuridad",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/BAm34a7920iypkr/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Akame_ga_Kill%21_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f35df548-1f2d-4630-b630-baa2cd509679",
+          "nombre": "Mata la autoridad",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/WD0pqVjjrjCbKxr/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Akame_ga_Kill%21_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2974c3a1-1e4c-4059-9153-166f80485a35",
+          "nombre": "Mata las preocupaciones",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Q36rQX16wjH0LzA/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Akame_ga_Kill%21_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "cebe35c9-f541-4ed4-81c7-bef0aa51f684",
+          "nombre": "Mata al portador del arma imperial",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-2l4l4h5k670q.html"
+            }
+          ]
+        },
+        {
+          "id": "7dbf215d-0156-469b-9281-5a460537807f",
+          "nombre": "Mata el sueño",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-x87acn7mkm33.html"
+            }
+          ]
+        },
+        {
+          "id": "b711dbd1-c5e0-49f7-8bb5-eacfdecb6713",
+          "nombre": "Mata la justicia absoluta",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-j9ktysilq1yd.html"
+            }
+          ]
+        },
+        {
+          "id": "a974461e-1fc5-4d6a-8136-cc021483e4ea",
+          "nombre": "Mata a los tres (Parte 1)",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0ri4vz3crq5e.html"
+            }
+          ]
+        },
+        {
+          "id": "ec3affff-37f9-46f2-a020-852bc86caf30",
+          "nombre": "Mata a los tres (Parte 2)",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-99aes62wdws6.html"
+            }
+          ]
+        },
+        {
+          "id": "6350b6df-24cd-4476-aff9-eca4527aaf81",
+          "nombre": "Mata al fanático de la batalla",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-q89fohrbgoxn.html"
+            }
+          ]
+        },
+        {
+          "id": "e972de81-626c-4819-b849-b3cc0063dcc2",
+          "nombre": "Mata la tentación",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-7a624m7gv8ne.html"
+            }
+          ]
+        },
+        {
+          "id": "ba6a0ec1-5972-4293-a99a-ad7e4c64ab52",
+          "nombre": "Mata al Científico Loco",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/O2BRQeR1VXFZrq6/%5BAnimeOnlineNinja%5D_%5BA%26C%5D_Akame_ga_Kill%21_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9918b96c-ff09-4047-a51d-9ac07114e328",
+          "nombre": "Mata a los Recién Llegados",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-x9xe86xuziaz.html"
+            }
+          ]
+        },
+        {
+          "id": "c0ae10da-a421-4ba0-b750-bbbadb2a8884",
+          "nombre": "Mata las Molestias",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ltkev2h5a1q3.html"
+            }
+          ]
+        },
+        {
+          "id": "f3006e8c-82a2-4b78-9b4a-69af6f6db82e",
+          "nombre": "Mata a la Bestia de los peligrosos gigantes",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-nqt2c5cmdkek.html"
+            }
+          ]
+        },
+        {
+          "id": "8291da2e-3adf-4c42-8f73-67543bdb23f3",
+          "nombre": "Mata a la Organización Religiosa",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ulu048lmkfld.html"
+            }
+          ]
+        },
+        {
+          "id": "21f22d20-25a9-44cb-8daf-1383fde2ae54",
+          "nombre": "Mata a los Títeres",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-4ycgcptvw41y.html"
+            }
+          ]
+        },
+        {
+          "id": "62aca3cd-a3fd-495d-963b-3c3e4b039208",
+          "nombre": "Matar a la Maldición",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-58mliddz1vjb.html"
+            }
+          ]
+        },
+        {
+          "id": "ae125975-22e9-4d76-b94c-ab7ed09204f9",
+          "nombre": "Matar al Demonio",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-hr4khsfjxpd1.html"
+            }
+          ]
+        },
+        {
+          "id": "832af92e-323f-440c-be26-2e1973202f0c",
+          "nombre": "Mata al Destino",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-43uhzfsqmgw5.html"
+            }
+          ]
+        },
+        {
+          "id": "35af886d-c535-4c2d-a7fe-daef26e017f6",
+          "nombre": "Matar a la Masacre",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-vq2uoy2w4y93.html"
+            }
+          ]
+        },
+        {
+          "id": "e244f947-60ce-4d5d-b2c5-a9f714060cf4",
+          "nombre": "Matar a la Desesperación",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-kpucstpge41j.html"
+            }
+          ]
+        },
+        {
+          "id": "79de4eae-a8ff-46e9-80d0-95ba139b1425",
+          "nombre": "Mata a la Pequeña Hermana",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-pdidx122tk5y.html"
+            }
+          ]
+        },
+        {
+          "id": "12843148-3e67-49b4-8ee3-f838afa31bbf",
+          "nombre": "Mata al Emperador",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-aj0ima8h3s15.html"
+            }
+          ]
+        },
+        {
+          "id": "cdc593bd-f106-42c8-bc46-ccdd23384d7c",
+          "nombre": "Akame ga Kill!",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-07-22T20:19:19.903545",
+          "fechaActualizacion": "2026-07-22T20:19:19.903545",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.io/embed-0wkotz8fx4gh.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
