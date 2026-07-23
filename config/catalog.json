@@ -80,6 +80,19 @@
     ]
   },
   {
+    "id": "652de4ae-8926-4c9e-8b82-bf672cbe1f0c",
+    "nombre": "Assassination Classroom",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b98bcac9724e403d78a0e5bb2a4ded7c.jpg",
+    "descripcion": "En la Clase 3E, la misión no es aprobar exámenes, sino asesinar a su maestro antes de fin de año. Después de destruir el 70% de la Luna, esta criatura con tentáculos y velocidad supersónica se convierte en su profesor. Mientras enseña lo básico, también instruye a sus alumnos en el arte del asesinato. ¿La recompensa? Salvar al mundo y llevarse una gran suma.",
+    "idioma": "LAT",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Drama",
+      "Ciencia Ficción"
+    ]
+  },
+  {
     "id": "804db3d1-bca2-4b7d-907a-17d5aa41a2e3",
     "nombre": "Tomodachi Game",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/d2280990a50b7a201392d2a0cd7b2cff.jpe",
