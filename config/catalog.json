@@ -70,6 +70,18 @@
     ]
   },
   {
+    "id": "a1c11293-e6d4-4178-9e87-d3d953b69396",
+    "nombre": "Violet Evergarden",
+    "imagen": "https://drive.google.com/uc?export=view&id=1LMyzwonTT0EkiKFd1BU-dHxjfIKQ31TM",
+    "descripcion": "Una exsoldado llamada Violet comienza a trabajar como escritora de cartas para entender las emociones y descubrir el significado de las palabras “te amo”.",
+    "idioma": "LAT",
+    "generos": [
+      "Drama",
+      "Fantasía",
+      "Recuentos de la vida"
+    ]
+  },
+  {
     "id": "60001c3a-c901-4839-bd67-90cd85015471",
     "nombre": "Wise Man's Grandchild",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/908263a2588b24bd827345eb0e57b7e8.jpg",
