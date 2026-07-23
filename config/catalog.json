@@ -107,6 +107,16 @@
     ]
   },
   {
+    "id": "1fdf6373-a229-4627-aae8-4b6fbf3e84e6",
+    "nombre": "BEASTARS",
+    "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
+    "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
+    "idioma": "LAT",
+    "generos": [
+      "Drama"
+    ]
+  },
+  {
     "id": "804db3d1-bca2-4b7d-907a-17d5aa41a2e3",
     "nombre": "Tomodachi Game",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/d2280990a50b7a201392d2a0cd7b2cff.jpe",
