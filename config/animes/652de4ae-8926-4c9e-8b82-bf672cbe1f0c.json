@@ -1,0 +1,89 @@
+{
+  "id": "652de4ae-8926-4c9e-8b82-bf672cbe1f0c",
+  "nombre": "Assassination Classroom",
+  "descripcion": "En la Clase 3E, la misión no es aprobar exámenes, sino asesinar a su maestro antes de fin de año. Después de destruir el 70% de la Luna, esta criatura con tentáculos y velocidad supersónica se convierte en su profesor. Mientras enseña lo básico, también instruye a sus alumnos en el arte del asesinato. ¿La recompensa? Salvar al mundo y llevarse una gran suma.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b98bcac9724e403d78a0e5bb2a4ded7c.jpg",
+  "anio": 2016,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Drama",
+    "Ciencia Ficción"
+  ],
+  "temporadas": [
+    {
+      "id": "8ae4dbb6-304b-4745-8b33-80b32fbcac90",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "170840f5-d1b3-4325-9361-4b0104c0eef6",
+          "nombre": "Hora de asesinar",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T21:48:45.978816",
+          "fechaActualizacion": "2026-07-22T21:48:45.978816",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.to/e/urj8rvdyplwp97qpekaunpf4jnhqtuoy"
+            }
+          ]
+        },
+        {
+          "id": "0460b51c-dd89-43d2-9fa0-aec21c0a3b63",
+          "nombre": "Hora de béisbol",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T21:48:45.978816",
+          "fechaActualizacion": "2026-07-22T21:48:45.978816",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/j4rL6BLq4Yuzw0O"
+            }
+          ]
+        },
+        {
+          "id": "fd77a981-c96d-4394-8d2a-bf2f1fab80d9",
+          "nombre": "Hora de Karma",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T21:48:45.978816",
+          "fechaActualizacion": "2026-07-22T21:48:45.978816",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/WpZbBea3bLIbDQM"
+            }
+          ]
+        },
+        {
+          "id": "78e3100b-a7f3-4729-9a92-7f42642ea373",
+          "nombre": "Hora de adultos",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T21:48:45.978816",
+          "fechaActualizacion": "2026-07-22T21:48:45.978816",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://mixdrop.sn/e/6q7k6xvouowmj9"
+            }
+          ]
+        },
+        {
+          "id": "a07acffc-19f4-4fef-b511-bb3f31917005",
+          "nombre": "Hora de la asamblea",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T21:48:45.978816",
+          "fechaActualizacion": "2026-07-22T21:48:45.978816",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://d-s.io/e/c89b9at4fqnl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
