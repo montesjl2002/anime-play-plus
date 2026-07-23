@@ -10,5 +10,17 @@
       "Fantasía",
       "Romance"
     ]
+  },
+  {
+    "id": "d05181c8-2443-4858-ac83-853abb131026",
+    "nombre": "86 EIGHTY-SIX",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/cc8654d9219c3cfe5429a84c81c45796.jpg",
+    "descripcion": "Los “Juggernaut” son drones de combate supuestamente no tripulados creados por la República de San Magnolia para enfrentar a la “Legión”, las máquinas de guerra del Imperio de Giad. Pero la verdad es otra: los pilota el escuadrón 86, personas marginadas y tratadas como desechables. Entre ellos está Shin, un capitán decidido a luchar hasta el final, aunque solo le espere la muerte en el campo de batalla.",
+    "idioma": "LAT",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Ciencia Ficción"
+    ]
   }
 ]
