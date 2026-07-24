@@ -1,0 +1,733 @@
+{
+  "id": "d1c2ee16-b1f2-4a01-9160-d6d7aa3174d5",
+  "nombre": "Classroom of the Elite",
+  "descripcion": "Los estudiantes más inteligentes de Japón son reunidos en una prestigiosa preparatoria diseñada para formar a la próxima generación de líderes. Sin embargo, detrás de sus impecables instalaciones se esconde una competencia despiadada, donde solo quienes logren superar a todos los demás podrán alcanzar el éxito. Aquí, la inteligencia es el arma más poderosa.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/3cfe30b74b8f536931370bcd441c1276.png",
+  "anio": 2017,
+  "estado": "En emisión",
+  "idioma": "LAT",
+  "generos": [
+    "Drama",
+    "Seinen",
+    "Thriller"
+  ],
+  "temporadas": [
+    {
+      "id": "ba03fe6a-caf8-46bc-b2ef-55bd8970752e",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "fa1372c6-36e2-43a1-b822-6004c44b6065",
+          "nombre": "¿Qué es malo? Todo lo que proviene de la debilidad.",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/2k80Lb4oqZSZ7GB/%5BAnimeOnlineNinja%5D_Youzitsu_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "adc0c0f2-78d1-4751-8f1c-ad5dcd401662",
+          "nombre": "Es una gran inteligencia saber ocultar su inteligencia.",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/p4Q4p9k21xSrpOb/%5BAnimeOnlineNinja%5D_Youzitsu_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6f20d611-e0f9-4f1d-8c64-9859eff5b9be",
+          "nombre": "El hombre es un animal que negocia, ningún otro hace esto, ningún perro intercambia huesos con otro",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/42o0efe3pfghkiuhxqueuvka1nmpfbd0"
+            }
+          ]
+        },
+        {
+          "id": "e1dc77eb-e88e-475d-a36d-0dff4c544764",
+          "nombre": "No hay que darse por ofendido porque los demás nos oculten la verdad, ya que nos la ocultamos tan a menudo a nosotros mismos.",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/bw2t2jh5o3s4nknw4xg2t578ahz7mxue"
+            }
+          ]
+        },
+        {
+          "id": "4b688709-eb77-4e0e-a452-17dff7b21ff9",
+          "nombre": "El infierno son los otros",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/sr8ildb4voazpmejz9glvipf6z5oia7l"
+            }
+          ]
+        },
+        {
+          "id": "52833a28-0862-430f-b12d-34c521e8c136",
+          "nombre": "Existen dos clases de mentiras: la de hecho, que se refiere a una acción pasada, y la de derecho, que es la que tiene relación con lo futuro",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/y5p5c9id72sl8qhf6r5cjqqg8poz361a"
+            }
+          ]
+        },
+        {
+          "id": "7a1e27d2-6e81-49d5-98c1-4d251657742e",
+          "nombre": "Nada hay más peligroso que un amigo ignorante; es mejor un enemigo razonable.",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/04tal6g8njsx5a9ukkppb1p487lb36lw"
+            }
+          ]
+        },
+        {
+          "id": "56dff771-d795-428d-8756-a79f07d99e53",
+          "nombre": "Abandonen toda esperanza aquellos que entren aquí",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/6u0jb57wyb3v6eyqfwxkyuhvgpe78wxv"
+            }
+          ]
+        },
+        {
+          "id": "95e86d05-d8ed-464f-a26c-d653416ff405",
+          "nombre": "El hombre está condenado a ser libre",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/1ebflj0ze4zg6xrjfo7td7fpnnanys8o"
+            }
+          ]
+        },
+        {
+          "id": "05d2d98f-0947-4029-9702-c824249331b4",
+          "nombre": "El traidor mas peligroso de todos es aquel que cada ser humano tiene en sí mismo",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/wzfk6tfl2nuh59dtarfcwgs3vqzs1lah"
+            }
+          ]
+        },
+        {
+          "id": "0f45088f-ef03-49eb-9c6f-b73d9c4ae05c",
+          "nombre": "Lo que la gente comúnmente llama destino es, por regla general, nada más que su propia conducta estúpida y tonta",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/g9bxtbgzpcbzilqz14hqagsg1bn8lyc6"
+            }
+          ]
+        },
+        {
+          "id": "e02c32eb-19a3-4502-925e-230ea132c448",
+          "nombre": "El genio vive solamente un piso por encima de la locura",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/c4xywco8yz8cx4hinoxyrwy4bnfsrsqn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4316df69-17a8-4887-9fe9-6dcfd28b812c",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "47d60da5-0b4c-40e2-b63d-e9fc8f72a5a9",
+          "nombre": "Recuerda mantener el ánimo sereno en los momentos difíciles.",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/lkVdaOG13ys7qBW/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0d7fb407-c152-46d1-9070-a09167b937ce",
+          "nombre": "ay dos grandes pecados humanos de los que derivan todos los demás: la impaciencia y la pereza.",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/3G0JJGYR3Rfdymv/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "fe11bc8b-f028-418f-be70-986f0be18251",
+          "nombre": "Las almas más grandes son capaces de los mayores vicios, así como de las mayores virtudes.",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/a4PgL9eGjPTxwGD/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f9bc4f73-8870-419d-9891-ccb84f7d6ca6",
+          "nombre": "El personal debe ser formado.",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/xlkGzmY4r3FkOOo/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b4da0716-e824-47f6-9402-5f8269418a88",
+          "nombre": "Cada fracaso es un paso hacia el éxito.",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://minochinos.com/embed/hghbgvng546c"
+            }
+          ]
+        },
+        {
+          "id": "4ccd4780-c65b-4438-a3a5-df5d2356d600",
+          "nombre": "La adversidad es el sendero más seguro de la verdad.",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/K9yaeMzagBC0Ro7/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2c8e6880-18cf-4fc1-afcd-ba183c5e32b5",
+          "nombre": "Dudar de todo o creerlo todo son dos soluciones igualmente convenientes, las cuales nos eximen de pensar.",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/kwyXAgwdyqc8KB/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b0f260b1-6ffe-4997-baf8-96b67b63e470",
+          "nombre": "La herida vive silenciosa en el fondo del pecho.",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/7zLQm6MeZziA0Mg/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ef5cf7bc-79ba-41a4-8437-fc4f36c2b978",
+          "nombre": "El verdadero error es cometer un error y no corregirlo.",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/vYVQBrRZ2pt4zdw/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "e98bce9a-7aec-4374-805c-772637c642e9",
+          "nombre": "El pueblo muchas veces anhela su ruina, engañado por un falso bien.",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Xqr1qellkeIDkLJ/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "87796aa1-7be4-4acf-bc1e-be2da158475d",
+          "nombre": "El que no se controla a sí mismo permanece esclavo para siempre.",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://uqload.is/embed-fwyo4anjpd5k.html"
+            }
+          ]
+        },
+        {
+          "id": "155eadc8-d3ad-42d0-8531-0b1d35a34ccf",
+          "nombre": "La fuerza, sin sabiduría, se derrumba por su propio peso.",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/K9ZmRJqBXOH0e1L/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "afaa0f15-dc2a-4640-bd2a-795c9ca65dc3",
+          "nombre": "El peor enemigo al que te puedas enfrentar siempre serás tú mismo.",
+          "etiqueta": "T2 | E13",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/LM3kWYQkwJfRKLV/%5BAnimeOnlineNinja%5D_Youzitsu_S2_BD_Latino_13.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84818c3e-5726-4882-93a1-e76dac8848d2",
+      "numero": 3,
+      "nombre": "3ra Temporada",
+      "episodios": [
+        {
+          "id": "24323a8b-0637-445c-a576-77b3a7c52b30",
+          "nombre": "El principio más fuerte del crecimiento está en la elección humana",
+          "etiqueta": "T3 | E1",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-3ph3w89w36oa.html"
+            }
+          ]
+        },
+        {
+          "id": "60617ca9-aecc-4205-be22-b319967466b0",
+          "nombre": "El hombre es un lobo para el hombre",
+          "etiqueta": "T3 | E2",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ap6rgmlax3kj.html"
+            }
+          ]
+        },
+        {
+          "id": "be14a7f7-6f9a-44ce-9b7e-8a4a65df1eab",
+          "nombre": "Es imposible olvidar lo que deseas olvidar",
+          "etiqueta": "T3 | E3",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Yex4XG618muv770/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "edc813d6-d7c0-4dff-98ab-98953d47ea43",
+          "nombre": "Lo único que puedes hacer es actuar para alcanzar tu objetivo. No puedes limitarte a desear un resultado.",
+          "etiqueta": "T3 | E4",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/YgPXLrqVmwiv0Px/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c6052d14-df2c-4bf8-8181-2e1f412535e6",
+          "nombre": "La fortuna favorece a los audaces",
+          "etiqueta": "T3 | E5",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-qnt847hgspqj.html"
+            }
+          ]
+        },
+        {
+          "id": "105f9bb7-1790-4b2b-8200-dffa0853e007",
+          "nombre": "Es mejor sufrir una injusticia que cometerla",
+          "etiqueta": "T3 | E6",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ak8Mb89r40fxK7q/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8c69cd50-f000-4e2e-9403-88e448ce0492",
+          "nombre": "La gente hará lo que sea, por muy absurdo que parezca, para evitar afrontar su propia alma.",
+          "etiqueta": "T3 | E7",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/YWwkMA8aZrhv78q/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7dec780f-abca-482d-8f8c-54dcd099e6e0",
+          "nombre": "Aquellos que no pueden recordar el pasado están condenados a repetirlo.",
+          "etiqueta": "T3 | E8",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iuh20a7mmirj.html"
+            }
+          ]
+        },
+        {
+          "id": "b3aefc16-ec57-44a3-a020-9e73de7d170c",
+          "nombre": "Suma justicia, suma injusticia",
+          "etiqueta": "T3 | E9",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ygZOb0LlWau14ky/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8535a472-d6a4-4328-b32d-c33291f2b253",
+          "nombre": "La primera causa de las conclusiones absurdas la adscribo a la falta de método.",
+          "etiqueta": "T3 | E10",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/6xYW4v9zPmH9MKY/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "5af80eb1-173d-4460-b2d8-e2ed299ae037",
+          "nombre": "Solo hay una ley en los sentimientos. Brindar felicidad a aquellos que amas.",
+          "etiqueta": "T3 | E11",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/1A6Z6YWY4GCe3yd/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "18f2c5d6-ebbb-4147-b30b-9c98b32d96a0",
+          "nombre": "Cambia tus deseos en lugar del orden del mundo",
+          "etiqueta": "T3 | E12",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/vzMWkXzyq3S4gZY/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9c4258e3-a369-4cae-9061-8612f2af2e6e",
+          "nombre": "El amor es el mejor maestro",
+          "etiqueta": "T3 | E13",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ldMrD4wk8Gh73Mk/%5BAnimeOnlineNinja%5D_Classroom_of_Elite_S3_BD_Latino_13.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27019406-ad21-44a1-8f5c-460951e57b3d",
+      "numero": 4,
+      "nombre": "4ta Temporada",
+      "episodios": [
+        {
+          "id": "67d579a0-685b-4bda-9740-532c73c20fe5",
+          "nombre": "El sicario de la White Room",
+          "etiqueta": "T4 | E1",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/6tge1pehvk35"
+            }
+          ]
+        },
+        {
+          "id": "408c42a1-943d-439e-9872-98beee5cc383",
+          "nombre": "Contrato y premio",
+          "etiqueta": "T4 | E2",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/4zDOJeWO7XFKoKJ/%5BAnimeOnlineNinja%5D_Classroom_of_the_Elite_4_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "444d12b4-d68e-4b58-95b7-d7d19533a928",
+          "nombre": "La determinación de un líder",
+          "etiqueta": "T4 | E3",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/r8ZwgLeg4kubVzQ/%5BAnimeOnlineNinja%5D_Classroom_of_the_Elite_4_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "d86fe73d-05fb-4dab-a791-ab561464413b",
+          "nombre": "A quién apunta la espada",
+          "etiqueta": "T4 | E4",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/2rQyXpjalluz6q/%5BAnimeOnlineNinja%5D_Classroom_of_the_Elite_4_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b54595ad-1b47-41b8-a5ff-793f56236ae3",
+          "nombre": "El hombre de 20 millones",
+          "etiqueta": "T4 | E5",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-bzas4xyxiyi8.html"
+            }
+          ]
+        },
+        {
+          "id": "ce2d43a6-85b0-496e-b258-2d73780a8239",
+          "nombre": "Una caótica contienda de persuasión",
+          "etiqueta": "T4 | E6",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-4km2jg339a7n.html"
+            }
+          ]
+        },
+        {
+          "id": "12f12a20-408f-4a9f-bc12-de656726ed44",
+          "nombre": "Maniobras encubiertas",
+          "etiqueta": "T4 | E7",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-40usuwu0kvuj.html"
+            }
+          ]
+        },
+        {
+          "id": "1423e040-403b-4634-9a5f-972674bb4b79",
+          "nombre": "La ambición de los dragones",
+          "etiqueta": "T4 | E8",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-s16lu8a8gq68.html"
+            }
+          ]
+        },
+        {
+          "id": "b0dea9e3-b472-4ecf-971e-ea6628183712",
+          "nombre": "Un inicio ominoso",
+          "etiqueta": "T4 | E9",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/g2730abtk98k"
+            }
+          ]
+        },
+        {
+          "id": "65718b77-655b-4152-a5f6-6640287e409c",
+          "nombre": "Amor inefable",
+          "etiqueta": "T4 | E10",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/tq26z8k3s8dl"
+            }
+          ]
+        },
+        {
+          "id": "b1a53856-dd3b-4803-beca-b619f2c455c0",
+          "nombre": "Nexo",
+          "etiqueta": "T4 | E11",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/zk2XY7WjWzuYmxO/%5BAnimeOnlineNinja%5D_Classroom_of_the_Elite_4_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7b4b1de1-0f27-47e2-a56c-e930f52856fe",
+          "nombre": "En el confín de la venganza",
+          "etiqueta": "T4 | E12",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ugzxyqeonv2v.html"
+            }
+          ]
+        },
+        {
+          "id": "25de55f2-a4ba-4e70-91e7-4b1e2391e579",
+          "nombre": "Oculto entre la lluvia",
+          "etiqueta": "T4 | E13",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/lyay6wfoxfo3"
+            }
+          ]
+        },
+        {
+          "id": "77e51902-8275-4e99-a01d-47144eecb0cc",
+          "nombre": "Prodigio independiente",
+          "etiqueta": "T4 | E14",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/kyeue18s23ie"
+            }
+          ]
+        },
+        {
+          "id": "bd845967-1acc-4704-a5fd-1f6acf2abed8",
+          "nombre": "Fuerza y voluntad",
+          "etiqueta": "T4 | E15",
+          "fechaPublicacion": "2026-07-23T19:14:27.511319",
+          "fechaActualizacion": "2026-07-23T19:14:27.511319",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/0p9f4ehu6ive"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
