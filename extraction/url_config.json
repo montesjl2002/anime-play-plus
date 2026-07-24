@@ -1,6 +1,6 @@
 {
-  "_version": "1.0.0",
-  "_comment": "Archivo de configuración del sistema de extracción. Actualiza esto en GitHub para cambiar dominios, timeouts y reglas sin publicar APK.",
+  "_version": "1.1.0",
+  "_comment": "Archivo de configuración del sistema de extracción. Actualiza esto en GitHub para cambiar dominios, timeouts, reglas y estrategias sin publicar APK.",
 
   "validation": {
     "min_url_length": 20,
@@ -13,34 +13,19 @@
 
   "cdn_domains": {
     "dood": [
-      "cloudatacdn.com",
-      "ds2play.com",
-      "ds2video.com",
-      "doodcdn.com",
-      "doodapi.com",
-      "doodstream.com",
-      "playmogo.com"
+      "cloudatacdn.com", "ds2play.com", "ds2video.com",
+      "doodcdn.com", "doodapi.com", "doodstream.com", "playmogo.com"
     ],
     "other": [
-      "streamtape.com",
-      "googlevideo.com",
-      "youtube.com",
-      "amazonaws.com",
-      "cloudfront.net",
-      "akamaihd.net",
-      "tapecontent.net",
-      "mp4upload.com",
-      "mixdrop"
+      "streamtape.com", "googlevideo.com", "youtube.com",
+      "amazonaws.com", "cloudfront.net", "akamaihd.net",
+      "tapecontent.net", "mp4upload.com", "mixdrop"
     ],
-    "direct_match": [
-      "tapepops.",
-      "streamtape.",
-      "get_video"
-    ]
+    "direct_match": ["tapepops.", "streamtape.", "get_video"]
   },
 
   "service_detection": {
-    "doodstream":  ["doodstream", "dood"],
+    "doodstream": ["doodstream", "dood"],
     "streamtape":  ["streamtape"],
     "mp4upload":   ["mp4upload"],
     "mixdrop":     ["mixdrop"],
@@ -73,5 +58,49 @@
     "default": "Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
   },
 
-  "hls_master_pattern": "^(https?://.+/stream/[^/]+/[^/]+/\\d+/[^/]+/)([^/]+\\.m3u8)$"
+  "hls_master_pattern": "^(https?://.+/stream/[^/]+/[^/]+/\\d+/[^/]+/)([^/]+\\.m3u8)$",
+
+  "_comment_strategies": "Define exactamente qué métodos ejecutar para cada servicio y en qué orden. El sistema los corre en secuencia: en cuanto uno retorna una URL válida, se detiene. 'native_tap' es el interceptor de red nativo (no-JS). 'hls_poll' es el sondeo periódico del interceptor XHR/fetch.",
+  "extraction_strategies": {
+    "doodstream": {
+      "methods": ["quick_extract", "from_common_patterns", "from_scripts"],
+      "parallel": false,
+      "use_native_tap": false
+    },
+    "streamtape": {
+      "methods": ["quick_extract", "from_common_patterns", "from_video_elements"],
+      "parallel": false,
+      "use_native_tap": false
+    },
+    "mp4upload": {
+      "methods": ["from_video_elements", "from_window_vars", "from_common_patterns"],
+      "parallel": false,
+      "use_native_tap": false
+    },
+    "mixdrop": {
+      "methods": ["from_window_vars", "from_common_patterns", "from_scripts"],
+      "parallel": false,
+      "use_native_tap": false
+    },
+    "streamwish": {
+      "methods": ["hls_poll", "from_window_vars", "from_video_elements"],
+      "parallel": false,
+      "use_native_tap": true
+    },
+    "filemoon": {
+      "methods": ["hls_poll", "from_window_vars", "from_scripts"],
+      "parallel": false,
+      "use_native_tap": true
+    },
+    "hls": {
+      "methods": ["hls_poll", "from_video_elements", "from_window_vars", "from_common_patterns"],
+      "parallel": false,
+      "use_native_tap": true
+    },
+    "generic": {
+      "methods": ["quick_extract", "from_video_elements", "from_window_vars", "from_common_patterns", "from_scripts", "hls_poll"],
+      "parallel": true,
+      "use_native_tap": true
+    }
+  }
 }
