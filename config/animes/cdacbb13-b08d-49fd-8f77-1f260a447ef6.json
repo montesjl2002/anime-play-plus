@@ -1,0 +1,355 @@
+{
+  "id": "cdacbb13-b08d-49fd-8f77-1f260a447ef6",
+  "nombre": "Solo Leveling",
+  "descripcion": "Conocido como el cazador más débil de la humanidad, Sung Jinwoo sobrevive por poco a una misión que termina en una masacre dentro de una mazmorra de alto rango. Al borde de la muerte, despierta un misterioso poder conocido como el Sistema, una interfaz que solo él puede ver y que le permite volverse más fuerte con cada batalla, rompiendo todas las reglas del mundo. Mientras su poder crece sin límites, Jinwoo emprende un peligroso camino para descubrir el origen de sus nuevas habilidades y los oscuros secretos que se esconden detrás de las mazmorras.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/13ae20d389c66a1f0c8bf190a66ac9ad.png",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "6badc9dc-95d5-4ecc-9e44-5f10629c2b43",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "6b5064aa-958c-4c0f-bb1d-8bc91e9aa946",
+          "nombre": "Ya estoy acostumbrado",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2q85qqdwhksl.html"
+            }
+          ]
+        },
+        {
+          "id": "214c32aa-b344-4373-80d0-a907c97390dc",
+          "nombre": "Si tuviera otra oportunidad",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-r8ro1ou04288.html"
+            }
+          ]
+        },
+        {
+          "id": "1e5c0019-acc5-43b4-ba53-7d7a1ed8d916",
+          "nombre": "Es como un videojuego",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hy1tslih0rk4.html"
+            }
+          ]
+        },
+        {
+          "id": "90346420-dab8-4a62-839c-0e2c0ca1d2e0",
+          "nombre": "Tengo que hacerme más fuerte",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ylth8j39jjpg"
+            }
+          ]
+        },
+        {
+          "id": "404e4ed8-345b-4d62-83ab-48188f39d6f4",
+          "nombre": "Un muy buen trato",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/gvjwfz85w2bz"
+            }
+          ]
+        },
+        {
+          "id": "9858f9aa-4e72-464a-b36c-643f016836d2",
+          "nombre": "Comienza la verdadera caza",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5efguc6nwv65.html"
+            }
+          ]
+        },
+        {
+          "id": "548b6e53-56d3-4777-bd10-862e4c31181f",
+          "nombre": "Veamos hasta dónde puedo llegar",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/zikt0eown9id"
+            }
+          ]
+        },
+        {
+          "id": "777ab415-7870-42fc-a82f-1a34d142d126",
+          "nombre": "Esto es frustrante",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-or5hyxuk47yx.html"
+            }
+          ]
+        },
+        {
+          "id": "94272d56-47fe-45f6-aa66-3abe46791268",
+          "nombre": "Has estado ocultando tus habilidades",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/l92zsjbh9o79"
+            }
+          ]
+        },
+        {
+          "id": "7bc2820a-9390-44b9-99ca-e8191a7f532b",
+          "nombre": "¿Qué es esto, un pícnic?",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jmmjtksk74wk.html"
+            }
+          ]
+        },
+        {
+          "id": "43b83712-c661-42a0-8496-8e76700b1706",
+          "nombre": "Un caballero defendiendo un trono vacío",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/axt4gdevw7f9"
+            }
+          ]
+        },
+        {
+          "id": "33ed70b5-c19d-42f7-9e20-f0494c033567",
+          "nombre": "Surjan",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "ttps://filelions.top/embed/aze7qxez8oe4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3b7aae74-e6a2-4e5b-b914-52e87914625f",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "a7e0f9db-52df-4e54-9ddb-0f9d408cce00",
+          "nombre": "Tú no eres nivel E, ¿verdad?",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/gph1eli0o2p6"
+            }
+          ]
+        },
+        {
+          "id": "e46816d4-0ba3-4752-b01e-e32d0ea64f7a",
+          "nombre": "Parece que tú mismo no lo sabes",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/a4d2qLv74pTxkvd/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_14.mp4"
+            }
+          ]
+        },
+        {
+          "id": "3519d450-f243-4ca9-9f74-2c0fb2c0ab39",
+          "nombre": "Aún queda mucho camino",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/lqQq0p2aapf73v9/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_15.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b970359c-43b2-46de-8914-c2ddc7a0b13b",
+          "nombre": "Tengo que dejar de fingir",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/5i6brsazj3cl"
+            }
+          ]
+        },
+        {
+          "id": "822d982b-38cd-4071-b471-c4843c2cb4b7",
+          "nombre": "Estamos entrenados para esto",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XxR4gdZWXziDV9J/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_17.mp4"
+            }
+          ]
+        },
+        {
+          "id": "12c6979b-7c7f-4aa2-92e1-153b996193ff",
+          "nombre": "No menosprecies a los míos",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/vgnysmgydrni"
+            }
+          ]
+        },
+        {
+          "id": "b1f97047-f831-4859-9606-f5bca87251f2",
+          "nombre": "El décimo Cazador de rango S",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/WZZmVXP7JOcbleP/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_19.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b07b2c0b-275e-4a6a-807f-58f74cf0ee35",
+          "nombre": "Mirar hacia arriba me estaba cansando",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Kzxr3bBg6RS4AP/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_20.mp4"
+            }
+          ]
+        },
+        {
+          "id": "30523976-37cf-494a-9d22-c93a70467442",
+          "nombre": "Valió la pena",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/yGg7zYVkzWu16Xb/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_21.mp4"
+            }
+          ]
+        },
+        {
+          "id": "31fd7e20-3be0-4a3a-8fc6-34d65ed9bc82",
+          "nombre": "Necesitamos un héroe",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/q7b6xOYwzzuzJyO/%5BAnimeOnlineNinja%5D_Solo_Leveling_BD_Latino_22.mp4"
+            }
+          ]
+        },
+        {
+          "id": "37db365b-55b8-4011-bd59-5140b6172efd",
+          "nombre": "Se va a poner aún más intenso",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ws2jpaj3vys5"
+            }
+          ]
+        },
+        {
+          "id": "73645933-9c4a-42be-89bd-32ceb2b3469a",
+          "nombre": "¿Eres el rey de los humanos?",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/fqoxgpef4yen"
+            }
+          ]
+        },
+        {
+          "id": "4dbb44ab-b0f7-477e-9db9-5ccc16a02e09",
+          "nombre": "Al siguiente objetivo",
+          "etiqueta": "T2 | E13",
+          "fechaPublicacion": "2026-07-23T20:12:17.852866",
+          "fechaActualizacion": "2026-07-23T20:12:17.852866",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/pdx2ripa9zyv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
