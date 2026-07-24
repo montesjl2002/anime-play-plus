@@ -5,7 +5,7 @@
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/0960a2651591817d8c9a8e24298a6b31.png",
   "anio": 2026,
   "estado": "En emisión",
-  "idioma": "JAP",
+  "idioma": "",
   "generos": [
     "Acción",
     "Aventura",
@@ -22,7 +22,7 @@
           "nombre": "El príncipe insípido",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:29:46.066104",
-          "fechaActualizacion": "2026-07-23T17:29:46.066104",
+          "fechaActualizacion": "2026-07-24T10:55:18.953421",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -35,11 +35,24 @@
           "nombre": "¿Una cita en la capital imperial?",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:29:46.066104",
-          "fechaActualizacion": "2026-07-23T17:29:46.066104",
+          "fechaActualizacion": "2026-07-24T10:55:18.953421",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://www.mp4upload.com/embed-esne1lap70rp.html"
+              "videoUrl": "https://filelions.top/embed/9ku7c0zk230l"
+            }
+          ]
+        },
+        {
+          "id": "b0d0baa9-2236-4e0a-8153-d6078eed159c",
+          "nombre": "El ataque de Elna",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-24T10:55:18.953421",
+          "fechaActualizacion": "2026-07-24T10:55:18.953421",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/PrxAy98kZYU0qLA/%5BAnimeOnlineNinja%5D_The_Insipid_Prince%27s_Furtive_Grab_for_the_Throne_03.mp4"
             }
           ]
         }
