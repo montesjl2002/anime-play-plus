@@ -1,0 +1,87 @@
+{
+  "id": "6ec68741-dc83-4757-afd8-42400fb6c72a",
+  "nombre": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+  "descripcion": "ras morir antes de alcanzar la cúspide de la hechicería, el gran sabio Ephtal renace cuatrocientos años después conservando intactos sus recuerdos, conocimientos y poder. Sin embargo, descubre un mundo donde la magia se ha degradado hasta el punto de que los antiguos hechizos son considerados simples leyendas o milagros. Decidido a restaurar el verdadero legado de los magos, se infiltra en la academia más prestigiosa del continente, donde su sola existencia comenzará a reescribir la historia.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f3a538e7f95436d28e5775c058d56ac8.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "a6c0db56-3a22-47ca-9b26-667d288d5d30",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "7d1c7ad7-c45f-4da5-84e3-34ac8dbc7df6",
+          "nombre": "Prólogo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/dru3ynin9u94"
+            }
+          ]
+        },
+        {
+          "id": "278a9b8e-0e74-44ee-b664-7342d08c8723",
+          "nombre": "Tecnología perdida",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-jyrwtvuuek37.html"
+            }
+          ]
+        },
+        {
+          "id": "1813ec64-ef43-471b-850f-71d3e41bb450",
+          "nombre": "Overkill",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/0o5spe9u073i"
+            }
+          ]
+        },
+        {
+          "id": "b92286f3-acf2-4d5e-873d-dda9e75936ad",
+          "nombre": "Busca la libertad",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/6k2yme55rgij"
+            }
+          ]
+        },
+        {
+          "id": "96923c67-67a3-413a-a264-f7f950c5dfaa",
+          "nombre": "Por sus ojos",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-3icsfjl8di2q.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

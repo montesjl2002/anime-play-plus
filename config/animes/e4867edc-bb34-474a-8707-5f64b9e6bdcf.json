@@ -1,0 +1,256 @@
+{
+  "id": "e4867edc-bb34-474a-8707-5f64b9e6bdcf",
+  "nombre": "A Couple of Cuckoos",
+  "descripcion": "Nagi Umino, estudiante de preparatoria, descubre que fue intercambiado al nacer y está a punto de conocer a sus padres biológicos. El mismo día conoce a Erika Amano, una chica de familia acomodada que le pide fingir ser su novio para evitar un matrimonio arreglado. Lo que ninguno imagina es que, además de ser prometidos por error… ¡son los bebés que fueron intercambiados al nacer!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/7f6315794cec689a8ec5ff695788ea99.jpg",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "temporadas": [
+    {
+      "id": "b2f16fef-baa7-4adc-8213-0485880407aa",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "b04ecd8a-70d8-41be-b3f5-d1b66a2b0e34",
+          "nombre": "Serás mi novio",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/QDG9AAWKLPC0j9d/%5BAnimeOnlineNinja%5D_Kakkou_no_Iinazuke_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2d5d06a2-f4db-458b-8465-d9ae08ddca66",
+          "nombre": "No voy a casarme contigo.",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-er4eyfqlytjr.html"
+            }
+          ]
+        },
+        {
+          "id": "1e9685c0-8cb7-4638-bff0-9dca0e8293b6",
+          "nombre": "¡¡¡No me vas a vencer!!!!",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/84zerBeZ0ghoPvw/%5BAnimeOnlineNinja%5D_Kakkou_no_Iinazuke_BD_Latino_03_v2.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a79b6721-61bd-457a-842a-4be482d05c48",
+          "nombre": "¿Podrías salir conmigo por favor...?",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-u2y6ce0kn340.html"
+            }
+          ]
+        },
+        {
+          "id": "f25f917e-2a9b-48ca-ab35-d75be7ba3033",
+          "nombre": "¿Podemos hacer nuestras sesiones de estudio de la mañana juntos...?",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6nw8qyei999q.html"
+            }
+          ]
+        },
+        {
+          "id": "aaaebd87-5578-4797-93fa-c45a40473e21",
+          "nombre": "Creí que vivías solo.",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-x0s0j3thlk99.html"
+            }
+          ]
+        },
+        {
+          "id": "04a663e5-77e8-43bf-af39-244fa852e8c5",
+          "nombre": "¿Mi destino va a cambiar?",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fmqn4ucynphj.html"
+            }
+          ]
+        },
+        {
+          "id": "9114e016-47a6-411e-8cd1-1e43116fd928",
+          "nombre": "¿Te vas a casar con él?",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mketl5eww5xk.html"
+            }
+          ]
+        },
+        {
+          "id": "f6e07144-ce23-4ef7-a81d-3a45fb585972",
+          "nombre": "Las corrientes de Kuroshio me llaman.",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-uo7enjzqolqx.html"
+            }
+          ]
+        },
+        {
+          "id": "0807ebe5-e002-4ef7-991d-2896c2946265",
+          "nombre": "No me trates como a tu hermana pequeña.",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ckikgw0gg7i7.html"
+            }
+          ]
+        },
+        {
+          "id": "dcc114eb-0de2-4552-a4d6-724d5b463392",
+          "nombre": "No puedo olvidar lo que acaba de pasar",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-czufyw0epu6b.html"
+            }
+          ]
+        },
+        {
+          "id": "ff0eb34d-e0ce-47bd-90db-15488c0efc5e",
+          "nombre": "No es que me gustes todavía",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jh28k6oz85tk.html"
+            }
+          ]
+        },
+        {
+          "id": "4c359911-c0c1-4263-9362-e4ffd65dbf10",
+          "nombre": "Las cosas no están funcionando del todo bien, ¿verdad?",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pk4l0hdo55a1.html"
+            }
+          ]
+        },
+        {
+          "id": "b75c793d-d9ad-4f71-88cd-2aa7c8e8ad60",
+          "nombre": "Las cosas no están funcionando del todo bien, ¿verdad?",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dy5mh4i71k6v.html"
+            }
+          ]
+        },
+        {
+          "id": "6d44c617-3a15-4f2d-8d80-2eda3b84e810",
+          "nombre": "¡Tenemos que contarle... nuestro secreto!",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5l19jwmabihu.html"
+            }
+          ]
+        },
+        {
+          "id": "18111d3a-b12c-4021-b67b-f2ac2d8e5f68",
+          "nombre": "Quiero hablar de eso ahora",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mtijy7hib859.html"
+            }
+          ]
+        },
+        {
+          "id": "635e517b-01ee-47e2-a1f8-7d17e46352b7",
+          "nombre": "¡Cualquier cosa podría pasar ahora mismo!",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-d9efhrbtly40.html"
+            }
+          ]
+        },
+        {
+          "id": "55a13279-2761-49cd-86fb-58c68ac6727a",
+          "nombre": "¿Quién es esa persona?",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-22T20:07:31.174887",
+          "fechaActualizacion": "2026-07-22T20:07:31.174887",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hzrdzhis2ajq.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

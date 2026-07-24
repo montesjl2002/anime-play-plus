@@ -1,0 +1,178 @@
+{
+  "id": "804db3d1-bca2-4b7d-907a-17d5aa41a2e3",
+  "nombre": "Tomodachi Game",
+  "descripcion": "Cinco buenos amigos se ven envueltos en un inesperado incidente: ha desaparecido el dinero que toda la clase había reunido para una excursión. Las sospechas comienzan a dividir al grupo, pero lo peor está por venir. Pronto se ven forzados a participar en un enigmático juego donde las deudas, los secretos y la confianza se entrelazan, poniendo a prueba no solo su amistad, sino también su capacidad para distinguir la verdad de la traición.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/d2280990a50b7a201392d2a0cd7b2cff.jpe",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Drama",
+    "Thriller"
+  ],
+  "temporadas": [
+    {
+      "id": "68eda160-a164-41b0-a41c-7ecfab0d43a5",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d31db1b4-7acd-4c5d-9bc4-d4c7e1735d72",
+          "nombre": "¿Dudas de tus amigos, Yuichi?",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/u52r211xiqc4"
+            }
+          ]
+        },
+        {
+          "id": "569dfccc-637c-46c4-b2cd-44493bd5fc8a",
+          "nombre": "Tenemos cosas de las que hablar, ¿no?",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://d-s.io/e/pb02eenx1lj3"
+            }
+          ]
+        },
+        {
+          "id": "1a6b1fbf-a4a5-489f-ae63-4602e027430a",
+          "nombre": "Eso no me lo creo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://d-s.io/e/vtv4541h3iuq"
+            }
+          ]
+        },
+        {
+          "id": "25ffbd28-b512-4ce2-9d1f-47f89b51c890",
+          "nombre": "¿En serio? Da mucha grima",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://d-s.io/e/f8d9saf8vwo2"
+            }
+          ]
+        },
+        {
+          "id": "d09c1913-187c-4bfb-b32e-0d5c27b6f1cf",
+          "nombre": "Eres bastante tonto, Yuichi",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/glkfvv2xoh3f"
+            }
+          ]
+        },
+        {
+          "id": "31c0868f-1487-480e-8b2e-a64b7fff15bd",
+          "nombre": "No puedo ser amigo de un asesino",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/uchqv828famv"
+            }
+          ]
+        },
+        {
+          "id": "95ac4cfd-8abb-4b87-bbe8-ded929bde744",
+          "nombre": "Me quedo con tu vida por valor de 20 000 000 yenes",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/0rk9isgdolum"
+            }
+          ]
+        },
+        {
+          "id": "e9129b41-2d54-44a4-b6d3-1329fbb8889b",
+          "nombre": "Es un juego en el que esperas, esperas y sigues esperando",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/lcd30jac20vk"
+            }
+          ]
+        },
+        {
+          "id": "707e10db-84d0-4bb6-bd68-18e866a1561f",
+          "nombre": "\"Cambia de bando\" de una vez",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/wh0pfvula88h"
+            }
+          ]
+        },
+        {
+          "id": "c308f443-5fb9-4332-805a-9d17fd651eae",
+          "nombre": "¡Se acabó el tercer juego!",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/jwjov0zs0n8b"
+            }
+          ]
+        },
+        {
+          "id": "eb3d21b6-ed82-4024-90d3-8286ed1841e2",
+          "nombre": "¿De verdad no tienes nada que te importe?",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/redt5er3ys6e"
+            }
+          ]
+        },
+        {
+          "id": "c34719e9-4ca8-455f-852e-aaee800cde0f",
+          "nombre": "Lo que más me importa es…",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T21:23:20.852586",
+          "fechaActualizacion": "2026-07-22T21:23:20.852586",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://do7go.com/e/48ot1u04j0d2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "d05181c8-2443-4858-ac83-853abb131026",
+  "nombre": "86 EIGHTY-SIX",
+  "descripcion": "Los “Juggernaut” son drones de combate supuestamente no tripulados creados por la República de San Magnolia para enfrentar a la “Legión”, las máquinas de guerra del Imperio de Giad. Pero la verdad es otra: los pilota el escuadrón 86, personas marginadas y tratadas como desechables. Entre ellos está Shin, un capitán decidido a luchar hasta el final, aunque solo le espere la muerte en el campo de batalla.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/cc8654d9219c3cfe5429a84c81c45796.jpg",
+  "anio": 2021,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Ciencia Ficción"
+  ],
+  "temporadas": [
+    {
+      "id": "2d1b4eeb-04cf-40ff-8b17-ec1ba77314df",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "37d21f74-bd65-4cb8-8556-86168b7e965d",
+          "nombre": "Undertaker",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/gu6cqigkqw3uoafm99ufr3lb1mnwea5n"
+            }
+          ]
+        },
+        {
+          "id": "b38aa205-295e-4196-be20-5d5c9e3ac9e3",
+          "nombre": "Spearhead",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/yv6fusogs64lzc22gttb8ef1mf6zg7mj"
+            }
+          ]
+        },
+        {
+          "id": "9c227158-fc05-4a4c-a428-be4c0d7532e0",
+          "nombre": "No quiero morir",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/237vvs2vlyc1"
+            }
+          ]
+        },
+        {
+          "id": "c24eb3e9-740c-4a98-a20a-4578a67e1a68",
+          "nombre": "Nombres reales",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/wxm1laufqg5y"
+            }
+          ]
+        },
+        {
+          "id": "55acb458-f94f-49b4-86f9-3692dd031237",
+          "nombre": "Estoy con ustedes",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/n9876u9fjkyf"
+            }
+          ]
+        },
+        {
+          "id": "9ddc0254-727a-470b-9e04-881908521a65",
+          "nombre": "Hasta el final",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/bra8c2ubwwgv"
+            }
+          ]
+        },
+        {
+          "id": "939aa0a5-3074-4185-94e7-026e51c44eaa",
+          "nombre": "¿Me recordarás?",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/p7yr18zyyrnz"
+            }
+          ]
+        },
+        {
+          "id": "d76631dc-e6bb-4fc9-806c-eca0bb58e73e",
+          "nombre": "Vamos",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/9ytuyr5yl59r"
+            }
+          ]
+        },
+        {
+          "id": "09fbda21-7683-4701-bcea-d4684c73dcf9",
+          "nombre": "Adiós",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/gv7vwniphze0"
+            }
+          ]
+        },
+        {
+          "id": "de427897-a941-4adc-a205-a544a5dce28b",
+          "nombre": "Gracias",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/gpozik6dfh48"
+            }
+          ]
+        },
+        {
+          "id": "ac9deb76-fd6f-492c-aa4e-bbb507895b73",
+          "nombre": "Vamos",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/kk1yt6pv42znmf1ys9wadprovda15ms0"
+            }
+          ]
+        },
+        {
+          "id": "0a4e58e1-5dab-462f-8d08-367eed0ec2a9",
+          "nombre": "Bienvenidos",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/qhc7j8pclcouxzfjwea3n39l7zbabb37"
+            }
+          ]
+        },
+        {
+          "id": "c11d830e-325d-41b9-ad25-f663ad62c96c",
+          "nombre": "Es demasiado tarde",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/64jct8mjsky0674z5ueio57piju9wzxq"
+            }
+          ]
+        },
+        {
+          "id": "a8293585-1a07-48b2-b598-a4eb71318965",
+          "nombre": "Un placer",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/bddmcv7am9nnzy8goqfzdii2ubpijp3z"
+            }
+          ]
+        },
+        {
+          "id": "811ca678-bd13-4e4c-ac95-c3412902ae05",
+          "nombre": "Bienvenida",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/2i0nd30cc823bhge3kwmdwgeysi3cxej"
+            }
+          ]
+        },
+        {
+          "id": "1ef85816-f978-429d-b7eb-a6e142134f98",
+          "nombre": "Aun así",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/lf0sq5uohihmjzln79sbs4dn7ijfpr35"
+            }
+          ]
+        },
+        {
+          "id": "46b56fb3-fe72-416a-9991-b53c685ff873",
+          "nombre": "No lo olvidaré",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/qzum40hci1qc1b5tpdx08b14i77fwhdc"
+            }
+          ]
+        },
+        {
+          "id": "46f39c18-3bf5-4662-9d02-6b411291b417",
+          "nombre": "En realidad...",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/al9ro31d4ahxgmukuzdtm84bn3tool2t"
+            }
+          ]
+        },
+        {
+          "id": "838f9c8e-e8f8-4bc9-a5d9-1cf54b045df5",
+          "nombre": "Quédate así para siempre",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/fim8zfmorpgpl07aqg0w2lny514izpk9"
+            }
+          ]
+        },
+        {
+          "id": "b8bcb7b7-da95-4329-8570-6a2412a3d907",
+          "nombre": "Juntos hasta la muerte",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/m33nry41qbe2ahcx5gggawt07311rn5v"
+            }
+          ]
+        },
+        {
+          "id": "e6fed628-481b-47e2-9d1a-8f2d9e621ac7",
+          "nombre": "Todo lo que queda",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/n9dm4yfzv5bye3a4jhixl8a14hosg728"
+            }
+          ]
+        },
+        {
+          "id": "f1ee23a8-444a-42a4-883a-0a4d70fb97a8",
+          "nombre": "Shin",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/rdk04uj18hd3e515b8m2eg7wwfv19yr4"
+            }
+          ]
+        },
+        {
+          "id": "be287f32-71d8-4e1a-b49c-b9ef7d508dad",
+          "nombre": "Hadler One",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-07-22T19:55:47.142527",
+          "fechaActualizacion": "2026-07-23T10:30:01.673861",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/pwgnfx4huf6uj82f4o1yq8ez6dl3s5u5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

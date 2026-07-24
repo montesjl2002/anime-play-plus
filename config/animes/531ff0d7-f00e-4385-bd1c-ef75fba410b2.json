@@ -1,0 +1,75 @@
+{
+  "id": "531ff0d7-f00e-4385-bd1c-ef75fba410b2",
+  "nombre": "The Exiled Heavy Knight Knows How to Game the System",
+  "descripcion": "Nacido en el seno de una prestigiosa familia de maestros de la espada, Elymas Edvaughn estaba destinado a convertirse en una leyenda. Sin embargo, su futuro se derrumba el día en que despierta la clase de Caballero Pesado, un oficio considerado inútil e indigno de su linaje. Repudiado por su propia familia y desterrado de su hogar, todo cambia cuando recupera los recuerdos de una vida anterior y descubre una verdad asombrosa: este mundo es exactamente igual a un videojuego de realidad virtual que llegó a dominar por completo. Con el conocimiento del futuro, secretos ocultos y estrategias que nadie más conoce, Elymas está decidido a demostrar que la clase más despreciada puede convertirse en la más poderosa.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/c88d7ed27873ff262e1f2808e02f1b99.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "db555f54-65fc-4476-b0d6-481fe0bd2945",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "2be7a350-4280-428e-a30a-46aa35676fd5",
+          "nombre": "Elymas, el caballero pesado",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-23T17:46:05.826994",
+          "fechaActualizacion": "2026-07-23T17:46:05.826994",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-e9emzbj13d3e.html"
+            }
+          ]
+        },
+        {
+          "id": "8f3328c4-7b89-43f6-97dc-4d8463997c18",
+          "nombre": "La amenazante araña mono",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-23T17:46:05.826994",
+          "fechaActualizacion": "2026-07-23T17:46:05.826994",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-2wvpk5v0mzpz.html"
+            }
+          ]
+        },
+        {
+          "id": "dbbd3fba-780c-434e-96b7-66d826fd5c3c",
+          "nombre": "La misión de asalto",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-23T17:46:05.826994",
+          "fechaActualizacion": "2026-07-23T17:46:05.826994",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-g9mvh12ex1cv.html"
+            }
+          ]
+        },
+        {
+          "id": "764dcb24-681c-4bf5-9a49-2bd4721a3baa",
+          "nombre": "Evolución de la existencia",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-23T17:46:05.826994",
+          "fechaActualizacion": "2026-07-23T17:46:05.826994",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/n8za7ai9g3ch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "e61c953d-6d12-431e-81e4-5489cb9076b6",
+  "nombre": "Am I Actually the Strongest?",
+  "descripcion": "Haruto es un chico tímido y solitario que lleva una vida gris... hasta que el destino interviene. Una diosa lo elige para reencarnar en un mundo completamente distinto, lleno de magia y peligros. Como bendición divina, Haruto recibe un poder mágico oculto a los ojos de los demás, un don único que podría cambiarlo todo... si logra reunir el valor para usarlo.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eceac71dbf61b38c7b94fc14e590c7b2.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Comedia",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "49fdc5b2-8f51-4854-9f16-229c04516046",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d51600e4-4508-4bd8-a326-f0170455520f",
+          "nombre": "Empezando desde cero tras la reencarnación",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-067pbs23llq7.html"
+            }
+          ]
+        },
+        {
+          "id": "1bc70b83-faba-4bd1-8605-ae95523f0dd8",
+          "nombre": "Char me odia",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ulxvror0ham3.html"
+            }
+          ]
+        },
+        {
+          "id": "4064b618-b7a6-44b8-b728-df7d677f7765",
+          "nombre": "Char ahora me adora",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ujpw1og2xvtf.html"
+            }
+          ]
+        },
+        {
+          "id": "8fbcaec1-5344-41cf-8f65-5143b2621765",
+          "nombre": "Me enfado",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-l9ke6vbezfv7.html"
+            }
+          ]
+        },
+        {
+          "id": "113f2e8b-ba04-406b-8b36-261847c5640f",
+          "nombre": "La más fuerte del mundo",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-5837tfohos4g.html"
+            }
+          ]
+        },
+        {
+          "id": "63b171fb-a7f4-4196-84d3-7f24a1e93d6a",
+          "nombre": "¡Tengo que encontrar un ayudante!",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-hlmmz0xj9vc9.html"
+            }
+          ]
+        },
+        {
+          "id": "6ee0d875-d87e-4ca9-8d1a-45b572eb6116",
+          "nombre": "Mesa redonda",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-5m0qgns50gu5.html"
+            }
+          ]
+        },
+        {
+          "id": "f5b036eb-0834-4a2f-a10a-02ce044570dc",
+          "nombre": "Un nuevo encuentro",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ay22yj8r4jfe.html"
+            }
+          ]
+        },
+        {
+          "id": "9ad41816-6d17-4821-80d2-d8a567b4195a",
+          "nombre": "El alboroto de la ceremonia de ingreso",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-9rvv5mkxwsb7.html"
+            }
+          ]
+        },
+        {
+          "id": "1446ed75-015c-4100-a22c-db418b1de79c",
+          "nombre": "El nombre del Señor Oscuro",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-8jwdjqw58yjr.html"
+            }
+          ]
+        },
+        {
+          "id": "83574acc-f7ef-4571-b211-e44b8cff1441",
+          "nombre": "Me he mezclado con tanta gente…",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-thob2yimw6hl.html"
+            }
+          ]
+        },
+        {
+          "id": "75885aed-ea9e-4df4-894b-65fe487b9a24",
+          "nombre": "No es una mala noche",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T20:35:50.238781",
+          "fechaActualizacion": "2026-07-22T20:35:50.238781",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-eu49oia9sruy.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

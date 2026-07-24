@@ -1,0 +1,226 @@
+{
+  "id": "2cded183-7e03-4e4f-97e1-cd119d0b4cfe",
+  "nombre": "Skeleton Knight in Another World",
+  "descripcion": "Al despertar, Arc descubre que ha sido transportado a un mundo de fantasía con la apariencia de su personaje de un MMORPG. Bajo su imponente armadura se esconde un inquietante secreto: no tiene carne ni piel, solo un esqueleto. Si su verdadera identidad sale a la luz, será tratado como un monstruo y perseguido sin piedad. Decidido a mantenerse en el anonimato, adopta la vida de un mercenario errante, usando su extraordinario poder para ayudar a quienes lo necesitan mientras intenta evitar llamar la atención. Sin embargo, sus acciones terminarán arrastrándolo a conflictos que podrían cambiar el destino del reino.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/a374715c2abf27d67f0f36260ab5f4fd.png",
+  "anio": 2022,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "4cb39e54-ce16-4b6f-8e4f-1ccc3178eab5",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "ffd4a4bb-062e-46e9-9598-d8a06743a24e",
+          "nombre": "El caballero errante se dispone a hacer un mundo mejor",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/xb0x3rgwWWhkY7J/%5BAnimeOnlineNinja%5D_%5BAnimo-Alonso18p%5D_Gaikotsu_Kishi-sama_BD_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "94933520-229d-43dc-890e-3b77c3835819",
+          "nombre": "Un primer trabajo, el deseo de una chica y una sombra que se cierne",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/g4u7fphw2s6r/[AnimeOnlineNinja]_[Animo-Alonso18p]_Gaikotsu_Kishi-sama_BD_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "577981d4-25cb-40f0-ab43-87cc7afcac93",
+          "nombre": "Una elfa estricta baila para sus camaradas",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/h2xrunjw9iacydetcvw3obr94e523r24"
+            }
+          ]
+        },
+        {
+          "id": "68847e4a-cad3-4878-abfc-d21ea1e703b9",
+          "nombre": "¡Infiltración en el mercado de esclavos! En busca del mal del mundo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/ddhuywhrotye7x0rpe6jn5ij170774se"
+            }
+          ]
+        },
+        {
+          "id": "1dd554d6-b06c-4794-bd7c-d970b26c7110",
+          "nombre": "Un secreto desvelado y un vínculo forjado",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/2jqnoqrwcws6u5cwe9pyh5bk7dbm6bnk"
+            }
+          ]
+        },
+        {
+          "id": "8abb63b2-8dd3-43b8-b0ef-ac5c0bd68dd9",
+          "nombre": "Conociendo la oscuridad de este mundo en la aldea élfica",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/j16wbn4gsai1m88cdjbbgz4l4ytxfmev"
+            }
+          ]
+        },
+        {
+          "id": "6bb05a9c-116b-4b2b-adbb-fcf9024f628e",
+          "nombre": "Un milagro para la gran princesa",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/d157gjhs5q0ih0l4d91ynvuazp0lu8zr"
+            }
+          ]
+        },
+        {
+          "id": "631c4d08-6cae-4669-9fc7-397f800e803b",
+          "nombre": "¡Aliados! Atravesando la oscuridad con la gente bestia",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/hvsqzkj23xu5e3pe3vte8u12lu9z0q91"
+            }
+          ]
+        },
+        {
+          "id": "9545d97d-a4a1-4e83-b5e4-da0853352f03",
+          "nombre": "El caos de la capital y el juramento de una doncella",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/5kia25uu866td4k7swtosixzdj5a5z9t"
+            }
+          ]
+        },
+        {
+          "id": "a225fe5f-e2d0-452e-b71d-64c0d4564e24",
+          "nombre": "Esperanza para el futuro encontrada en el desierto",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/b0q6qfqspp1ypzimdbikuhbpclvjd653"
+            }
+          ]
+        },
+        {
+          "id": "799f8d19-69f7-4f04-b8c9-46c84def084c",
+          "nombre": "El bárbaro domador de monstruos se ríe en la oscuridad",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/ctgi2z402ykgcjh2pbah4wfz3ccxruuw"
+            }
+          ]
+        },
+        {
+          "id": "0485f8d0-a968-48ba-9fc3-5ff4325a74b4",
+          "nombre": "¡Atravesaré todos los males del mundo!",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.wf/e/x0ewjfdxe6mxe5vgmpj0jac87wufomtr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "019f66e7-a539-4fe6-b343-a0dbaacd2136",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "ab7306ed-99ee-4e20-90af-74336ff6699c",
+          "nombre": "¿Un duelo a muerte? ¡El caballero plateado contra el caballero plateado!",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/nym7pfaysuqe"
+            }
+          ]
+        },
+        {
+          "id": "79431af0-90cf-43ad-9b9e-1b7a5abd73bc",
+          "nombre": "Los colmillos tóxicos asesinos apuntan a la novia élfica",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/55mqlm2k8d4h"
+            }
+          ]
+        },
+        {
+          "id": "da779085-fbdf-4371-a816-b258d072da91",
+          "nombre": "La caída de los villanos y el baile del amor fraternal",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-24T11:27:22.949923",
+          "fechaActualizacion": "2026-07-24T11:27:22.949923",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/kd2djx3y19p0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

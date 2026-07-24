@@ -1,0 +1,236 @@
+{
+  "id": "1fdf6373-a229-4627-aae8-4b6fbf3e84e6",
+  "nombre": "BEASTARS",
+  "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
+  "anio": 2019,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Drama"
+  ],
+  "temporadas": [
+    {
+      "id": "ed0b87a9-45c5-478f-ab96-bdf1dd380800",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "64eb6a69-3a56-4632-b5f0-f204031648e3",
+          "nombre": "La luna y la bestia",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-y5p3fijcvqk4.html"
+            }
+          ]
+        },
+        {
+          "id": "3a3080df-f6fd-425d-a8d2-edaba876f389",
+          "nombre": "Los alfas de la academia",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/W674Y70810HbVJp/%5BAnimeOnlineNinja%5D_Beastars_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "04ce47cf-8ec5-48e5-81db-e9023f1e10f4",
+          "nombre": "Nace un lobo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dabbuy93k8h9.html"
+            }
+          ]
+        },
+        {
+          "id": "3925b175-8ebc-43b6-9d22-ec8ed8304376",
+          "nombre": "Darlo todo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mqbl0b6xbgq9.html"
+            }
+          ]
+        },
+        {
+          "id": "63354fa1-5235-4fae-b02a-8abe75a6154d",
+          "nombre": "Las dos campanas",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/WpdOq1237mcbvbw/%5BAnimeOnlineNinja%5D_Beastars_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6bd36778-7a59-4cb9-a5b4-f1a9b1c92764",
+          "nombre": "Visión borrosa: ¿sueño o realidad?",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jae2zl58fic6.html"
+            }
+          ]
+        },
+        {
+          "id": "23f729f1-459c-4a70-8f29-fd6443de7932",
+          "nombre": "Debajo del abrigo de piel",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mh92iymn4ky3.html"
+            }
+          ]
+        },
+        {
+          "id": "061d32a2-59e5-43a5-84c1-666d0716f766",
+          "nombre": "Sin salida",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pvmt8ey8jtdw.html"
+            }
+          ]
+        },
+        {
+          "id": "68d30a25-a27b-4917-b29d-a2a9a49eea0b",
+          "nombre": "En la boca del lobo",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-aht0cufe541f.html"
+            }
+          ]
+        },
+        {
+          "id": "4cc59ddb-a097-401e-bb04-15ea30a71e13",
+          "nombre": "Un lobo con piel de cordero",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-92wiadakncpg.html"
+            }
+          ]
+        },
+        {
+          "id": "6f2e2349-0508-4b78-aff2-e50d3ef1d1a1",
+          "nombre": "El escape",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ccm4ty3sc6jh.html"
+            }
+          ]
+        },
+        {
+          "id": "05270888-1b3f-4990-bf20-1c91d6bd52e6",
+          "nombre": "Tras la tormenta",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mlque5habl3f.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ded26be-d485-448c-a5a9-c6dc45d1ea3c",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "28757f50-0336-48bf-a5e8-144b69bc7768",
+          "nombre": "En constante alerta",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/pLDrgXVX1ycArp/%5BAnimeOnlineNinja%5D_Beastars_S2_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0f937293-52aa-4d64-8161-c765fc168ec5",
+          "nombre": "El lobo gris se mueve rápido",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1oo95m6a3s85.html"
+            }
+          ]
+        },
+        {
+          "id": "ba563af9-35dc-4124-91ba-92c68f7a92ac",
+          "nombre": "Cambios",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://d000d.com/e/byixtli7d5ds"
+            }
+          ]
+        },
+        {
+          "id": "02c0e4ac-fa97-472f-80b6-32329cc05dfa",
+          "nombre": "Atrapado",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-22T22:02:47.748010",
+          "fechaActualizacion": "2026-07-22T22:02:47.748010",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://d000d.com/e/c4w04qzwi8pe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
