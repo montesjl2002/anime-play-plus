@@ -1,0 +1,511 @@
+{
+  "id": "22b57f09-d659-4237-8d73-088c3e323547",
+  "nombre": "Rent-a-Girlfriend",
+  "descripcion": "Tras una dolorosa ruptura, Kazuya Kinoshita recurre a un servicio de novias de alquiler para olvidar su soledad. Allí conoce a Chizuru Mizuhara, una chica tan perfecta que lo que comienza como una simple cita por contrato pronto se convierte en una complicada historia llena de malentendidos, emociones y sentimientos inesperados.",
+  "imagen": "",
+  "anio": 2020,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "c9a1399e-2036-41fd-aa8a-b07bcdf9fc68",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "44fc25d5-e419-4e6f-9c9c-aeefcd1c06fa",
+          "nombre": "Novia de alquiler",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.pm/e/xff6c61wbw36h8jqn7yrcobm3a16dcvo"
+            }
+          ]
+        },
+        {
+          "id": "5db41b0d-e7a5-434f-b8a7-37911548f46b",
+          "nombre": "Exnovia y novia",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/m169ppO7X2tQ4z/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "3f2b6a68-a11b-497d-9362-f5d8b298dee5",
+          "nombre": "Playa y novia",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/4G9lbBWgDkhr4Q/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "fbbce565-5ecc-4930-9505-c82afdcc4cbb",
+          "nombre": "Amigo y novia",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/p82gaQVJD4SGmx/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0fc9263e-2974-4c84-ae88-afd8ad9aa6bd",
+          "nombre": "Aguas termales y novia",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ZXPgMRkLrACqVqj/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "01f136b8-5bc3-44f6-b91f-e2d0e52d55df",
+          "nombre": "Novia y novia",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/1DWy9ppXBefy1Y/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "5b49d354-11f8-41ad-a594-37f1c4f18c05",
+          "nombre": "Novia temporal y novia",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/81bWRRAbAkSod7O/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "afcf31d1-5189-45b6-8c44-a3c954563e01",
+          "nombre": "Navidad y novia",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/BOdDRRMPjDiyq0k/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8fdb42f0-ba90-49a2-b84d-883ac8b08895",
+          "nombre": "Mentiras y novia",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/gjWzrvQeXjs4G0/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6975cd5a-b244-4572-95e4-c8d195b85e17",
+          "nombre": "La novia de mi amigo",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/vVPmjKMDaRsPwq/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9284a31c-b851-43bd-ad08-0f31c11d6a3d",
+          "nombre": "Verdad y novia",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/BabBV1JW01hyqgP/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "d5deb2d1-e601-46c1-b8ad-7eb0fe7bb8c6",
+          "nombre": "Declaración y novia",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/qD7M36wLzmuKB2/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_BD_Latino_12.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3443f9b2-873f-4a6d-a85f-9f3388615068",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "2d475c6b-3027-422b-be4e-71e88852198c",
+          "nombre": "Sueño y novia",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/3AZxDGR9Byud1eb/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "63acc471-c12e-4517-8a50-003ac3bf8835",
+          "nombre": "La novia de siempre",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Reoay43ylqudgVJ/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "3343d598-5981-4eeb-9d40-ed25d61010cf",
+          "nombre": "El regreso de la novia",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/kDwgQV7rkOCOgky/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b3419458-5cb4-47f2-a924-d878b4aaf6b4",
+          "nombre": "Noche y novia",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/M6VmBxAvyJcYeG/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8616f394-0723-42ae-bc7f-7338268cc7ab",
+          "nombre": "Cumpleaños y novia",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/e3po8AAkoLUYgxv/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "37025ff2-0a8a-4a52-8cb3-baaf6a5a2e0b",
+          "nombre": "Alcohol y novia",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/MkDw0XRdAdcmZ4Y/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "277d614c-646c-4aec-a462-4bdcee056f71",
+          "nombre": "Exnovia y novia",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/AQwyq10b0LIXVgl/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7f2d8187-5e2d-4d15-bf3b-b7d56b6fdfd7",
+          "nombre": "Juventud y novia",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/g1ZzyrrkX4uqyr7/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c9b6f5fb-260b-4dd4-b812-6d3e3af0b4e6",
+          "nombre": "Beso y novia",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/9R8kv4vbDes1kw/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7b2d69d2-7d7c-4d3a-ac21-f8304adbea3b",
+          "nombre": "Anillo y novia",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/wOw14QPvD3S6Kb/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "60af7178-ed0b-41ef-ab14-b2719583182b",
+          "nombre": "Guía y novia",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ZkvqxGe42VT7Bd/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c3b2d673-e419-4c63-b6f8-9d579f211aa7",
+          "nombre": "Mi novia y yo",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/wGykAg2qlatJRj0/%5BAnimeOnlineNinja%5D_Kanojo_Okarishimasu_S2_BD_Latino_12.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4147edf-0dfa-4611-9671-dddc300c8e3d",
+      "numero": 3,
+      "nombre": "3ra Temporada",
+      "episodios": [
+        {
+          "id": "a8a85ce5-037d-4914-a3f0-c34e6b929170",
+          "nombre": "Comida casera y novia",
+          "etiqueta": "T3 | E1",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/7f2pztl9n36d"
+            }
+          ]
+        },
+        {
+          "id": "97d92337-f92e-4dce-a967-72ac9abd3d33",
+          "nombre": "La chica de al lado",
+          "etiqueta": "T3 | E2",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/k1qh2osafokv"
+            }
+          ]
+        },
+        {
+          "id": "9237448d-f035-4756-b5d8-55150c6ccc70",
+          "nombre": "Experta y novia",
+          "etiqueta": "T3 | E3",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/4hzdzso1um5k"
+            }
+          ]
+        },
+        {
+          "id": "80af49cf-2f9d-458f-ba48-c615caac0483",
+          "nombre": "Día D y novia",
+          "etiqueta": "T3 | E4",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/b4cxgmzlz4bq"
+            }
+          ]
+        },
+        {
+          "id": "15811700-bc69-424f-b06d-4c590eae4f7f",
+          "nombre": "Rodaje y novia",
+          "etiqueta": "T3 | E5",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/j078kz7edfkv"
+            }
+          ]
+        },
+        {
+          "id": "b9997891-53cd-4b6b-96c5-39f97748201b",
+          "nombre": "Escena final y novia",
+          "etiqueta": "T3 | E6",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/mcx5i5h2bcuk"
+            }
+          ]
+        },
+        {
+          "id": "e3c1397f-f7d2-42f0-8dad-d491540e6bf2",
+          "nombre": "Kazuya y novia",
+          "etiqueta": "T3 | E7",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zz0978i7mewn.html"
+            }
+          ]
+        },
+        {
+          "id": "8fde280d-4c4b-4e3e-92ef-03bca5cc2ec8",
+          "nombre": "Familia y novia",
+          "etiqueta": "T3 | E8",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1ddea0am88u2.html"
+            }
+          ]
+        },
+        {
+          "id": "05e0b3cd-e38c-4faa-b686-47e73e0935e2",
+          "nombre": "Despedida y novia",
+          "etiqueta": "T3 | E9",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cr4zkbf9xzsw.html"
+            }
+          ]
+        },
+        {
+          "id": "bd314087-eb8a-4b45-a87c-9d4b0d55b32b",
+          "nombre": "Viaje improvisado y novia",
+          "etiqueta": "T3 | E10",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-r9odp9f25pwz.html"
+            }
+          ]
+        },
+        {
+          "id": "e1b1940a-4ecf-4de6-aa76-99f7e6debf22",
+          "nombre": "Novia y novio",
+          "etiqueta": "T3 | E11",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-f4n210k5zd9v.html"
+            }
+          ]
+        },
+        {
+          "id": "1fd40084-e626-49eb-bf27-14d5dd60ef71",
+          "nombre": "La novia ideal y novia",
+          "etiqueta": "T3 | E12",
+          "fechaPublicacion": "2026-07-28T17:44:32.419543",
+          "fechaActualizacion": "2026-07-28T17:44:32.419543",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/o9mt3b5r92jy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b33eb0f6-afae-4a9e-a2c1-4775ff96e804",
+      "numero": 4,
+      "nombre": "4ta Temporada",
+      "episodios": []
+    }
+  ]
+}
