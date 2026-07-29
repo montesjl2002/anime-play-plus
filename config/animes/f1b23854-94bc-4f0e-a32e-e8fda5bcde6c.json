@@ -1,0 +1,341 @@
+{
+  "id": "f1b23854-94bc-4f0e-a32e-e8fda5bcde6c",
+  "nombre": "Farming Life In Another World",
+  "descripcion": "Cuando una figura divina le da a Hiraku la oportunidad de volver a vivir, él desea estar sano, vivir en paz, hablar el idioma local y pasar sus días en una granja idílica.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1hGq2xUjUUTpYhYlDqRIPkhl6RW8OBfIJ",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "",
+  "generos": [
+    "Fantasía",
+    "Romance"
+  ],
+  "temporadas": [
+    {
+      "id": "b47f9472-ff3c-4e48-8528-c6ebc3d452d0",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "276ce213-c764-45e3-8ab0-3aa92297681e",
+          "nombre": "La herramienta agrícola todopoderosa",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/LkxxMB90jmURrYj/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a6c0e316-f4d9-4ae8-b2a5-726d4f2cd3b9",
+          "nombre": "El primer aldeano",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/jkgyL62Om7UzVw3/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "94599a5b-71d7-45a5-814b-c4b2b26fc141",
+          "nombre": "Cada vez más compañeros de casa",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/wgGoXwQ2DWHJJ9p/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "60a0af8a-8835-478b-a3a0-1379561ba83a",
+          "nombre": "Los canales hacen la vida mejor",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/jPZb68aYrxIzlaq/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "e1c54a47-8cec-4986-b247-85b50216bc44",
+          "nombre": "Curry y sobrevivir al invierno",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/g1jYrYrJmjTqdO8/"
+            }
+          ]
+        },
+        {
+          "id": "a378be03-ef43-467e-a1ce-2c88cfc377da",
+          "nombre": "Esto ya es una aldea",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/3WMoYKMdWVcdPXB/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0335fc11-7605-4134-92e8-fcb51548121f",
+          "nombre": "Un corazón hospitalario",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/WbkKev482yI0l9/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "fa787875-25d4-4d4b-9a10-d1a888e95ac3",
+          "nombre": "La investigadora y las dos princesas",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/P8KJYoXG0Qu0Kka/"
+            }
+          ]
+        },
+        {
+          "id": "8b60467e-b47d-4f29-b7a0-5d602db9fcdf",
+          "nombre": "El comerciante y el dragón",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/xXqoq1DPZqHkPQm/%5BAnimeOnlineNinja%5D_%5BAnimedium_Fansub%5D_Isekai_Nonbiri_Nouka_BD_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "cf57f1b1-eba1-49ac-bf54-53fe6eedea31",
+          "nombre": "La princesa Yuri",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/K4RrGmXRGQH0mak/"
+            }
+          ]
+        },
+        {
+          "id": "7443e4b3-ddf8-46e9-a5c8-31d971b6900b",
+          "nombre": "La vida cotidiana y el progenitor",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/mgx0qV0ADYsb1DO/"
+            }
+          ]
+        },
+        {
+          "id": "fd5d88e2-fbc8-421e-b905-6f918a6ac598",
+          "nombre": "Nacimiento",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/mvGR3rwlAPfb8kX/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86fc611e-248a-437f-8a4f-8119f6a34aa8",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "6fced820-4822-49c1-8f2a-38e259c3a59b",
+          "nombre": "Bienvenidos",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-b00ywe7jxo6q.html"
+            }
+          ]
+        },
+        {
+          "id": "7d82eb6a-f758-4245-8e80-bd0e199e093d",
+          "nombre": "Nuevos residentes",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-i3rx43l4wz5r.html"
+            }
+          ]
+        },
+        {
+          "id": "1306676b-215e-4328-8871-dd89aed21b2c",
+          "nombre": "Invierno",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ajc07hjoc7d6.html"
+            }
+          ]
+        },
+        {
+          "id": "6a717c71-fe8b-4730-8e1f-acfa38b73232",
+          "nombre": "Torneo de artes marciales",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/hxlsksrk0sev"
+            }
+          ]
+        },
+        {
+          "id": "17992ffc-ebda-45cd-883a-20a11efdd69a",
+          "nombre": "Otro día tranquilo",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/c50j2w0r7kxk"
+            }
+          ]
+        },
+        {
+          "id": "1687666e-4f98-476d-8c5e-1a73ebb6bf7b",
+          "nombre": "Un gran día para recibir visitas",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/1nulozciloxm"
+            }
+          ]
+        },
+        {
+          "id": "be9eea27-f371-424e-908f-31ff65393999",
+          "nombre": "Expedición a las aguas termales",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/54uwaa7quzax"
+            }
+          ]
+        },
+        {
+          "id": "3f36c361-83a9-40d6-bfb6-6ade77ab2168",
+          "nombre": "Más aventuras en las aguas termales",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/3JzBaWXp4RHdm08/Isekai_Nonbiri_Nouka_S2_08_v1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2be3e970-4f88-4544-b5ae-9cc560721a60",
+          "nombre": "Regreso a la normalidad",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ebebfhj1dra2"
+            }
+          ]
+        },
+        {
+          "id": "1b025b89-084e-4ca7-88d3-2dd4f164d0af",
+          "nombre": "Festividades y el agradecimiento de Fuushu",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/LJ2ozbmAYdCvZg/Isekai_Nonbiri_Nouka_S2_10_v1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "57343da6-a589-4e1d-9e18-c1a3d8d1e1f6",
+          "nombre": "El castillo en el cielo",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/RyAGVYg2llIdWDR/Isekai_Nonbiri_Nouka_S2_11_v1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b2a519a4-e406-4287-aa6b-afaf97fd0010",
+          "nombre": "Un pueblo para todos",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-29T11:35:03.056209",
+          "fechaActualizacion": "2026-07-29T11:35:03.056209",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/vVAmMbe0Ypc4qmG/Isekai_Nonbiri_Nouka_S2_12_v1.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
