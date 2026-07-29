@@ -1,0 +1,659 @@
+{
+  "id": "76e7d3e5-6ed0-4d57-b424-f63b60e6e5a6",
+  "nombre": "BEASTARS",
+  "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
+  "anio": 2019,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Drama"
+  ],
+  "temporadas": [
+    {
+      "id": "a8006e0d-ca4d-439e-ba38-4009df12a260",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "04050e41-72bb-4e84-9d4c-40aac96dbfa5",
+          "nombre": "La luna y la bestia",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-y5p3fijcvqk4.html"
+            }
+          ]
+        },
+        {
+          "id": "d3a7fb58-0501-4046-9f92-e00bb0834e46",
+          "nombre": "Los alfas de la academia",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/xte7ae29kgrm"
+            }
+          ]
+        },
+        {
+          "id": "e36bce58-0ef6-477a-a4fc-34baa8b275d4",
+          "nombre": "Nace un lobo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dabbuy93k8h9.html"
+            }
+          ]
+        },
+        {
+          "id": "5bc8dbed-ed6b-43ad-aa53-c0ad1a5d0a75",
+          "nombre": "En la boca del lobo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mqbl0b6xbgq9.html"
+            }
+          ]
+        },
+        {
+          "id": "dbb7d030-5ae0-40fe-a009-5db7e8dfbd92",
+          "nombre": "Dos caras",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/WpdOq1237mcbvbw/%5BAnimeOnlineNinja%5D_Beastars_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b5a8f99e-e0c8-4352-8ede-75f02a0590ec",
+          "nombre": "Bienvenidos al Hotel Cereza",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jae2zl58fic6.html"
+            }
+          ]
+        },
+        {
+          "id": "413e4721-b37c-416c-8987-37be1d0c6582",
+          "nombre": "Bajo la máscara",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mh92iymn4ky3.html"
+            }
+          ]
+        },
+        {
+          "id": "b9774151-6d25-4e9b-ac8e-d6c310bc9890",
+          "nombre": "El perro que corre",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/aki8w9iazwq8"
+            }
+          ]
+        },
+        {
+          "id": "6412c296-876c-4d1e-a605-98915be51f30",
+          "nombre": "Una rosa en el polvo",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-aht0cufe541f.html"
+            }
+          ]
+        },
+        {
+          "id": "82624155-e501-4cba-960c-9121083b7580",
+          "nombre": "Un lobo con piel de cordero",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-92wiadakncpg.html"
+            }
+          ]
+        },
+        {
+          "id": "d9ac92ab-f52b-4bf5-b047-5c966e8d3b31",
+          "nombre": "El escape",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/afnyf3vlmiig"
+            }
+          ]
+        },
+        {
+          "id": "062f432e-0162-4c4d-b456-97d614d5599d",
+          "nombre": "Tras la tormenta",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/liqs63qpxq0n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cf9dc27f-e2b2-4451-b5e7-5988a108e132",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "eff4ccc1-daf0-4db1-9c6d-7eacb0ff27ef",
+          "nombre": "En constante alerta",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/ly5j1gm662w2"
+            }
+          ]
+        },
+        {
+          "id": "b484a4e2-be7a-4e6d-bdf6-933f960a2dd6",
+          "nombre": "Un perro policía gris",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/t6r37365s3qj"
+            }
+          ]
+        },
+        {
+          "id": "3fbb1343-03d7-4461-8b42-b5f0e0349095",
+          "nombre": "Un león orgulloso",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/9nexp6cm9x5l"
+            }
+          ]
+        },
+        {
+          "id": "85779b72-ba3c-4ecb-b4b9-ef1ecf2521eb",
+          "nombre": "Un lobo bajo la lluvia",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/emxhw1lwgp6w"
+            }
+          ]
+        },
+        {
+          "id": "2ebd1e98-e3e9-495f-b27e-13442184fa60",
+          "nombre": "Dos lados de la misma moneda",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/z42xfl0o3a8j"
+            }
+          ]
+        },
+        {
+          "id": "ace5b757-2fff-4575-8163-e5c9a6853666",
+          "nombre": "Una noche inolvidable",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/4l6p292lsfen"
+            }
+          ]
+        },
+        {
+          "id": "e0927dce-4b00-43a3-a343-b66e73a85aa0",
+          "nombre": "Un lobo solitario",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/zx0su5b60bwz"
+            }
+          ]
+        },
+        {
+          "id": "5e3e1272-ffe6-4382-ab69-fd969a70baf7",
+          "nombre": "Una luz en la oscuridad",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xza5zrg45xgy.html"
+            }
+          ]
+        },
+        {
+          "id": "8c9216a8-18d2-40c8-814d-dc53e489dca1",
+          "nombre": "Una promesa",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/lxy3jvzi9fhf"
+            }
+          ]
+        },
+        {
+          "id": "33b61bca-b789-47f4-9529-df8e14fde9c0",
+          "nombre": "El culpable",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-c63k3bp1x0po.html"
+            }
+          ]
+        },
+        {
+          "id": "e7637f1d-8ed7-4714-b52c-6a3362a46c24",
+          "nombre": "El sabor de la verdad",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/7iebhaubkhrj"
+            }
+          ]
+        },
+        {
+          "id": "35994e54-adab-4df6-b9ca-97db146b7e1a",
+          "nombre": "El futuro",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-66n694jhhclc.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "73e8b886-2d08-4a31-9b2c-65a0a8168021",
+      "numero": 3,
+      "nombre": "3ra Temporada",
+      "episodios": [
+        {
+          "id": "5e245273-655a-49c1-8b59-e3493739d35b",
+          "nombre": "Una bestia encadenada",
+          "etiqueta": "T3 | E1",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zz0cxwq8p111.html"
+            }
+          ]
+        },
+        {
+          "id": "384e39f7-e648-473c-b146-4b6eff487cef",
+          "nombre": "Entre las garras del lobo",
+          "etiqueta": "T3 | E2",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-h4nd7kwr83qy.html"
+            }
+          ]
+        },
+        {
+          "id": "b5efb7c0-5952-4489-a6d2-e0c65c641af4",
+          "nombre": "La ira de un viejo dragón",
+          "etiqueta": "T3 | E3",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/moukr2xeor6q"
+            }
+          ]
+        },
+        {
+          "id": "5aca905c-1135-481f-bfef-0fb30f6c4642",
+          "nombre": "La sabiduría del mar",
+          "etiqueta": "T3 | E4",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dbtdrsvjaxqe.html"
+            }
+          ]
+        },
+        {
+          "id": "a8a1473d-cc24-42f2-8422-6bebc9cc3572",
+          "nombre": "La cadena alimentaria",
+          "etiqueta": "T3 | E5",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7gv0efhu9qgh.html"
+            }
+          ]
+        },
+        {
+          "id": "11105d78-f2ae-4363-a14b-6f4202999168",
+          "nombre": "El chico que nació en primavera",
+          "etiqueta": "T3 | E6",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/hrorvbh73440"
+            }
+          ]
+        },
+        {
+          "id": "4a97af45-cd0a-496e-93f9-d6755e84f0ef",
+          "nombre": "Del amor a otros instintos",
+          "etiqueta": "T3 | E7",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/z3l84wvtt1gr"
+            }
+          ]
+        },
+        {
+          "id": "6df48c41-6e60-4f5b-ad58-4118f3d3eaad",
+          "nombre": "Una nueva decisión",
+          "etiqueta": "T3 | E8",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ib61zyt00apz.html"
+            }
+          ]
+        },
+        {
+          "id": "c0ecfe65-9c9b-4b4d-839d-9e1a1680665d",
+          "nombre": "El camino del depredador",
+          "etiqueta": "T3 | E9",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-kvh6eovvuoh2.html"
+            }
+          ]
+        },
+        {
+          "id": "af278945-d94d-4dcc-b70a-71c9d061743f",
+          "nombre": "El regreso de Melon",
+          "etiqueta": "T3 | E10",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-sk6bkqda3s5e.html"
+            }
+          ]
+        },
+        {
+          "id": "c1def733-5c3d-4c0f-b7eb-d2dab110ee2e",
+          "nombre": "El verdadero enemigo",
+          "etiqueta": "T3 | E11",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-e4go56w2iogd.html"
+            }
+          ]
+        },
+        {
+          "id": "be36bb74-ded5-46fa-8580-45ed3ebca000",
+          "nombre": "La batalla comienza",
+          "etiqueta": "T3 | E12",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/b5rfmud2csxn"
+            }
+          ]
+        },
+        {
+          "id": "bbd68962-af48-48a2-b3c2-c42277834eba",
+          "nombre": "Sangre y destino",
+          "etiqueta": "T3 | E13",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/oteogyrjzcjy"
+            }
+          ]
+        },
+        {
+          "id": "43a6c70a-1ba4-4cc3-afc0-ca160b80b9ff",
+          "nombre": "La bestia que llevo dentro",
+          "etiqueta": "T3 | E14",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/lv91k011gz36"
+            }
+          ]
+        },
+        {
+          "id": "ec14d647-9a8a-434f-a0a9-53aba1a1c82d",
+          "nombre": "Una alianza inesperada",
+          "etiqueta": "T3 | E15",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/gY6Pj80yKRCqrVx/%5BAnimeOnlineNinja%5D_BEASTARS_S3_Latino_15.mp4"
+            }
+          ]
+        },
+        {
+          "id": "90ad2c42-e685-4514-a701-0e090dc39c67",
+          "nombre": "El peso del pasado",
+          "etiqueta": "T3 | E16",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/PGgY9kVaqxH0z30/%5BAnimeOnlineNinja%5D_BEASTARS_S3_Latino_16.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2d914873-4e64-43f6-aef3-641f0875d920",
+          "nombre": "El heredero",
+          "etiqueta": "T3 | E17",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/L33jkZD33kiZpd/%5BAnimeOnlineNinja%5D_BEASTARS_S3_Latino_17.mp4"
+            }
+          ]
+        },
+        {
+          "id": "d4d21b75-5293-42ce-b4ff-8f8711e79bb4",
+          "nombre": "Más allá del instinto",
+          "etiqueta": "T3 | E18",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xh6pmiyrbkfc.html"
+            }
+          ]
+        },
+        {
+          "id": "4470061b-1bf1-4a37-82dc-ca04ada7f7a4",
+          "nombre": "La verdad sobre Melon",
+          "etiqueta": "T3 | E19",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/ulm7thg80qu1"
+            }
+          ]
+        },
+        {
+          "id": "884231fa-aa0b-4874-a520-db4a7ee6d270",
+          "nombre": "El rugido del león",
+          "etiqueta": "T3 | E20",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/cd30x2anv9nf"
+            }
+          ]
+        },
+        {
+          "id": "6deb6c88-f4a0-4a80-b14b-82e9f0e17eb7",
+          "nombre": "Palabras que se escapan",
+          "etiqueta": "T3 | E21",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/918oyfy5pqe4"
+            }
+          ]
+        },
+        {
+          "id": "b5e08f67-e647-48fd-bda7-e48b37b0e1da",
+          "nombre": "Sangre sobre la bola de discoteca",
+          "etiqueta": "T3 | E22",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/8vpqqsep7ubt"
+            }
+          ]
+        },
+        {
+          "id": "d34087e3-7cd8-41ac-a5ed-1ba4b06c1159",
+          "nombre": "Intercambio entre especies",
+          "etiqueta": "T3 | E23",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/p35wrnd3qeqk"
+            }
+          ]
+        },
+        {
+          "id": "d69922c8-b3ed-4caf-9f67-74e1eef4c8ec",
+          "nombre": "El futuro de las bestias",
+          "etiqueta": "T3 | E24",
+          "fechaPublicacion": "2026-07-28T18:56:47.864673",
+          "fechaActualizacion": "2026-07-28T18:56:47.864673",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/pb8m7h45e68v"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
