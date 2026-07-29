@@ -1,0 +1,360 @@
+{
+  "id": "a811586b-7842-4975-9bd0-911af8272cda",
+  "nombre": "How a Realist Hero Rebuilt the Kingdom",
+  "descripcion": "Kazuya Souma es convocado a un mundo de fantasía y, tras impresionar con su aguda visión, es coronado rey y prometido a la princesa. En lugar de espadas y magia, su arma es la reforma administrativa. ¿Funcionará su enfoque racional en un reino de dragones y elfos?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/a7e02e75d0791f76a67f3adac6abde73.jpg",
+  "anio": 2021,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "da1480e4-0be7-4e00-9d01-6157d6cc660f",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "bac5c127-2a3b-4a96-b224-98c3e8b6beb0",
+          "nombre": "Primero, empecemos por los héroes",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/dhlvs5ipl19q9bdk65sizbb17w6zzv6w"
+            }
+          ]
+        },
+        {
+          "id": "ae7f5b6c-8b91-48c5-b0ad-969fd478ac90",
+          "nombre": "Si posees aptitud, úsala",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/zpbrr5rz7a1pyc3bjoat8bw9i1jid7xt"
+            }
+          ]
+        },
+        {
+          "id": "e092a5fe-72bc-4f50-935d-f066747dfd10",
+          "nombre": "Pongamos el arado delante del caballo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/qzaxd03gwzs4t0pxvfg761fye0dsnkjw"
+            }
+          ]
+        },
+        {
+          "id": "d59352b1-daf6-49c0-b23f-4326bef86654",
+          "nombre": "El bosque habla",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/0gv63wfho5ue19sym0seri3wybljreft"
+            }
+          ]
+        },
+        {
+          "id": "c88343b1-843b-445c-b611-bf5ada49ef0f",
+          "nombre": "El pozo nunca se seca",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/xbzd4qla9hgq4u1oelyj15v2u4cvyxat"
+            }
+          ]
+        },
+        {
+          "id": "3a8bc6f9-10f2-470f-869b-f8f91b924993",
+          "nombre": "El sabio nunca desprecia el aprendizaje",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-56pbkk78uyjr.html"
+            }
+          ]
+        },
+        {
+          "id": "74441ab4-f9e7-4524-99bb-7a2e4147f3d8",
+          "nombre": "El que trabaja con diligencia obtiene su recompensa",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zrjotczzoxhh.html"
+            }
+          ]
+        },
+        {
+          "id": "211352e0-9c6b-482a-8234-a1438d405d9d",
+          "nombre": "La injusticia debe corregirse",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cwgjgcbw1s3y.html"
+            }
+          ]
+        },
+        {
+          "id": "97f31c45-d71d-4f85-ac34-776996a7a029",
+          "nombre": "Aquel que protege al pueblo es un verdadero rey",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-llcwl8ek60gk.html"
+            }
+          ]
+        },
+        {
+          "id": "267faa70-dca2-4f6b-adc1-e300c41c0cf2",
+          "nombre": "Ningún gobernante puede actuar solo",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-shoneuvke78y.html"
+            }
+          ]
+        },
+        {
+          "id": "6b354c83-79f7-46bf-b8f8-62a2c5529a0e",
+          "nombre": "El ejército marcha",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zm6izbcogthx.html"
+            }
+          ]
+        },
+        {
+          "id": "a901c2f3-bab1-43c5-a9d5-5482c0ef6502",
+          "nombre": "Quien domina la información domina el reino",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jvzifmguu4y7.html"
+            }
+          ]
+        },
+        {
+          "id": "95bd3940-9bd4-4323-af74-fb6375e283f6",
+          "nombre": "Preparativos para una nueva era",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pu3layqlgmqe.html"
+            }
+          ]
+        },
+        {
+          "id": "003af9ae-1bf5-47cb-87ca-cc45e3da8a46",
+          "nombre": "Una nueva alianza",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ykn29ggv0su5.html"
+            }
+          ]
+        },
+        {
+          "id": "22749cde-afbc-44ef-be86-951cb9d23dce",
+          "nombre": "El deber de un rey",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cv3cig6mjrig.html"
+            }
+          ]
+        },
+        {
+          "id": "bd46c3e3-eecf-46c6-9682-22018396b3fb",
+          "nombre": "El camino hacia la paz",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9e6io0593drj.html"
+            }
+          ]
+        },
+        {
+          "id": "df802a61-cad8-4118-9053-68618809c54c",
+          "nombre": "El precio de la victoria",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-kw4sbhfxzg6b.html"
+            }
+          ]
+        },
+        {
+          "id": "5ac0fbee-adf7-4fa9-8667-c1d985b17aed",
+          "nombre": "La princesa y el reino",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6l823u1xnm2q.html"
+            }
+          ]
+        },
+        {
+          "id": "1eb155eb-56c5-4a48-ac69-f3bbfd6a14cb",
+          "nombre": "La estrategia del gobernante",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xcx1jv46x8ys.html"
+            }
+          ]
+        },
+        {
+          "id": "4dddf356-4be6-44aa-ae4c-954de496df96",
+          "nombre": "El poder de la diplomacia",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-nmun5x9wamaa.html"
+            }
+          ]
+        },
+        {
+          "id": "dd593b31-4284-45a4-94a4-8aaaf93fa2b3",
+          "nombre": "El valor de la confianza",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-a7f7wxoidlza.html"
+            }
+          ]
+        },
+        {
+          "id": "e3a33f8f-e59f-46aa-bcd3-57ad1a4e65f4",
+          "nombre": "La guerra y la paz",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-lf2r2bfqkcze.html"
+            }
+          ]
+        },
+        {
+          "id": "c47a13b0-3298-4d99-a09d-7e826c242774",
+          "nombre": "El futuro del reino",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-t8on0gre5n8r.html"
+            }
+          ]
+        },
+        {
+          "id": "aee32fcd-f586-48fa-a365-efac9e3d5cbc",
+          "nombre": "El nacimiento de una nueva nación",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-a0unbv3vs7p9.html"
+            }
+          ]
+        },
+        {
+          "id": "ed871d34-8e6e-49c7-9246-d10e1e1a4bdc",
+          "nombre": "El legado del héroe",
+          "etiqueta": "T1 | E25",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-g5fk9k6mcjzn.html"
+            }
+          ]
+        },
+        {
+          "id": "21092637-630f-4863-bfe9-d7cf41b46e14",
+          "nombre": "El reino reconstruido",
+          "etiqueta": "T1 | E26",
+          "fechaPublicacion": "2026-07-29T16:34:39.695150",
+          "fechaActualizacion": "2026-07-29T16:34:39.695150",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-8pro30yproqe.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
