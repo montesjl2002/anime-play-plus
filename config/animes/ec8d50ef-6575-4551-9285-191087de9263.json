@@ -1,0 +1,180 @@
+{
+  "id": "ec8d50ef-6575-4551-9285-191087de9263",
+  "nombre": "Battle Game in 5 Seconds",
+  "descripcion": "Akira es un joven al que le encanta jugar. Por algún motivo que desconoce aparece en una sala donde le dicen que deberá pelear con poderes.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/3ab3de1e70346032d43e4235b00d2e87.jpg",
+  "anio": 2021,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Sobrenatural",
+    "Thriller"
+  ],
+  "temporadas": [
+    {
+      "id": "8dde614e-1c33-4830-841c-e2dd04b6be6f",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "973fae3e-f875-4ee0-835c-26dc99159769",
+          "nombre": "Sofista",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/k89bzvncfq85yd3awh7hezyr6pzqscne"
+            }
+          ]
+        },
+        {
+          "id": "a2720747-b340-4124-8bb0-b0f9020d8d48",
+          "nombre": "Kishin",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/av3x1056u5moyg1d71nsqoc4rs7uvwen"
+            }
+          ]
+        },
+        {
+          "id": "77f6d972-bae6-4f49-9036-c81164d38e1f",
+          "nombre": "Espadachín genuino",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/2vd0mxrid0b88v5dfvdlm2uvys29gbcv"
+            }
+          ]
+        },
+        {
+          "id": "9a84bc94-f295-492a-b8df-7e4d38a99a04",
+          "nombre": "Satírica",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/ax91xoxwhmx9bgmlamxh112p4h6bosua"
+            }
+          ]
+        },
+        {
+          "id": "e529def1-3fd3-4bfd-994c-33b23ac9aa94",
+          "nombre": "Cazador",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/gf72s91c3tyuts2z2zdc6cmfxsxg1kfy"
+            }
+          ]
+        },
+        {
+          "id": "0737674d-1782-40c6-8fcf-e019c17757bb",
+          "nombre": "Mediador",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/0hjeflbcrgsypgn7zxpllhismnm7w6vu"
+            }
+          ]
+        },
+        {
+          "id": "381196c3-07be-40c3-85ec-0cceab12b3b7",
+          "nombre": "Déspota",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/5zdi8o325ibikvozb7d1jm08o20du0en"
+            }
+          ]
+        },
+        {
+          "id": "fce6337d-43ba-4c41-91e7-082b95ef2802",
+          "nombre": "Guardián",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/pqxqfkr0ijq552nadyx24xaserd0n67d"
+            }
+          ]
+        },
+        {
+          "id": "00599cbf-e2fb-4da9-aac3-478b0562140d",
+          "nombre": "Doncella de Hierro",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/8d8by834y96pgkjhp2fegt7n8hp8w7aw"
+            }
+          ]
+        },
+        {
+          "id": "16834a00-d222-4382-a689-9174a4e7b365",
+          "nombre": "Inquebrantable",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-v6xfybvvnef6.html"
+            }
+          ]
+        },
+        {
+          "id": "7246ab13-a5b0-47b2-b66f-8b415a040431",
+          "nombre": "Prestamista",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.ws/e/2vn7qzslgnfigoocf3ji9hf8ynrv09ws"
+            }
+          ]
+        },
+        {
+          "id": "8b4d0034-859f-4ba4-a1b0-80717e5960bc",
+          "nombre": "La habilidad final",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T19:23:25.458357",
+          "fechaActualizacion": "2026-07-28T19:23:25.458357",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iwrxd7bt79sh.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
