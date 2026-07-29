@@ -21,11 +21,13 @@
           "nombre": "Prólogo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-28T20:54:30.269971",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://filelions.top/embed/dru3ynin9u94"
+              "videoUrl": "https://filelions.top/embed/dru3ynin9u94",
+              "inicio": "226",
+              "termina": "311"
             }
           ]
         },
@@ -34,11 +36,13 @@
           "nombre": "Tecnología perdida",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-28T20:54:30.269971",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://www.mp4upload.com/embed-jyrwtvuuek37.html"
+              "videoUrl": "https://www.mp4upload.com/embed-jyrwtvuuek37.html",
+              "inicio": "28",
+              "termina": "113"
             }
           ]
         },
@@ -47,11 +51,13 @@
           "nombre": "Overkill",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-28T20:54:30.269971",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://filelions.top/embed/0o5spe9u073i"
+              "videoUrl": "https://filelions.top/embed/0o5spe9u073i",
+              "inicio": "37",
+              "termina": "122"
             }
           ]
         },
@@ -60,11 +66,13 @@
           "nombre": "Busca la libertad",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-28T20:54:30.269971",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://filelions.top/embed/6k2yme55rgij"
+              "videoUrl": "https://filelions.top/embed/6k2yme55rgij",
+              "inicio": "78",
+              "termina": "163"
             }
           ]
         },
@@ -73,11 +81,13 @@
           "nombre": "Por sus ojos",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-23T17:14:29.238968",
+          "fechaActualizacion": "2026-07-28T20:54:30.269971",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://www.mp4upload.com/embed-3icsfjl8di2q.html"
+              "videoUrl": "https://www.mp4upload.com/embed-3icsfjl8di2q.html",
+              "inicio": "183",
+              "termina": "268"
             }
           ]
         }
