@@ -1,0 +1,335 @@
+{
+  "id": "98968bd5-234f-4fe7-a61e-2238516b8d4b",
+  "nombre": "Golden Time",
+  "descripcion": "Banri Tada es un estudiante nuevo en una escuela privada de leyes en Tokio. Sin embargo, debido a un accidente, pierde la memoria. Durante su orientación como novato conoce a Mitsuo Yanagisawa, y de primera ya congenian. Sin recordarse el uno al otro, sus vidas se van entrelazando poco a poco por el destino. Pero ¿a qué llevará todo esto?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/fc8938a7d556f9068bb8ed327c6c5635.jpg",
+  "anio": 2013,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "temporadas": [
+    {
+      "id": "30e2b7d0-0c31-44c3-9488-66e825c9dbfb",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "632f3baf-dfd8-46e8-a69d-4175462a18fd",
+          "nombre": "Primavera",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/drlj7mfxhviq"
+            }
+          ]
+        },
+        {
+          "id": "841bfad6-6f30-429c-8b5b-2fb4f727319f",
+          "nombre": "Chica solitaria",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/j177tgr0s8tx"
+            }
+          ]
+        },
+        {
+          "id": "bc2ef692-7022-4673-bb68-53cfff982a08",
+          "nombre": "Escape nocturno",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/wto07uqel9rx"
+            }
+          ]
+        },
+        {
+          "id": "9d511aba-d8c0-43a0-acf4-b17cf2a7a5c7",
+          "nombre": "Apagón",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/5lne31ngt65j"
+            }
+          ]
+        },
+        {
+          "id": "8d32ef4d-0cde-48b2-931f-204812da0492",
+          "nombre": "Cuerpo y alma",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/x7lcywn26qpi"
+            }
+          ]
+        },
+        {
+          "id": "614078ed-e771-4dee-801a-2047ce3d7a66",
+          "nombre": "Sí o no",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/6caih6yh3bdk"
+            }
+          ]
+        },
+        {
+          "id": "08f35835-31ab-455b-bd48-cea6ac3f8c4a",
+          "nombre": "Mascarada",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/gf45y3apsvlr"
+            }
+          ]
+        },
+        {
+          "id": "11d79149-d4ad-42ed-908e-80fc95b177f2",
+          "nombre": "Reiniciar",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/7f6yo70bhalj"
+            }
+          ]
+        },
+        {
+          "id": "47fe23dc-d4ca-47eb-81b7-e0e2e640733e",
+          "nombre": "Juntos otra vez",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/a5mru2wt2tud"
+            }
+          ]
+        },
+        {
+          "id": "d1d7f262-9a88-4a52-b9ae-5965dc58ffc9",
+          "nombre": "En el espejo",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/b1yrs3ew06n4"
+            }
+          ]
+        },
+        {
+          "id": "0c244c17-0c4c-41e2-a121-63db37c102cc",
+          "nombre": "Fiesta problemática",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/xqb9w23ml00i"
+            }
+          ]
+        },
+        {
+          "id": "a5259eee-7fe6-41ee-9203-c1b556af3589",
+          "nombre": "No mires atrás",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ucvpwetqkdlc"
+            }
+          ]
+        },
+        {
+          "id": "2f66f557-57e1-493b-abca-2f45a719d370",
+          "nombre": "El verano ha llegado",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/z7r19pl8b83j"
+            }
+          ]
+        },
+        {
+          "id": "96818310-55a8-4383-ab7d-6d6730563c90",
+          "nombre": "Charla de chicas",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/uimcpwx2glc5"
+            }
+          ]
+        },
+        {
+          "id": "e436c00e-ffdf-471d-bd8d-9808f0a68d09",
+          "nombre": "Accidente en la playa",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/1esnvsfpv6wx"
+            }
+          ]
+        },
+        {
+          "id": "d6206477-b573-43c8-824e-035ff776f234",
+          "nombre": "Llamada de atención",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/k8edpmqnjstl"
+            }
+          ]
+        },
+        {
+          "id": "7e362e56-88c1-4c5f-998b-b3948b6f9273",
+          "nombre": "Volviendo al ayer",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/sl70a0jmmlot"
+            }
+          ]
+        },
+        {
+          "id": "4809c57f-b629-4010-8532-585278238028",
+          "nombre": "Mi ciudad natal",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/eglia2oenzwf"
+            }
+          ]
+        },
+        {
+          "id": "46e135c4-d3c0-4158-aa31-041760a9f70c",
+          "nombre": "Noche en París",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/uyynl774r2hw"
+            }
+          ]
+        },
+        {
+          "id": "48e770ad-71bb-4c80-9f1b-81bc3a4ceb5d",
+          "nombre": "Su abismo",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/wa3j6fgi0zzz"
+            }
+          ]
+        },
+        {
+          "id": "d8f9f4be-f275-4936-bdbb-a08cfd062f68",
+          "nombre": "Regresaré",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/05edemg4lvq4"
+            }
+          ]
+        },
+        {
+          "id": "0098e46d-a6cd-4fc9-9f00-9b7ed1d11c2b",
+          "nombre": "Paraíso perdido",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/nad411byy9i2"
+            }
+          ]
+        },
+        {
+          "id": "191f5511-cf4e-448d-94ab-4bfda381c530",
+          "nombre": "Última sonrisa",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/40n334n5hksm"
+            }
+          ]
+        },
+        {
+          "id": "07b106e2-0345-465a-9e95-36e33e0fb135",
+          "nombre": "Golden Time",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-07-29T14:19:05.694700",
+          "fechaActualizacion": "2026-07-29T14:19:05.694700",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3kdcg6yk0gm0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
