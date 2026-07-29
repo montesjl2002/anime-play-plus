@@ -1,0 +1,178 @@
+{
+  "id": "20151137-5817-4c3f-a83f-c09fc8b24039",
+  "nombre": "Hokkaido Gals Are Super Adorable!",
+  "descripcion": "Hokkaido es frío y nevado, pero también está lleno de chicas encantadoras que transforman el invierno en una pasarela de moda y diversión. Prepárate para una temporada llena de risas, romance y estilo, donde el clima no dicta la elegancia. ¡Aquí, el frío y la moda van de la mano!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/fda5013137bec91772e4de1205193e64.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Romance",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "f5997c74-f414-4f42-9dcd-fbbcb03c3005",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "0eba212f-db24-442f-9d8c-864b4e9c18a0",
+          "nombre": "Las gals de Hokkaido son superadorables",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/26mA308kylHZbMB/%5BAnimeOnlineNinja%5D_Hokkaido_Gals_Are_Super_Adorable%21_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "74374b8f-467d-4152-b285-c6cfabe8b2b0",
+          "nombre": "Hace mucho calorcito dentro del montículo de nieve",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/v9zvl2pnn7g3"
+            }
+          ]
+        },
+        {
+          "id": "5257cc75-5824-4edc-a81f-786a52064559",
+          "nombre": "Akino no es nada amigable",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-bybz1rdxjsef.html"
+            }
+          ]
+        },
+        {
+          "id": "0745ebb4-f9b9-4ae4-a6b4-f1819f62e178",
+          "nombre": "Las llamadas nocturnas dan cosquilleos",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-c1ctlyo5r3ti.html"
+            }
+          ]
+        },
+        {
+          "id": "05e32030-b11b-4a3a-86a5-23db9bec59eb",
+          "nombre": "Superamargo, superdulce",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-z1877wvqwesp.html"
+            }
+          ]
+        },
+        {
+          "id": "287e51dd-e999-414f-b413-f3c651f4d41b",
+          "nombre": "Natsukawa es superguapa",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ss9huurj73cg.html"
+            }
+          ]
+        },
+        {
+          "id": "abf46750-234a-410d-8c63-bb9c536e1dd3",
+          "nombre": "Los exámenes son superdifíciles",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-14lkubyo6hsl.html"
+            }
+          ]
+        },
+        {
+          "id": "4a3eff20-9af8-4d92-b0f9-05efde321a58",
+          "nombre": "El yakiniku con amigos está superdelicioso",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-90lftr0j00qp.html"
+            }
+          ]
+        },
+        {
+          "id": "8fe2a358-26e3-4060-b535-76dad0763879",
+          "nombre": "El lago Abashiri es superrelajante",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-yczndhc00is7.html"
+            }
+          ]
+        },
+        {
+          "id": "49e7b9b9-50e5-48a5-96de-ea5a4db2f620",
+          "nombre": "El tiempo pasa supervolando",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://mp4upload.com/embed-95a4knrjx5at.html"
+            }
+          ]
+        },
+        {
+          "id": "34bb5d4c-5f90-4f9b-8c58-4adfee22a8e2",
+          "nombre": "La juventud golpea superfuerte",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://mp4upload.com/embed-bzb1pft0fyei.html"
+            }
+          ]
+        },
+        {
+          "id": "c5224e9a-47ad-4dc7-b37d-acb84ab9ab5b",
+          "nombre": "La vida sin ti es superterrible",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T15:17:36.023076",
+          "fechaActualizacion": "2026-07-29T15:17:36.023076",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0rzxosty0mc0.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
