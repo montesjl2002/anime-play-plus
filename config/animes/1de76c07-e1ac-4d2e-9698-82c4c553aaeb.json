@@ -1,0 +1,180 @@
+{
+  "id": "1de76c07-e1ac-4d2e-9698-82c4c553aaeb",
+  "nombre": "BTOOOM!",
+  "descripcion": "A sus 22 años, Ryota Sakamoto está desempleado y lleva una vida monótona. Su única gloria está en BTOOOM!, un videojuego donde es uno de los mejores. Pero todo cambia cuando despierta en una isla desierta, forzado a jugar una versión real del juego, armado solo con bombas y sin saber por qué debe luchar a muerte.",
+  "imagen": "https://drive.google.com/uc?export=view&id=15K0qjsnrxCQ3tjfTncRvRclYJuWqkxEp",
+  "anio": 2012,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Ciencia Ficción",
+    "Seinen"
+  ],
+  "temporadas": [
+    {
+      "id": "311c980b-3688-4620-bdf2-69bbe2811510",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "75667832-418e-46f9-90be-3d68f77002aa",
+          "nombre": "Inicio",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-b4f9bq8xgjma.html"
+            }
+          ]
+        },
+        {
+          "id": "63482991-d02b-441c-bab0-09fc749feddf",
+          "nombre": "La chica de preparatoria ensangrentada",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-trzartjj9hie.html"
+            }
+          ]
+        },
+        {
+          "id": "4c56e555-07f8-492b-a633-a6eb73e5a19c",
+          "nombre": "Supervivencia",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-d8v5yvor8875.html"
+            }
+          ]
+        },
+        {
+          "id": "f2ddc89f-5819-48bf-98bb-e0f93482a05d",
+          "nombre": "El mejor del mundo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1x9mvpi16dxj.html"
+            }
+          ]
+        },
+        {
+          "id": "a42a8b92-23c0-40cb-b893-d3420f611652",
+          "nombre": "Ataque",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-m1g6etyeq76m.html"
+            }
+          ]
+        },
+        {
+          "id": "5a771aa5-4230-477a-b575-8d1cbaeb22ef",
+          "nombre": "Noche de sacrificio",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-8w7ktyoldyrz.html"
+            }
+          ]
+        },
+        {
+          "id": "ec0d60ac-6212-4507-bd45-7cfc150bf310",
+          "nombre": "Novia virtual",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wi9gcakig5mg.html"
+            }
+          ]
+        },
+        {
+          "id": "f5559217-b801-4e13-85e7-640cf1726b6b",
+          "nombre": "Fantasma blanco",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fykzc4wi5ybq.html"
+            }
+          ]
+        },
+        {
+          "id": "53640103-bf3b-4d71-b8e0-3bb9122a54d1",
+          "nombre": "El jugador más fuerte",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1bjcebk50cew.html"
+            }
+          ]
+        },
+        {
+          "id": "f234b70f-18b4-4fa9-9b5f-6c80ee650c50",
+          "nombre": "Alto nivel",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-v6xfybvvnef6.html"
+            }
+          ]
+        },
+        {
+          "id": "b2731c6b-594f-48af-9090-32bc3f45eff1",
+          "nombre": "Renacimiento",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-x9oedcohq034.html"
+            }
+          ]
+        },
+        {
+          "id": "918b9ddd-a81a-4fcf-b8fb-427b8e08a12f",
+          "nombre": "Lazos",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T19:08:42.419120",
+          "fechaActualizacion": "2026-07-28T19:08:42.419120",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iwrxd7bt79sh.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
