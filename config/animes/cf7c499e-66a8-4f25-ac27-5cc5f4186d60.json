@@ -1,0 +1,342 @@
+{
+  "id": "cf7c499e-66a8-4f25-ac27-5cc5f4186d60",
+  "nombre": "Goblin Slayer",
+  "descripcion": "Una joven sacerdotisa ha formado su primer grupo de aventureros, pero pronto se encuentran en una situación desesperada. Justo cuando la esperanza parece desvanecerse, aparece el temido Asesino de Goblins, un hombre imparable cuya vida ha estado dedicada a erradicar a todos los goblins, sin importar el costo. A medida que los rumores sobre sus aterradoras hazañas se propagan, nadie sabe quién será su próximo objetivo… o qué oscuros secretos esconde tras su implacable misión.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8cf56e51a982975b0987534985fa67c7.jpg",
+  "anio": 2018,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "195cd227-ea6e-4207-88b0-ce1bb3fc16f5",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "a95585de-6e47-4f27-aa95-df9c8e69b3a2",
+          "nombre": "El destino de los aventureros",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/81r2jKMm37C8Lx/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0322175f-153a-46fd-a888-13de992bfb91",
+          "nombre": "Goblin Slayer",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Madp1zoV6qS6aM/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ed514651-17ad-4608-9136-c5cacc0fedcf",
+          "nombre": "Visitantes inesperados",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/PjX6zAZxlkS029G/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "1e286349-e8fb-4b97-87b5-8c9f6f2bf8c2",
+          "nombre": "El fuerte",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/A10vwQ2dvLIXYo6/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "41b7beb1-9223-48a9-ab14-6c970a9a69af",
+          "nombre": "Las aventuras y la vida cotidiana",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/J2lgapp3x0UjkRL/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ffbe3d18-1307-4719-9213-6ed57e3796e7",
+          "nombre": "Goblin Slayer en la Ciudad del Agua",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/94adAYkrW6faQGJ/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "bbb413b4-f1f0-4a14-898a-660d09f254f7",
+          "nombre": "Adelante hasta la muerte",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/7Gw2lmogretAK1l/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ae134baf-cf27-43a6-b671-0668941dec09",
+          "nombre": "Susurros, oraciones y cantos",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/rBY8zLGrWotbql3/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a6819707-f29f-432c-9fbe-b3786d7cf8ef",
+          "nombre": "Ida y vuelta de nuevo",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/bgb0e6ekZOSPYmb/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "35018435-a0e2-4c38-b1dd-012ba8c7ebe6",
+          "nombre": "Dormitando",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/mkbK0ZkX4vCbjQG/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "98db9417-3e55-4891-8068-b3d06894b984",
+          "nombre": "El festín de los aventureros",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Mkaxb0ywmoumka7/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "1405332a-0c6c-45c8-b17d-05ab59e7a50f",
+          "nombre": "El destino de un aventurero",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/LYmlRaAXlVHRGA7/%5BAnimeOnlineNinja%5D_Goblin_Slayer_BD_Latino_12.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5aa3e650-fe20-4936-9c90-cb7bcf75b88a",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "5eb7bb3e-e8e7-4831-9957-c950da8ef4e0",
+          "nombre": "Un día de primavera cualquiera",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-m6hbcsa5fajy.html"
+            }
+          ]
+        },
+        {
+          "id": "8ebdd087-5331-412f-9cdb-b9b8bf78e328",
+          "nombre": "El joven mago pelirrojo",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-18hoh537yofp.html"
+            }
+          ]
+        },
+        {
+          "id": "85f5751c-07e2-4958-a6dc-445ecf4c67c9",
+          "nombre": "Entrenamiento",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/gjmdywxodktb"
+            }
+          ]
+        },
+        {
+          "id": "c6d3f7a5-7db5-464b-9304-2d0ac5b05591",
+          "nombre": "Hacia la ciudad",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/chu8ca40sspi"
+            }
+          ]
+        },
+        {
+          "id": "fffaad8a-8e54-4deb-84fe-3944e0ff160e",
+          "nombre": "Cortabarbas, rumbo al río del sur",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/aqs9fsic14ds"
+            }
+          ]
+        },
+        {
+          "id": "f2315bdc-7af3-41f7-993c-5fce39a597b4",
+          "nombre": "El rey élfico",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/6g8sjuez2rrw"
+            }
+          ]
+        },
+        {
+          "id": "85ec6e58-e6ae-41f2-92c0-5da866595ce2",
+          "nombre": "A la boda",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/jxv739qnka1j"
+            }
+          ]
+        },
+        {
+          "id": "6b5f67ec-65dc-40ba-9909-1b6bd57c5133",
+          "nombre": "Corazón de la oscuridad",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/an8o2hh65jbc"
+            }
+          ]
+        },
+        {
+          "id": "656ea0fa-9f1a-432e-b8a3-29d9b068d480",
+          "nombre": "Una vez más, al entrenamiento",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/l448ftqgtwum"
+            }
+          ]
+        },
+        {
+          "id": "8e10ecb3-01fc-432e-b6d7-b05e22861276",
+          "nombre": "Aventura en la ciudad",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/6g572kj9dc5j"
+            }
+          ]
+        },
+        {
+          "id": "ada52c9c-b12e-4718-b545-9862878462f4",
+          "nombre": "El calvario de la princesa",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/uogr7we3some"
+            }
+          ]
+        },
+        {
+          "id": "71e33145-d586-4466-9c9b-65a0fe618ae6",
+          "nombre": "Oraciones, ¿llegaron al cielo?",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-29T12:11:24.429199",
+          "fechaActualizacion": "2026-07-29T12:11:24.429199",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hynsjgier2lp.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
