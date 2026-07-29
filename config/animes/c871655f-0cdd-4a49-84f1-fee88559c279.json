@@ -1,0 +1,179 @@
+{
+  "id": "c871655f-0cdd-4a49-84f1-fee88559c279",
+  "nombre": "Berserk of Gluttony",
+  "descripcion": "Fate es un humilde guardia de castillo en un mundo donde el valor de una persona se mide por sus habilidades. Sin embargo, la única que él posee se llama Gula, y su aparente función es solo hacerle sentir un hambre insaciable. Marginado y ridiculizado, lleva una vida sombría y sin esperanza. Pero todo cambia el día en que un grupo de bandidos irrumpe en el castillo. A partir de ese momento, Fate descubrirá que su habilidad esconde un oscuro y poderoso secreto. Así comienza la historia de un joven sin talento que, contra todo pronóstico, comienza su ascenso hacia lo más alto.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/a5ebfaaf02d69d1c0b254f4a49c43082.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "c8fb8891-7687-41fa-96e8-4a669f25659e",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "73b8d23b-a88e-45cf-bd32-a985d2db8cfc",
+          "nombre": "Los necesitados",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/6j7dv7GZ8kT9Re7/%5BAnimeOnlineNinja%5D_%5BAnimo-Alonso18p%5D_Boushoku_no_Berserk_-_01_%5BBD_1080p%5D.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a7745158-dbeb-4731-8397-4ef534a5f06b",
+          "nombre": "Impulso de Hambre",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/rlDb1gLezghbjdP/%5BAnimeOnlineNinja%5D_%5BAnimo-Alonso18p%5D_Boushoku_no_Berserk_-_02_%5BBD_1080p%5D.mp4"
+            }
+          ]
+        },
+        {
+          "id": "d2b2fae5-6e94-4dc6-9cba-484e80882839",
+          "nombre": "La inspección de Roxy",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-e2teqzl7ak2y.html"
+            }
+          ]
+        },
+        {
+          "id": "f5cd4c63-d6c0-4759-9efd-51b1d3f01ef2",
+          "nombre": "Bestia coronada",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-v0aknnnelcpt.html"
+            }
+          ]
+        },
+        {
+          "id": "9194f01b-183f-481d-80e5-63521ad37306",
+          "nombre": "Rumbo a Galia",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-d2rvw3847w9g.html"
+            }
+          ]
+        },
+        {
+          "id": "b5789721-0249-47f1-ad60-3785b27f4e3a",
+          "nombre": "La chica de la ira",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-deink2kc3mqx.html"
+            }
+          ]
+        },
+        {
+          "id": "6fd9fd40-a7b9-4ad5-93cd-e85693666d23",
+          "nombre": "El Espadachín del Ocaso",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ygxi8sohuvhf.html"
+            }
+          ]
+        },
+        {
+          "id": "72bc05ea-15d6-4251-9386-5a2189b05f4b",
+          "nombre": "El pueblo de los recuerdos perdidos",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-blt6u62ifhnj.html"
+            }
+          ]
+        },
+        {
+          "id": "a66a7e58-c5da-4068-8afa-2e09f11e81a5",
+          "nombre": "Centinela de la Lujuria",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-o4v039wvkmif.html"
+            }
+          ]
+        },
+        {
+          "id": "92bd789a-d26b-4280-b97e-dfb02abbd447",
+          "nombre": "Trampa",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-lyca2ip1q9ne.html"
+            }
+          ]
+        },
+        {
+          "id": "2959c71b-4952-4bfa-930d-a2dbc7639b95",
+          "nombre": "La Marcha de la Muerte",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-buis5grn65k3.html"
+            }
+          ]
+        },
+        {
+          "id": "b989d030-31da-45fa-947c-49883a45609f",
+          "nombre": "Devorante",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T19:30:29.151992",
+          "fechaActualizacion": "2026-07-28T19:30:29.151992",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-xgvnpgzrb4zs.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
