@@ -1,0 +1,179 @@
+{
+  "id": "e2d43b36-6bde-4265-9431-e7702e9f855b",
+  "nombre": "Hero Without a Class: Who Even Needs Skills?!",
+  "descripcion": "En un mundo donde todos reciben una profesión bendecida por la diosa, Arelle sorprende al obtener la profesión de “Sin Clase”. Aun así, gracias a su talento y duro entrenamiento, logra imitar y dominar habilidades de cualquier ocupación sin límites. Hijo de una Princesa de la Espada y un Rey Mágico, Arelle estudia en academias de espada y magia a la vez, acumulando técnicas de múltiples profesiones hasta convertirse en un guerrero extraordinario capaz de usar todas las habilidades avanzadas a la vez.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1vH41ZE6_rFUOS7An4BJ07qAdGTuNK_Tw",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "46713c51-123e-4ee5-af23-35e9093acd33",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "1676b79a-c071-40bf-98e3-1830c476f6ad",
+          "nombre": "Declarado sin clase",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-fp992weoqapc.html"
+            }
+          ]
+        },
+        {
+          "id": "a25eb2fc-dee2-4b1d-92d6-4b922acef036",
+          "nombre": "Bresgia, la Ciudad de las Espadas",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ow8pwt39bft1.html"
+            }
+          ]
+        },
+        {
+          "id": "23a71e9c-27df-4b86-ad2b-396d3b5cc88c",
+          "nombre": "Competencia de gremios",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-1e9u1gwcoeol.html"
+            }
+          ]
+        },
+        {
+          "id": "760ccaf0-0a55-4cd1-9cec-7147f84b71ac",
+          "nombre": "Mazmorra subterránea",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-g4vrjmzufjba.html"
+            }
+          ]
+        },
+        {
+          "id": "9777a175-8615-4bf1-9141-41f4fa3fff58",
+          "nombre": "Copa del Dios de la Espada",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-m9wbgn2845yj.html"
+            }
+          ]
+        },
+        {
+          "id": "34fdc768-c183-497f-a36f-3f3528722a1a",
+          "nombre": "El regreso de Arel a casa",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-g4doxgijk66u.html"
+            }
+          ]
+        },
+        {
+          "id": "517d5e25-d4c8-435e-8bc9-67c2a2e36e41",
+          "nombre": "Arsbell, la Ciudad de la Magia",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-b4vif8l8nn72.html"
+            }
+          ]
+        },
+        {
+          "id": "cbdc6d5b-f978-46dc-a3db-ca4dc725110c",
+          "nombre": "Instituto de Magia",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-cun7z9gt32d8.html"
+            }
+          ]
+        },
+        {
+          "id": "6b4e919e-429c-4233-9784-02df21278312",
+          "nombre": "Carrera aérea",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-s1vgvwnonox1.html"
+            }
+          ]
+        },
+        {
+          "id": "7c61de19-62b8-4480-90a8-51cf175debec",
+          "nombre": "El contrato del demonio",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-zs6cb7zclybi.html"
+            }
+          ]
+        },
+        {
+          "id": "40db8db7-5e8e-48ad-8c91-7bde524cb690",
+          "nombre": "El héroe sin clase",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-8i9kn64h4ebp.html"
+            }
+          ]
+        },
+        {
+          "id": "eb0cf2e3-89e9-49b6-b5db-37d355461dab",
+          "nombre": "El Imperio de la Emperatriz",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T14:38:21.215702",
+          "fechaActualizacion": "2026-07-29T14:38:21.215702",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-7dfreb923g6c.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
