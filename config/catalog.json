@@ -117,6 +117,16 @@
     ]
   },
   {
+    "id": "76e7d3e5-6ed0-4d57-b424-f63b60e6e5a6",
+    "nombre": "BEASTARS",
+    "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
+    "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
+    "idioma": "LAT",
+    "generos": [
+      "Drama"
+    ]
+  },
+  {
     "id": "d1c2ee16-b1f2-4a01-9160-d6d7aa3174d5",
     "nombre": "Classroom of the Elite",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/3cfe30b74b8f536931370bcd441c1276.png",
