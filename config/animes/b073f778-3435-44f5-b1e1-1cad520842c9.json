@@ -1,0 +1,283 @@
+{
+  "id": "b073f778-3435-44f5-b1e1-1cad520842c9",
+  "nombre": "Dragon Ball Daima",
+  "descripcion": "Goku y su equipo, viviendo en paz, se ven reducidos a su versión infantil por una conspiración. Su única pista apunta al \"Reino Demonio\", y un enigmático Majin llamado Glorio se presenta ante ellos.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/298acc932735d9a731ea39a3db6a613c.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "33366132-f6b0-438a-81df-99335423a84d",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "2f1f7320-0f53-4886-bef8-01d1895d2709",
+          "nombre": "Conspiración",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rqfw8bs07adt.html"
+            }
+          ]
+        },
+        {
+          "id": "c84a70af-3ee1-4a97-ae40-a305b3dc3cb6",
+          "nombre": "Glorio",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-twsicyrwz1re.html"
+            }
+          ]
+        },
+        {
+          "id": "7f36688c-de5f-45af-b898-eb5e5af2e112",
+          "nombre": "Daima",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7vnhmlf2pxc2.html"
+            }
+          ]
+        },
+        {
+          "id": "f7aa0fec-13d8-4382-8414-6095d037c0b3",
+          "nombre": "Charla",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pr9ywxb18wcz.html"
+            }
+          ]
+        },
+        {
+          "id": "96f04786-a251-435a-99cd-46bfe060f951",
+          "nombre": "Panzy",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0tkf3g5vkuz5.html"
+            }
+          ]
+        },
+        {
+          "id": "0011a9cd-0083-48c5-859f-190d665010c5",
+          "nombre": "Relámpago",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fpjhcfsnvvr6.html"
+            }
+          ]
+        },
+        {
+          "id": "84803c6a-c147-42fb-b272-c0e1bffc6aee",
+          "nombre": "Collar",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-93totqryavo1.html"
+            }
+          ]
+        },
+        {
+          "id": "2a2e68f0-c012-4ec6-b856-d1e3cbaede84",
+          "nombre": "Tamagami",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-i0i8ws3h1xj5.html"
+            }
+          ]
+        },
+        {
+          "id": "6c8ff3a4-a3a7-4dc3-9ba9-ef615848be7b",
+          "nombre": "Ladrones",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-kq073uh0h7ba.html"
+            }
+          ]
+        },
+        {
+          "id": "a43160a5-f798-4889-a408-8425eb671d79",
+          "nombre": "Océano",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-od8myzkosb7w.html"
+            }
+          ]
+        },
+        {
+          "id": "ea5aacdf-111c-4d9d-a316-33db3b06e48f",
+          "nombre": "Leyenda",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-86h49ncb33of.html"
+            }
+          ]
+        },
+        {
+          "id": "91f54c11-57da-45ee-afa5-a43a692bf019",
+          "nombre": "Verdadera fuerza",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-tbnre7ipx88q.html"
+            }
+          ]
+        },
+        {
+          "id": "8613dd10-6417-47cf-a306-213e404ab0dd",
+          "nombre": "Sorpresa",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iqaf3gekysiu.html"
+            }
+          ]
+        },
+        {
+          "id": "688f1d2c-9c25-42e9-9255-60e6f7879cad",
+          "nombre": "Tabú",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-4xda664bgxlt.html"
+            }
+          ]
+        },
+        {
+          "id": "f9d7508d-011a-4833-b8a2-8036f6e9bc7d",
+          "nombre": "Tercer Ojo",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6r6hzlbcx1hj.html"
+            }
+          ]
+        },
+        {
+          "id": "90ce8cc3-4c55-4767-8e79-25334ea0a2f9",
+          "nombre": "Degesu",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/qs5k6s8cx5st"
+            }
+          ]
+        },
+        {
+          "id": "61156f33-e322-4ff4-bc2c-3e819080f62c",
+          "nombre": "Gomah",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ndo6rqm20wqz"
+            }
+          ]
+        },
+        {
+          "id": "11a99e89-7916-449f-a695-a7a9e13803f5",
+          "nombre": "Despertar",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/v6rfi9z63h0q"
+            }
+          ]
+        },
+        {
+          "id": "d49371a5-b9cc-4580-b356-e6310540aa59",
+          "nombre": "Traición",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/v7wxhkpurlga"
+            }
+          ]
+        },
+        {
+          "id": "5f06e78f-a35d-42a5-a278-f47c27892bbc",
+          "nombre": "Máximo",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-29T11:05:06.996720",
+          "fechaActualizacion": "2026-07-29T11:05:06.996720",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/p4yla9m9796d"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
