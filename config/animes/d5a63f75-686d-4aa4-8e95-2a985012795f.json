@@ -1,0 +1,178 @@
+{
+  "id": "d5a63f75-686d-4aa4-8e95-2a985012795f",
+  "nombre": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
+  "descripcion": "Touka siempre pasó desapercibido, y ni siquiera al ser invocado a otro mundo eso cambió. Mientras sus compañeros obtenían grandes poderes, la diosa lo llamó un fracaso y lo arrojó a unas ruinas. Pero sus habilidades \"inútiles\" esconden más de lo que parece… y ahora Touka planea vengarse y mostrar su verdadero poder.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/6e758b59c9c85d9ae1a4796bd5c20bee.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "14c01465-6961-4dbf-a14a-0bc69f94d319",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "86447bb5-c90b-475f-af8c-6213348cee46",
+          "nombre": "Invocado",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/mgl2VBrJ2PcbwDM/%5BAnimeOnlineNinja%5D_Failure_Frame__I_Became_the_Strongest_and_Annihilated_Everything_with_Low-Level_Spells_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f790b02d-3929-4c54-b8f5-10d26946f6fd",
+          "nombre": "La diosa",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/4zevxMW3XGuO4x/%5BAnimeOnlineNinja%5D_Failure_Frame__I_Became_the_Strongest_and_Annihilated_Everything_with_Low-Level_Spells_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b5128c76-0c9d-4e40-867e-a0e8b19f2f97",
+          "nombre": "La Ruina Abandonada",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/Z1q0Wgb2e0IMeg/%5BAnimeOnlineNinja%5D_Failure_Frame__I_Became_the_Strongest_and_Annihilated_Everything_with_Low-Level_Spells_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "eeadc32e-a33c-4100-9441-4e30e09dd18c",
+          "nombre": "La bruja de las cenizas",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/l0mQQZ74Qdt7Xop/"
+            }
+          ]
+        },
+        {
+          "id": "ff001113-86f6-445e-992a-dc5fb82435bc",
+          "nombre": "El asesino",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/pMYagZR98LfWZ6/%5BAnimeOnlineNinja%5D_Failure_Frame__I_Became_the_Strongest_and_Annihilated_Everything_with_Low-Level_Spells_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6fde1096-b0e4-4297-9b2d-37b819e01caf",
+          "nombre": "El bosque dorado",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/V66DKVdrRQTKDRl/"
+            }
+          ]
+        },
+        {
+          "id": "68665947-f891-4648-8ed7-58720d5269b5",
+          "nombre": "El héroe enmascarado",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/dVX2q91zg6IkpOK/%5BAnimeOnlineNinja%5D_Failure_Frame__I_Became_the_Strongest_and_Annihilated_Everything_with_Low-Level_Spells_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "1ce0c1da-6524-4353-ad7e-742a1cb811b7",
+          "nombre": "El ejército del Gran Demonio",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/P6d9VoROeYu0PXo/%5BAnimeOnlineNinja%5D_Failure_Frame__I_Became_the_Strongest_and_Annihilated_Everything_with_Low-Level_Spells_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "30628f37-c103-44e9-ae3b-e80bacc064f9",
+          "nombre": "La capital real",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/qWvXZGojDVcRmj/"
+            }
+          ]
+        },
+        {
+          "id": "bd0394ed-ef08-456f-ad52-742293892d10",
+          "nombre": "La espada del juramento",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/b33aMLk3GjtPb6e/"
+            }
+          ]
+        },
+        {
+          "id": "3831b299-1ffa-4195-b3c8-24c4c92a9c7a",
+          "nombre": "El camino de la venganza",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/8zQZKJwGGOt4JQ/"
+            }
+          ]
+        },
+        {
+          "id": "8651a976-6a41-4ec3-a739-ffb20ff6dc74",
+          "nombre": "El comienzo de la aniquilación",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T11:21:16.408436",
+          "fechaActualizacion": "2026-07-29T11:21:16.408436",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/zpXMVm48eJtY3mz/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
