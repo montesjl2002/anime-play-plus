@@ -1,0 +1,179 @@
+{
+  "id": "c35f4b9f-28c6-4e53-8b3d-1cea509c0d7b",
+  "nombre": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+  "descripcion": "En un mundo donde los héroes nacen con dones poderosos, Ein recibe el más débil: la capacidad de tasar objetos. Marginado y lleno de dudas, su destino cambia al conocer a Yuri, el espíritu del Árbol del Mundo. Con la bendición del Ojo Espiritual, Ein despierta un nuevo poder y comienza un viaje para descubrir su verdadero propósito.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/38e4a801e1d4515278027882dc1dfbb1.jpg",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "e703f1ba-9b7d-48da-a69f-0d92df15cfc1",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "a94288de-b0e0-418f-8499-f14ccfd3caa6",
+          "nombre": "El nacimiento del tasador más débil",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ujv7gbefw1l9.html"
+            }
+          ]
+        },
+        {
+          "id": "6594fad0-cdf1-4b00-8e1b-8b10b3f90580",
+          "nombre": "El árbol del mundo",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-9rpvb8yx9oab.html"
+            }
+          ]
+        },
+        {
+          "id": "8a6c5bbb-44f2-4b83-9dc6-d4ca12358cc2",
+          "nombre": "El encuentro con Yuri",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-3uqixh79n6nt.html"
+            }
+          ]
+        },
+        {
+          "id": "c009abd2-c629-4437-a8f6-5f78efece2c7",
+          "nombre": "El poder de un ojo divino",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-rti0v5fgf3wv.html"
+            }
+          ]
+        },
+        {
+          "id": "03f4a4e0-6875-4ff1-8368-417c3294b9ed",
+          "nombre": "La araña demoníaca",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-kp2g935i7290.html"
+            }
+          ]
+        },
+        {
+          "id": "54d109a9-b050-4870-a2dc-bcc05b9a2680",
+          "nombre": "El bosque prohibido",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-o4cxdryr9b6e.html"
+            }
+          ]
+        },
+        {
+          "id": "cdd037f1-a974-4047-ae2f-735294bf7d0f",
+          "nombre": "El ataque de los asesinos",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-6ttk14urcin7.html"
+            }
+          ]
+        },
+        {
+          "id": "edfc119f-7005-4053-969d-cfc634112722",
+          "nombre": "La ciudad fortaleza",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-t8jggauhdjoq.html"
+            }
+          ]
+        },
+        {
+          "id": "3c8f66f0-e8c2-4a1a-938f-03010ddd284a",
+          "nombre": "El pasado de Yuri",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-guobu35pu77e.html"
+            }
+          ]
+        },
+        {
+          "id": "035fcde4-46a9-4e3f-92dd-fc87575dcad7",
+          "nombre": "La batalla decisiva",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-i5aad72zlqnx.html"
+            }
+          ]
+        },
+        {
+          "id": "36cecc7a-52a7-4128-83ea-32648b17c372",
+          "nombre": "El verdadero valor del tasador",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-us4jk3z0pzpy.html"
+            }
+          ]
+        },
+        {
+          "id": "f9d0db89-0141-4bb7-8e27-08e3de35ede1",
+          "nombre": "El tasador más fuerte del mundo",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T11:12:50.292278",
+          "fechaActualizacion": "2026-07-29T11:12:50.292278",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-dukrekd6drco.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
