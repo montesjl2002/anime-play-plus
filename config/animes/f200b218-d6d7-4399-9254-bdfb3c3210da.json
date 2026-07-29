@@ -1,0 +1,870 @@
+{
+  "id": "f200b218-d6d7-4399-9254-bdfb3c3210da",
+  "nombre": "Demon Slayer: Kimetsu no Yaiba",
+  "descripcion": "En la era Taisho de Japón, Tanjiro es un joven bondadoso que se gana la vida vendiendo carbón para ayudar a su familia. Pero su mundo se desmorona cuando, al regresar a casa, descubre que un demonio ha asesinado a todos sus seres queridos.Nezuko, su hermana menor, es la única superviviente… aunque ya no es completamente humana. Transformada en demonio, aún conserva un atisbo de humanidad.Con el corazón destrozado, Tanjiro jura convertirse en cazador de demonios. Su objetivo: encontrar una cura para Nezuko y vengarse del ser que destruyó su vida.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
+  "anio": 2019,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "2b6a81f4-8ba8-404b-bbe7-cd4d8e867e37",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d27d0698-82fa-41a0-95a0-7170ca7355ca",
+          "nombre": "Crueldad",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/A0PpoDpg6kIXPVJ/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "4bf90527-b6fb-4dda-963e-985c5c6eb942",
+          "nombre": "Sakonji Urokodaki, el instructor",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/qMQGrwGBW3fz3ld/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "53443556-ced2-4b38-81f7-d08469627929",
+          "nombre": "Sabito y Makomo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/g0olz3r667fqKLq/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "caf34292-c5ac-4621-9971-76246016f8e5",
+          "nombre": "Selección final",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/rDxQO47kKRHbpj1/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8b9cf5c8-3c49-4b9c-81da-558dc6f30393",
+          "nombre": "Mi propia espada",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ZJpeLB7VoKuqx1L/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a618f3cc-ad94-4f65-8f90-202fe0343ebb",
+          "nombre": "El espadachín acompañado de un demonio",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/GWWamROwgQHA0k/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a7b9f455-5416-4e47-bbb7-0d1f21e0bf25",
+          "nombre": "Muzan Kibutsuji",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/LLJpXpMd2ZSRpDK/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "83fd5530-399f-42c4-becc-ff77641f1dfd",
+          "nombre": "El aroma de la sangre encantadora",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/BY94lKjy7diKV6/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "768d3f99-706e-42ba-a733-45cd18a517f8",
+          "nombre": "Demonio Temari y demonio Flecha",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/zK6Bak07VoHYZK1/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a8e0e26d-0326-4fd8-8308-7971d46be5b4",
+          "nombre": "Permanecer juntos para siempre",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/YKAplYLmzYsvDJQ/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a17bf38e-e17a-4d23-9b20-084615e53e27",
+          "nombre": "La mansión Tsuzumi",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/O6r4XlApDZSZvXb/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "220078c1-c576-4c66-bfbf-a49a00b407e2",
+          "nombre": "El jabalí enseña los colmillos, Zenitsu duerme",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/2g0lmVBGYzfZL23/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "095269eb-e801-4a4d-a1af-83dc2a3211b4",
+          "nombre": "Algo más importante que la vida",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/YLedMjLk0Vuv9wk/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_13.mp4"
+            }
+          ]
+        },
+        {
+          "id": "bbd53efe-cdee-480f-9f62-c7a3b9c67d2c",
+          "nombre": "El escudo de glicinia",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/mY1k2qOqQ0fbql3/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_14.mp4"
+            }
+          ]
+        },
+        {
+          "id": "623c77ce-3e6b-4a71-818b-eacda0abad3d",
+          "nombre": "Monte Natagumo",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/G2PDBjYjP3uYXX/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_15.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c5c23dd9-a238-40c8-8d70-c547e514533d",
+          "nombre": "Dejar que alguien más siga adelante",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/JXWW7Z2RXLIJAO/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_16.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6f4edba5-16a5-4f7e-8945-308d595c18ac",
+          "nombre": "Debes dominar una sola cosa",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/wlmWxoXBXPfJv27/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_17.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b0b6d8e2-1298-4867-ab88-9c691022ce6c",
+          "nombre": "Un vínculo falso",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/9lDPmvoe9WTDyA/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_18.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c6b28fa5-3bc0-48ba-aa24-1be576c5fcf9",
+          "nombre": "Hinokami",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/8Bagw3WYGgTor0D/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_19.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b4080919-e9bd-496c-b3a5-0755ff09b1a1",
+          "nombre": "Familia improvisada",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/96rZdJgAMXhaJQr/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_20.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9ca8109b-ed1b-4897-a60d-89f584ce7e73",
+          "nombre": "Contra las reglas del cuerpo",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/eY4PXw6M6JCY4Yy/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_21.mp4"
+            }
+          ]
+        },
+        {
+          "id": "995d2ff0-3162-40a3-acb8-2147402eb1de",
+          "nombre": "El amo de la mansión",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Kg2O33yRRys0GXj/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_22.mp4"
+            }
+          ]
+        },
+        {
+          "id": "baa5149c-9d59-4f92-9be7-3a927a8f357e",
+          "nombre": "Reunión de los Pilares",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/lr1AJPVvGbFdJa/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_23.mp4"
+            }
+          ]
+        },
+        {
+          "id": "3af8322b-ca4e-4f21-99a3-821fd34637a0",
+          "nombre": "Entrenamiento de rehabilitación",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/3oKj1G7ar2hdweV/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_24.mp4"
+            }
+          ]
+        },
+        {
+          "id": "1017b607-d754-4f39-9948-803a8616470e",
+          "nombre": "Tsuguko, Kanao Tsuyuri",
+          "etiqueta": "T1 | E25",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XY2RmapowbHXD6/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_25.mp4"
+            }
+          ]
+        },
+        {
+          "id": "51d1fda5-b7da-4c3b-a355-eef3e5e58514",
+          "nombre": "Una nueva misión",
+          "etiqueta": "T1 | E26",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/qOJ0LmL9yJHzrdv/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_BD_Latino_26.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08be1266-32b0-40cf-9add-0e5dd1d6067b",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "2a35d480-64cf-4d72-a6a3-ac244845f7c9",
+          "nombre": "Llama",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/rlcqtz1372y3"
+            }
+          ]
+        },
+        {
+          "id": "805219a8-b8e0-42f4-a862-5c5ae8b6b3ce",
+          "nombre": "Sueño profundo",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.pm/e/ai31l9sb55d7u3dxtajrfg7ffbx0e8ps"
+            }
+          ]
+        },
+        {
+          "id": "18236380-8022-4cc7-a054-5fee990252a6",
+          "nombre": "Debería haber sido",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-m2vkhqsr8a5j.html"
+            }
+          ]
+        },
+        {
+          "id": "cbedb4f9-8d1f-46cb-a6c9-f509962d4734",
+          "nombre": "Insulto",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-spoab7m0h4o8.html"
+            }
+          ]
+        },
+        {
+          "id": "93a5458c-1a29-4de5-b825-d0432ddd3908",
+          "nombre": "¡Adelante!",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.pm/e/kuzo7go5c0ej1nufnvnulkned8eatgue"
+            }
+          ]
+        },
+        {
+          "id": "cf9f8c7e-ab21-4e45-af40-7f28f8de67e0",
+          "nombre": "Akaza",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.pm/e/kdwzwpgg26uopc3yl8tjp1oql1yyivud"
+            }
+          ]
+        },
+        {
+          "id": "504721e0-7176-4bf7-9af4-556424a8265e",
+          "nombre": "Enciende tu corazón",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.pm/e/wvxkihtu2y5wj0veap70l8h32ia4za81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "270b7a0b-13cf-4d08-955d-57cc49dcf6a9",
+      "numero": 3,
+      "nombre": "3ra Temporada",
+      "episodios": [
+        {
+          "id": "7f3e2606-3379-4f52-810f-81a5a84a51fa",
+          "nombre": "Resonancia sonora",
+          "etiqueta": "T3 | E1",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/ilwb89p9f5z39srcvb501q8db8iiql1v"
+            }
+          ]
+        },
+        {
+          "id": "4742d978-4f10-47ce-96c4-bdd3ac7b4425",
+          "nombre": "Infiltración al distrito del entretenimiento",
+          "etiqueta": "T3 | E2",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/xn1zqgxpa2fz3wkrehdcb74j4l1sfk9z"
+            }
+          ]
+        },
+        {
+          "id": "594124ab-832a-487d-9eae-f5772a3d8984",
+          "nombre": "¿Qué eres?",
+          "etiqueta": "T3 | E3",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/e0ejtsgt3gl7r91nbei1l991rhldsp92"
+            }
+          ]
+        },
+        {
+          "id": "8e71a7b3-4fc6-482e-ac3e-88a9f625d10d",
+          "nombre": "Esta noche",
+          "etiqueta": "T3 | E4",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/zfx0cdqo56yadjo1ubvp6wpfu9gg9tdg"
+            }
+          ]
+        },
+        {
+          "id": "db84f8ae-474a-45ff-9152-a6cb19c85c06",
+          "nombre": "¡Las cosas se volverán llamativas!",
+          "etiqueta": "T3 | E5",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/pj6w7h532tvy256vymt4q3ie864m7983"
+            }
+          ]
+        },
+        {
+          "id": "b6e3dfed-6ad9-46e6-a088-d910960fb2f7",
+          "nombre": "Capas de recuerdos",
+          "etiqueta": "T3 | E6",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/90rwykmm072fjqevwikwlz9vdn75zivf"
+            }
+          ]
+        },
+        {
+          "id": "07572a10-067f-4ebf-b7ae-9f6116f9170c",
+          "nombre": "Transformación",
+          "etiqueta": "T3 | E7",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/xo6b5jr9u3xrtt6v3qwpc51333pyq4ie"
+            }
+          ]
+        },
+        {
+          "id": "3b062125-8f5c-488a-b40f-e4aa464281f9",
+          "nombre": "Reunión",
+          "etiqueta": "T3 | E8",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/6aj9zhy408rfrwkjev2leqgtvwdzq5gh"
+            }
+          ]
+        },
+        {
+          "id": "0b416b59-c494-449b-8621-e05872fa0e87",
+          "nombre": "Derrotando a un rango superior",
+          "etiqueta": "T3 | E9",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/iapicqwl11h8zcgv1atqrbxq8vhbl8gg"
+            }
+          ]
+        },
+        {
+          "id": "11dd209c-219c-4821-a1e4-571fa4d9ce8f",
+          "nombre": "Nunca rendirse",
+          "etiqueta": "T3 | E10",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/gzdb2mf8wsgm812bs60yvfvzfcyzdbtr"
+            }
+          ]
+        },
+        {
+          "id": "2ccb0606-66fd-4fce-8f67-aff8e8b4fcf3",
+          "nombre": "No importa cuántas vidas renazcan",
+          "etiqueta": "T3 | E11",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.wf/e/jjc7g420ojxu0j99zeozkxwa2cgkjiur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a559249-9b4f-432a-bc35-9b19c340a0be",
+      "numero": 4,
+      "nombre": "4ta Temporada",
+      "episodios": [
+        {
+          "id": "b03671be-ccc7-4232-8918-046c2a9f997f",
+          "nombre": "El sueño de alguien",
+          "etiqueta": "T4 | E1",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/a2w9W6q2bKFzQ6/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "352bd059-0931-4653-8c1b-c7b94f726526",
+          "nombre": "Yoriichi Tipo Cero",
+          "etiqueta": "T4 | E2",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/3oLP9wrv0phRQ7/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b24cae79-c7d2-47e1-926a-77e8567b6692",
+          "nombre": "Una espada de hace más de 300 años",
+          "etiqueta": "T4 | E3",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/zMyv9VLWZvtY3jR/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "25a973e9-e2b3-4622-baf0-f53efe3f2f4c",
+          "nombre": "Gracias, Tokito",
+          "etiqueta": "T4 | E4",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/9BxoWJZVrqHaJYk/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "bcd1ea63-b389-4b5c-bb7a-0f4ae6c2f1be",
+          "nombre": "Espada roja brillante",
+          "etiqueta": "T4 | E5",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/4GjrLaZgzDSVvm/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0e9a63a6-8b85-46aa-9261-8217872ae651",
+          "nombre": "¿No te convertirás en un Pilar?",
+          "etiqueta": "T4 | E6",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/lkxz0gXRMLCb8X/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2712f4c9-debc-49d5-ae0c-7e7bc12c2745",
+          "nombre": "Terrible villano",
+          "etiqueta": "T4 | E7",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/MYJV8godZeHmOLv/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9ccb160d-0223-4c49-a2bc-13d3a2ea5c90",
+          "nombre": "El Mu en Muichiro",
+          "etiqueta": "T4 | E8",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ct84snglfurz.html"
+            }
+          ]
+        },
+        {
+          "id": "32e11ff6-6323-4bf8-8fd3-e983859fac15",
+          "nombre": "Niebla resplandeciente",
+          "etiqueta": "T4 | E9",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/88YwYMoP1QsMxG/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f9f86200-f796-4a67-a966-794fda066f95",
+          "nombre": "Pilar del Amor Mitsuri Kanroji",
+          "etiqueta": "T4 | E10",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/xOR1JYel42FkJRz/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b02acf98-de66-44a9-913a-e9db76b3369c",
+          "nombre": "Un vínculo unido; amanecer y primera luz",
+          "etiqueta": "T4 | E11",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/RwAzV0q2QLid3vl/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Katanakaji_no_Sato-hen_BD_Latino_11.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0265abe-4fcd-49ff-aacf-f4a72dad46a8",
+      "numero": 5,
+      "nombre": "5ta Temporada",
+      "episodios": [
+        {
+          "id": "e3d1e631-54d3-4a6a-a3ea-6c34fd05ab1f",
+          "nombre": "Para derrotar a Muzan Kibutsuji",
+          "etiqueta": "T5 | E1",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/03gqqDM4o9Fe9V/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Hashira_Geiko_Hen_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "36d53f47-3313-4195-a0cf-3c477ed39bf4",
+          "nombre": "El dolor del Pilar del Agua",
+          "etiqueta": "T5 | E2",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ov0sxczhetuj.html"
+            }
+          ]
+        },
+        {
+          "id": "bf114653-d649-4a30-93ff-5198160c9209",
+          "nombre": "Sonrisa forzada",
+          "etiqueta": "T5 | E3",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hqtrf45r7s3w.html"
+            }
+          ]
+        },
+        {
+          "id": "2ab88b50-f1c3-4860-8e92-027b88bea06c",
+          "nombre": "Llevar una sonrisa al rostro",
+          "etiqueta": "T5 | E4",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/26xwX4kgDxhZreR/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Hashira_Geiko_Hen_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7ea78abf-ecf7-46d8-818e-dcf78c423d7c",
+          "nombre": "Incluso si comes demonios…",
+          "etiqueta": "T5 | E5",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/MJ82QO3aQ9Fdqd/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Hashira_Geiko_Hen_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8a8cdb9a-cebb-4f2e-8331-2cedda9abece",
+          "nombre": "El más fuerte del Cuerpo de Exterminio",
+          "etiqueta": "T5 | E6",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xf63vjubgjqu.html"
+            }
+          ]
+        },
+        {
+          "id": "058b3ac5-ecb1-49a5-a052-9e22b4ca8148",
+          "nombre": "Roca",
+          "etiqueta": "T5 | E7",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/0BdM9vZ7wDubP3W/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Hashira_Geiko_Hen_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "14d4cc96-e957-431e-aa8e-979993de30a4",
+          "nombre": "Los pilares se reúnen",
+          "etiqueta": "T5 | E8",
+          "fechaPublicacion": "2026-07-29T10:13:04.119379",
+          "fechaActualizacion": "2026-07-29T10:13:04.119379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XdWqdaXmXqIDezy/%5BAnimeOnlineNinja%5D_Kimetsu_no_Yaiba_Hashira_Geiko_Hen_BD_Latino_08.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
