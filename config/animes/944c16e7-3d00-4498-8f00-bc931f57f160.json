@@ -1,0 +1,315 @@
+{
+  "id": "944c16e7-3d00-4498-8f00-bc931f57f160",
+  "nombre": "How Not to Summon a Demon Lord",
+  "descripcion": "Takuma Sakamoto es un jugador invencible en el MMORPG Cross Reverie, conocido como el “Señor Demonio”. Un día es invocado a un mundo paralelo con la apariencia de su avatar. Dos chicas intentan someterlo con un hechizo, pero este se revierte, y ellas acaban siendo sus esclavas.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/30317658143e7a45be534282721393c4.jpg",
+  "anio": 2018,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "9c292e01-3e6f-47d7-89f7-6e74cd6ba930",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "5eef0032-b674-4614-b5a6-440b6616ec0a",
+          "nombre": "Invocación del Rey Demonio",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/67aomzls6uan5j4otgu5tlyg0f15q8mf"
+            }
+          ]
+        },
+        {
+          "id": "cb920e5c-77a2-416b-b52e-62762b8c66f9",
+          "nombre": "La chica más fuerte",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/77bpzme2lxmivll1oxnf27qi7b30kybm"
+            }
+          ]
+        },
+        {
+          "id": "917092e6-e1c1-4a61-9e16-254c9b7d22e1",
+          "nombre": "Diversión del Rey Demonio",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/2r8rac7xvtoynx5vgnhb3n7p48kltbim"
+            }
+          ]
+        },
+        {
+          "id": "7e478370-4a21-468b-9337-06ccbb92bf8f",
+          "nombre": "Dominio del Rey Demonio",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/2xw0n63s2c1liklzl33housizcau9qol"
+            }
+          ]
+        },
+        {
+          "id": "1f643da0-9059-49de-b871-abd331df4afa",
+          "nombre": "Intriga del Rey Demonio",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/sjyvjfy0xmj5totf9nsaa8bbhty4dmoq"
+            }
+          ]
+        },
+        {
+          "id": "08b0ee3c-fb3b-48c9-8545-8dcf3d72bbc3",
+          "nombre": "Duelo del Rey Demonio",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/mkh8zajlg7msbslbr5dcrzc8y1hb4b60"
+            }
+          ]
+        },
+        {
+          "id": "3f3a0b5c-41e8-4849-ac8a-cde904bf651a",
+          "nombre": "Intercambio del Rey Demonio",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/wq00wq1i3kfxn7ogsybbad5s5adyvda1"
+            }
+          ]
+        },
+        {
+          "id": "ab8f13f8-9fff-40c5-8465-71d470582f6d",
+          "nombre": "Rey Demonio novato",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/b1xbeay85m6cp0ww7rgxmkmf8o1zog0q"
+            }
+          ]
+        },
+        {
+          "id": "133ab951-2cfb-4ee9-ac76-9c501f58cd2a",
+          "nombre": "Batalla del Rey Demonio",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/mz86tqmwqt5flyf8ur7qqqilqhqco7cb"
+            }
+          ]
+        },
+        {
+          "id": "43bd20c6-d632-4009-8ec2-e0e4ed744179",
+          "nombre": "Trampa del Rey Demonio",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/nfqr2wdp2qn5j636c0p207f34ub79dbs"
+            }
+          ]
+        },
+        {
+          "id": "1fcddc63-1767-46d0-8ef3-caad09ad5f8d",
+          "nombre": "Acto del Rey Demonio",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/8grgyjx1tqmvzlvsl90wcn5hr39skifj"
+            }
+          ]
+        },
+        {
+          "id": "310dd5f0-c46a-43e9-bc67-6948b1a1f687",
+          "nombre": "La verdadera historia del Rey Demonio",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://dood.watch/e/eqfx480nkgi2799ajhu2did1bm7rdcou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aaa393f7-d7be-485b-86c4-9523632ad132",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "969d6ae3-86e1-4bb6-bd1a-992de8ee9f82",
+          "nombre": "Rey Demonio resucitado",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/9o6DreWyRpsBxK/%5BAnimeOnlineNinja%5D_Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7f6f01ad-28b1-42a5-9573-5f619f1f5ef0",
+          "nombre": "Ritual",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/s72ee2x419xv/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_02"
+            }
+          ]
+        },
+        {
+          "id": "c63de5fe-448c-4762-a09c-092436ca11c9",
+          "nombre": "Sacerdotisa",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/qelrln305bu9/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_03"
+            }
+          ]
+        },
+        {
+          "id": "c139f6b4-99c5-4ba3-9b7d-f5c45d0c7431",
+          "nombre": "Santuario",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/0eGDKDD8j7CekW/%5BAnimeOnlineNinja%5D_Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9ca92d21-64af-4a48-8fd8-78b8947bd66e",
+          "nombre": "Fortaleza",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/qnl20lr2oi2n/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_05"
+            }
+          ]
+        },
+        {
+          "id": "fd285af7-8da8-4fd5-8f39-475cb2f89416",
+          "nombre": "El paladín",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/pw13al4vvo8u/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_06"
+            }
+          ]
+        },
+        {
+          "id": "3ec6b00e-4b24-407f-a699-34713e94e525",
+          "nombre": "Humano",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/2rnpmso8mikg/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_07"
+            }
+          ]
+        },
+        {
+          "id": "4204e4d1-5c4e-44a3-b3d9-14fde42a80c6",
+          "nombre": "Visitante",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/j62z6ufl7o9w/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_08"
+            }
+          ]
+        },
+        {
+          "id": "0e0c68de-c1a6-48fe-bce8-0d5f04190c37",
+          "nombre": "Despertar",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/9flzbm9x8y9g/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_09"
+            }
+          ]
+        },
+        {
+          "id": "14a56c60-38ab-45ee-ade5-4d7af99ce5bb",
+          "nombre": "Dios falso",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-29T15:39:21.122236",
+          "fechaActualizacion": "2026-07-29T15:39:21.122236",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filemooon.link/e/xwmn7nilixz7/_AnimeOnlineNinja__Isekai_Maou_to_Shoukan_Shoujo_no_Dorei_Majutsu_Omega_BD_10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
