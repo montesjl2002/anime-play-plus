@@ -1,0 +1,180 @@
+{
+  "id": "579e992b-a0d6-4abb-9087-b1f764d28a5d",
+  "nombre": "Clevatess",
+  "descripcion": "El dominio de Clevatess, uno de los grandes Señores de las Bestias Mágicas, comienza a tambalearse tras revivir al héroe que una vez mató y adoptar a un bebé humanoide huérfano: la última esperanza de un mundo al borde del colapso. Unidos por el destino, este trío improbable deberá enfrentar un futuro incierto… y quizás, cambiar el curso de la historia.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/dd71fcce5a6f3a5e84cf33d3c9a8830a.jpg",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "1faf1fcf-57e0-44cd-818a-ce2b52a49f8b",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "031cd549-fd47-4548-91c9-d7bb72638465",
+          "nombre": "El Monarca de las Bestias Oscuras",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-373764m163mw.html"
+            }
+          ]
+        },
+        {
+          "id": "a8acbadf-3714-4d3f-b047-615458b7c99e",
+          "nombre": "El Monarca de las Bestias Cautivo",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-y0g13t945wjr.html"
+            }
+          ]
+        },
+        {
+          "id": "64ceed7a-e670-4205-81ca-23f9dd68fb51",
+          "nombre": "El deber de un héroe",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-bwuiru9rh8zk.html"
+            }
+          ]
+        },
+        {
+          "id": "ed647da1-817c-42ef-b963-6f94a0829c3a",
+          "nombre": "Talento mágico",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0pyx7suqjnhq.html"
+            }
+          ]
+        },
+        {
+          "id": "180339f3-c5e5-4e5c-86c2-1d31aeb02a1d",
+          "nombre": "El avance de Boelate",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cqjic7v52cxv.html"
+            }
+          ]
+        },
+        {
+          "id": "28df73b5-7d5e-48ec-967c-3cc37de53b2b",
+          "nombre": "El mago que controla los insectos",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-eybs99p4vn9y.html"
+            }
+          ]
+        },
+        {
+          "id": "b374dd89-8976-42fa-966f-dae53175c6b3",
+          "nombre": "Los secretos de la magia",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-99uxuymszxct.html"
+            }
+          ]
+        },
+        {
+          "id": "6e76417b-c680-46ef-9ab1-f8198e211021",
+          "nombre": "Corriente de insectos",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pxz64rtjd5ks.html"
+            }
+          ]
+        },
+        {
+          "id": "059097c6-950d-4fcd-a2f8-debd1853f345",
+          "nombre": "El campo de batalla de Hiderat",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rl9k5adbmw77.html"
+            }
+          ]
+        },
+        {
+          "id": "d4a6cf94-598e-40b6-b8b5-d209c7ac8cd8",
+          "nombre": "Margo y Drel",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-uk3nxoufbyzm.html"
+            }
+          ]
+        },
+        {
+          "id": "7f03f0c2-f538-4481-93f8-4b4b8f2e6698",
+          "nombre": "El falso héroe",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-m182z2uqkytf.html"
+            }
+          ]
+        },
+        {
+          "id": "145da339-fee4-4442-9726-38dfdcb711b6",
+          "nombre": "El retorno del rey",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T20:38:31.994291",
+          "fechaActualizacion": "2026-07-28T20:38:31.994291",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-g0ub39qfhdzi.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
