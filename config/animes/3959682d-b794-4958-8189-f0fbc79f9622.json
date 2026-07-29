@@ -1,0 +1,180 @@
+{
+  "id": "3959682d-b794-4958-8189-f0fbc79f9622",
+  "nombre": "Chivalry of a Failed Knight",
+  "descripcion": "Para Ikki Kurogane graduarse como Caballero Mágico es algo bastante imposible. Lo consideran el peor de los Blazers, y es que aunque tiene la capacidad de materializar su alma en forma de arma, su poder mágico es realmente bajo. Por si eso no fuera suficiente, un desafortunado encuentro con la hermosa y talentosa Princesa Stella Vermillion reduce todavía más probabilidades y cambia el curso de su vida para siempre.",
+  "imagen": "https://drive.google.com/uc?export=view&id=10MWsqIIO4-uLnSpFbjjV6R4dR-gxW3y5",
+  "anio": 2015,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Fantasía",
+    "Romance"
+  ],
+  "temporadas": [
+    {
+      "id": "4ed00e8c-51aa-4d61-8165-94b851375a88",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "1794aac8-01ff-4c57-bd6e-f427b8994550",
+          "nombre": "El peor caballero I",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/Q1a4VZZXoji01V2/"
+            }
+          ]
+        },
+        {
+          "id": "372b809c-3b60-472d-8387-fb5e4ca46750",
+          "nombre": "El peor caballero II",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/2BAdMAdMgBfZ8G7/"
+            }
+          ]
+        },
+        {
+          "id": "64e86588-56f8-4079-97f2-a7d030baeaa4",
+          "nombre": "El peor caballero III",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/4D98WMvbVwHKg7B"
+            }
+          ]
+        },
+        {
+          "id": "953c1f6c-088f-47d7-b09f-eaed8edde85c",
+          "nombre": "El peor caballero IV",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/lQ6oJzdze6i7R4V"
+            }
+          ]
+        },
+        {
+          "id": "a7eafa77-9596-401e-804e-faedc8156015",
+          "nombre": "La princesa de la espada I",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-ui7mzak2t2xb.html"
+            }
+          ]
+        },
+        {
+          "id": "913d7fdc-b250-4bd4-a5c1-a86c39636d97",
+          "nombre": "La princesa de la espada II",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-smw4wscq6jr7.html"
+            }
+          ]
+        },
+        {
+          "id": "8150a9a4-8853-440f-8808-104a6adea848",
+          "nombre": "Asesino de espadachines I",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-c1ha49iipqdw.html"
+            }
+          ]
+        },
+        {
+          "id": "5cce3b88-acdd-4894-a463-b67071c4d30c",
+          "nombre": "Asesino de espadachines II",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-dfi3yvhoam59.html"
+            }
+          ]
+        },
+        {
+          "id": "40c4ac80-8de6-47d3-a089-70794cbf6e2a",
+          "nombre": "Emperador de la espada del viento I",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-r06a75i3fy35.html"
+            }
+          ]
+        },
+        {
+          "id": "03ee70da-35b7-4325-85fc-f177af0fe306",
+          "nombre": "Emperador de la espada del viento II",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-tbj2wl1widre.html"
+            }
+          ]
+        },
+        {
+          "id": "47a50df4-410c-40e4-a94e-896f24b0ce72",
+          "nombre": "Otro: El Rey de la Espada Sin Corona I",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-vdp447uzdm3s.html"
+            }
+          ]
+        },
+        {
+          "id": "025d23c2-3dc6-4efa-97a5-143baee86fcd",
+          "nombre": "Otro: El Rey de la Espada Sin Corona II",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T20:23:11.379338",
+          "fechaActualizacion": "2026-07-28T20:23:11.379338",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-9mizyw2qsgnh.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
