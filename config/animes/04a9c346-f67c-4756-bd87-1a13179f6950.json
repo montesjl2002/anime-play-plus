@@ -1,0 +1,74 @@
+{
+  "id": "04a9c346-f67c-4756-bd87-1a13179f6950",
+  "nombre": "The Frontier Lord Begins with Zero Subjects",
+  "descripcion": "Tras pasar décadas luchando en la guerra, Dias regresa como un héroe y recibe un territorio como recompensa. Sin embargo, el lugar resulta ser una inmensa llanura desolada donde parece imposible construir un futuro. Mientras intenta adaptarse a una vida lejos del campo de batalla, conocerá a Alna, una misteriosa chica con cuernos que le mostrará que esas tierras esconden secretos y un potencial mucho mayor de lo que cualquiera podría imaginar.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/29af68bb77fbdab9faaa018f7b7dbb4c.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "cf4de5b2-bce4-4e6a-a73a-59de74282d2d",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "37701bb7-6483-4355-9251-348e2be85fe1",
+          "nombre": "El señor de la frontera y la chica del cuerno azul",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/a0qdvx3a7q1r"
+            }
+          ]
+        },
+        {
+          "id": "bf37b40a-4676-46a3-8fb5-c2696fa4b267",
+          "nombre": "La primera visita del señor de la frontera",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/JKd1AqAQlQCe7e/%5BAnimeOnlineNinja%5D_The_Frontier_Lord_Begins_with_Zero_Subjects_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "bbacbea7-c5b4-45cf-a03a-5fa2803e36d8",
+          "nombre": "El señor de la frontera y el extraño mercader ambulante",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/zGXvGo0WjaCYa90/%5BAnimeOnlineNinja%5D_The_Frontier_Lord_Begins_with_Zero_Subjects_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f7c4f654-f63a-46bf-a43b-ce01b193070d",
+          "nombre": "El señor de la frontera y el señor del dominio vecino",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/a2esai8gx7v8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
