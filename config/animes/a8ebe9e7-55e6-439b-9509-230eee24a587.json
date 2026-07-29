@@ -1,0 +1,340 @@
+{
+  "id": "a8ebe9e7-55e6-439b-9509-230eee24a587",
+  "nombre": "Campfire Cooking in Another World with My Absurd Skills",
+  "descripcion": "Tsuyoshi Mukoda es un oficinista cualquiera al que de repente transportan a otro mundo. La habilidad única que obtiene al llegar a este nuevo mundo es una que parece un tanto inútil, “Supermercado Online”. Al inicio Mukoda está muy deprimido, ¡pero resulta que toda la comida moderna que puede proporcionar a este nuevo mundo con su nueva habilidad tiene algunos efectos increíbles!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/6bb16816cd77b6e7cc4f6d8a5ddc9e90.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "e2f5268c-8645-425c-ad61-b12b3b6a4a13",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d0c90d41-be55-424f-b73d-4be1fa6d6fbc",
+          "nombre": "Mi habilidad especial es inútil... ¿o no?",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6a6qy0ksmmig.html"
+            }
+          ]
+        },
+        {
+          "id": "3015a573-8a01-4ddb-a454-537d00326c03",
+          "nombre": "El lobo legendario Fenrir",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-31stk5rnc6hu.html"
+            }
+          ]
+        },
+        {
+          "id": "44f822f5-1c03-439b-b20b-4e41688244e0",
+          "nombre": "Mi habilidad es un regalo de los dioses",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hqtf59rlx7wm.html"
+            }
+          ]
+        },
+        {
+          "id": "26251f57-f397-4e62-a7a9-dfcba3cf7b61",
+          "nombre": "Estofado de res con sabor a nostalgia",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1c4exv3d7so1.html"
+            }
+          ]
+        },
+        {
+          "id": "d1aff1ec-081c-451d-9521-46230f10b922",
+          "nombre": "El viento de la diosa tiene un dulce aroma",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-t6o9ms62dlpd.html"
+            }
+          ]
+        },
+        {
+          "id": "7d370f88-106b-4ddd-b04b-1cc3d8c41203",
+          "nombre": "Crecimiento absurdo gracias a los dioses",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-f9ckqjlozyje.html"
+            }
+          ]
+        },
+        {
+          "id": "133641ee-0b07-458b-8268-8cae61e70a91",
+          "nombre": "Los lobos no conocen el lujo",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-lhqkkv8j15lo.html"
+            }
+          ]
+        },
+        {
+          "id": "418877b2-2063-4d39-9790-27b6f0bfea8d",
+          "nombre": "El jefe del bosque es un monstruo gigantesco",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ebdhai7hx3ee.html"
+            }
+          ]
+        },
+        {
+          "id": "592bc81c-1003-4362-9115-460b1c3ad56c",
+          "nombre": "Una aventura con deliciosos mariscos",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-575loy9t0nty.html"
+            }
+          ]
+        },
+        {
+          "id": "737f6db9-e4fa-4a81-9a49-33ff511e8323",
+          "nombre": "Mis dos familiares son demasiado extraordinarios",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xwu7ok33a2my.html"
+            }
+          ]
+        },
+        {
+          "id": "fe21a2b0-3d91-48db-ae10-e5be4a9bd925",
+          "nombre": "Hacer negocios es tan difícil como cocinar",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-8bnazx2hmpxl.html"
+            }
+          ]
+        },
+        {
+          "id": "8478c92a-67a5-4a69-b89f-12b97e3b493a",
+          "nombre": "Una aventura es, después de todo, una buena comida",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cffhjluqcpcd.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "51a74b4a-bf9c-46f1-b8ec-a543a1a2c70f",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "f540bbfa-3a37-416d-b67d-88600768bdbe",
+          "nombre": "El compañero nuevo es tremendo",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/4xlt407x7j16"
+            }
+          ]
+        },
+        {
+          "id": "21b678b0-5d03-4881-aa2a-384246057164",
+          "nombre": "Acepto trocear el dragón de tierra",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iz5ar36kgr32.html"
+            }
+          ]
+        },
+        {
+          "id": "8d4a8103-3268-417a-a53c-75af1ac18c2c",
+          "nombre": "Filete de dragón de tierra de tres estrellas",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-sczewpxl7bbt.html"
+            }
+          ]
+        },
+        {
+          "id": "5d97b4de-b440-470d-9074-2b2ec9743ec9",
+          "nombre": "Mazmorra con comida preparada incluida",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-u6xbvzz5miwp.html"
+            }
+          ]
+        },
+        {
+          "id": "def60455-9740-4caf-9bde-ab06b7259a05",
+          "nombre": "¿El enemigo es un monstruo o el hambre?",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cb2xc6d7mmyq.html"
+            }
+          ]
+        },
+        {
+          "id": "daf468e1-5708-4b1c-8820-6fe510f30d5e",
+          "nombre": "La tienda online sube de nivel",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ngp9261buwog.html"
+            }
+          ]
+        },
+        {
+          "id": "af40612d-4613-4ba4-af5b-3103b6818fc9",
+          "nombre": "El paraíso de los puestos callejeros",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-8gs8ak0v9zr5.html"
+            }
+          ]
+        },
+        {
+          "id": "ca3a0e05-44a4-45cd-b96f-b17e6d88dcbc",
+          "nombre": "¿El herrero sueña con una barbacoa?",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ie4yegugv7on.html"
+            }
+          ]
+        },
+        {
+          "id": "1cf9493f-d178-46f4-8eb3-856e11c4fb02",
+          "nombre": "Vacaciones con cacería incluida",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xflba3jl1pd4.html"
+            }
+          ]
+        },
+        {
+          "id": "ce34ef07-9fdb-46ab-8f59-32bb36cb53a7",
+          "nombre": "La cena empieza con solo un plato",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9lxonemhft9t.html"
+            }
+          ]
+        },
+        {
+          "id": "2e095d47-0ccf-4c16-8b3d-f09cb79dbf54",
+          "nombre": "¡¿Combate?! La gran batalla marítima",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-b2n59qt1c4qb.html"
+            }
+          ]
+        },
+        {
+          "id": "b0a7e46e-9246-4e43-950e-6860a89a5b81",
+          "nombre": "Un nuevo regreso",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-28T20:15:16.615632",
+          "fechaActualizacion": "2026-07-28T20:15:16.615632",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9c7epb9d5fjt.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
