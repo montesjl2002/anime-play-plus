@@ -1,0 +1,190 @@
+{
+  "id": "42712e62-c289-4dc3-bd9f-c2db54b73b35",
+  "nombre": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+  "descripcion": "¡Una oportunidad de regresar! Un niño acosado durante toda su vida descubre una puerta misteriosa que lo invita a un mundo lleno de magia, monstruos y artefactos invaluables. Lo más sorprendente: puede llevarse lo que quiera al regresar a la Tierra. Pero este viaje cambiará su vida para siempre.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/31eceb5185603241bf8f07e1be0f039c.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "27c29db8-2d2c-414a-9ba9-4c6939ae95f7",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "edca1daa-16f5-4cd2-af29-1f9979b92c4d",
+          "nombre": "A otro mundo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1t58xqq03u3q.html"
+            }
+          ]
+        },
+        {
+          "id": "16cda6d0-9282-4044-9e54-4e0533d2389a",
+          "nombre": "Academia Osei",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ytzcdo6tfgjh.html"
+            }
+          ]
+        },
+        {
+          "id": "24ef2607-1faa-43b5-bc18-4cb61d5d4f94",
+          "nombre": "Cambios de vida",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-b5y5gnzwm7gj.html"
+            }
+          ]
+        },
+        {
+          "id": "ac53a4d6-92e1-4756-97e5-e677dd119a98",
+          "nombre": "Un paso de valor",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/qfhsc30x401p"
+            }
+          ]
+        },
+        {
+          "id": "7017f01a-b493-45d4-a386-cfeb8ccfc991",
+          "nombre": "Familia nueva",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/rlw1tomhkbtr"
+            }
+          ]
+        },
+        {
+          "id": "9161e3f8-6d51-4274-83d2-4d70ef903137",
+          "nombre": "El sabio y la magia",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/hs8uv1bki26p"
+            }
+          ]
+        },
+        {
+          "id": "ca05d7e7-74f7-4fc5-86c9-90da14960b5f",
+          "nombre": "Un encuentro en el bosque",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/gt8k8ytxcbuc"
+            }
+          ]
+        },
+        {
+          "id": "091f759b-0257-4434-83ba-aed02087a289",
+          "nombre": "Viaje de estudios",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/54jdxyshpusk"
+            }
+          ]
+        },
+        {
+          "id": "818ffa53-f387-49b8-a0e0-468501d64fe0",
+          "nombre": "La princesa y la asesina",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/4402purvscx8"
+            }
+          ]
+        },
+        {
+          "id": "2175673c-877d-4808-8ad1-62043aa3169c",
+          "nombre": "Maestro y aprendiz",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/dli6x1je1wfr"
+            }
+          ]
+        },
+        {
+          "id": "8a395b7a-3c3f-49d9-9823-ff83a108fb14",
+          "nombre": "Hacia la capital real",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/74bORX8gg2IAkPk/%5BAnimeOnlineNinja%5D_Iseleve_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9d912c3a-e5bc-4f6f-8417-239b5aa1403a",
+          "nombre": "El agresor misterioso",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XzQRgZxbGMSDv9G/%5BAnimeOnlineNinja%5D_Iseleve_BD_Latino_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ded8b321-e35a-4ab8-9d63-e75df02dde56",
+          "nombre": "Yuya y Kaori",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-29T16:47:47.547627",
+          "fechaActualizacion": "2026-07-29T16:47:47.547627",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/fqvv2n8tz3qv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
