@@ -1,0 +1,449 @@
+{
+  "id": "2608a1e7-0133-4732-b387-5d82ee8b1a33",
+  "nombre": "The Eminence in Shadow",
+  "descripcion": "Tal cual como todos adoraban héroes en su niñez, cierto adolescente adoraba los poderes que se esconden en las sombras. Tras haber ocultado su fuerza y viviendo la vida mediocre de un mob durante el día y entrenando descontroladamente por la noche, él finalmente reencarna en un mundo diferente y gana el poder definitivo. El adolescente que solo juega a ser una eminencia en las sombras, sus subordinados confusos, y una gigante organización en las sombras que es pisoteada… Esta es la historia de un adolescente que adoraba esos poderes en las sombras y que posiblemente llegue a reinar en las sombras de otro mundo.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1skBtFymIiBPp3h4qQXhp6lDNWKQRo0MH",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Fantasía",
+    "Harem",
+    "Isekai",
+    "Parodia"
+  ],
+  "temporadas": [
+    {
+      "id": "b724768e-2047-40c8-9271-eba68f8b7edd",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "b0cc61b7-dd80-4f0a-890f-348087f2bce8",
+          "nombre": "El odiado compañero de clase",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/LO6YZwjJKVuRB4J/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "64648d2b-0ae4-43e9-b558-1027d77a1c43",
+          "nombre": "Nace el Jardín de las Sombras",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/6kpkpoXRJRilKm/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ce6ca69c-10c4-4136-9ec1-965e0e7a6b3a",
+          "nombre": "Esgrimista ordinaria",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/XYLZPGZBzAcDrO4/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b4308014-c9e3-4a6f-973a-bfa2db0eb81d",
+          "nombre": "Las recompensas del sadismo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/Pqrw8od6Gmf03wM/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "aefd2885-657a-4c79-a345-8ce63260cc83",
+          "nombre": "I am...",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/OWWyGDgpmds7gl/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a442f98f-b455-4007-819d-a5e8788e159a",
+          "nombre": "Pretendientes",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/KzPQ7GW1m1FD8x/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "309d9a22-6303-4062-b94e-b509683ad68a",
+          "nombre": "Un torneo de esgrima intrigante y derramamiento de sangre",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/QX1ooAerxqF0eXg/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c4a5e499-6616-4d62-9cea-53194759989e",
+          "nombre": "La Academia de Caballeros Oscuros bajo ataque",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/7kmpr4RL1eiMrG/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "784fe9ad-5d9a-4680-b28f-b4f427f89720",
+          "nombre": "El fin de una mentira",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/W81GLgZ67QfbPPp/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "3568c03a-273c-4272-af06-326c852eaffd",
+          "nombre": "Tierra Sagrada, ciudad del engaño",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/dVW02VpLdxS7GM/%5BAnimeOnlineNinja%5D_Kage_no_Jitsuryokusha_ni_Naritakute%21_BD_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0019f362-3d90-4080-91d0-4a47d45f1232",
+          "nombre": "La prueba de la diosa",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/LLXPlDy7R9CRq4y/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f6db2c62-11f1-4f2d-9f9b-1ffb9f8b6418",
+          "nombre": "La verdad entre los recuerdos",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/4PxDVB44pbUKKrr/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a3ec1c27-de8b-4c96-b33e-5306d299c184",
+          "nombre": "Un sangriento enfrentamiento como ofrenda a la aniquilación",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/wZ8pOVLkavcoXJ/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_13.mp4"
+            }
+          ]
+        },
+        {
+          "id": "faa170ba-fda6-471c-8fa4-44b80315903e",
+          "nombre": "Tu mentira, tu deseo",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/x3zKeqPKgpUkAM9/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_14.mp4"
+            }
+          ]
+        },
+        {
+          "id": "742abfb8-c700-4f09-a275-01290f62c06e",
+          "nombre": "El más fuerte entre los débiles",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/7GRmO9wGrrIAr7Z/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_15.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2c410311-68f5-48c8-ada2-1e8395fb1a25",
+          "nombre": "Intenciones ocultas",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/6we69ZJ1wes9Gbb/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_16.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b68d8ede-0241-4e2b-a9a9-73c1400ed0cf",
+          "nombre": "Luz de luna que atraviesa la oscuridad",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/Qk0ej8VrwBt06MX/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_17.mp4"
+            }
+          ]
+        },
+        {
+          "id": "95d7da61-18cd-49cd-b922-23ab0b24ff79",
+          "nombre": "Apostando por un momento",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/YWAwdK1L7PHvb84/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_18.mp4"
+            }
+          ]
+        },
+        {
+          "id": "ed6c17c4-1b6e-4d36-bff4-a127cbf00e8d",
+          "nombre": "Títere bailarín",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/XzPzwx4D4QfDQKG/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_19.mp4"
+            }
+          ]
+        },
+        {
+          "id": "087435ca-f5ec-43b5-a9f1-b55ee95a1d82",
+          "nombre": "Advenimiento del demonio",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/1pRM43Rx1WTLdj/%5BAnimeOnlineNinja%5D_Kage_No_Jitsuryokusha_Ni_Naritakute%21_BD_20.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bd810e6-5e25-44e9-95fb-577fc273c5a2",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "a66d807a-4a49-47ab-842a-33e1266711b8",
+          "nombre": "La ciudad sin ley",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/khoq318eo6k8"
+            }
+          ]
+        },
+        {
+          "id": "c5edf1c2-00ff-4f30-8355-82e4d6a9677f",
+          "nombre": "Luna de sangre",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-fjk9jociy1ry.html"
+            }
+          ]
+        },
+        {
+          "id": "db418adc-0e2c-4158-ad93-390f1cd1d86c",
+          "nombre": "El devorador",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-3417pxzbpz4a.html"
+            }
+          ]
+        },
+        {
+          "id": "f8276053-bc22-4860-9c01-d634118d6796",
+          "nombre": "La prisión falsa",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ct1jwonclryf.html"
+            }
+          ]
+        },
+        {
+          "id": "4a081b44-56d5-4ba6-87c9-32d3c49cd353",
+          "nombre": "Noche de locura",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-1wpyioa62du8.html"
+            }
+          ]
+        },
+        {
+          "id": "7d7fcb49-38bb-4bd6-8bf3-25c8812c3b64",
+          "nombre": "El precio de la verdad",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-hqx8yygx6g3p.html"
+            }
+          ]
+        },
+        {
+          "id": "85f33768-8249-4cb0-bc96-76f650bb1940",
+          "nombre": "El Coliseo de las Artes Marciales",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-hr7jr268if7t.html"
+            }
+          ]
+        },
+        {
+          "id": "a0fecc03-1933-4855-8eb7-ea11fada9bb2",
+          "nombre": "El dragón negro",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-0tfy39qc62io.html"
+            }
+          ]
+        },
+        {
+          "id": "747aaf07-b586-4f96-8d71-9a8ee2f65fef",
+          "nombre": "La llave",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-9yg873ghoek7.html"
+            }
+          ]
+        },
+        {
+          "id": "9c23bebb-0862-470b-b270-0330ddf21fb7",
+          "nombre": "El pájaro enjaulado",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-spczqn2mc144.html"
+            }
+          ]
+        },
+        {
+          "id": "6b75837b-2237-4731-b292-919326db76aa",
+          "nombre": "Decisión",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-dj8idglh3xsd.html"
+            }
+          ]
+        },
+        {
+          "id": "a52840ca-9412-4a6a-b88d-443c3cc95572",
+          "nombre": "Más alto",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-07-29T15:07:17.217810",
+          "fechaActualizacion": "2026-07-29T15:07:17.217810",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-6usad4p0ilxu.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
