@@ -140,6 +140,19 @@
     ]
   },
   {
+    "id": "ec8d50ef-6575-4551-9285-191087de9263",
+    "nombre": "Battle Game in 5 Seconds",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/3ab3de1e70346032d43e4235b00d2e87.jpg",
+    "descripcion": "Akira es un joven al que le encanta jugar. Por algún motivo que desconoce aparece en una sala donde le dicen que deberá pelear con poderes.",
+    "idioma": "LAT",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Sobrenatural",
+      "Thriller"
+    ]
+  },
+  {
     "id": "d1c2ee16-b1f2-4a01-9160-d6d7aa3174d5",
     "nombre": "Classroom of the Elite",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/3cfe30b74b8f536931370bcd441c1276.png",
