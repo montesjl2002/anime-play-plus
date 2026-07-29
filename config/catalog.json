@@ -107,16 +107,6 @@
     ]
   },
   {
-    "id": "1fdf6373-a229-4627-aae8-4b6fbf3e84e6",
-    "nombre": "BEASTARS",
-    "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
-    "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
-    "idioma": "LAT",
-    "generos": [
-      "Drama"
-    ]
-  },
-  {
     "id": "76e7d3e5-6ed0-4d57-b424-f63b60e6e5a6",
     "nombre": "BEASTARS",
     "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
@@ -251,7 +241,7 @@
   {
     "id": "cdacbb13-b08d-49fd-8f77-1f260a447ef6",
     "nombre": "Solo Leveling",
-    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/13ae20d389c66a1f0c8bf190a66ac9ad.png",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f2d6d93f5ba4a24bcb3b0d1322a645ff.jpg",
     "descripcion": "Conocido como el cazador más débil de la humanidad, Sung Jinwoo sobrevive por poco a una misión que termina en una masacre dentro de una mazmorra de alto rango. Al borde de la muerte, despierta un misterioso poder conocido como el Sistema, una interfaz que solo él puede ver y que le permite volverse más fuerte con cada batalla, rompiendo todas las reglas del mundo. Mientras su poder crece sin límites, Jinwoo emprende un peligroso camino para descubrir el origen de sus nuevas habilidades y los oscuros secretos que se esconden detrás de las mazmorras.",
     "idioma": "LAT",
     "generos": [
@@ -268,6 +258,17 @@
     "idioma": "JAP",
     "generos": [
       "Acción",
+      "Aventura",
+      "Fantasía"
+    ]
+  },
+  {
+    "id": "04a9c346-f67c-4756-bd87-1a13179f6950",
+    "nombre": "The Frontier Lord Begins with Zero Subjects",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/29af68bb77fbdab9faaa018f7b7dbb4c.png",
+    "descripcion": "Tras pasar décadas luchando en la guerra, Dias regresa como un héroe y recibe un territorio como recompensa. Sin embargo, el lugar resulta ser una inmensa llanura desolada donde parece imposible construir un futuro. Mientras intenta adaptarse a una vida lejos del campo de batalla, conocerá a Alna, una misteriosa chica con cuernos que le mostrará que esas tierras esconden secretos y un potencial mucho mayor de lo que cualquiera podría imaginar.",
+    "idioma": "JAP",
+    "generos": [
       "Aventura",
       "Fantasía"
     ]
