@@ -15,11 +15,6 @@
     "hash": "7cc1a958ac1a627e4de51ef2923393b1"
   },
   {
-    "id": "1fdf6373-a229-4627-aae8-4b6fbf3e84e6",
-    "version": 1,
-    "hash": "64c573063bf078141991f008942181c0"
-  },
-  {
     "id": "20151137-5817-4c3f-a83f-c09fc8b24039",
     "version": 1,
     "hash": "db0f39c7c0201f0a7932b26991050e77"
@@ -46,8 +41,8 @@
   },
   {
     "id": "42712e62-c289-4dc3-bd9f-c2db54b73b35",
-    "version": 1,
-    "hash": "6d8fbf5c5aadca778ab32a2bca8925a9"
+    "version": 2,
+    "hash": "a7eb5d99c2f7287601931120d6f1125d"
   },
   {
     "id": "4df2a96f-7b5b-4e81-b48f-3a558930ce0b",
