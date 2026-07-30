@@ -21,7 +21,7 @@
           "nombre": "Prólogo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-28T20:54:30.269971",
+          "fechaActualizacion": "2026-07-30T13:03:13.241887",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -36,7 +36,7 @@
           "nombre": "Tecnología perdida",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-28T20:54:30.269971",
+          "fechaActualizacion": "2026-07-30T13:03:13.241887",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -48,10 +48,10 @@
         },
         {
           "id": "1813ec64-ef43-471b-850f-71d3e41bb450",
-          "nombre": "Overkill",
+          "nombre": "Exterminio Total",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-28T20:54:30.269971",
+          "fechaActualizacion": "2026-07-30T13:03:13.241887",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -66,7 +66,7 @@
           "nombre": "Busca la libertad",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-28T20:54:30.269971",
+          "fechaActualizacion": "2026-07-30T13:03:13.241887",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -78,16 +78,31 @@
         },
         {
           "id": "96923c67-67a3-413a-a264-f7f950c5dfaa",
-          "nombre": "Por sus ojos",
+          "nombre": "A través de sus ojos",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-07-28T20:54:30.269971",
+          "fechaActualizacion": "2026-07-30T13:03:13.241887",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://www.mp4upload.com/embed-3icsfjl8di2q.html",
               "inicio": "183",
               "termina": "268"
+            }
+          ]
+        },
+        {
+          "id": "2982d60b-99c6-438f-abb8-3097dc818fb0",
+          "nombre": "Eftal",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-07-30T13:03:13.241887",
+          "fechaActualizacion": "2026-07-30T13:03:13.241887",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/RXPzlObwlJtdGZy/%5BAnimeOnlineNinja%5D_From_Overshadowed_to_Overpowered%EF%BC%9A_Second_Reincarnation_of_a_Talentless_Sage_06.mp4",
+              "inicio": "148",
+              "termina": "233"
             }
           ]
         }
