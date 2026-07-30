@@ -1,0 +1,75 @@
+{
+  "id": "39795f52-c079-49ce-9586-017c1d211ef7",
+  "nombre": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+  "descripcion": "Hinako Konohana parece la chica perfecta: elegante, refinada y admirada por todos. Sin embargo, lejos de las miradas ajenas, es incapaz de desenvolverse en las tareas más simples del día a día. Cuando Itsuki Tomonari comienza a cuidarla, mantener su imagen impecable se convierte en un reto constante… aunque entre ambos podría surgir algo más que una simple convivencia.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8af7f347a59650ef4416b8a92d439d33.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "JAP",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "9646affd-0fd5-47aa-a874-50ba1260cd33",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "a79cb788-2508-4f95-9362-c32c41891c51",
+          "nombre": "La señorita perfecta",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/fwl1pi9xftee"
+            }
+          ]
+        },
+        {
+          "id": "430f125d-530d-400a-85e2-9a3a9faf5694",
+          "nombre": "El primer día del cuidador",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/297r0g3h287w"
+            }
+          ]
+        },
+        {
+          "id": "7db93efc-201b-4c7c-a279-5667bcdc6084",
+          "nombre": "Reencuentro",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/tth9vspll8ku"
+            }
+          ]
+        },
+        {
+          "id": "9ac30a38-18c0-4429-a509-e391575e3e8c",
+          "nombre": "Mentiras y secretos",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/lx1vq30r65oj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
