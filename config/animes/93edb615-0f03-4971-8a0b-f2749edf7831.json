@@ -4,7 +4,7 @@
   "descripcion": "Tras una muerte misteriosa, el poderoso Rey Grey renace como Arthur Leywin en un mundo donde la magia lo gobierna todo. Conservando los recuerdos y la experiencia de su vida anterior, aprovechará su segunda oportunidad para convertirse en un mago excepcional, proteger a quienes ama y forjar un destino diferente, mientras descubre los secretos que esconde este nuevo mundo.",
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/a0c91a42fd3804b47947c35928d13cb3.png",
   "anio": 2025,
-  "estado": "Finalizado",
+  "estado": "En emisión",
   "idioma": "LAT",
   "generos": [
     "Acción",
@@ -23,7 +23,7 @@
           "nombre": "El renacimiento del rey",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -36,7 +36,7 @@
           "nombre": "El rey, bajo ataque",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -49,7 +49,7 @@
           "nombre": "Conociendo al rey",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -62,7 +62,7 @@
           "nombre": "Salvado por el rey",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -75,7 +75,7 @@
           "nombre": "La prueba del rey",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -88,7 +88,7 @@
           "nombre": "El entrenamiento del rey",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -101,7 +101,7 @@
           "nombre": "La despedida del rey",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -114,7 +114,7 @@
           "nombre": "El reencuentro del rey",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -127,7 +127,7 @@
           "nombre": "El rey enseña",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -140,7 +140,7 @@
           "nombre": "El rey desafía",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -153,7 +153,7 @@
           "nombre": "El rey se enfrenta al pasado",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
@@ -166,11 +166,174 @@
           "nombre": "El camino del rey",
           "etiqueta": "T1 | E12",
           "fechaPublicacion": "2026-08-01T15:43:31.093101",
-          "fechaActualizacion": "2026-08-01T15:43:31.093101",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
           "audios": [
             {
               "idioma": "Latino",
               "videoUrl": "https://filelions.top/embed/nmlx99qyb59k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba60bb79-1e65-4301-94f2-5211ebff0f37",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "9cf5d823-80e3-4f95-8a8b-a7548db2c0bc",
+          "nombre": "El rey comienza su aventura",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/mpw0p0ofex2x"
+            }
+          ]
+        },
+        {
+          "id": "dc1fb77a-df7c-4b8c-9762-cbcf01ad26f2",
+          "nombre": "La princesa comienza su aventura",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/KARDqJKVzah0ex8/%5BAnimeOnlineNinja%5D_The_Beginning_After_the_End_2_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c3940c6e-9451-46d0-b33d-118760cb2e6a",
+          "nombre": "El rey queda varado",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/isf0ylrcqutf"
+            }
+          ]
+        },
+        {
+          "id": "19891b3e-6c89-4468-b5fe-3d00bb7bb8b8",
+          "nombre": "El regreso del rey",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/it3h6wc6n2fb"
+            }
+          ]
+        },
+        {
+          "id": "1619b6b8-3ff1-40a8-b538-0eaaa13b1093",
+          "nombre": "Las dificultades del rey",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/wddn1l35gd9v"
+            }
+          ]
+        },
+        {
+          "id": "4136d5b6-97f1-4229-8963-8b7801f1c657",
+          "nombre": "El rey es traicionado",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ZVwRJajb0OIyY3/%5BAnimeOnlineNinja%5D_The_Beginning_After_the_End_2_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8d0298ca-16b3-4316-86f7-90a85853506e",
+          "nombre": "El rey sobrevive",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/o834722js0v0"
+            }
+          ]
+        },
+        {
+          "id": "ca50dcad-39a2-4036-a81a-82814dcf9b4a",
+          "nombre": "El día del rey en la corte",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/dc5mow7y6zh4"
+            }
+          ]
+        },
+        {
+          "id": "9599ab19-fbbf-4163-b1b4-0f2611378bdf",
+          "nombre": "La gratitud del rey",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/uqnkf8cejmnj"
+            }
+          ]
+        },
+        {
+          "id": "5d79df52-d80f-4513-9aea-25ea8adc2a7e",
+          "nombre": "El rey y la lanza",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/lppdn7dpwaob"
+            }
+          ]
+        },
+        {
+          "id": "538175a7-0029-48db-a023-25c667cdadc4",
+          "nombre": "El despertar del rey",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/5hs9ktdne2nb"
+            }
+          ]
+        },
+        {
+          "id": "40245bfa-137d-4e6d-ab8b-5c1445419e69",
+          "nombre": "El camino del rey",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-01T16:11:02.783591",
+          "fechaActualizacion": "2026-08-01T16:11:02.783591",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ouflwzba1a7q"
             }
           ]
         }
