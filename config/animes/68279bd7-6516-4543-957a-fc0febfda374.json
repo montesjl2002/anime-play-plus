@@ -1,0 +1,340 @@
+{
+  "id": "68279bd7-6516-4543-957a-fc0febfda374",
+  "nombre": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+  "descripcion": "En el mundo de la magia, el linaje, la aptitud y el esfuerzo lo son todo. Un hechicero sin sangre noble ni talento murió lamentando no haber estudiado más. Reencarnado como Lloyd, el séptimo príncipe del reino de Saloum, ahora posee un linaje poderoso, un talento prodigioso y todos sus recuerdos. Esta vez, nada le impedirá dominar la magia que antes le fue negada.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/072dd48ed0261adfe26df2435932895a.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "227b93b6-f872-4765-be29-2bcaad707376",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "03bd17ff-edfa-4619-b97d-7b85a26094e0",
+          "nombre": "Reencarné como el séptimo príncipe",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-dt99h2dnvf2n.html"
+            }
+          ]
+        },
+        {
+          "id": "b8f343bd-4342-4fe5-8728-2e2712650375",
+          "nombre": "Conocí a un aventurero",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/vrVRpleq9PC43Be/%5BAnimeOnlineNinja%5D_I_Was_Reincarnated_as_the_7th_Prince_so_I_Can_Take_My_Time_Perfecting_My_Magical_Ability_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b3c71778-d474-421f-8636-1e60dc4bcd6e",
+          "nombre": "El demonio del bosque",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-utewb9llzc5e.html"
+            }
+          ]
+        },
+        {
+          "id": "1616b4ea-fae0-490c-add3-c277a0038b09",
+          "nombre": "Una técnica de teletransportación",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ek1tluybqkgz.html"
+            }
+          ]
+        },
+        {
+          "id": "45c01d94-1a41-42f3-884e-278e6c8cdae8",
+          "nombre": "El grimorio prohibido",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/Pw2dLDjOlot01LR/%5BAnimeOnlineNinja%5D_I_Was_Reincarnated_as_the_7th_Prince_so_I_Can_Take_My_Time_Perfecting_My_Magical_Ability_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "e4846cf1-d2d6-46bc-80a3-03d4064bb766",
+          "nombre": "La magia supera a la espada",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-zum2y5fpq7zc.html"
+            }
+          ]
+        },
+        {
+          "id": "bc9005a3-0cd7-4388-b04f-f8c8bf7d3371",
+          "nombre": "Tao y el arte marcial",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-egyw7bngseux.html"
+            }
+          ]
+        },
+        {
+          "id": "50dcc4de-7f3b-4e30-bd44-43d4315cffd9",
+          "nombre": "El laboratorio secreto",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-91psjei98qxq.html"
+            }
+          ]
+        },
+        {
+          "id": "bec73d45-818a-4536-8132-77365705a014",
+          "nombre": "Jade",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-1a5eih3qbsxs.html"
+            }
+          ]
+        },
+        {
+          "id": "f0768360-7fe7-4273-9537-deb13871c294",
+          "nombre": "El poder de la sangre",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-mhv4qqai5lus.html"
+            }
+          ]
+        },
+        {
+          "id": "db9e0156-697e-4f19-805a-8a5205b9900a",
+          "nombre": "El duelo decisivo",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-07fzfoes378o.html"
+            }
+          ]
+        },
+        {
+          "id": "2275c683-d529-40fd-92f0-657c75ee0dc2",
+          "nombre": "Quiero seguir perfeccionando mi magia",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-85lcfi2ib9sq.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "438e95e5-619a-42b8-8eeb-135296f6a2ef",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "92b2e5bf-2664-4a7b-87ff-05d0971336eb",
+          "nombre": "La iglesia y la magia sagrada",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/rrZqwrYW70cbD2v/%5BAnimeOnlineNinja%5D_I_Was_Reincarnated_as_the_7th_Prince_so_I_Can_Take_My_Time_Perfecting_My_Magical_Ability_13.mp4"
+            }
+          ]
+        },
+        {
+          "id": "dbc681d4-1a67-4781-b12e-57d7eacf7658",
+          "nombre": "La hermana del séptimo príncipe",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/963OaK8y3asoKz/%5BAnimeOnlineNinja%5D_I_Was_Reincarnated_as_the_7th_Prince_so_I_Can_Take_My_Time_Perfecting_My_Magical_Ability_14.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15dc9026-6286-4d6c-90b1-3404c37ad52a",
+          "nombre": "El juicio del templo",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/2997OoQzOeuZlaV/%5BAnimeOnlineNinja%5D_Dainanaoji_15.mp4"
+            }
+          ]
+        },
+        {
+          "id": "35d572b3-af16-470c-924a-7147e8f071a9",
+          "nombre": "La magia divina",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-cypnrvllvcif.html"
+            }
+          ]
+        },
+        {
+          "id": "18490ffb-ebb2-4d2a-8125-07ff82357134",
+          "nombre": "El arzobispo",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-5myedmgithbk.html"
+            }
+          ]
+        },
+        {
+          "id": "1c5b7e78-a7c3-4535-bbdc-4bed0415f135",
+          "nombre": "El poder del ángel",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-g07p4g7neqea.html"
+            }
+          ]
+        },
+        {
+          "id": "f9f895ac-8696-4618-9d95-eeb1fd94082f",
+          "nombre": "La verdad oculta",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-az96buvl27a0.html"
+            }
+          ]
+        },
+        {
+          "id": "2684361b-f84f-4936-8361-23aa81c2d01a",
+          "nombre": "El mago más fuerte",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-3vljf61iav1i.html"
+            }
+          ]
+        },
+        {
+          "id": "930c642a-f39a-467f-9ce0-677adf725585",
+          "nombre": "El secreto del reino",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-w5tcfhtxc156.html"
+            }
+          ]
+        },
+        {
+          "id": "ec5469dd-c59f-49e5-bc5a-012c61755c1d",
+          "nombre": "La batalla contra el ángel caído",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-5ajvt4y5sar0.html"
+            }
+          ]
+        },
+        {
+          "id": "66f29e0b-2824-487b-8835-25c11514ea20",
+          "nombre": "Más allá del talento",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-fkt7h2hprxop.html"
+            }
+          ]
+        },
+        {
+          "id": "951d50e7-eaa4-43a7-953d-65b9c74c4da3",
+          "nombre": "El camino del séptimo príncipe",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-01T22:04:33.931394",
+          "fechaActualizacion": "2026-08-01T22:04:33.931394",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-slhip08469a0.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
