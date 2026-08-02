@@ -22,7 +22,7 @@
           "nombre": "La señorita perfecta",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T21:42:49.848019",
+          "fechaActualizacion": "2026-08-01T22:22:03.678034",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -35,11 +35,13 @@
           "nombre": "El primer día del cuidador",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T21:42:49.848019",
+          "fechaActualizacion": "2026-08-01T22:22:03.678034",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://filelions.top/embed/297r0g3h287w"
+              "videoUrl": "https://filelions.top/embed/297r0g3h287w",
+              "inicio": "136",
+              "termina": "221"
             }
           ]
         },
@@ -48,11 +50,13 @@
           "nombre": "Reencuentro",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T21:42:49.848019",
+          "fechaActualizacion": "2026-08-01T22:22:03.678034",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://filelions.top/embed/tth9vspll8ku"
+              "videoUrl": "https://filelions.top/embed/tth9vspll8ku",
+              "inicio": "94",
+              "termina": "179"
             }
           ]
         },
@@ -61,11 +65,13 @@
           "nombre": "Mentiras y secretos",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T21:42:49.848019",
+          "fechaActualizacion": "2026-08-01T22:22:03.678034",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://filelions.top/embed/lx1vq30r65oj"
+              "videoUrl": "https://filelions.top/embed/lx1vq30r65oj",
+              "inicio": "46",
+              "termina": "131"
             }
           ]
         },
@@ -74,11 +80,13 @@
           "nombre": "Secuéstrame",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-01T21:42:49.848019",
-          "fechaActualizacion": "2026-08-01T21:42:49.848019",
+          "fechaActualizacion": "2026-08-01T22:22:03.678034",
           "audios": [
             {
               "idioma": "SubJapones",
-              "videoUrl": "https://streamtape.com/e/z1Gkwe81zAhY39L/%5BAnimeOnlineNinja%5D_Rich_Girl_Caretaker_05.mp4"
+              "videoUrl": "https://streamtape.com/e/z1Gkwe81zAhY39L/%5BAnimeOnlineNinja%5D_Rich_Girl_Caretaker_05.mp4",
+              "inicio": "97",
+              "termina": "182"
             }
           ]
         }
