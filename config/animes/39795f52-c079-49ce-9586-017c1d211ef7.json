@@ -22,7 +22,7 @@
           "nombre": "La señorita perfecta",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-08-01T21:42:49.848019",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -35,7 +35,7 @@
           "nombre": "El primer día del cuidador",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-08-01T21:42:49.848019",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -48,7 +48,7 @@
           "nombre": "Reencuentro",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-08-01T21:42:49.848019",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -61,11 +61,24 @@
           "nombre": "Mentiras y secretos",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-07-30T12:36:15.540508",
+          "fechaActualizacion": "2026-08-01T21:42:49.848019",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/lx1vq30r65oj"
+            }
+          ]
+        },
+        {
+          "id": "8903f29a-55c9-4be2-b71c-f9b344cc0fb7",
+          "nombre": "Secuéstrame",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-01T21:42:49.848019",
+          "fechaActualizacion": "2026-08-01T21:42:49.848019",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/z1Gkwe81zAhY39L/%5BAnimeOnlineNinja%5D_Rich_Girl_Caretaker_05.mp4"
             }
           ]
         }
