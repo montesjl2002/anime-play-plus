@@ -1,0 +1,179 @@
+{
+  "id": "14e2b79c-31ee-4270-bd0e-b0ed515e6b08",
+  "nombre": "I somehow got strong by raising skills related to farming",
+  "descripcion": "A Al Wayne le encanta la agricultura, tanto que, sin darse cuenta, maximizó las estadísticas de su personaje mientras mejoraba sus habilidades agrícolas. Solo desea una vida idílica, pero con los monstruos invadiendo el reino, Al podría tener que convertirse en un héroe para cumplir su sueño.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1GgzXgm11wGdQ6u6tmxb--Ozmjr-kS_lH",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "3bd1e25b-72c1-4424-afef-e83bab68c424",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "710a5342-b962-4ac7-a03c-4f7298394a0f",
+          "nombre": "El granjero definitivo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/lPY1ZgYWpwt7r9o/%5BAnimeOnlineNinja%5D_%5BAnimo-Alonso18p%5D_Noumin_Kanren_no_Skill_-_01_%5BBD_1080p%5D.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8ea77119-1759-4c2c-899c-2310b899ee39",
+          "nombre": "El granjero y la princesa",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/qDG1k21PLOHZol/%5BAnimeOnlineNinja%5D_%5BAnimo-Alonso18p%5D_Noumin_Kanren_no_Skill_-_02_%5BBD_1080p%5D.mp4"
+            }
+          ]
+        },
+        {
+          "id": "e9979ab5-ff45-4022-8dd8-8a2b504e1946",
+          "nombre": "El granjero conoce a un dragón",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://ok.ru/videoembed/4283797408368"
+            }
+          ]
+        },
+        {
+          "id": "59c5ee9c-b30c-465d-9c59-a0352fd439a7",
+          "nombre": "El granjero salva a una princesa",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://ok.ru/videoembed/4653919177393"
+            }
+          ]
+        },
+        {
+          "id": "7a702bbb-0d0d-44f0-a720-4a76de67f57c",
+          "nombre": "El granjero y la princesa secuestrada",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://ok.ru/videoembed/4653919177393"
+            }
+          ]
+        },
+        {
+          "id": "c236a0bb-5d53-4de8-90c9-12841372ef67",
+          "nombre": "El granjero contra el rey demonio",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-mah154tux31t.html"
+            }
+          ]
+        },
+        {
+          "id": "3d4baad3-48c8-4faa-8ab9-47198344de4e",
+          "nombre": "El granjero y el festival",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=cDRMcDRTOGZhVTdRQ003WFdRK3Q1UU5hcUFkVjRlOThlcXFXY25uOWpyWjBURFlpYXJZZEdqZlpwTHd2V0JjZFYxWnNIbXY3RnpJeVZNTGx6azVtL1E9PTo61zUOya3BkV.NRWpSIcAukQ--&t=435598c55871ddfe907376b7c9387be2&op=NTEwNDA="
+            }
+          ]
+        },
+        {
+          "id": "1be45b7e-a7e1-4c07-8755-2561f3c447fb",
+          "nombre": "El granjero y la academia",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=Q2tEQ0tUMFJaU0ZkMGtFV2dwRGRGYWpXOXhrQkx6ZWhTczNTbVhKemF4TFRCWmloS2hKbGJCK3piQTBLdTF0ZTJkcWtQaURmaUR0cnB4RHdGV0I4a1E9PTo6DMKB.XxOQGn40tr1geRUHQ--&t=886f0474d9f3d6103bb0b470e6060284&op=NTEwOTg="
+            }
+          ]
+        },
+        {
+          "id": "c6ed8077-f202-4dde-a629-f33d11c7cd9b",
+          "nombre": "El granjero y la ciudad real",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=MEFLNWpBd2FSUGFSb1lRd3pZcHNWQlRscmRSZzM2dkhiNjd1RVlkZTJGQ2RveVM3WGFqZVkvYW5EMkE3elRDU0VFdk1oc0JqSDArZzNJSEt1T1BYcUE9PTo6AXW9njBDBygn3W1sEwlqoQ--&t=f6457557dd73cec2f76232e01f7b81be&op=NTExNTQ="
+            }
+          ]
+        },
+        {
+          "id": "bc7940c7-2b12-4688-b12f-ddd2c11a7266",
+          "nombre": "El granjero y el héroe",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=ZU1uZXhxVXJSTWl2eWRRQWJGY0tPdW9KcFF1K3VBd25zZFRhSklIUUY5c2xqZkhWNmc5QkhPZUJQcURaVUhCSEt1aXUwU1ZXdUN5dEVYTWdmM2o0cVE9PTo6V4ieNnQ.Hy3ji8Y5GGCVSA--&t=aad9a965fb0d93bbd865b482827d06d0&op=NTEyNjk="
+            }
+          ]
+        },
+        {
+          "id": "d9ed3522-ff05-4599-bf77-8ea68bcb4975",
+          "nombre": "El granjero y la decisión",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=aXpFWE1BYzdyejBwSU9GSnE1Y29YVVUzdzJRU0d1VWFZenhjQmZ4NmNRbERzbnlXeUF6TWlYY0lpdGpuVjA2V0dTdDExWDhyeDk5MjlDRFlvTnJVZWc9PTo61FBVwNyXftsBJRFzsUq20A--&t=a506bc97f39f1828e6a81615a79ff542&op=NTEzMzM="
+            }
+          ]
+        },
+        {
+          "id": "dd0a22d7-2ee3-4924-b61f-b167bfede436",
+          "nombre": "El granjero y una nueva vida",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-02T11:19:53.183530",
+          "fechaActualizacion": "2026-08-02T11:19:53.183530",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=MWV2ZWI1RnVUZi9lVTMvY1MwRk90Wm9WYjZEMGFGdXhvN0NCS3VtYWtBRUpIdC9JTHdpRzNVMlNET2V0ck1QYk9jK3pLOXNBdHBUUFJmcW5UdmhHMmc9PTo6PSVYW28mLtEYGxfj1zoMoA--&t=649221aa1211deab8a63e33dfea1fd63&op=NTEzODA="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
