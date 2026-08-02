@@ -1,0 +1,329 @@
+{
+  "id": "e2f999c7-6d4e-489b-8ba5-1fcd76e3c797",
+  "nombre": "Kaiju No. 8",
+  "descripcion": "La historia sigue a Kafka Hibino, un hombre de 32 años que aspira a unirse a la Fuerza de Defensa para cumplir una promesa a su amiga de la infancia, Mina Ashiro. Mientras trabaja como limpiador de Kaiju, se asocia con Reno Ichikawa, quien lo inspira a luchar por su sueño. Tras ser infectado por un Kaiju, Kafka obtiene poderes sobrehumanos y se convierte en un combatiente clave en la guerra contra estas criaturas, buscando proteger a la humanidad y ganar la confianza de sus compañeros.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/bb5785a9fe043b8331b7842068bfcb05.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Ciencia Ficción",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "74fec0d5-eb36-4842-bdbd-0d1baabccca7",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "34884e80-e127-4f56-9cd8-9b3365a80dc4",
+          "nombre": "El hombre que se convirtió en kaiju",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/n64cy2u9zuzm"
+            }
+          ]
+        },
+        {
+          "id": "155f1fcc-492b-40cb-b22f-36eee1923e5b",
+          "nombre": "El kaiju que elimina a otros kaiju",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/5e4n3d2yjz6p"
+            }
+          ]
+        },
+        {
+          "id": "080420c2-e054-44f4-bb5e-55a34c74c1a3",
+          "nombre": "Partido de revancha",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-okrdbor7ik4z.html"
+            }
+          ]
+        },
+        {
+          "id": "002c96a6-a886-4f46-bf28-b5cc132ad262",
+          "nombre": "Onda de generación 9.8",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0r8oii08l1jw.html"
+            }
+          ]
+        },
+        {
+          "id": "901b428e-57e2-4622-a6ca-35ce58c2e196",
+          "nombre": "¡Alistamiento!",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-k3dfqg50zv9a.html"
+            }
+          ]
+        },
+        {
+          "id": "5d5ae40d-16ad-41cf-a407-d6668fcb3191",
+          "nombre": "Operación de caza al amanecer en Sagamihara",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/rioc4xv6xo1j"
+            }
+          ]
+        },
+        {
+          "id": "b90fcdfa-b937-4b58-af8b-21311a994cac",
+          "nombre": "Kaiju no. 9",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2up9au34v7gv.html"
+            }
+          ]
+        },
+        {
+          "id": "042a0637-d30f-4abd-875e-c2a0a05503e1",
+          "nombre": "Bienvenido a las Fuerzas de Defensa",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/jezbojylcubl"
+            }
+          ]
+        },
+        {
+          "id": "82c247b7-2d90-41e4-97c4-0b3c42d65a0a",
+          "nombre": "Ataque a la base de Tachikawa",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rn3pwq74yxjw.html"
+            }
+          ]
+        },
+        {
+          "id": "27741681-63a1-4ccd-83e1-4fb59ccc85fd",
+          "nombre": "Expuesto",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-junki88ivas8.html"
+            }
+          ]
+        },
+        {
+          "id": "65625dea-a0b9-499c-8af7-2b0b047f17d8",
+          "nombre": "El kaiju no. 8 es capturado",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/f7az6optxs44"
+            }
+          ]
+        },
+        {
+          "id": "a46740e2-dbbc-4ed0-9a89-7814ee8515aa",
+          "nombre": "Kafka Hibino",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/8mvoyf98r6jz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a114fc25-18e2-4bde-87a8-e58aa05d03f0",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "bf4a0a88-2bf1-4297-8f55-8e7d5c83eedc",
+          "nombre": "La amenaza del Kaiju No. 9",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wlhll0u87uxg.html"
+            }
+          ]
+        },
+        {
+          "id": "edf4cc8e-311c-471e-a0ac-277bf7fb5948",
+          "nombre": "El arma Kaiju",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/jZmo1zWM3XIz8QY/%5BAnimeOnlineNinja%5D_Kaiju_No._8_Latino_14.mp4"
+            }
+          ]
+        },
+        {
+          "id": "55d7615b-887a-422d-b9ed-1819cb0f703f",
+          "nombre": "La primera división",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XxqQ7YvXjYtD8eo/%5BAnimeOnlineNinja%5D_Kaiju_No._8_Latino_15.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2b9c180d-e4da-4748-b271-555190d2564e",
+          "nombre": "El hombre más fuerte de las Fuerzas de Defensa",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-87vpxv11a6zn.html"
+            }
+          ]
+        },
+        {
+          "id": "f0a46102-f490-4701-ba5c-d71b2931a349",
+          "nombre": "La prueba",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/3aZlJlRM9RFr1y/%5BAnimeOnlineNinja%5D_Kaiju_No._8_Latino_17.mp4"
+            }
+          ]
+        },
+        {
+          "id": "256dde3a-f39d-4235-9040-1a1367df0384",
+          "nombre": "El despertar",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/bwBMxMLyxmIP0v4/%5BAnimeOnlineNinja%5D_Kaiju_No._8_Latino_18.mp4"
+            }
+          ]
+        },
+        {
+          "id": "805298be-024e-430c-82a5-2ded7d3b5bfd",
+          "nombre": "La ofensiva",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/p78f47uv2l3m"
+            }
+          ]
+        },
+        {
+          "id": "34fe014e-daec-4456-aaa8-b1b356b159b1",
+          "nombre": "La decisión",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/n3pe2yx14sp4"
+            }
+          ]
+        },
+        {
+          "id": "b1d5688d-d477-4cd8-b188-dba445343646",
+          "nombre": "Destino",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/i7p8so5w2wa8"
+            }
+          ]
+        },
+        {
+          "id": "8dfe8580-75fe-4f61-a746-8aff085345d0",
+          "nombre": "Desastres reiterados",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7v97fily477n.html"
+            }
+          ]
+        },
+        {
+          "id": "210ef8a0-326c-4807-94a8-3d6d5ce07d98",
+          "nombre": "Segunda oleada",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-02T13:26:40.958395",
+          "fechaActualizacion": "2026-08-02T13:26:40.958395",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mfa4s2j0ml72.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
