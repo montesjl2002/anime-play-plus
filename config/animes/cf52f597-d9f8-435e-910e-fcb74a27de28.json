@@ -1,0 +1,178 @@
+{
+  "id": "cf52f597-d9f8-435e-910e-fcb74a27de28",
+  "nombre": "Dark Moon: The Blood Altar",
+  "descripcion": "En la ciudad costera de Riverfield se alza la Academia Decelis, hogar de siete chicos que esconden un oscuro secreto: son vampiros. La llegada de Sooha, una estudiante que los detesta, altera su frágil equilibrio. Mientras sucesos extraños sacuden la ciudad, pecados del pasado resurgen y su mundo comienza a desmoronarse.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/9a98f89bd0d16806445e6dbdcf5c1b5d.png",
+  "anio": 2026,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "temporadas": [
+    {
+      "id": "d31e115b-430e-411c-802b-cffb25fc8d50",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "ec28076e-3302-4bf5-9cbf-e7a4b2025acb",
+          "nombre": "Luna nueva: Encuentro",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/wh0zhg07j31w"
+            }
+          ]
+        },
+        {
+          "id": "8fdcb5b0-a21f-482e-a260-f5bd6a88de97",
+          "nombre": "Luna creciente: Los lobos que cruzaron el muro",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/7p3bwz985zrn"
+            }
+          ]
+        },
+        {
+          "id": "399842a6-e3c6-4c81-b8a0-d4242908cca6",
+          "nombre": "Medialuna: Una cita para ganar terreno",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/149o6nil9luo"
+            }
+          ]
+        },
+        {
+          "id": "fa5348b6-beb3-406b-ab1c-976afc86c416",
+          "nombre": "Luna de sangre: La noche del eclipse lunar total",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/3ggn5kkyjvfi"
+            }
+          ]
+        },
+        {
+          "id": "573f6da5-0522-422d-b324-9bb35be5b767",
+          "nombre": "Cuarto creciente: Muerde mi cuello",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/zeip48b32v5b"
+            }
+          ]
+        },
+        {
+          "id": "dfa0ccf7-a148-4b90-9117-96faf58a83c3",
+          "nombre": "Luna del Cazador: Una fiesta de cumpleaños",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/lq8617tfcoal"
+            }
+          ]
+        },
+        {
+          "id": "01b569ce-1553-4fea-82db-e9fba42b0612",
+          "nombre": "Luna Azul: Como si fuera mi destino",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/602hfqjq30mu"
+            }
+          ]
+        },
+        {
+          "id": "6a0ee59c-3f1e-4908-b753-03771e18f52e",
+          "nombre": "Luna vieja: Los Señores Vampiros",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/ggma66b0fhwz"
+            }
+          ]
+        },
+        {
+          "id": "ad70a350-9442-450e-bb6a-46905323f2c9",
+          "nombre": "Luna de niebla: La niebla negra de Railgun",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/u7hl9slvgwx2"
+            }
+          ]
+        },
+        {
+          "id": "8f607d6d-d8fb-42a2-b9c8-c0605fe323c2",
+          "nombre": "Luna menguante: Pelea a muerte en Automnal",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/9lx34cdkljod"
+            }
+          ]
+        },
+        {
+          "id": "c76228f6-78c0-4a63-8fc8-3e5af7e8b25b",
+          "nombre": "Luna difusa: La sangre de Vargr",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/q783afhb0cqi"
+            }
+          ]
+        },
+        {
+          "id": "72791d4c-3ad5-4ee1-be4c-ed5fe82d7ecd",
+          "nombre": "Luna oscura: El Altar de la Luna",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-01T21:36:53.725644",
+          "fechaActualizacion": "2026-08-01T21:36:53.725644",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/f9ij0im2cmb4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
