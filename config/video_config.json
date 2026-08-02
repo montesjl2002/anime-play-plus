@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "extensions": [
     ".mp4",
     ".m3u8",
@@ -38,7 +38,8 @@
     "cloudwindow-route.com",
     "cloudwindow.live",
     "voecdn.",
-    "ugc-cdn"
+    "ugc-cdn",
+    "streamwish.top"
   ],
   "tokenPairs": [
     [
