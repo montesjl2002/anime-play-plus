@@ -1,0 +1,179 @@
+{
+  "id": "bbd189c0-858f-4a91-a9bd-8703454952ae",
+  "nombre": "Jack-of-All-Trades, Party of None",
+  "descripcion": "Traicionado por su amigo de la infancia y expulsado del Grupo del Héroe, Orhun Dura, conocido como “aprendiz de todo, maestro de nada”, decide forjar su propio camino como aventurero solitario. En su viaje enfrentará batallas épicas, enemigos mortales y aliados inesperados, hasta brillar como nadie imaginó.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/3953654a6b1e98d5a2eb0de9332f936a.png",
+  "anio": 2026,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "fd5e7339-5352-4578-bc00-695fb0f39cdf",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "99b1935b-5ba6-4331-8619-a0c0eb1e9eda",
+          "nombre": "El todoterreno vuelve a ser espadachín",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-g1gbsf52sw0i.html"
+            }
+          ]
+        },
+        {
+          "id": "ebc315a2-f4ad-41df-9c8f-dc2279d4e52f",
+          "nombre": "No hay vuelta atrás para el todoterreno",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-fcbxfv6c9kok.html"
+            }
+          ]
+        },
+        {
+          "id": "2bb85520-345f-441a-8193-f69812872bd8",
+          "nombre": "El todoterreno expresa sus ideales",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-nmwve0tio0m9.html"
+            }
+          ]
+        },
+        {
+          "id": "7e5f6d4b-70ba-4e2c-a203-10f7e615d1a7",
+          "nombre": "El grupo del héroe mira al pasado",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-rs6ph9yt7e23.html"
+            }
+          ]
+        },
+        {
+          "id": "638d6157-967b-49e0-a7f6-3848571d1b18",
+          "nombre": "Los malos presentimientos del todoterreno se hacen realidad",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/ZKVOe9AvjvcqDkp/%5BAnimeOnlineNinja%5D_Jack-of-All-Trades%2C_Party_of_None_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "003b8472-7934-488c-8a6e-8f312b58944d",
+          "nombre": "El todoterreno supera sus límites",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/kj25hn8gysgm"
+            }
+          ]
+        },
+        {
+          "id": "3734b920-4648-4f81-abcc-23d28c4078d0",
+          "nombre": "El todoterreno sigue sus sentimientos",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/gYlQ2M8kpbHG62/%5BAnimeOnlineNinja%5D_Jack-of-All-Trades%2C_Party_of_None_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16c0443e-5371-4365-917a-17b469973c92",
+          "nombre": "El todoterreno lucha junto a todos",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-vmx2au0inmae.html"
+            }
+          ]
+        },
+        {
+          "id": "c29ced38-4325-40e0-8c27-384ebbd28bf0",
+          "nombre": "La inquietud del todoterreno",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ptrysob9i667"
+            }
+          ]
+        },
+        {
+          "id": "64757981-bd1e-49b1-99fa-5775303cade1",
+          "nombre": "El todoterreno obliga a todos a entrenar",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ebacbrf54eds"
+            }
+          ]
+        },
+        {
+          "id": "b67e7df3-f695-4059-b01c-ca2fc27648f4",
+          "nombre": "El todoterreno teme por sus compañeros",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-bk4lbhujsv9t.html"
+            }
+          ]
+        },
+        {
+          "id": "b7373e05-01a1-4a0e-9a1c-fe733e3a4687",
+          "nombre": "El todoterreno protege a sus compañeros",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-02T12:25:38.213087",
+          "fechaActualizacion": "2026-08-02T12:25:38.213087",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/BvDWv6ApYxFydxp/%5BAnimeOnlineNinja%5D_Jack-of-All-Trades%2C_Party_of_None_12.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
