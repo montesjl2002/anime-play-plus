@@ -21,7 +21,7 @@
           "nombre": "El señor de la frontera y la chica del cuerno azul",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-08-01T21:40:08.793371",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -34,7 +34,7 @@
           "nombre": "La primera visita del señor de la frontera",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-08-01T21:40:08.793371",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -47,7 +47,7 @@
           "nombre": "El señor de la frontera y el extraño mercader ambulante",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-08-01T21:40:08.793371",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -60,11 +60,24 @@
           "nombre": "El señor de la frontera y el señor del dominio vecino",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-07-29T09:40:01.657883",
+          "fechaActualizacion": "2026-08-01T21:40:08.793371",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/a2esai8gx7v8"
+            }
+          ]
+        },
+        {
+          "id": "2b6ad9eb-4ab2-4de3-9854-8563fb94629d",
+          "nombre": "El señor de la frontera y los asaltantes del desierto",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-01T21:40:08.793371",
+          "fechaActualizacion": "2026-08-01T21:40:08.793371",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/aktuysdy2apu"
             }
           ]
         }
