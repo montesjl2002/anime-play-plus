@@ -1,0 +1,180 @@
+{
+  "id": "c18aca4f-2f41-402f-bee1-ef8cfb076e97",
+  "nombre": "I'm the Evil Lord of an Intergalactic Empire!",
+  "descripcion": "Liam renace en un imperio interestelar decidido a convertirse en el mayor villano de la galaxia. Sin embargo, sus malvados planes solo traen paz, prosperidad... y admiradores. Magia, mechas y caos galáctico en una comedia donde ser malo nunca salió tan bien.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/2196f0b95a8044195c0d31081daf9157.jpg",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Comedia",
+    "Ciencia Ficción"
+  ],
+  "temporadas": [
+    {
+      "id": "979d2ae7-ec46-4599-8503-a4f8ad5a61ab",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "8bef0226-98f8-4e94-a3b7-d3fbf9f23a4f",
+          "nombre": "Venganza",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ips10havn2jn.html"
+            }
+          ]
+        },
+        {
+          "id": "31552fc9-da43-48a2-8ccc-f128c26f63a8",
+          "nombre": "Renacimiento",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-qjurl4p3qlqz.html"
+            }
+          ]
+        },
+        {
+          "id": "08a7b258-20e9-481e-b19d-ab30a63a8e21",
+          "nombre": "El Camino del Destello",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/h2c4mgvs92h6"
+            }
+          ]
+        },
+        {
+          "id": "fc6047a4-5f93-4da3-8844-9d2ebeaec90d",
+          "nombre": "Primera batalla",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-s6yzzhueyv91.html"
+            }
+          ]
+        },
+        {
+          "id": "2b689d2d-3c9f-4f48-833d-f5a785703de4",
+          "nombre": "Trampa de seducción",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-7c2ddjc465fe.html"
+            }
+          ]
+        },
+        {
+          "id": "8d05cad1-b340-434b-8dfd-b298ea757511",
+          "nombre": "La isla del tesoro",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/2rdwut3hbieb"
+            }
+          ]
+        },
+        {
+          "id": "4fe5997c-cc6a-4e1c-a851-c65b02873030",
+          "nombre": "La princesa caballero",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-4felg988hx48.html"
+            }
+          ]
+        },
+        {
+          "id": "a937a6a5-034e-421c-82c9-4e959c25f48a",
+          "nombre": "Proyecto Harén",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-8lhht4jkoch1.html"
+            }
+          ]
+        },
+        {
+          "id": "ab486218-e9f4-4a9c-9134-a7cff8449761",
+          "nombre": "Una producción masiva de criadas",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-aeqwquyu2qrj.html"
+            }
+          ]
+        },
+        {
+          "id": "0e006624-98d6-4b19-b355-046ab138a6d3",
+          "nombre": "La batalla decisiva",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-7ow2p3lb4gsw.html"
+            }
+          ]
+        },
+        {
+          "id": "2f532b5b-a8ba-4794-a1d1-3144085221f7",
+          "nombre": "El señor malvado",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-nazywn1wft9o.html"
+            }
+          ]
+        },
+        {
+          "id": "05e5cd01-3599-42ac-a0e1-a58028155caf",
+          "nombre": "La familia",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-02T11:39:14.202160",
+          "fechaActualizacion": "2026-08-02T11:39:14.202160",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-wu64ftwbtc2o.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
