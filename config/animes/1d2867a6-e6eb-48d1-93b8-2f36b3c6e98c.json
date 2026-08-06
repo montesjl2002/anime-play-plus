@@ -1,0 +1,74 @@
+{
+  "id": "1d2867a6-e6eb-48d1-93b8-2f36b3c6e98c",
+  "nombre": "Love of kill",
+  "descripcion": "Chateau, una cazarrecompensas, se enfrenta a Ryang-Ha, un letal asesino. Lo que debía ser un encuentro hostil toma un giro inesperado cuando Ryang-Ha se obsesiona con ella y comienza a seguirla. A medida que su relación evoluciona, ambos se ven envueltos en peligrosas intrigas ligadas al oscuro pasado de Chateau.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/dca123d2c28dd98a07b5bbd36ed8ae99.jpe",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Drama",
+    "Thriller"
+  ],
+  "temporadas": [
+    {
+      "id": "5d711805-cf87-4a12-9542-18573524f8f6",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "eaf8b067-897a-495f-86ca-fa491b9d797f",
+          "nombre": "¿Cómo te llamas?",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T09:33:15.172862",
+          "fechaActualizacion": "2026-08-06T09:33:15.172862",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filemooon.link/e/op11kchj6m5o/_AnimeOnlineNinja__Koroshi_Ai_BD_Latino_01"
+            }
+          ]
+        },
+        {
+          "id": "ff21d214-6349-44fc-80f9-7b0aa007000d",
+          "nombre": "Objetivo",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T09:33:15.172862",
+          "fechaActualizacion": "2026-08-06T09:33:15.172862",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-i453huimpit4.html"
+            }
+          ]
+        },
+        {
+          "id": "d0209d4f-5329-4ccf-89dd-81e022d6f4a5",
+          "nombre": "Cuarto",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T09:33:15.172862",
+          "fechaActualizacion": "2026-08-06T09:33:15.172862",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wie8kaocwja7.html"
+            }
+          ]
+        },
+        {
+          "id": "d896a380-2bdc-4c92-a545-4b749eb0ac8b",
+          "nombre": "Cara real",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T09:33:15.172862",
+          "fechaActualizacion": "2026-08-06T09:33:15.172862",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-f7ejw97xrj69.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
