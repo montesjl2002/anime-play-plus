@@ -1,0 +1,342 @@
+{
+  "id": "10e2791e-43e0-45db-8375-c80f79d219ad",
+  "nombre": "Mashle: Magic and Muscles",
+  "descripcion": "En un mundo donde la magia es común, Mash Burnedead, un joven que no puede usar magia, entrena en secreto en un bosque. Tras un intento de asesinato por su falta de poder mágico, acaba inscrito en una escuela mágica, donde su meta es convertirse en el \"Iluminado Divino\", el alumno más destacado. A pesar de su falta de magia, ¿podrán sus músculos superar a los magos más poderosos? ¡Una historia de magia y fantasía donde la fuerza desafía la magia!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f7dfe109de592c6dd9a78dc75ec1965b.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia",
+    "Fantasía",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "4324c1af-4770-4341-96c2-897d3b83591d",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "43db3324-a123-4797-8b8e-7bbb6731b0dc",
+          "nombre": "Mash Burnedead y el mundo de la magia",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/r4PDyoXY7xTbmlV/%5BAnimeOnlineNinja%5D_MASHLE_MAGIC_AND_MUSCLES_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "14c23dc6-17fa-44d4-96f5-b7293105c883",
+          "nombre": "Mash Burnedead y el desayuno mágico",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/KJ3WZ2R7aQt06bV/%5BAnimeOnlineNinja%5D_MASHLE_MAGIC_AND_MUSCLES_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "91e10ee4-de2b-47cd-99bb-c2a48ab31603",
+          "nombre": "Mash Burnedead y el desafío del matón",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/fn85wrr3lk39"
+            }
+          ]
+        },
+        {
+          "id": "12072559-2e8e-44c8-9fc0-cfd4167338c2",
+          "nombre": "Mash Burnedead y el desafío del examen de admisión",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/3sw61fx9obqv"
+            }
+          ]
+        },
+        {
+          "id": "7d33b06f-b73a-44d0-83a5-321c71ff3aba",
+          "nombre": "Mash Burnedead y el combate de las varitas mágicas",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/m2orqq7n6tmi"
+            }
+          ]
+        },
+        {
+          "id": "1208cfec-fc95-43ab-9716-d8429ddea61e",
+          "nombre": "Mash Burnedead y la clase de magia",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/9oRB0JQ6zMtoXV/%5BAnimeOnlineNinja%5D_MASHLE_MAGIC_AND_MUSCLES_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "39cb1dfd-945c-44c7-99f5-109b0622474a",
+          "nombre": "Mash Burnedead y el tío de los dulces",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/ul4bll3hd184"
+            }
+          ]
+        },
+        {
+          "id": "d1ef2290-2bf8-44b4-a083-dd2091e88c41",
+          "nombre": "Mash Burnedead y la gran prueba",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/KQ0w6QZQe1S0ZY1/%5BAnimeOnlineNinja%5D_MASHLE_MAGIC_AND_MUSCLES_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8d7166d6-fd16-48b3-91c9-6fe9a4c4808f",
+          "nombre": "Mash Burnedead y el examen de selección",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/y25pt9se7u67"
+            }
+          ]
+        },
+        {
+          "id": "bdd65e1d-7a17-4cb5-9f0e-2a117f5de8bb",
+          "nombre": "Mash Burnedead y el rival más fuerte",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/pomlh9fpspz9"
+            }
+          ]
+        },
+        {
+          "id": "3b604783-1745-41ad-9c70-6c45941802fc",
+          "nombre": "Mash Burnedead y la batalla contra Abel",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/XjKP9a6rRohD6yl/%5BAnimeOnlineNinja%5D_MASHLE_MAGIC_AND_MUSCLES_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "53be6a55-8619-4fd0-99de-4e971772ced0",
+          "nombre": "Mash Burnedead y el mundo mágico",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/PDB1lPlJ4etxre/%5BAnimeOnlineNinja%5D_MASHLE_MAGIC_AND_MUSCLES_Latino_12.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fa75865-1ab9-47e0-8aad-82d981e0315d",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "f6f03ddb-dd83-41eb-b83f-6213b3318ecc",
+          "nombre": "Mash Burnedead y el candidato a Visionario Divino",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/g5kolarwwpow"
+            }
+          ]
+        },
+        {
+          "id": "4bfd2430-e910-410d-ab30-98328a986fe1",
+          "nombre": "Mash Burnedead y el poder de la magia oscura",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/0dyrcu7tx0qa"
+            }
+          ]
+        },
+        {
+          "id": "452b3d53-3ac1-405f-913b-304cbf36928a",
+          "nombre": "Mash Burnedead y el juego de la muerte",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/jimmfjhjjvo7"
+            }
+          ]
+        },
+        {
+          "id": "e09e27a9-815e-41a4-acdd-22511b862022",
+          "nombre": "Mash Burnedead y el desafío del examen final",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/11cz2dunypkl"
+            }
+          ]
+        },
+        {
+          "id": "956c5584-908f-498e-8492-186bb36ab4f0",
+          "nombre": "Finn Ames y el amigo que no puede abandonar",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/6p65usovc0fo"
+            }
+          ]
+        },
+        {
+          "id": "534d71e0-2d0c-4692-b803-dd6a5e2e6620",
+          "nombre": "Mash Burnedead y la magia de la memoria",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/36nquir6agec"
+            }
+          ]
+        },
+        {
+          "id": "5fe7995c-652e-4468-9122-3aa6907f2c74",
+          "nombre": "Mash Burnedead y el líder de los Visionarios Divinos",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/debrwc9xj6ax"
+            }
+          ]
+        },
+        {
+          "id": "84167b90-54af-4176-98cc-ad6367a64297",
+          "nombre": "Mash Burnedead y el examen de selección final",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/dpjgocw7u0sr"
+            }
+          ]
+        },
+        {
+          "id": "1cb188e4-96b4-4d71-8749-a69f250cabf8",
+          "nombre": "Mash Burnedead y la batalla contra Innocent Zero",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/2oe1rvf3p0sc"
+            }
+          ]
+        },
+        {
+          "id": "dc930165-a64e-4c4c-a031-90887a911a6f",
+          "nombre": "Mash Burnedead y el poder del músculo",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/b0j2bh0ju5v2"
+            }
+          ]
+        },
+        {
+          "id": "e8b6061b-4013-4851-97c6-32cdbdbda459",
+          "nombre": "Mash Burnedead y la verdadera fuerza",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/dxy9zqammm4x"
+            }
+          ]
+        },
+        {
+          "id": "9dd3fba5-7ea3-448b-ba18-22ac8409e6df",
+          "nombre": "Mash Burnedead y el final del examen",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-06T10:16:45.518461",
+          "fechaActualizacion": "2026-08-06T10:16:45.518461",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/5piqfaugoijm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
