@@ -1,0 +1,177 @@
+{
+  "id": "ae23c353-2458-4f08-b753-40832a95c7f0",
+  "nombre": "Re:Monster",
+  "descripcion": "Tras morir prematuramente, Tomokui Kanata reencarna como un goblin con un apetito insaciable. Gracias a una habilidad que lo hace más fuerte al devorar, rápidamente asciende desde la debilidad hasta convertirse en líder. Con recuerdos de su vida pasada y un nuevo cuerpo, está listo para devorar este mundo fantástico.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/75fb5381b1920b997f926ba04593824b.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "e1a20bde-3b3a-4765-8d8f-86d5eba1aaab",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d5decfb3-e0f6-4e05-8a97-8c86fcdf2a97",
+          "nombre": "Re:Nacimiento",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0t1x5zivzpox.html"
+            }
+          ]
+        },
+        {
+          "id": "ae653f85-d382-47f3-be85-33364a43e16d",
+          "nombre": "Re:Despertar",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://mp4upload.com/embed-zcuxjdmn9d02.html"
+            }
+          ]
+        },
+        {
+          "id": "4c88651d-c89c-4a29-9b5e-725951ea99ab",
+          "nombre": "Re:Uso",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-theijqraz4xs.html"
+            }
+          ]
+        },
+        {
+          "id": "3214a3df-9493-4bdc-97fc-36ff8291f4a4",
+          "nombre": "Re:Evolución",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-p587uoyp2w1o.html"
+            }
+          ]
+        },
+        {
+          "id": "15b4f294-fe51-4f72-88f7-12ef4b67d426",
+          "nombre": "Re:Tribu",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wdtdqr6awruw.html"
+            }
+          ]
+        },
+        {
+          "id": "75b05adb-c2a5-4b6e-93a1-3471d12bdd9c",
+          "nombre": "Re:Organización",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-brszvuz0ll7a.html"
+            }
+          ]
+        },
+        {
+          "id": "bd101182-5854-4e81-8389-dc5d912113e3",
+          "nombre": "Re:Aventura",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-s85lv3hu6inr.html"
+            }
+          ]
+        },
+        {
+          "id": "f06d9450-18bb-480e-b248-70c0b6860a87",
+          "nombre": "Re:Ciudad",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ss38bq3bfvwu.html"
+            }
+          ]
+        },
+        {
+          "id": "efdcd227-9a46-47fd-8ae1-f6f8bede15d0",
+          "nombre": "Re:Duelo",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-p5s9mmusqczz.html"
+            }
+          ]
+        },
+        {
+          "id": "7e1a894f-671f-433b-910f-e0fae8f7ee83",
+          "nombre": "Re:Batalla",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/xl7h57wa36fk"
+            }
+          ]
+        },
+        {
+          "id": "90813c3a-8638-47f9-b02a-b1d43546a627",
+          "nombre": "Re:Desafío",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/pzi2zv6t8vwa"
+            }
+          ]
+        },
+        {
+          "id": "ad4f8bc7-0d84-44bb-a669-5c9064b20270",
+          "nombre": "Re:Comienzo",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T14:53:43.406014",
+          "fechaActualizacion": "2026-08-06T14:53:43.406014",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/e66ci3ptgln2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
