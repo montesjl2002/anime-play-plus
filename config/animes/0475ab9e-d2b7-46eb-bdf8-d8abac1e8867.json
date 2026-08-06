@@ -1,0 +1,343 @@
+{
+  "id": "0475ab9e-d2b7-46eb-bdf8-d8abac1e8867",
+  "nombre": "Seirei Gensouki: Spirit Chronicles",
+  "descripcion": "Un joven con recuerdos de dos vidas enfrenta su destino en un mundo de magia y espadas. Tras perder a su madre y crecer en los suburbios, Rio recupera los recuerdos de Haruto, un estudiante japonés fallecido en un accidente. Así descubre que ha reencarnado en una nueva realidad, donde pasado y presente se entrelazan.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b660009a87462001a52ff9aa8d114726.jpg",
+  "anio": 2021,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "2bd5ff4a-c81c-422e-907f-5fecc35d2d14",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "fe224191-1159-4a26-84d7-52c83332ae09",
+          "nombre": "Encuentro en otro mundo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rp2wznf250dn.html"
+            }
+          ]
+        },
+        {
+          "id": "5707dccc-2910-401c-9bb9-6fb9e2b6552c",
+          "nombre": "El príncipe del Reino de Beltrum",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pg4pq8qsvhbs.html"
+            }
+          ]
+        },
+        {
+          "id": "8b0c4cb0-6594-4b2f-9cde-b2b875e0372f",
+          "nombre": "El bosque de los espíritus",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1z435b915wb4.html"
+            }
+          ]
+        },
+        {
+          "id": "c2c0576e-af4e-453d-b8db-e7daffe568ff",
+          "nombre": "La aldea de los espíritus",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-qmnmfefwx62q.html"
+            }
+          ]
+        },
+        {
+          "id": "d1cd71a4-018e-4846-8fec-f20f36013ea6",
+          "nombre": "El encuentro con la heroína",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-kn8d6jl3z5rn.html"
+            }
+          ]
+        },
+        {
+          "id": "a06fed55-6c39-41ba-a98d-04467db04a8f",
+          "nombre": "La decisión de Rio",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-eggxlab8zekf.html"
+            }
+          ]
+        },
+        {
+          "id": "7689566d-8e1d-4397-bdbb-1d2caf5b5b9f",
+          "nombre": "La promesa del pasado",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-kje3rakv22me.html"
+            }
+          ]
+        },
+        {
+          "id": "693d28a7-ab38-4daf-bf06-00521c34589a",
+          "nombre": "El viaje hacia el reino",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/y4houfuh2n4b"
+            }
+          ]
+        },
+        {
+          "id": "065323bc-97e3-419d-8bfa-c46d6d9a900b",
+          "nombre": "Cada uno de sus sentimientos",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-gj4k7stm9oxv.html"
+            }
+          ]
+        },
+        {
+          "id": "344b5194-1e12-4f08-84b2-244903bd02a2",
+          "nombre": "La determinación de un héroe",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/pbZVwR8KMGFrZqP"
+            }
+          ]
+        },
+        {
+          "id": "cc136a9f-a52e-4391-9843-3b200d96fa47",
+          "nombre": "La reunión inesperada",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ekq4zr3a2miYWev/%5BAnimeOnlineNinja%5D_Seirei_Gensouki_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "89ff3ae7-3f12-41b9-9150-c113843fc1e1",
+          "nombre": "El regreso del héroe",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/oGLprZyAxlTJ2QD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cde72c95-9489-442f-87b8-082336c85842",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "42262959-6122-4ddb-9334-caa292485fae",
+          "nombre": "El encuentro con la princesa",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-j1mazw1cb2ea.html"
+            }
+          ]
+        },
+        {
+          "id": "f89f54aa-5b2f-4298-9e44-7d52b87307c6",
+          "nombre": "La nueva vida de Rio",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wp0w3o51xk3y.html"
+            }
+          ]
+        },
+        {
+          "id": "4eb26b2b-d3f4-4bd5-b0b4-4ef69066c4a7",
+          "nombre": "La Academia Real",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0ypjtnvq8c03.html"
+            }
+          ]
+        },
+        {
+          "id": "45f175c6-b9bd-4d7f-a0e4-981adc3abe97",
+          "nombre": "El vínculo de los espíritus",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/l79eh1gmre2q"
+            }
+          ]
+        },
+        {
+          "id": "3f9914ba-342c-49c6-8b94-ade22b1f0c7c",
+          "nombre": "La batalla en el reino",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0uc433wme6v9.html"
+            }
+          ]
+        },
+        {
+          "id": "57846fb2-16bf-4ddb-886b-5a943b53cb85",
+          "nombre": "Una reunión después de mucho tiempo",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/pwfw4gamdxnn"
+            }
+          ]
+        },
+        {
+          "id": "13465a14-c12c-4477-90ea-445f5a550f0a",
+          "nombre": "La verdad oculta",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-gqk87e4j3yvp.html"
+            }
+          ]
+        },
+        {
+          "id": "c9d53609-5d30-4890-bdcd-96180dd38b5e",
+          "nombre": "La decisión de los compañeros",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/xqpgx23oqvdg"
+            }
+          ]
+        },
+        {
+          "id": "109f926c-0718-4f5f-9778-b33cd3c9076c",
+          "nombre": "El camino del héroe",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1pias2j1e292.html"
+            }
+          ]
+        },
+        {
+          "id": "95870a03-1ac8-4579-9aee-92350ce4a36e",
+          "nombre": "Una amenaza creciente",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mm2yyvv0rx8a.html"
+            }
+          ]
+        },
+        {
+          "id": "d6169d3d-4458-4b76-bcb5-dc672e6a92fa",
+          "nombre": "El destino de los espíritus",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zb1w3iymnu40.html"
+            }
+          ]
+        },
+        {
+          "id": "80f6960e-c92b-4eb1-ba4b-3e39bc1bc44d",
+          "nombre": "El comienzo de una nueva leyenda",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-06T16:26:00.496309",
+          "fechaActualizacion": "2026-08-06T16:26:00.496309",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/9m01awboljss"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
