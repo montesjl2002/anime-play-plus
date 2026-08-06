@@ -1,0 +1,504 @@
+{
+  "id": "bbc79c2a-ee45-4d65-84e8-a8e4c2252929",
+  "nombre": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+  "descripcion": "Tras morir en un accidente, despierto junto a un lago... ¡convertido en una máquina expendedora! No puedo moverme ni hablar con normalidad, y solo funciono como lo haría una máquina real. ¿Cómo se supone que voy a sobrevivir en una mazmorra de fantasía así?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/1dde6005c282ca55ea49c3e68cb81882.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "fc528759-80b3-4d87-af7b-112b7d89d88d",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "4fcc7840-d2ee-4c20-8305-5c5ce3236144",
+          "nombre": "Un fanático de las máquinas expendedoras muere",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/VXYAyWarA8sKL3d/%5BAnimeOnlineNinja%5D_Reborn_as_a_Vending_Machine%2C_I_Now_Wander_the_Dungeon_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a99646cd-a27c-42ca-bd88-876d8ff64965",
+          "nombre": "Conocí a una chica",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/lkjgogasdh5r"
+            }
+          ]
+        },
+        {
+          "id": "6658e947-4132-4fee-9c0e-92254d43dcfe",
+          "nombre": "La máquina expendedora sale de cacería",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://embedwish.com/e/e6uvo22rbh6w"
+            }
+          ]
+        },
+        {
+          "id": "c36a64c3-d713-4837-b3f5-fa908980db9d",
+          "nombre": "Un ataque de monstruos",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/o5u5pds8nslr"
+            }
+          ]
+        },
+        {
+          "id": "3e995a09-c221-4552-b23d-b887d9141b48",
+          "nombre": "La máquina expendedora y el príncipe rana",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-67rrsfuqmfkh.html"
+            }
+          ]
+        },
+        {
+          "id": "6bd1c2ad-fcf6-4565-a42e-7e9744134ab5",
+          "nombre": "Un combate de máquinas expendedoras",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/33auxsb1t4v0"
+            }
+          ]
+        },
+        {
+          "id": "60a7b068-17fc-4f73-92cb-c6c10829b6dc",
+          "nombre": "El gran ingeniero de alimentos",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0cs8dtxwu8st.html"
+            }
+          ]
+        },
+        {
+          "id": "8f42d40e-6270-46d5-ba4a-ac585929e309",
+          "nombre": "El grupo de los glotones",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-t3ezn2m9bw36.html"
+            }
+          ]
+        },
+        {
+          "id": "37a54730-0bbb-4450-9a69-51a890beea24",
+          "nombre": "Menos mal que es una máquina expendedora",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-icr0t319q8op.html"
+            }
+          ]
+        },
+        {
+          "id": "b4bf27e8-be3b-4a74-8fc4-c9427a18cd06",
+          "nombre": "La explosión del estómago",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/lwxbt4l1ltqz"
+            }
+          ]
+        },
+        {
+          "id": "ca306fad-8f56-46d6-b606-8634eb15163a",
+          "nombre": "La amenaza de la planta devoradora",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/wc4yf8irbf9p"
+            }
+          ]
+        },
+        {
+          "id": "03d2c0cf-493f-4327-a29e-b8ebc7ed7f9c",
+          "nombre": "Lo que una máquina expendedora puede hacer",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/607wf7njhum3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d28777c7-477a-46c0-9ca2-7ac5aec59ad5",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "6d303a3e-89a7-4b16-857a-ebe64de4994d",
+          "nombre": "El regreso de Boxxo",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0ltz0zpo7ol2.html"
+            }
+          ]
+        },
+        {
+          "id": "a4b0a7e3-fb40-415b-9e57-5f14ce68f325",
+          "nombre": "Un nuevo piso del laberinto",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-3o03h1xfn2il.html"
+            }
+          ]
+        },
+        {
+          "id": "d7925b2d-7981-4883-9163-7d04370e2f6b",
+          "nombre": "La ciudad del desierto",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-m57cl3r8472x.html"
+            }
+          ]
+        },
+        {
+          "id": "49ca0a3f-84b9-4615-b018-29f05218ba1a",
+          "nombre": "El rey de las bestias",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-bjyuttf6bfci.html"
+            }
+          ]
+        },
+        {
+          "id": "55ba7044-d4e5-43f4-874e-aa3e44895404",
+          "nombre": "El ejército de monstruos",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-nupuwnlf4njv.html"
+            }
+          ]
+        },
+        {
+          "id": "1db9e620-c4f3-4f9d-bdf3-8bc7013765e5",
+          "nombre": "El héroe del desierto",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-274prrvpd323.html"
+            }
+          ]
+        },
+        {
+          "id": "3bd6db0e-2a7a-4124-847d-b7bcd177e35d",
+          "nombre": "El secreto de la mazmorra",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-59b21qz7ojif.html"
+            }
+          ]
+        },
+        {
+          "id": "4a798063-b678-4b06-ba0c-29a0da6c44a6",
+          "nombre": "El poder de una máquina expendedora",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rk3lw22y71qg.html"
+            }
+          ]
+        },
+        {
+          "id": "5d709f0d-debc-41fc-9e8b-af43c13cbf88",
+          "nombre": "La batalla en el desierto",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ttdpsiujxa6t"
+            }
+          ]
+        },
+        {
+          "id": "442a044c-85e6-48c9-9fb8-a6faada54d5b",
+          "nombre": "La fortaleza subterránea",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/a7qj95taz15k"
+            }
+          ]
+        },
+        {
+          "id": "6b0a0f7c-804e-4724-9897-b05e2e91f626",
+          "nombre": "En el abrasador desierto",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wl0pknr8xh6k.html"
+            }
+          ]
+        },
+        {
+          "id": "7fa37515-d4b6-41f5-ac44-4ab0ab4574b2",
+          "nombre": "Tormenta de nieve en el desierto",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/601kxcd91152"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29051f4e-8e94-43a2-9b8b-03c4268b7284",
+      "numero": 3,
+      "nombre": "3ra Temporada",
+      "episodios": [
+        {
+          "id": "0e5bf678-2021-493f-ba4f-ee169bd5e090",
+          "nombre": "Cada uno con su propia historia",
+          "etiqueta": "T3 | E1",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/m09zwyzonw5j"
+            }
+          ]
+        },
+        {
+          "id": "787a79b1-a0ad-4e8d-a574-b9f4a9fbbbe0",
+          "nombre": "La almeja y la máquina expendedora",
+          "etiqueta": "T3 | E2",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/svhcx3t9dy62"
+            }
+          ]
+        },
+        {
+          "id": "0d90e727-1119-4a0e-a521-f39d8d444dd6",
+          "nombre": "Una estancia en territorio enemigo",
+          "etiqueta": "T3 | E3",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iecs6pncqho2.html"
+            }
+          ]
+        },
+        {
+          "id": "474228a1-4463-47b2-8926-25d23676db11",
+          "nombre": "Los problemas continuarán para siempre",
+          "etiqueta": "T3 | E4",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/2l8xa24xnthu"
+            }
+          ]
+        },
+        {
+          "id": "78d416a2-fb2f-4b93-bc11-75d7dd038d1a",
+          "nombre": "Otro alboroto",
+          "etiqueta": "T3 | E5",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-k26uxfhms3gc.html"
+            }
+          ]
+        },
+        {
+          "id": "60206e40-fe27-414a-b45d-8f78313828fa",
+          "nombre": "Los enemigos de ayer son los aliados de hoy...",
+          "etiqueta": "T3 | E6",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/zodz0qy7rg0u"
+            }
+          ]
+        },
+        {
+          "id": "231ac80e-6f80-488e-b77d-af90bbf10809",
+          "nombre": "El principio del fin",
+          "etiqueta": "T3 | E7",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-tji8rlm2iqzy.html"
+            }
+          ]
+        },
+        {
+          "id": "ade24dbf-cf3f-49b8-9544-ebd9ac2d7734",
+          "nombre": "Como aprendiz",
+          "etiqueta": "T3 | E8",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/OPdqWL14OauZO9q/%5BAnimeOnlineNinja%5D_Reborn_as_a_Vending_Machine%2C_I_Now_Wander_the_Dungeon_3_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "7c4aa17d-7d3c-49ab-bd48-a736b03c202d",
+          "nombre": "El General Pulgar",
+          "etiqueta": "T3 | E9",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Zzbg0OgoOZiqq14/%5BAnimeOnlineNinja%5D_Reborn_as_a_Vending_Machine%2C_I_Now_Wander_the_Dungeon_3_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "966edfc3-112a-4b4a-ad0e-523b6a1b8952",
+          "nombre": "Soy un Field sin igual",
+          "etiqueta": "T3 | E10",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/bvcxr7cwr83p"
+            }
+          ]
+        },
+        {
+          "id": "bd1dac01-09c7-4138-9971-23f744c21b82",
+          "nombre": "Hacia el enfrentamiento final",
+          "etiqueta": "T3 | E11",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/e9r0za1bm5es"
+            }
+          ]
+        },
+        {
+          "id": "c37a0260-3036-47b3-b2fb-6cc8af2b812e",
+          "nombre": "Mundo de los sueños",
+          "etiqueta": "T3 | E12",
+          "fechaPublicacion": "2026-08-06T15:34:44.526886",
+          "fechaActualizacion": "2026-08-06T15:34:44.526886",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/8hen14e69gnq"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
