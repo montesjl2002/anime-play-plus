@@ -1,0 +1,334 @@
+{
+  "id": "5b85fa34-7344-4145-8d42-1f7313d4310f",
+  "nombre": "Plunderer",
+  "descripcion": "El \"Contador\" de cada persona es un número que se basa en la forma en que cada quien elige vivir su vida. ¡Pero nadie quiere llegar al 0 y ser enviado al Abismo!",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/ea5fc0a87ca19fc62ff9e5654c9087ab.jpg",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "f6c6d9f8-6b50-4920-8d1c-1891511ece43",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "bd24fe81-91e2-40b0-84b5-5fd827ef3228",
+          "nombre": "El legendario as",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://doods.pro/e/llt5qs11acf7y6whnb18d5uuln37m4ll"
+            }
+          ]
+        },
+        {
+          "id": "acb386f7-95b2-4265-831e-15c599934246",
+          "nombre": "El ejército de la máscara",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://doods.pro/e/jbchm4gbtfe7sauk4t5ugtyng6g8bncy"
+            }
+          ]
+        },
+        {
+          "id": "eec89bdc-a59e-40ab-a988-528b24730a39",
+          "nombre": "El número de una persona",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://doods.pro/e/mzpxmd9wfggt9swjus1w3i7ry8q7gkte"
+            }
+          ]
+        },
+        {
+          "id": "d67f8579-24c6-4946-9dff-64f6e10a22e8",
+          "nombre": "La guerra de los números",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://doods.pro/e/gt0ag2ln6lzsweg87v9dexug6sfrrosv"
+            }
+          ]
+        },
+        {
+          "id": "0338f3c6-6dec-4f59-9b98-7ffe6c17e319",
+          "nombre": "El poder de la cuenta",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://doods.pro/e/he02u3s95z1kc9n9t0glsm2mpv5hjuul"
+            }
+          ]
+        },
+        {
+          "id": "e4298f77-98f6-49fc-a7a5-9f0638f940e0",
+          "nombre": "El amor de un soldado",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5x80oa00cv7w.html"
+            }
+          ]
+        },
+        {
+          "id": "7c8825e2-89dd-4e46-9f1a-e7bcdf6d4639",
+          "nombre": "El enemigo invisible",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9d2ubbrbchcg.html"
+            }
+          ]
+        },
+        {
+          "id": "43548dea-a248-4eeb-9a8f-5b38ef3dbd98",
+          "nombre": "El primer beso",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1f0km992lhva.html"
+            }
+          ]
+        },
+        {
+          "id": "e5e8a0bd-8fff-4603-880c-b938f380442e",
+          "nombre": "Un enemigo inesperado",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-35ou5o8ghrkp.html"
+            }
+          ]
+        },
+        {
+          "id": "7cee384b-d41b-4687-a840-261b5518b3ab",
+          "nombre": "Un día de recuerdos",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zkeabv5ecbtw.html"
+            }
+          ]
+        },
+        {
+          "id": "bb44ae3f-af47-41a2-9078-4e39be22bb5a",
+          "nombre": "La estrella fugaz",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zowwc56m3yfc.html"
+            }
+          ]
+        },
+        {
+          "id": "23f52a7d-8d49-4fb4-936c-8170e92b6345",
+          "nombre": "El capitán de la leyenda",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-8v7f3l4g23d0.html"
+            }
+          ]
+        },
+        {
+          "id": "7b48ca0d-1a26-4810-924f-76b5f3a8912e",
+          "nombre": "El monstruo del abismo",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-u880wamq20i5.html"
+            }
+          ]
+        },
+        {
+          "id": "a6693edc-4045-47b5-a9c0-2c146cb717da",
+          "nombre": "7 minutos",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9qrqyz32pjj0.html"
+            }
+          ]
+        },
+        {
+          "id": "84316c8a-9a23-464e-8d3e-4f97ab0c0b16",
+          "nombre": "Aquel día",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5ta7bf2fsj4b.html"
+            }
+          ]
+        },
+        {
+          "id": "382ae14e-d0ec-49e9-9945-3116d21aa096",
+          "nombre": "El héroe caído",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cgc1zzmmpq9d.html"
+            }
+          ]
+        },
+        {
+          "id": "f6989c51-020e-4e90-b9cd-48b7065ab5be",
+          "nombre": "Ace y Licht",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2vitm271m7u2.html"
+            }
+          ]
+        },
+        {
+          "id": "93a2df3b-92e8-47a4-83f5-7d53f51c96ef",
+          "nombre": "La verdad sobre los Ases",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pxdoigaxsuzv.html"
+            }
+          ]
+        },
+        {
+          "id": "2958eb88-c3b9-4a64-b86a-7b9de8b2c4d4",
+          "nombre": "El monstruo blanco",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jfksz86qt6rj.html"
+            }
+          ]
+        },
+        {
+          "id": "0c969556-d299-48f0-97c3-2bfd74b2e524",
+          "nombre": "El lugar al que pertenece",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-vn46s9tqts9k.html"
+            }
+          ]
+        },
+        {
+          "id": "5d09f37d-6a3d-47f0-b535-df1b3db270cd",
+          "nombre": "El enemigo del pasado",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0wa20i1bfg2r.html"
+            }
+          ]
+        },
+        {
+          "id": "5491ea46-e67a-43fb-a8e1-51a21f6a0d82",
+          "nombre": "La decisión de Licht",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5xizx8hq01j9.html"
+            }
+          ]
+        },
+        {
+          "id": "93db0d84-7061-4785-aec1-5ba08b06eef3",
+          "nombre": "El camino del héroe",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-aigpx9ia1fox.html"
+            }
+          ]
+        },
+        {
+          "id": "b81fb16f-66c7-4088-ae49-3e737102a30e",
+          "nombre": "Mi As",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-08-06T13:24:17.088244",
+          "fechaActualizacion": "2026-08-06T13:24:17.088244",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-yr0xr1jm31fo.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
