@@ -1,0 +1,179 @@
+{
+  "id": "e1d05257-b72e-4c35-97d7-b5fb3748f6f4",
+  "nombre": "Noble Reincarnation: Born Blessed, So I’ll Obtain Ultimate Power",
+  "descripcion": "Noah, el niño de seis años más fuerte del mundo, reencarna como el decimotercer hijo del emperador. Dotado de un nivel máximo infinito y de una habilidad aterradora capaz de copiar el poder de cualquiera que le jure lealtad, su existencia está muy lejos de ser tranquila. Tras el resplandor de la alta sociedad imperial se esconde un nido de conspiraciones, intrigas y luchas de poder donde incluso un prodigio absoluto puede convertirse en una pieza más del tablero.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/da7fd478a4c4ab41d3cc4e2cb06a4291.png",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "610fe1f3-a34e-4df0-8f38-96d97221e682",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "44dd07b1-99cf-42b2-9039-3839471e8c6a",
+          "nombre": "El nacimiento de un noble bendecido",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/f11t2ufr0a97"
+            }
+          ]
+        },
+        {
+          "id": "49e1691c-eb52-4c8a-a19b-6528a2498928",
+          "nombre": "El joven noble comienza su entrenamiento",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ivbu4isoh9ib"
+            }
+          ]
+        },
+        {
+          "id": "9e1a9987-57ed-4dd5-ac5a-da4a9d812d90",
+          "nombre": "El poder de la reencarnación",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/6wpbrfggdqsz"
+            }
+          ]
+        },
+        {
+          "id": "a3775177-66ef-4d0a-9b7d-0695dabe23d9",
+          "nombre": "Un encuentro con una guerrera",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/emgy2f2xj4s1"
+            }
+          ]
+        },
+        {
+          "id": "49f4ba15-250f-4eb6-b5d1-14cdeed47e29",
+          "nombre": "La fuerza que supera los límites",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/sj4v1okw2l18"
+            }
+          ]
+        },
+        {
+          "id": "404662d8-7456-4395-b967-a27b7a676756",
+          "nombre": "Una nueva amenaza aparece",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/a24fnl8f8k53"
+            }
+          ]
+        },
+        {
+          "id": "be917902-cb62-4e60-80ce-20433e90ff96",
+          "nombre": "El verdadero poder del noble",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/976vu4c8qdw2"
+            }
+          ]
+        },
+        {
+          "id": "baa38b74-8707-42f6-a7b6-7b8bc07b45a1",
+          "nombre": "La batalla por el reino",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/3koxbvt3hlv5"
+            }
+          ]
+        },
+        {
+          "id": "cd9d7ac9-e8be-44ee-92e5-6444e0f228d8",
+          "nombre": "Un enemigo inesperado",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/g7gp85q3tfk4"
+            }
+          ]
+        },
+        {
+          "id": "6782e717-1cf6-49f0-a298-0e7d816bec6c",
+          "nombre": "La promesa del joven señor",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/w6rqdrspn6hp"
+            }
+          ]
+        },
+        {
+          "id": "c8c0c39e-cb55-4d13-87bb-7a62f642fa24",
+          "nombre": "El poder definitivo",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/8fr15rpngpcy"
+            }
+          ]
+        },
+        {
+          "id": "f2da5595-a647-492a-863c-3f9fe22891fe",
+          "nombre": "El camino hacia la grandeza",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T11:32:56.034989",
+          "fechaActualizacion": "2026-08-06T11:32:56.034989",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/orkrm7308xUJmqG/%5BAnimeOnlineNinja%5D_Noble_Reincarnation%EF%BC%9A_Born_Blessed%2C_So_I%E2%80%99ll_Obtain_Ultimate_Power_12.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
