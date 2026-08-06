@@ -1,0 +1,178 @@
+{
+  "id": "150ab227-4499-47ec-9ee3-f28891eaa92b",
+  "nombre": "Private Tutor to the Duke's Daughter",
+  "descripcion": "Tras reprobar el examen de hechicero de la corte, Allen ve cerrarse cualquier posibilidad de regresar, por mucho que lo desee. Mientras intenta ganarse la vida, recibe una oferta inesperada: convertirse en el tutor privado de la hija de un duque.Sin embargo, cuando baja la guardia, descubre que la joven es incapaz de usar la magia de ninguna manera. ¿Qué es lo que la limita realmente? A través de sus lecciones poco convencionales, Allen comenzará a desentrañar el misterio que rodea a la niña y a iluminar el camino hacia su futuro.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/1392a0b0af29770776bc60f8ff78d086.jpg",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Fantasía",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "2af41159-a58e-477f-ab8f-72df85d7c15b",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "80abf02d-2e9f-4f73-874a-7ef5e25b5a06",
+          "nombre": "La hija del duque no puede usar magia",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-flh42m0ox34d.html"
+            }
+          ]
+        },
+        {
+          "id": "0f29d420-bfb5-4a6a-8862-94e68b759616",
+          "nombre": "Aquello que la rechaza",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-si2xfmi18qke.html"
+            }
+          ]
+        },
+        {
+          "id": "5f11314a-e077-443c-a001-7355e532cf50",
+          "nombre": "Una flor que brota después de las lágrimas",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-fjjb552djzfr.html"
+            }
+          ]
+        },
+        {
+          "id": "f81e2ea0-1664-465e-8450-76b71532f899",
+          "nombre": "El examen final",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-a1hkm5vl22do.html"
+            }
+          ]
+        },
+        {
+          "id": "8282b875-7714-48b8-b41b-d02e904a18e9",
+          "nombre": "La anhelada Academia Real - Parte I",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-pshfphi87wpt.html"
+            }
+          ]
+        },
+        {
+          "id": "05bf07ff-9ebf-4a9e-b13c-f0c0af58ca4f",
+          "nombre": "La anhelada Academia Real - Parte II",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-uiuqhgat95pb.html"
+            }
+          ]
+        },
+        {
+          "id": "cfcb75d5-3241-46d4-ab32-ffce525ef01e",
+          "nombre": "Clases extracurriculares en las termas",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-2742ksq9jnwt.html"
+            }
+          ]
+        },
+        {
+          "id": "a4193e4d-bc50-4e61-a2f6-5e2c6bc58ce5",
+          "nombre": "Imitación",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-t3bjgetabwvo.html"
+            }
+          ]
+        },
+        {
+          "id": "ee137c10-b5e9-4846-8112-34d9e15d2ace",
+          "nombre": "Un camino sin luz",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-l69gi1m74d7i.html"
+            }
+          ]
+        },
+        {
+          "id": "913d507d-ae8e-4841-baa7-613f10dada87",
+          "nombre": "La decisión de Felicia",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-r1ifg6sxj1jr.html"
+            }
+          ]
+        },
+        {
+          "id": "4ef61b03-395d-4540-bdd1-90eebf377a98",
+          "nombre": "En las noches en que la luna y las estrellas resplandecen",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/dcbyp3befdyv"
+            }
+          ]
+        },
+        {
+          "id": "81f40c15-01ca-42b5-a256-a5c837c3cd69",
+          "nombre": "La batalla de las chicas",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T13:36:53.408684",
+          "fechaActualizacion": "2026-08-06T13:36:53.408684",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-r15bax2d8buy.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
