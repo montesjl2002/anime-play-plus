@@ -1,0 +1,177 @@
+{
+  "id": "2b2f0d07-d4a6-4707-a323-c8866853127e",
+  "nombre": "My Tiny Senpai",
+  "descripcion": "Shinozaki se siente atraído por su superiora en la empresa, Shiori Katase. Katase es muy pequeñita pero tan adorable que Shinozaki no puede evitar ponerse nervioso a su lado.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480/catalog/crunchyroll/24347b54d4ff2aeded99bb79437ae1d4.jpg",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia"
+  ],
+  "temporadas": [
+    {
+      "id": "d4868d0d-721c-491b-a44c-6377c1c400c5",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d77e6ce1-18e9-445d-9862-84cc79f23e4f",
+          "nombre": "Una pequeña senpai está aquí para cuidarte",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/qtr9sx038dnp"
+            }
+          ]
+        },
+        {
+          "id": "70628e31-7929-45ba-9a03-24f8b9f0a6a9",
+          "nombre": "¿Puedo llamarte por tu nombre?",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/byv2sdnyy74d"
+            }
+          ]
+        },
+        {
+          "id": "199a6cad-3f02-4739-8ac8-ceca10ae0bcf",
+          "nombre": "Un viaje de negocios con mi senpai",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/7pc35gzbaqjl"
+            }
+          ]
+        },
+        {
+          "id": "b794ded3-5a7e-4c3e-a922-369c82d7138b",
+          "nombre": "Un recuerdo de verano",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/clqrtmr1s483"
+            }
+          ]
+        },
+        {
+          "id": "8f6fbfdd-6ff5-48cc-a1f4-b367f7892285",
+          "nombre": "¿Puedo hacer algo por ti?",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/9bncx595mgmr"
+            }
+          ]
+        },
+        {
+          "id": "3395a47d-a51d-47ad-81ca-96b329eb5505",
+          "nombre": "Un regalo de cumpleaños para mi senpai",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/kuveyeji7yor"
+            }
+          ]
+        },
+        {
+          "id": "9a72a2cb-732a-41a2-a6a1-b74795931eed",
+          "nombre": "El festival de verano y mi senpai",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/79cc7g63mmwm"
+            }
+          ]
+        },
+        {
+          "id": "fe34e413-50e4-4494-af3c-2167fd3b4250",
+          "nombre": "Un nuevo sentimiento",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/3zl4a7z2mf7r"
+            }
+          ]
+        },
+        {
+          "id": "95a3f95a-9626-4fb3-b129-30f59df87065",
+          "nombre": "Un día especial con mi senpai",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/2xmyt5d1mjc9"
+            }
+          ]
+        },
+        {
+          "id": "e787ce84-1fd5-4462-a25b-7be27cd95f6e",
+          "nombre": "El secreto de mi senpai",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/83d9c7cem5uy"
+            }
+          ]
+        },
+        {
+          "id": "dcd5f2b6-c73b-4fcc-9aa2-f2b3315ac565",
+          "nombre": "Una relación que cambia poco a poco",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/muglmntinea8"
+            }
+          ]
+        },
+        {
+          "id": "42cf7cf5-8132-4ca3-9088-1df3647be160",
+          "nombre": "Más cerca de mi senpai",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T11:20:32.830549",
+          "fechaActualizacion": "2026-08-06T11:20:32.830549",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/1do6687ykl0m"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
