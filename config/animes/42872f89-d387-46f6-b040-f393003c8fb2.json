@@ -1,0 +1,178 @@
+{
+  "id": "42872f89-d387-46f6-b040-f393003c8fb2",
+  "nombre": "The 8th son? Are you kidding me?",
+  "descripcion": "Lloyd es un joven hechicero que en su vida pasada amaba la magia, pero nació sin linaje ni talento, y murió lamentando no haberla estudiado más. Sin saber cómo, reencarna en otro mundo como el séptimo príncipe del reino de Saloum, bendecido con una poderosa sangre mágica, un talento extraordinario y todos sus recuerdos intactos. Aprovechando su nueva vida y habilidades, decide dedicarse por completo al estudio de la magia que antes le fue imposible alcanzar.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/18fb3c24e104c422c3ac70e6c983b002.jpe",
+  "anio": 2020,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "78b4b0f7-d21e-4641-93a6-01581e8e9bd9",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "6671fb8d-4b4b-49d7-b585-805169ff33b3",
+          "nombre": "¿El octavo hijo? ¿En serio?",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/n82x4mbarcgy"
+            }
+          ]
+        },
+        {
+          "id": "c6d56568-d72a-4bea-ad64-99e699f3701f",
+          "nombre": "El joven noble y el aventurero",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/kxbl089xaucj"
+            }
+          ]
+        },
+        {
+          "id": "1895fa9c-5842-4ce8-bc26-637282c51df7",
+          "nombre": "El aprendiz de magia",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/4g2r3yc7j94v"
+            }
+          ]
+        },
+        {
+          "id": "743046aa-87d8-4176-8b69-0ad53f779357",
+          "nombre": "El hijo del duque",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/fpw9tkgd74xo"
+            }
+          ]
+        },
+        {
+          "id": "7a6d776f-a477-4c43-8d15-ce9210c55384",
+          "nombre": "Un nuevo compañero",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/ks21pqx8vj4i"
+            }
+          ]
+        },
+        {
+          "id": "174e1739-fdab-42b0-892e-5ada06e5834b",
+          "nombre": "Una batalla inesperada",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/nydq5gfw808u"
+            }
+          ]
+        },
+        {
+          "id": "119f5ae7-286e-478a-bb7f-24e3a0e7cd1d",
+          "nombre": "La magia del viento",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/dea59x5u2v4v"
+            }
+          ]
+        },
+        {
+          "id": "105cba11-8e48-46ad-8365-dedce94c4572",
+          "nombre": "El poder de un noble",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/rj6o0z4pqav5"
+            }
+          ]
+        },
+        {
+          "id": "90e395c4-9237-4783-a3ee-a3cc5bc91085",
+          "nombre": "La ceremonia de mayoría de edad",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/uooums4tzp1d"
+            }
+          ]
+        },
+        {
+          "id": "08d94a38-ca6d-4480-a770-de8e3a43e505",
+          "nombre": "Una conspiración en el reino",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/ag1iyx2vjz0q"
+            }
+          ]
+        },
+        {
+          "id": "96b11c5b-ed80-4e0e-b7c3-19f3aacc7223",
+          "nombre": "El destino del joven noble",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/gv6q9qix95x9"
+            }
+          ]
+        },
+        {
+          "id": "e023e282-3b24-4bfa-badb-47960ffe4626",
+          "nombre": "Un nuevo comienzo",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T17:26:07.152519",
+          "fechaActualizacion": "2026-08-06T17:26:07.152519",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/v/k4iwa5zlvphm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
