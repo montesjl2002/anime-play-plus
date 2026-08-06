@@ -1,0 +1,179 @@
+{
+  "id": "bd1d96a4-f767-4b21-a5e4-18eb7ec66007",
+  "nombre": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+  "descripcion": "En un mundo donde los humanos son la raza más débil, Light recibe el don del “gacha ilimitado”. Su grupo de aventureros lo traiciona al juzgarlo inofensivo y trata de matarlo en el Abismo. Allí, una trampa lo envía a lo más profundo y logra invocar a Mei, una poderosa carta SUR que revela que sus invocaciones fallaban por falta de magia en la superficie. Con su apoyo, Light sobrevive, entrena durante años y regresa para encontrar su ciudad destruida y a los humanos esclavizados. Decidido a vengarse, jura enfrentarse tanto a sus antiguos camaradas como a las razas que oprimen a la humanidad.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1Tilj_Mn8qR87G1O6aaSbINyZds63M4W5",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Harem"
+  ],
+  "temporadas": [
+    {
+      "id": "e7388f36-f3b5-4e2a-828b-447dfd33aec3",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "b6856f4c-5a30-4e5f-8403-ad9ec0f1d0de",
+          "nombre": "El regalo de lv 9999",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/uwo7ptlxiyvt"
+            }
+          ]
+        },
+        {
+          "id": "4dcc389c-6d2d-44c3-a5f2-912a5282a7bf",
+          "nombre": "Abandonado en el calabozo",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/rkuh5yl3gjls"
+            }
+          ]
+        },
+        {
+          "id": "d93ebdb5-0b79-45db-a2b9-7133247128f7",
+          "nombre": "El inicio de la venganza",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/omrob724fumd"
+            }
+          ]
+        },
+        {
+          "id": "d1e3914e-2444-4fb0-bc33-737031d10087",
+          "nombre": "La reunión con mis antiguos compañeros",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/eaidr0ciijzp"
+            }
+          ]
+        },
+        {
+          "id": "ed579800-5fdc-4d29-a114-15097f8ab378",
+          "nombre": "El poder de la Gacha ilimitada",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/5e1kx0u32bex"
+            }
+          ]
+        },
+        {
+          "id": "9ea40e91-45ca-453f-af1a-b85902a0112a",
+          "nombre": "La ciudad subterránea",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/8zb18wjss6m2"
+            }
+          ]
+        },
+        {
+          "id": "45913514-e350-4947-be5d-3dd9f344a063",
+          "nombre": "Los enemigos del pasado",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/c18f2otsd7iq"
+            }
+          ]
+        },
+        {
+          "id": "36b09107-2cec-448f-a7b3-dbca37bd838b",
+          "nombre": "La verdadera fuerza de Light",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3y5oym195gc0"
+            }
+          ]
+        },
+        {
+          "id": "d213d180-db0b-4535-a6de-ecf12bc80086",
+          "nombre": "La caída de los traidores",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/wpf4ao3gj1w4"
+            }
+          ]
+        },
+        {
+          "id": "1b9d7cbd-1b09-4a8b-8b5b-4a6ee190c012",
+          "nombre": "El ejército invencible",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/yhtnxx1jdegu"
+            }
+          ]
+        },
+        {
+          "id": "549ee9a2-adc2-4fb9-884f-ca199d785be2",
+          "nombre": "La batalla por la venganza",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/cligcq4bskp0"
+            }
+          ]
+        },
+        {
+          "id": "f03b8d05-5034-45e6-97aa-7db05e4da2dd",
+          "nombre": "El nuevo comienzo",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-06T10:44:36.594179",
+          "fechaActualizacion": "2026-08-06T10:44:36.594179",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/t4c15b54sg6v"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
