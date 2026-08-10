@@ -5,7 +5,7 @@
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8af7f347a59650ef4416b8a92d439d33.png",
   "anio": 2026,
   "estado": "En emisión",
-  "idioma": "JAP",
+  "idioma": "",
   "generos": [
     "Comedia",
     "Romance",
@@ -22,7 +22,7 @@
           "nombre": "La señorita perfecta",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T22:22:03.678034",
+          "fechaActualizacion": "2026-08-10T08:16:39.253379",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -35,7 +35,7 @@
           "nombre": "El primer día del cuidador",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T22:22:03.678034",
+          "fechaActualizacion": "2026-08-10T08:16:39.253379",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -50,7 +50,7 @@
           "nombre": "Reencuentro",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T22:22:03.678034",
+          "fechaActualizacion": "2026-08-10T08:16:39.253379",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -65,7 +65,7 @@
           "nombre": "Mentiras y secretos",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-01T22:22:03.678034",
+          "fechaActualizacion": "2026-08-10T08:16:39.253379",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -80,13 +80,26 @@
           "nombre": "Secuéstrame",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-01T21:42:49.848019",
-          "fechaActualizacion": "2026-08-01T22:22:03.678034",
+          "fechaActualizacion": "2026-08-10T08:16:39.253379",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://streamtape.com/e/z1Gkwe81zAhY39L/%5BAnimeOnlineNinja%5D_Rich_Girl_Caretaker_05.mp4",
               "inicio": "97",
               "termina": "182"
+            }
+          ]
+        },
+        {
+          "id": "f26d2f45-ab57-4846-8301-d5413aaa1656",
+          "nombre": "La propuesta de Mirei Tennoji",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-10T08:16:39.253379",
+          "fechaActualizacion": "2026-08-10T08:16:39.253379",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/bs5uiq65664k"
             }
           ]
         }
