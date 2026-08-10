@@ -1,0 +1,342 @@
+{
+  "id": "84b8baee-d5c2-4fe6-96e4-d0d8472127ef",
+  "nombre": "TONIKAWA: Over The Moon For You",
+  "descripcion": "Nasa Yuzaki es atropellado y salvado por una misteriosa chica, Tsukasa, de quien se enamora al instante. Al declararle sus sentimientos, ella acepta… pero solo si se casan primero. Años después, con 18 años cumplidos, Nasa recibe un formulario de matrimonio de Tsukasa y comienza su vida como recién casados.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/c1ce1da34e412456b6ed4b57bce1001a.jpg",
+  "anio": 2020,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "54ab8e3b-a4b6-4627-975c-79dae855b1ed",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "c40f8e43-7525-4f1f-8fcf-f5cef7aad212",
+          "nombre": "Matrimonio",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/xzb86n0av04i2c82cqcsdutdxod5rwel"
+            }
+          ]
+        },
+        {
+          "id": "97033089-f9f4-4846-9560-dc542764610a",
+          "nombre": "La primera noche",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/jkbd4d4er1uevlt8t18vpumqzp8dk4ck"
+            }
+          ]
+        },
+        {
+          "id": "1e8cf41d-2c3a-48e5-a046-8ea5ec382fe7",
+          "nombre": "Hermanas",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/JKK2M9gqDaFjvkg"
+            }
+          ]
+        },
+        {
+          "id": "19f9b001-df7b-4d87-bf6f-8a54507dbce2",
+          "nombre": "Promesa",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/JWwryRdJWpTgyD"
+            }
+          ]
+        },
+        {
+          "id": "f6d548a3-b80b-4c55-962b-dd17b7d858a0",
+          "nombre": "Anillos",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/eng9o075ds8a8rcgowrbxl9e4dhu3jn4"
+            }
+          ]
+        },
+        {
+          "id": "1b8be277-d0f6-4ffb-b367-455c74e8d18c",
+          "nombre": "Informe",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/4nzqhkql3tfr9plkif2hgjbyluqve7cw"
+            }
+          ]
+        },
+        {
+          "id": "800ca5cd-a5c8-4435-9bb8-c5ad7da32f46",
+          "nombre": "Viaje",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/zwbb6evnl0fqwqvvw05cpf4afy2w3b53"
+            }
+          ]
+        },
+        {
+          "id": "db4999c7-f15c-4436-84c8-a2b9c961b2ee",
+          "nombre": "Padres e hijo",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/mg0vwm5kdt81qvb8ykeudoe7urjdr1wa"
+            }
+          ]
+        },
+        {
+          "id": "e2713f35-dfa7-4b56-af32-9973c5aa11a4",
+          "nombre": "Vida cotidiana",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/bvbdg303QPtP3GM"
+            }
+          ]
+        },
+        {
+          "id": "8043dbf4-3f97-4097-b231-a3e4850cc90a",
+          "nombre": "El camino a casa",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/9m3nx6x2vdu1amspl2o2x4ruhmbuned1"
+            }
+          ]
+        },
+        {
+          "id": "386be8bb-7d90-41c7-a908-f274260a2233",
+          "nombre": "Amigas",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/rg5kipq1jf82m2z1oww6t3ra2bx1nl0m"
+            }
+          ]
+        },
+        {
+          "id": "b44427a7-9340-46fb-8530-6578a661e0c5",
+          "nombre": "Marido y mujer",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/qiq4wlt3npz436dgt5amyc476boc8l1o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e19726a-da97-4e0d-ba0f-93820ab9bbb9",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "c04d1df9-81f8-41c5-942e-d74e23053083",
+          "nombre": "Todo es por ti",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/i8l27g3mtfr4"
+            }
+          ]
+        },
+        {
+          "id": "d5178369-9675-4f20-b270-d62140ced98d",
+          "nombre": "Sobre la felicidad",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/i9ehcjihlxwo"
+            }
+          ]
+        },
+        {
+          "id": "32c3e5e9-a1e6-434a-8a17-7758d8f72e2b",
+          "nombre": "Antes de que se acaben los fuegos artificiales",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/50ok6lcclt21"
+            }
+          ]
+        },
+        {
+          "id": "f97ffe62-6fdb-4e62-bdde-6db8cd385fe3",
+          "nombre": "Lugares dónde besar",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/fc0ybwr5bvyn"
+            }
+          ]
+        },
+        {
+          "id": "dca13f98-9b38-44b7-ab63-76d905be00a1",
+          "nombre": "Un emocionado experto en termas",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/gdzp32uc1ch8"
+            }
+          ]
+        },
+        {
+          "id": "ddba4ff1-ffbc-41c7-b55d-75869013f21b",
+          "nombre": "A la luz de la luna",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/0zzd6hwnq9ks"
+            }
+          ]
+        },
+        {
+          "id": "2cac9347-a11c-4e7d-b089-a68a69f445ff",
+          "nombre": "Ampliando horizontes",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/sjfsqhworl1x"
+            }
+          ]
+        },
+        {
+          "id": "b1f02a62-573c-4fd4-85a2-5f3899657422",
+          "nombre": "Un no que no es no",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/d1xv3wnhc1xi"
+            }
+          ]
+        },
+        {
+          "id": "5c64e985-9d32-45bd-8ae5-0487bcfd0515",
+          "nombre": "Día de verano",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/zniijqgnjkqe"
+            }
+          ]
+        },
+        {
+          "id": "d0b47baf-bf50-4140-bdb2-3457f8945b8c",
+          "nombre": "Gracias",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/9y18ckzyf7t5"
+            }
+          ]
+        },
+        {
+          "id": "897b8413-ee16-44af-82cf-d282ac6d1951",
+          "nombre": "En una noche de luna resplandeciente",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/rxc4k8t7to4l"
+            }
+          ]
+        },
+        {
+          "id": "85f87f4a-c148-4a19-b963-58963a37358b",
+          "nombre": "Por los siglos de los siglos",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-10T10:45:08.839559",
+          "fechaActualizacion": "2026-08-10T10:45:08.839559",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/4vrhxr6lsh2l"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
