@@ -21,7 +21,7 @@
           "nombre": "Odio este mundo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -34,7 +34,7 @@
           "nombre": "Oye, chica, ¿vamos a beber té?",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -47,7 +47,7 @@
           "nombre": "Te reto a un duelo, príncipe",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -60,7 +60,7 @@
           "nombre": "¿Les molesta si me contengo?",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -73,7 +73,7 @@
           "nombre": "Es lo máximo",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -86,7 +86,7 @@
           "nombre": "Es mi primer festival escolar",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -99,7 +99,7 @@
           "nombre": "Odiamos al mismo chico guapo",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -112,7 +112,7 @@
           "nombre": "No estoy jugando",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -125,7 +125,7 @@
           "nombre": "Una chica muy conveniente",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -138,7 +138,7 @@
           "nombre": "A diferencia de los falsos nobles",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -151,7 +151,7 @@
           "nombre": "Lo que puedo hacer ahora",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -164,7 +164,7 @@
           "nombre": "Por muy cruel que sea el mundo de este juego otome",
           "etiqueta": "T1 | E12",
           "fechaPublicacion": "2026-07-22T21:02:05.127728",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
@@ -184,11 +184,24 @@
           "nombre": "El amor salvará al mundo, ¿eh?",
           "etiqueta": "T2 | E1",
           "fechaPublicacion": "2026-07-29T20:39:24.784880",
-          "fechaActualizacion": "2026-07-29T20:39:24.784880",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
           "audios": [
             {
               "idioma": "Latino",
               "videoUrl": "https://www.mp4upload.com/embed-cxydxjeo1sm7.html"
+            }
+          ]
+        },
+        {
+          "id": "eda02381-a35b-496c-94e0-1e48a472a289",
+          "nombre": "¿Te gusta la estética de la destrucción?",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-10T09:01:07.870616",
+          "fechaActualizacion": "2026-08-10T09:01:07.870616",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/17mhjffmcr78"
             }
           ]
         }
