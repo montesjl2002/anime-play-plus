@@ -1,0 +1,179 @@
+{
+  "id": "4a283ac6-500a-4ae8-8438-195ba8f4c872",
+  "nombre": "The Brilliant Healer's New Life in the Shadows",
+  "descripcion": "Zenos, un curandero autodidacta exiliado por su falta de habilidades, abre una clínica clandestina en los barrios bajos. Con su magia prohibida, cura, consuela y se convierte en una leyenda oculta. Pero a medida que su poder crece, también lo hace la atención del Palacio Real. ¿Podrá sanar un mundo que lo rechazó y superar las adversidades que se avecinan?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/c1503d583d79c30e14f7e8acf03289e6.jpg",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "408da804-ee1c-49e6-b26a-73680ef17048",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "f97d8cbc-53a4-46d1-85c0-9a2623a235b0",
+          "nombre": "Precio justo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/vg9y4hgbkzrw"
+            }
+          ]
+        },
+        {
+          "id": "664bc4b6-a657-412e-8d61-a5da4dbfd04f",
+          "nombre": "El sanador clandestino en las ruinas de la ciudad",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/tow1wxyfzysh"
+            }
+          ]
+        },
+        {
+          "id": "26a66be0-c06b-412f-acee-330210e10c77",
+          "nombre": "Disputa territorial",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/d1axj76wapaf"
+            }
+          ]
+        },
+        {
+          "id": "bbe24b51-499b-43a1-a134-c52ed4b12117",
+          "nombre": "Héroe justiciero",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/7hfy6a1kbxmc"
+            }
+          ]
+        },
+        {
+          "id": "9458d0ac-74a8-4f35-8c24-58a9f2ea4b20",
+          "nombre": "Donde uno pertenece",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/r9of9cl1gqj5"
+            }
+          ]
+        },
+        {
+          "id": "284096d1-416f-46da-adcd-018a59c1e57a",
+          "nombre": "Fin de la aventura",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/cjw2bd3ij02j"
+            }
+          ]
+        },
+        {
+          "id": "de433851-8bfe-4cbd-bf05-784097f47d47",
+          "nombre": "Servicio especial",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/we0aqa221w3b"
+            }
+          ]
+        },
+        {
+          "id": "6f109137-46df-4326-8340-ca84bb126814",
+          "nombre": "Hospital Real",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/fwvqalfjymso"
+            }
+          ]
+        },
+        {
+          "id": "143c87d4-0523-407a-ac66-68f40c6be702",
+          "nombre": "Infiltrado en la facción",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/y9tcehobdoca"
+            }
+          ]
+        },
+        {
+          "id": "1cdfb160-73fb-458b-a6d6-1a532fdbdadd",
+          "nombre": "La petición de la dama",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ujltcwi7it8e"
+            }
+          ]
+        },
+        {
+          "id": "0503f985-4bca-404f-af96-cbe524657953",
+          "nombre": "Un simple sanador",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/y7uu7axd0iky"
+            }
+          ]
+        },
+        {
+          "id": "1dd68e8d-dd84-424a-90be-ecc9a26c50d1",
+          "nombre": "Decidir quién vive",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-10T15:05:14.049166",
+          "fechaActualizacion": "2026-08-10T15:05:14.049166",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/GbOL34Ywpeh1e7x/%5BAnimeOnlineNinja%5D_The_Brilliant_Healer%27s_New_Life_in_the_Shadows_Latino_12.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
