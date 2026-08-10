@@ -1,0 +1,360 @@
+{
+  "id": "70a62f5b-9044-46e4-98c1-8d1c89b31909",
+  "nombre": "Summer Pockets",
+  "descripcion": "Hairi Takahara nunca imaginó que aquel verano sería como un sueño. Enviado a la isla de Torishirojima para ordenar las pertenencias de su abuela, descubre un mar infinito, una melancolía latente y chicas enigmáticas en busca de algo perdido. Mientras se adapta a la vida isleña, los recuerdos olvidados resurgen... y con ellos, algo que creía haber perdido para siempre.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/6618af646c286a21d983e125c9cbc5bc.jpg",
+  "anio": 2025,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Drama",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "fb71ac8f-e92b-47ec-b098-cb0b4e097dac",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "f1a9414d-db85-4689-a705-eb6a688ca8c5",
+          "nombre": "Bienvenidos a la isla de Torishirojima",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/otr2rwroppzp"
+            }
+          ]
+        },
+        {
+          "id": "3b697762-ffc8-4e64-8392-b5cee3deb136",
+          "nombre": "Cómo pasar las vacaciones de verano",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/rs6ji0q1pyd7"
+            }
+          ]
+        },
+        {
+          "id": "bcc9b62c-0178-464d-8022-048757acb039",
+          "nombre": "El barco pirata y la chica",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/n7q4dmy2jlbr"
+            }
+          ]
+        },
+        {
+          "id": "bdee9446-f79a-468c-91a2-9944a1724410",
+          "nombre": "El tesoro de un verano",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/p0wc1l9shiyv"
+            }
+          ]
+        },
+        {
+          "id": "c381f4c9-cb4a-40ee-a8f4-5846b4af6473",
+          "nombre": "La aventura de los Higeneko",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/1dkg2egot39n"
+            }
+          ]
+        },
+        {
+          "id": "47ac6ca1-7e6b-4c08-8dc3-fa24408d5ff0",
+          "nombre": "Surcando los siete mares",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/0rps7i7sh7bd"
+            }
+          ]
+        },
+        {
+          "id": "dcbdc98c-87dd-4652-8d73-40a10832e389",
+          "nombre": "El faro, la canción y la chica",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/5tczb0uz2tin"
+            }
+          ]
+        },
+        {
+          "id": "6a809bb1-d69d-4a47-b751-e4caf7ab8052",
+          "nombre": "Buscando cosas que hacer",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/pypb4gsg12ek"
+            }
+          ]
+        },
+        {
+          "id": "800f4eca-0944-448c-98cd-f7094fe62ebd",
+          "nombre": "Tsumugi y Tsumugi",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/kyq3qiyougyc"
+            }
+          ]
+        },
+        {
+          "id": "e6da3527-8cd5-49c7-b0ed-d423964ad7cf",
+          "nombre": "Toda una vida de vacaciones de verano",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/4thrdzp4w1yq"
+            }
+          ]
+        },
+        {
+          "id": "bebc96bf-13a2-40d7-959e-de27646f7cd9",
+          "nombre": "La mariposa veraniega y la chica nocturna",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/bupwa3bsmt4f"
+            }
+          ]
+        },
+        {
+          "id": "e009eeda-aa09-4363-a555-7dc707dd3d67",
+          "nombre": "La sacerdotisa de los Sorakado",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3m9l336ln5rs"
+            }
+          ]
+        },
+        {
+          "id": "0c3c6c7c-a21e-4a28-aac0-2bd9ac27e0d0",
+          "nombre": "Un par de mariposas",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/r0917wqppkvm"
+            }
+          ]
+        },
+        {
+          "id": "7f303523-947c-43ad-acd3-705a4977dbc5",
+          "nombre": "Recuerdos del alba",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/0m8tmfeio5qc"
+            }
+          ]
+        },
+        {
+          "id": "c0c312d0-2dda-41e2-916a-47a3ddc8e9dd",
+          "nombre": "La chica que olvidó las vacaciones de verano",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/1lei0bdg49dw"
+            }
+          ]
+        },
+        {
+          "id": "bf617906-a4f1-49b7-b639-c746ffd7b1bf",
+          "nombre": "No es una cita",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/r0zbhdke8n8t"
+            }
+          ]
+        },
+        {
+          "id": "99d60363-a14e-4275-955c-e0f0dc0e29fe",
+          "nombre": "Ritual Natsudori",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/62oj42h5bgfd"
+            }
+          ]
+        },
+        {
+          "id": "eddacafa-1a2f-45a0-ab72-fe387a625d8d",
+          "nombre": "Una vez más, vacaciones de verano",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3mqm2x8bnk3f"
+            }
+          ]
+        },
+        {
+          "id": "fb73e531-97bc-4df5-b8b1-10b2b7c51720",
+          "nombre": "Diario mágico ilustrado",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/qxot88d240nd"
+            }
+          ]
+        },
+        {
+          "id": "6173b279-baec-41c3-9456-7201e210b450",
+          "nombre": "Boda",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/sqm379ss5jup"
+            }
+          ]
+        },
+        {
+          "id": "72a966c6-a553-44bb-b504-227fdf54ca09",
+          "nombre": "Huellas entre las olas",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/5nc0rdvczhc7"
+            }
+          ]
+        },
+        {
+          "id": "47bbe0b1-c42f-4732-9861-a39ce3b4d852",
+          "nombre": "A aquel verano",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/2yymyhtc5rj6"
+            }
+          ]
+        },
+        {
+          "id": "7c800601-794b-403b-984a-b7cac87a5d4d",
+          "nombre": "Nanami",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/wgspmhvday7b"
+            }
+          ]
+        },
+        {
+          "id": "e9ef1a83-7fa0-4e39-a4be-6838bb119905",
+          "nombre": "El lugar donde está el sol",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/w0oi0um126vz"
+            }
+          ]
+        },
+        {
+          "id": "f7340375-13c0-4143-ac95-ee02dbf7216d",
+          "nombre": "Recuerdos del futuro",
+          "etiqueta": "T1 | E25",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/oifixn752ssd"
+            }
+          ]
+        },
+        {
+          "id": "87dd03e2-0f31-4fbd-a142-085265ddc587",
+          "nombre": "Llenando los bolsillos",
+          "etiqueta": "T1 | E26",
+          "fechaPublicacion": "2026-08-10T13:09:36.636415",
+          "fechaActualizacion": "2026-08-10T13:09:36.636415",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/dwlor5nu9v3k"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
