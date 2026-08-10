@@ -22,7 +22,7 @@
           "nombre": "El príncipe insípido",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:29:46.066104",
-          "fechaActualizacion": "2026-07-28T16:51:16.949696",
+          "fechaActualizacion": "2026-08-10T08:24:03.846213",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "¿Una cita en la capital imperial?",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:29:46.066104",
-          "fechaActualizacion": "2026-07-28T16:51:16.949696",
+          "fechaActualizacion": "2026-08-10T08:24:03.846213",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "El ataque de Elna",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-24T10:55:18.953421",
-          "fechaActualizacion": "2026-07-28T16:51:16.949696",
+          "fechaActualizacion": "2026-08-10T08:24:03.846213",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,13 +67,39 @@
           "nombre": "La víspera del Festival de la Caza de los Caballeros en la ciudad",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-28T16:51:16.949696",
-          "fechaActualizacion": "2026-07-28T16:51:16.949696",
+          "fechaActualizacion": "2026-08-10T08:24:03.846213",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/mc4cmk988d20",
               "inicio": "0",
               "termina": "85"
+            }
+          ]
+        },
+        {
+          "id": "1dfbb285-ea19-4863-863c-3e9df58b5870",
+          "nombre": "Festival de la caza de los caballeros (Parte I)",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-10T08:24:03.846213",
+          "fechaActualizacion": "2026-08-10T08:24:03.846213",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/474dhqnawo82"
+            }
+          ]
+        },
+        {
+          "id": "ba354415-692d-4a3e-b364-013d76015c4d",
+          "nombre": "Festival de la caza de los caballeros (Parte II)",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-10T08:24:03.846213",
+          "fechaActualizacion": "2026-08-10T08:24:03.846213",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/474dhqnawo82"
             }
           ]
         }
