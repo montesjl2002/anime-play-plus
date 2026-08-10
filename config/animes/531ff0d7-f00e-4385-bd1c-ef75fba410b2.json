@@ -22,7 +22,7 @@
           "nombre": "Elymas, el caballero pesado",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-07-28T16:59:31.030108",
+          "fechaActualizacion": "2026-08-10T08:20:36.089157",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "La amenazante araña mono",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-07-28T16:59:31.030108",
+          "fechaActualizacion": "2026-08-10T08:20:36.089157",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "La misión de asalto",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-07-28T16:59:31.030108",
+          "fechaActualizacion": "2026-08-10T08:20:36.089157",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,13 +67,39 @@
           "nombre": "Evolución de la existencia",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-07-28T16:59:31.030108",
+          "fechaActualizacion": "2026-08-10T08:20:36.089157",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/n8za7ai9g3ch",
               "inicio": "148",
               "termina": "233"
+            }
+          ]
+        },
+        {
+          "id": "1a378cdd-7cdf-45d1-986f-90f6991bc706",
+          "nombre": "El colmillo de la locura latente",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-10T08:20:36.089157",
+          "fechaActualizacion": "2026-08-10T08:20:36.089157",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ixfokecjsze1"
+            }
+          ]
+        },
+        {
+          "id": "e981dc97-df14-4667-a7b6-1c88b122a2ff",
+          "nombre": "Ruche, la pierrot",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-10T08:20:36.089157",
+          "fechaActualizacion": "2026-08-10T08:20:36.089157",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/e42h1cinies4"
             }
           ]
         }
