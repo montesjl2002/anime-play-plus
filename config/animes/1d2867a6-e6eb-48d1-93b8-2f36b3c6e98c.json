@@ -21,11 +21,13 @@
           "nombre": "¿Cómo te llamas?",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-06T09:33:15.172862",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://www.mp4upload.com/embed-r63qlu2h34y8.html"
+              "videoUrl": "https://www.mp4upload.com/embed-r63qlu2h34y8.html",
+              "inicio": "142",
+              "termina": "227"
             }
           ]
         },
@@ -34,7 +36,7 @@
           "nombre": "Objetivo",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-06T09:33:15.172862",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -47,7 +49,7 @@
           "nombre": "Cuarto",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-06T09:33:15.172862",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -60,7 +62,7 @@
           "nombre": "Cara real",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-06T09:33:15.172862",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -73,7 +75,7 @@
           "nombre": "Límite",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -86,7 +88,7 @@
           "nombre": "Sueño siniestro",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -99,7 +101,7 @@
           "nombre": "Bala",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -112,7 +114,7 @@
           "nombre": "Confusión",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -125,7 +127,7 @@
           "nombre": "Detonante de guerra",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -138,7 +140,7 @@
           "nombre": "Ayuda",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -151,7 +153,7 @@
           "nombre": "Lo peor",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
@@ -164,7 +166,7 @@
           "nombre": "Mi nombre",
           "etiqueta": "T1 | E12",
           "fechaPublicacion": "2026-08-06T09:50:32.472156",
-          "fechaActualizacion": "2026-08-06T09:50:32.472156",
+          "fechaActualizacion": "2026-08-10T22:16:42.076052",
           "audios": [
             {
               "idioma": "Latino",
