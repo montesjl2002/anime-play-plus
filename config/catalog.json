@@ -107,7 +107,7 @@
     ]
   },
   {
-    "id": "1fdf6373-a229-4627-aae8-4b6fbf3e84e6",
+    "id": "76e7d3e5-6ed0-4d57-b424-f63b60e6e5a6",
     "nombre": "BEASTARS",
     "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
     "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
@@ -568,6 +568,17 @@
       "Aventura",
       "Fantasía",
       "Romance"
+    ]
+  },
+  {
+    "id": "6f67ddbd-36c1-456f-8d71-7dd30988158d",
+    "nombre": "Parallel World Pharmacy",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f483a2b36405782958077f541eae35bb.jpg",
+    "descripcion": "Yakutani es un prestigioso farmacéutico e investigador universitario que dedica su vida al estudio y desarrollo de nuevos medicamentos. Sin embargo, tras una noche de intenso trabajo, despierta en un mundo completamente distinto al suyo. Allí descubre que ha reencarnado como miembro de una familia de farmacéuticos reales, capaces de emplear misteriosas artes divinas.\r\n\r\nCon sus conocimientos científicos y sus nuevas habilidades, Yakutani deberá adaptarse a esta extraña sociedad y descubrir cómo combinar la ciencia de su antiguo mundo con los poderes de este nuevo. Mientras se enfrenta a los desafíos de su nueva vida, pronto comprenderá que sus conocimientos pueden cambiar para siempre la medicina de este mundo.",
+    "idioma": "JAP",
+    "generos": [
+      "Fantasía",
+      "Recuentos de la vida"
     ]
   },
   {
