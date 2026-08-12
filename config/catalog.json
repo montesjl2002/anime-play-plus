@@ -107,7 +107,7 @@
     ]
   },
   {
-    "id": "1fdf6373-a229-4627-aae8-4b6fbf3e84e6",
+    "id": "76e7d3e5-6ed0-4d57-b424-f63b60e6e5a6",
     "nombre": "BEASTARS",
     "imagen": "https://drive.google.com/uc?export=view&id=1oMjq4jVdv6AE--iTGElrnfbdmvXycOcP",
     "descripcion": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
@@ -775,6 +775,17 @@
     "generos": [
       "Acción",
       "Aventura",
+      "Fantasía"
+    ]
+  },
+  {
+    "id": "a9f45f89-8bdb-4964-846a-ab6fad437580",
+    "nombre": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+    "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/93776335fd810b730d9c0225d9ace9b4.jpg",
+    "descripcion": "Kenichi Hamada, un ilustrador de mediana edad, es transportado a un mundo lleno de monstruos. Allí, descubre una misteriosa tienda online que le ofrece justo lo que necesita para sobrevivir. Acompáñalo en su inesperada aventura por encontrar paz en lo desconocido.",
+    "idioma": "JAP",
+    "generos": [
+      "Comedia",
       "Fantasía"
     ]
   },
