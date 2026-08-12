@@ -1,0 +1,178 @@
+{
+  "id": "6f67ddbd-36c1-456f-8d71-7dd30988158d",
+  "nombre": "Parallel World Pharmacy",
+  "descripcion": "Yakutani es un prestigioso farmacéutico e investigador universitario que dedica su vida al estudio y desarrollo de nuevos medicamentos. Sin embargo, tras una noche de intenso trabajo, despierta en un mundo completamente distinto al suyo. Allí descubre que ha reencarnado como miembro de una familia de farmacéuticos reales, capaces de emplear misteriosas artes divinas.\r\n\r\nCon sus conocimientos científicos y sus nuevas habilidades, Yakutani deberá adaptarse a esta extraña sociedad y descubrir cómo combinar la ciencia de su antiguo mundo con los poderes de este nuevo. Mientras se enfrenta a los desafíos de su nueva vida, pronto comprenderá que sus conocimientos pueden cambiar para siempre la medicina de este mundo.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f483a2b36405782958077f541eae35bb.jpg",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Fantasía",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "dec66215-6be3-4f0c-9dc0-ce0a9e97c24a",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "6c795131-0168-413f-8a39-8b947069343e",
+          "nombre": "El farmacéutico reencarnado y otro mundo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/5i15z7w3geb7"
+            }
+          ]
+        },
+        {
+          "id": "41bb0493-8780-44f4-853d-03dea6f53df6",
+          "nombre": "Maestro y discípulo",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/4h72wttnx8y4"
+            }
+          ]
+        },
+        {
+          "id": "da632b3b-f8d3-4cd8-8ba6-337ab4bf8ad2",
+          "nombre": "El farmacéutico jefe de la corte y el farmacéutico reencarnado",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/4h72wttnx8y4"
+            }
+          ]
+        },
+        {
+          "id": "292b5d32-288d-4c4f-927f-802ed3735d24",
+          "nombre": "El emperador y el permiso para fundar una farmacia",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/1hbpdjc6w5od"
+            }
+          ]
+        },
+        {
+          "id": "27a58e48-1cde-4476-94fd-6dd06b9882c1",
+          "nombre": "La vida cotidiana de la farmacia de otro mundo y los cosméticos",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/ryzedghpgqjy"
+            }
+          ]
+        },
+        {
+          "id": "d57cd839-ab56-4b50-8317-c056ad26ab69",
+          "nombre": "Los hermanos y el mar",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/xa08pyryh882"
+            }
+          ]
+        },
+        {
+          "id": "355df7a6-ccab-4397-bec1-664de99a40df",
+          "nombre": "El niño sin sombra y el inquisidor",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/a9cx5irn4p9y"
+            }
+          ]
+        },
+        {
+          "id": "9fafe6db-8645-45e3-bc5d-a6c8ed520034",
+          "nombre": "La gripe y el amanecer de la farmacia",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/hxcomrbs9vuh"
+            }
+          ]
+        },
+        {
+          "id": "db88a06e-b4c8-4ae7-803c-eba538518a94",
+          "nombre": "La historia de un hombre malvado",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/0zhoowc2zfny"
+            }
+          ]
+        },
+        {
+          "id": "32ba7eec-bebf-434a-8c75-097c322ef23d",
+          "nombre": "La peste negra",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/1tksh1sztxls"
+            }
+          ]
+        },
+        {
+          "id": "72b90838-107e-4e45-a7e0-920bd2b4d310",
+          "nombre": "El milagro de la aldea de Estarque",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/pxii68439ujq"
+            }
+          ]
+        },
+        {
+          "id": "2a48f07f-154f-4a01-ba83-b01308e8a460",
+          "nombre": "Aquello que él no pudo curar",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-12T10:30:49.087061",
+          "fechaActualizacion": "2026-08-12T10:30:49.087061",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamwish.top/e/3jyxm9yyhyj6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
