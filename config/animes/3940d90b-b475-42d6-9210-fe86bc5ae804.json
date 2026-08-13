@@ -1,0 +1,178 @@
+{
+  "id": "3940d90b-b475-42d6-9210-fe86bc5ae804",
+  "nombre": "The Strongest Magician in the Demon Lord's Army Was a Human",
+  "descripcion": "Ike es un poderoso mago y líder de la Brigada Inmortal, parte del Séptimo Cuerpo del Rey Demonio. Conquista fortalezas y derrota ejércitos humanos él solo. Pero guarda un secreto que nadie conoce, ni siquiera el Rey Demonio: ¡es humano! ¿Podrá mantener su identidad oculta y lograr la paz entre humanos y demonios?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/5dbd11ffb1dab0f623ec661d2aec6dbe.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "e01911db-1543-4042-800c-db830684a66a",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "c5d905e0-042b-4f37-8cc4-7ef4cc5774c1",
+          "nombre": "Ike, comandante de la brigada de los no muertos",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-1curbpuz0qdk.html"
+            }
+          ]
+        },
+        {
+          "id": "90193fd1-b3bc-497d-8f21-0292d3906f61",
+          "nombre": "Alistair, caballera de la orden de la Rosa Blanca",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/puvoph572jfk"
+            }
+          ]
+        },
+        {
+          "id": "6db55efe-4bd1-4c6f-bd11-76f0e1ae9dcc",
+          "nombre": "Traidor",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/9jz5zz8mp222"
+            }
+          ]
+        },
+        {
+          "id": "5fdcfa6d-2bd7-478d-93d6-65ce5e3d3281",
+          "nombre": "Duelo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ldtml98aq37t"
+            }
+          ]
+        },
+        {
+          "id": "0bf98475-b506-4197-83fe-e615b5e982e9",
+          "nombre": "Ambición",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3oqhfhbv3b35"
+            }
+          ]
+        },
+        {
+          "id": "6d0c095a-12af-4aff-8a57-d2239e8e8d0d",
+          "nombre": "El rey enano",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/dsw2p2l3qnt8"
+            }
+          ]
+        },
+        {
+          "id": "4eaddae3-67ee-453d-8692-461b01b2124a",
+          "nombre": "Comienza la guerra",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-1v3up6pusqew.html"
+            }
+          ]
+        },
+        {
+          "id": "c92ec447-2c93-4fb8-a8f9-e91dae1200d2",
+          "nombre": "La batalla final en Ivalias",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/1gwwz1zllp05"
+            }
+          ]
+        },
+        {
+          "id": "c6cfb50c-11ab-4d23-98ba-1838029c3a6c",
+          "nombre": "Negociaciones",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3zi2kjscucps"
+            }
+          ]
+        },
+        {
+          "id": "b5cb6930-c59f-4a37-96aa-b8d134b541f3",
+          "nombre": "Piratas",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-1i4iqfyxko1r.html"
+            }
+          ]
+        },
+        {
+          "id": "d83110ac-84db-45de-9f14-bc291c8e5734",
+          "nombre": "La derrota de Cefiro",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/lkzumjqkek0j"
+            }
+          ]
+        },
+        {
+          "id": "c2b44e91-fdac-4af3-b78a-a6a7db876961",
+          "nombre": "General E Rudle",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-13T11:22:38.172622",
+          "fechaActualizacion": "2026-08-13T11:22:38.172622",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/j1x6upihwx6s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
