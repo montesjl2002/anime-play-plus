@@ -5,7 +5,7 @@
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/22e8349f49a91ebe0deaba9495653509.jpg",
   "anio": 2014,
   "estado": "Finalizado",
-  "idioma": "",
+  "idioma": "JAP",
   "generos": [
     "Acción",
     "Drama",
@@ -13,5 +13,462 @@
     "Ciencia Ficción",
     "Sobrenatural"
   ],
-  "temporadas": []
+  "temporadas": [
+    {
+      "id": "f649d3aa-3c68-4e8b-b327-64e558be27e8",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "bf99008b-c117-4c65-8807-d9b195a790ad",
+          "nombre": "Ingreso - Parte I",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-2ab2g9uvoxli.html"
+            }
+          ]
+        },
+        {
+          "id": "2a2c4b12-40cf-4dd1-bb54-7a0a4804d3c7",
+          "nombre": "Ingreso - Parte II",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-7406ti3nao52.html"
+            }
+          ]
+        },
+        {
+          "id": "6ef9bb72-d1a2-4758-ac4c-0acf1b433610",
+          "nombre": "Ingreso - Parte III",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-wt7abviqaemy.html"
+            }
+          ]
+        },
+        {
+          "id": "75713c81-def3-47b8-8d74-9e044d7b6f75",
+          "nombre": "Ingreso - Parte IV",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-y9b5150npyr8.html"
+            }
+          ]
+        },
+        {
+          "id": "2a9cac9a-7879-42e0-80ca-0fe761ab41ff",
+          "nombre": "Ingreso - Parte V",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-hejhz3xy43hy.html"
+            }
+          ]
+        },
+        {
+          "id": "bf8030d5-65ba-4862-9e2e-0f8deb40131e",
+          "nombre": "Ingreso - Parte VI",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-1m03z1g7vvyy.html"
+            }
+          ]
+        },
+        {
+          "id": "b2f04cab-bd35-4312-b1f3-fa9348da0bc4",
+          "nombre": "Ingreso - Parte VII",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-q5s72qkm37wi.html"
+            }
+          ]
+        },
+        {
+          "id": "6fe68b90-d40d-4e09-8045-e470e54c612c",
+          "nombre": "Batalla de las nueve escuelas - Parte I",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-mnfs5msbih1w.html"
+            }
+          ]
+        },
+        {
+          "id": "710202c0-f434-4c90-969b-6e12466fc859",
+          "nombre": "Batalla de las nueve escuelas - Parte II",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-xeqd4t8gsqcn.html"
+            }
+          ]
+        },
+        {
+          "id": "fc078b15-9301-49ef-89a0-f8f2fc1657f6",
+          "nombre": "Batalla de las nueve escuelas - Parte III",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-9tk9uoh0910n.html"
+            }
+          ]
+        },
+        {
+          "id": "349e5fb1-4ac0-4bf1-bfe1-74f9680114e2",
+          "nombre": "Batalla de las nueve escuelas - Parte IV",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-4606qfatbroy.html"
+            }
+          ]
+        },
+        {
+          "id": "fa1d2065-acf9-489a-b63b-36114e5353d9",
+          "nombre": "Batalla de las nueve escuelas - Parte V",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-sbk2ewfw71f2.html"
+            }
+          ]
+        },
+        {
+          "id": "9a22ed0f-3515-4ef7-bc26-ba1f98b5c20c",
+          "nombre": "Batalla de las nueve escuelas - Parte VI",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-heu6amt5dcc2.html"
+            }
+          ]
+        },
+        {
+          "id": "595bdcf0-7eb8-4788-8596-dd510df79343",
+          "nombre": "Batalla de las nueve escuelas - Parte VII",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-uvm7d2hj07ef.html"
+            }
+          ]
+        },
+        {
+          "id": "7398f2fc-3152-4ab0-a51b-150b313d72bd",
+          "nombre": "Batalla de las nueve escuelas - Parte VIII",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-3ale5g83l7nh.html"
+            }
+          ]
+        },
+        {
+          "id": "9de1b1f2-af89-44ce-a9cc-2975863d71f3",
+          "nombre": "Batalla de las nueve escuelas - Parte IX",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-tdo52l8a9yil.html"
+            }
+          ]
+        },
+        {
+          "id": "3fd7b745-1b7b-476d-90d7-8ae3dc1592d7",
+          "nombre": "Batalla de las nueve escuelas - Parte X",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-zmzspw9gbpcl.html"
+            }
+          ]
+        },
+        {
+          "id": "d43f567a-2030-4356-9248-7a4250f93b53",
+          "nombre": "Batalla de las nueve escuelas - Parte XI",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-f3g5t31j0qka.html"
+            }
+          ]
+        },
+        {
+          "id": "27d8cacd-55c1-4811-b4ff-fa3df5839350",
+          "nombre": "Disturbio en Yokohama - Parte I",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-7zf5aaa51nlr.html"
+            }
+          ]
+        },
+        {
+          "id": "d6d787bb-04a7-4764-90fd-ec7233329324",
+          "nombre": "Disturbio en Yokohama - Parte II",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-y1hsddn4ckue.html"
+            }
+          ]
+        },
+        {
+          "id": "c2ab243b-70c6-4de3-9351-d53225866050",
+          "nombre": "Disturbio en Yokohama - Parte III",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-f1dwghbkk2jj.html"
+            }
+          ]
+        },
+        {
+          "id": "2e863e5b-b131-4870-ae3a-0193eababfa0",
+          "nombre": "Disturbio en Yokohama - Parte IV",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-7snb2p6fsvfw.html"
+            }
+          ]
+        },
+        {
+          "id": "2cf1de12-f0b7-4704-9668-99eaf578007f",
+          "nombre": "Disturbio en Yokohama - Parte V",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-6pijs8jhrdn5.html"
+            }
+          ]
+        },
+        {
+          "id": "ae97b508-a37d-493c-8de2-827546153908",
+          "nombre": "Disturbio en Yokohama - Parte VI",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-1chcl8i2elt1.html"
+            }
+          ]
+        },
+        {
+          "id": "ec11c83a-40cc-4ca2-baaf-6b5fa6e42b87",
+          "nombre": "Disturbio en Yokohama - Parte VII",
+          "etiqueta": "T1 | E25",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-jgojiinkknd9.html"
+            }
+          ]
+        },
+        {
+          "id": "7afb98cd-4f9e-4b19-9501-187c3aac2853",
+          "nombre": "Disturbio en Yokohama - Parte VIII",
+          "etiqueta": "T1 | E26",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://mp4upload.com/embed-7f4wmq7j3zp8.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f4f42f6-c6eb-4a3c-b623-652486ad7772",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "62d42062-7960-4d65-a9c0-58e7a313928a",
+          "nombre": "La Odisea del visitante - Parte I",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://vidhidevip.com/v/ddmgusjnk5gd"
+            }
+          ]
+        },
+        {
+          "id": "b785b252-ba3b-49d0-8899-1ae638a65d9b",
+          "nombre": "La Odisea del visitante  - Parte II",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=N2xGM210UlJNQ1ZkUkdySmp6RVlJWVY5RW90UUt0R1Y2OG9SYzNnQTFaTmwwZi91WWtOTHdRZEJwdE9QdXZVQTo6aNSSCHBkGsj.zqmbTbpuNg--&t=e303f36c215796bbb26abd860d8386ac&op=NDM2OTg="
+            }
+          ]
+        },
+        {
+          "id": "7cee600d-fa20-4cb8-ae4e-5ee1415eabd5",
+          "nombre": "La Odisea del visitante  - Parte III",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=dVM2WWgreDhVU3NteXlVSjcxSitQd1RwUjQ3Ri9vVk0wZGZmVTlUcEZaN3NINC9ob1NCQ1dKZzA2Y256ajlFZzo6fyV1rg3IJKxHMRz3u7cfAA--&t=9b5977b4521e5e48a8ef03ae73c4112d&op=NDM3NTI="
+            }
+          ]
+        },
+        {
+          "id": "57ee9a3f-8aff-46ee-8a45-b4baffd89b00",
+          "nombre": "La Odisea del visitante  - Parte IV",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=Zk5hWG5wWU8xUXVVSHRzOHFMYTRNc2ZtcGZ0Zk5qVGRYakhQRmFhMFo4N2JDVVZERGdEQkxKUVpIbUxoMnFSdTo6X8VO8AoQvu7iXzQTcv0KGQ--&t=e73b04578cae9ad34b98a7aeebe3ad0a&op=NDM4MDk="
+            }
+          ]
+        },
+        {
+          "id": "81a604f6-7889-4f9e-b744-deb4b7e10ff4",
+          "nombre": "La Odisea del visitante  - Parte V",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=Ti9wQlFwdnhWRG1hYWlwNXRLTGQ4YzN1RlkxOUFPNklocHlBam9pRDhnN3lvYXdLTlp4by9CRmU0N25FRS83Yjo6d6oe.qThE8mjRx4FAt1ZBw--&t=d0dde222e608c66b65d44776bd8b4092&op=NDM4Njg="
+            }
+          ]
+        },
+        {
+          "id": "3ae7eae8-2c4e-45c7-9b44-0671d98d7130",
+          "nombre": "La Odisea del visitante  - Parte VI",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://voe.sx/e/0gidpv8pdq8h"
+            }
+          ]
+        },
+        {
+          "id": "53795bcd-6b47-4eed-b4c3-9a206461fabe",
+          "nombre": "La Odisea del visitante  - Parte VII",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=MXlXTHNzek0yZ0pySUlCaDVtNGEzYWhtUjJPeERrdnJHSkVsSmlVb1NLTWRxdHkxSFdpdUF6L2p1NnpaRDl4Szo6r56qncJx3MjUjgIEhR2abw--&t=2af62a0f91808c286ad2023293b5ac91&op=NDQwMTk="
+            }
+          ]
+        },
+        {
+          "id": "5db9a875-f59b-4235-90d7-6de2bd072182",
+          "nombre": "La Odisea del visitante  - Parte VIII",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-13T12:48:30.677687",
+          "fechaActualizacion": "2026-08-13T12:48:30.677687",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://jkanime.net/jkplayer/um?e=eWR1bGVTSDhWdWZOem1kSUY1cTBCdS92eHRibFlodFY4dmxBbkZVZDZRTXp4WC9NSnlzZGZaUUVYdGc4cWs0bDo64mXk6uecoI3DeGc4iA9SFw--&t=b8eadb229854b2add23d0371cc31b937&op=NDQwMjA="
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
