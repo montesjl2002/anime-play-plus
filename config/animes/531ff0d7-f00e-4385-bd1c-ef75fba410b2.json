@@ -5,7 +5,7 @@
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/c88d7ed27873ff262e1f2808e02f1b99.png",
   "anio": 2026,
   "estado": "En emisión",
-  "idioma": "",
+  "idioma": "JAP",
   "generos": [
     "Acción",
     "Aventura",
@@ -22,7 +22,7 @@
           "nombre": "Elymas, el caballero pesado",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "La amenazante araña mono",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "La misión de asalto",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,7 +67,7 @@
           "nombre": "Evolución de la existencia",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -82,7 +82,7 @@
           "nombre": "El colmillo de la locura latente",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-10T08:20:36.089157",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -95,7 +95,7 @@
           "nombre": "Ruche, la pierrot",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:20:36.089157",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -108,10 +108,10 @@
           "nombre": "A cazar la raana dorada",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-15T18:46:29.222983",
-          "fechaActualizacion": "2026-08-15T18:46:29.222983",
+          "fechaActualizacion": "2026-08-15T18:46:38.750624",
           "audios": [
             {
-              "idioma": "Latino",
+              "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/svmmdssabjvy"
             }
           ]
