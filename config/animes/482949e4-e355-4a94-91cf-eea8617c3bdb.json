@@ -1,0 +1,512 @@
+{
+  "id": "482949e4-e355-4a94-91cf-eea8617c3bdb",
+  "nombre": "The Misfit of Demon King Academy",
+  "descripcion": "El legendario Rey Demonio Anos Voldigor se reencarna tras 2000 años. Pero sus habilidades lo llevan a la academia de futuros Reyes Demonio… ¡y lo convierten en un completo inadaptado! Tras erradicar humanos, espíritus e incluso dioses, Anos se cansó de la batalla eterna y soñaba con una vida pacífica en su nueva reencarnación.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/c1747000b39a1abd51fa79c9a69cc58c.jpg",
+  "anio": 2020,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Romance",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "cff1e928-f7a0-43f4-b986-e8e1dd3a3feb",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "f9eeb47e-e01c-4ff9-887a-5f808d99786a",
+          "nombre": "El inadaptado",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/OdOY71lJ17HZZyq/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "74442fbb-97d0-41e2-b269-11f700d64226",
+          "nombre": "La Bruja de la Destrucción",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/aGdyWrZvXrix4JR/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "96898250-33b9-4de0-af38-92ea52d10616",
+          "nombre": "Las intenciones de Sasha",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/GwR9PO8avztmPe/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c48f53fe-c17c-430f-96e0-e263af385e8d",
+          "nombre": "Decimoquinto cumpleaños",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/RgGJ9MVZO7ijrj/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8a75bbc2-579c-4916-bbbf-a6fd2e1305f9",
+          "nombre": "Un nuevo estudiante",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/926YRJ28zLHaeQw/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "94cebc0f-24c3-4a3b-a2d5-1401452de408",
+          "nombre": "Torneo de espadas mágicas",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/LODpvaygMzTRkZK/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "4eca954a-4ab7-4324-8b36-512137da9c27",
+          "nombre": "Las palabras de una madre",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ZxLbj20aZ1hqpXK/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "cfdce111-aa71-4ecb-bd08-7da72446938e",
+          "nombre": "Nuestra final",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/69zwajALxpu9mm0/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a0e840da-843b-476a-b494-36f05fd9ce63",
+          "nombre": "El misterio de la Academia del Héroe",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/7pkXqr090BSAe9R/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "db605e75-b080-423a-a520-7d11defbb792",
+          "nombre": "Prueba interescolar",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/gP3epaDzBKuqoPD/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "a0a9aed7-1246-4bcc-aa8e-dd14d38bcfd9",
+          "nombre": "El resplandor de la vida",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/gmgnu2hrxdbl"
+            }
+          ]
+        },
+        {
+          "id": "b0a4219a-aba3-43f0-a939-497b2afd0c2d",
+          "nombre": "Magia tabú",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/7wmJ0YAp39CArJL/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "fdb3b6c0-451a-4125-a91a-4302447e0697",
+          "nombre": "Un mundo lleno de amor",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/KZ96qQrkaASoap/%5BAnimeOnlineNinja%5D_Maou_Gakuin_no_Futekigousha_BD_Latino_13.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2c1aa701-481f-4a9b-ba03-d379f6e4f21f",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "e59b85af-fd8a-4bd6-9d4d-f3645e64558c",
+          "nombre": "La clase de un dios",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/helpx1nzfwp1"
+            }
+          ]
+        },
+        {
+          "id": "60420fb8-52c9-40d3-9dc0-12e9c412600d",
+          "nombre": "Duelo de ingenio del Rey Demonio",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/nqh6yqr3r60m"
+            }
+          ]
+        },
+        {
+          "id": "f20a967f-731d-4b68-9079-fb8461507832",
+          "nombre": "La escuela de los espíritus",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/velotihmtdzw"
+            }
+          ]
+        },
+        {
+          "id": "dc0e69f4-0e02-42d5-ae2c-865fb4e6bed4",
+          "nombre": "La prueba de los espíritus",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/7ps2elyls8yo"
+            }
+          ]
+        },
+        {
+          "id": "ed7c4c41-ca17-4799-a74f-bb2cee92b6eb",
+          "nombre": "Entre la realeza y los mestizos",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/52asmjq46rmg"
+            }
+          ]
+        },
+        {
+          "id": "f47bf265-50ec-493e-902f-2b7a3514c5c8",
+          "nombre": "La Gran Madre Espíritu",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/7c73yw9jprs0"
+            }
+          ]
+        },
+        {
+          "id": "56d8e3f7-59df-4115-9cf9-80bd21d94174",
+          "nombre": "Como un solo golpe de espada",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/y4lvy7o75jtl"
+            }
+          ]
+        },
+        {
+          "id": "95fd6165-962b-4c5e-8f00-aefa3c82aebc",
+          "nombre": "La tierra sin Rey Demonio",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-khyn6jcyphvl.html"
+            }
+          ]
+        },
+        {
+          "id": "5e907d0a-ff40-411d-8b98-f122a461ae40",
+          "nombre": "Una oración para 2000 años después",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/yla8iuvdwdd7"
+            }
+          ]
+        },
+        {
+          "id": "34e32826-727b-4582-a1c5-bb259d38d85e",
+          "nombre": "El odio del pasado",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/g29ldxti963x"
+            }
+          ]
+        },
+        {
+          "id": "184a1dbe-de68-4ac8-a477-5c755149bda3",
+          "nombre": "Romper el destino",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cimvngafbxqv.html"
+            }
+          ]
+        },
+        {
+          "id": "436f75fa-7485-452f-b318-d28dbbeeed51",
+          "nombre": "El inadaptado",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/2nvtv4w2jz9p"
+            }
+          ]
+        },
+        {
+          "id": "dacb94f4-620d-4e53-b85d-04c391ee8a96",
+          "nombre": "La montaña del Dios Dragón",
+          "etiqueta": "T2 | E13",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/62qqto897djt"
+            }
+          ]
+        },
+        {
+          "id": "7bba7357-f6e9-47c0-87f9-5b984c4194b5",
+          "nombre": "El juicio de selección",
+          "etiqueta": "T2 | E14",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/8ar865sjpv40"
+            }
+          ]
+        },
+        {
+          "id": "647ff19e-d9c0-470a-bfb8-7e95dfcd78a9",
+          "nombre": "La ciudad de la academia",
+          "etiqueta": "T2 | E15",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/fildo7oersad"
+            }
+          ]
+        },
+        {
+          "id": "44ee854b-ba44-4804-a644-b83285d1877d",
+          "nombre": "El poder del amor",
+          "etiqueta": "T2 | E16",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2pzm1ntz6udf.html"
+            }
+          ]
+        },
+        {
+          "id": "cc55c1de-33b5-44ac-933c-7a18388ac425",
+          "nombre": "La madre de todos los espíritus",
+          "etiqueta": "T2 | E17",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/vstd1p5o1fmc"
+            }
+          ]
+        },
+        {
+          "id": "960da36d-9477-4a20-a015-2042b838b67f",
+          "nombre": "El dios de los recuerdos",
+          "etiqueta": "T2 | E18",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/z16nov59nurb"
+            }
+          ]
+        },
+        {
+          "id": "5cc3e641-cd73-4b2d-9eb7-344f78a784e0",
+          "nombre": "La luna de la creación",
+          "etiqueta": "T2 | E19",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-f4j23y5mm6d7.html"
+            }
+          ]
+        },
+        {
+          "id": "0447346c-5ade-4cea-9d84-108d61e131e7",
+          "nombre": "La espada del Dios Dragón",
+          "etiqueta": "T2 | E20",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-050s9q6i1hky.html"
+            }
+          ]
+        },
+        {
+          "id": "20a75cfe-d53c-4226-929d-4bb708895af9",
+          "nombre": "El verdadero Rey Demonio",
+          "etiqueta": "T2 | E21",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/tfr5px5cqij9"
+            }
+          ]
+        },
+        {
+          "id": "6780adb3-facc-4aff-ada3-d4672754a0cc",
+          "nombre": "La batalla de los dioses",
+          "etiqueta": "T2 | E22",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-12apxifrbqv7.html"
+            }
+          ]
+        },
+        {
+          "id": "578b3242-4991-484a-b4a9-c0e619964218",
+          "nombre": "La elección del destino",
+          "etiqueta": "T2 | E23",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-vc7cqvowor4y.html"
+            }
+          ]
+        },
+        {
+          "id": "4365977d-1f05-4919-a02d-cae118e327e1",
+          "nombre": "La última batalla",
+          "etiqueta": "T2 | E24",
+          "fechaPublicacion": "2026-08-16T11:01:38.611473",
+          "fechaActualizacion": "2026-08-16T11:01:38.611473",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/dbvf6pm6inrd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
