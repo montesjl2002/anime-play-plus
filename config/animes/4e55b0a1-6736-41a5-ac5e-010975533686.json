@@ -1,0 +1,177 @@
+{
+  "id": "4e55b0a1-6736-41a5-ac5e-010975533686",
+  "nombre": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+  "descripcion": "Nieto del legendario Seeker Overdeath, Noel sueña con superarlo. Pero hay un problema: es un simple Talker, la clase más débil. Sin rendirse, usa su astucia y carisma para reunir aliados, trazar estrategias y fundar el clan más poderoso del mundo. Ahora, como el Talker más famoso, Noel no se detendrá ante nada para llegar a la cima.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b4b1f08ef896b230c1194cdb1d484029.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "e49bc28b-b815-45f5-8796-6ba06c01fe68",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d19c6188-cc98-4175-afcb-b0e312350200",
+          "nombre": "El más débil aspira a ser el más fuerte",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/px6q3nxcm6rb"
+            }
+          ]
+        },
+        {
+          "id": "b4536dd9-bd43-4736-a46a-cb20bb36c283",
+          "nombre": "El orador implacable",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ubdpgwz48rqy.html"
+            }
+          ]
+        },
+        {
+          "id": "f4c941d7-5960-4de0-b6a8-a60cdc7b093a",
+          "nombre": "El verdadero genio",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/pwursmkj0fwd"
+            }
+          ]
+        },
+        {
+          "id": "6a37a3b8-736d-4e3a-86c7-fdfa77fffffb",
+          "nombre": "Una disculpa no es suficiente",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-7t8jjw5gksgd.html"
+            }
+          ]
+        },
+        {
+          "id": "7dd7cf72-6ea2-4e70-ab57-ed02b122ed6c",
+          "nombre": "El espadachín del lejano oriente",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/7nmzwh700edx"
+            }
+          ]
+        },
+        {
+          "id": "66ac3e8e-aa11-4560-8edd-df6f260ced85",
+          "nombre": "El precio del honor",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/2fu934lz6lxy"
+            }
+          ]
+        },
+        {
+          "id": "9f981bf2-3a23-4dca-b86a-2fbaf6154589",
+          "nombre": "Un mundo injusto",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-0m6zjrth6ua6.html"
+            }
+          ]
+        },
+        {
+          "id": "1248ca25-78d7-46ff-8552-e806c929f27e",
+          "nombre": "El calibre de un campeón",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ndz65z68esla.html"
+            }
+          ]
+        },
+        {
+          "id": "76c1c62b-6b24-49f4-ad13-f536cbc255e0",
+          "nombre": "La serpiente afila los colmillos",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/3zvjmtfa8d5h"
+            }
+          ]
+        },
+        {
+          "id": "70947700-3226-40d1-a464-1c25d6508c58",
+          "nombre": "Los que tienen y los que no",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/actamg41h2qn"
+            }
+          ]
+        },
+        {
+          "id": "923fe6e8-6776-4360-a115-64f27a1ca673",
+          "nombre": "El precio de tener razón",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-ap1hljph3wdk.html"
+            }
+          ]
+        },
+        {
+          "id": "8b726a5c-ac51-43cb-afed-5c3373671ae5",
+          "nombre": "La serpiente tiene alas",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-16T15:32:04.047951",
+          "fechaActualizacion": "2026-08-16T15:32:04.047951",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/hfgsr9iwx1zw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
