@@ -1,0 +1,341 @@
+{
+  "id": "52ab643b-ba93-4b24-b9ab-dc315c30c367",
+  "nombre": "My Dress-Up Darling",
+  "descripcion": "Gojo Wakana es un estudiante que sueña con perfeccionar el arte de las muñecas Hina. Aislado por sus intereses poco comunes, su vida da un giro cuando Marin Kitagawa, una compañera popular, descubre su talento y le revela un inesperado secreto que une sus mundos.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/af51d08cadc3f965effd394d9d241b6b.jpg",
+  "anio": 2022,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Romance",
+    "Recuentos de la vida"
+  ],
+  "temporadas": [
+    {
+      "id": "ac203c84-574a-4435-881d-b75702f0f17b",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "3c789e4a-38da-44bc-9260-4bb1dd1c04bc",
+          "nombre": "Un mundo diferente",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ip0jgh0eo7nl.html"
+            }
+          ]
+        },
+        {
+          "id": "980db348-dabb-4da7-aeee-2fe69b2060e7",
+          "nombre": "¿Lo hacemos?",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-q6pkaq5q5io9.html"
+            }
+          ]
+        },
+        {
+          "id": "500597dd-e415-43d1-8560-c37d1f025a51",
+          "nombre": "¿Salimos juntos?",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-syg6bsrpty8w.html"
+            }
+          ]
+        },
+        {
+          "id": "7815d6a8-00a8-4171-b207-06878c98439c",
+          "nombre": "¿Son de tu novia?",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-343xew2wtimx.html"
+            }
+          ]
+        },
+        {
+          "id": "b042f659-5558-4bf6-b18d-b250bca4c326",
+          "nombre": "El mejor escote",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9zh30xrg4c9q.html"
+            }
+          ]
+        },
+        {
+          "id": "d577eab9-eda6-4dcd-a2e9-4d874a9d4027",
+          "nombre": "¿¡En serio!?",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-bkud9dvhqfoz.html"
+            }
+          ]
+        },
+        {
+          "id": "2ad3f967-6c9e-4077-8e90-66b71f68a9a1",
+          "nombre": "Una cita en casa",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-4k4fqrkw5vg1.html"
+            }
+          ]
+        },
+        {
+          "id": "599b5fef-52f6-498e-ae0e-5ef1f4b99978",
+          "nombre": "La luz de fondo",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mivjitvcxbnc.html"
+            }
+          ]
+        },
+        {
+          "id": "7da7874b-d99b-4b84-9aa6-220d81aaf2f5",
+          "nombre": "La sesión de fotos",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5l3tg7md8boy.html"
+            }
+          ]
+        },
+        {
+          "id": "386ab999-bb2a-4065-94c7-85408c2a606b",
+          "nombre": "Todos tienen sus cosas",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ufme8dfdj540.html"
+            }
+          ]
+        },
+        {
+          "id": "0b33cd0e-c774-4fbe-8e9f-854a9c808d83",
+          "nombre": "Hotel del amor",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-n16q3exvzcq2.html"
+            }
+          ]
+        },
+        {
+          "id": "c1e9a787-af85-470a-b32e-cf89cd7e79c7",
+          "nombre": "Mi querida muñeca",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6catohn6a8wk.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2866acc-0235-448d-b050-4026e867398c",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "17c02817-0e42-4d02-bf11-22c5a9ec61ec",
+          "nombre": "Wakana, 15 años",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rjlr7dtdzxps.html"
+            }
+          ]
+        },
+        {
+          "id": "53c5d306-0a9f-4746-b4de-f5414e4ddaa0",
+          "nombre": "Los senos son un accesorio",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-rj0ethlln0t4.html"
+            }
+          ]
+        },
+        {
+          "id": "fcb080e1-7b25-497b-94e7-51a8a7436766",
+          "nombre": "¡Amo las escenas cotidianas!",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mesgkt73fqsm.html"
+            }
+          ]
+        },
+        {
+          "id": "b103f87f-2d2d-4d1f-88bb-c17304717e4d",
+          "nombre": "Conoces todo mi cuerpo",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-tdhz2b3uouvq.html"
+            }
+          ]
+        },
+        {
+          "id": "d92a033b-9d2b-4624-805e-0d388acacdc1",
+          "nombre": "800 millones",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-3f08zstihzq6.html"
+            }
+          ]
+        },
+        {
+          "id": "1d9afd06-255c-4f42-afd0-f962109489f2",
+          "nombre": "Lo haré con mis propias manos",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-in2if8k47so7.html"
+            }
+          ]
+        },
+        {
+          "id": "72bf0409-1627-433e-9a4f-0c7372f6d491",
+          "nombre": "¡A crear recuerdos!",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-68negbjjgffm.html"
+            }
+          ]
+        },
+        {
+          "id": "8ce4eb58-412f-4ff7-b57e-97f6eaf64d67",
+          "nombre": "Solo sé dar las gracias invirtiendo dinero",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-viye6w02k9la.html"
+            }
+          ]
+        },
+        {
+          "id": "42311fa1-7f89-4d6a-a375-3ee99c4fb872",
+          "nombre": "Esta noche no pienso dormir",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-njshgk4v6rjy.html"
+            }
+          ]
+        },
+        {
+          "id": "549189b9-f457-4f36-946d-300a2444df85",
+          "nombre": "¡¿Vamos a hacerlo ahora?!",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-t9fnqjy88442.html"
+            }
+          ]
+        },
+        {
+          "id": "364e4c9a-10c4-4f54-aca0-8a814439d6c6",
+          "nombre": "Pensaba que no necesitaba nada bueno en la vida",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-5ucrqotxqdsn.html"
+            }
+          ]
+        },
+        {
+          "id": "965930e9-f3ea-4fba-b83b-46b67a147ed8",
+          "nombre": "Mi querida muñeca",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-16T19:49:56.416143",
+          "fechaActualizacion": "2026-08-16T19:49:56.416143",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7js245fjp0lw.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
