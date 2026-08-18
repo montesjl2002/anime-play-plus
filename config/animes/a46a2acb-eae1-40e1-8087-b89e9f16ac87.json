@@ -24,7 +24,7 @@
           "nombre": "El héroe del escudo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -37,7 +37,7 @@
           "nombre": "La niña esclava",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -52,11 +52,13 @@
           "nombre": "Olas de la calamidad",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://streamtape.com/e/dgYQmG0x0bCkxVx"
+              "videoUrl": "https://streamtape.com/e/dgYQmG0x0bCkxVx",
+              "inicio": "51",
+              "termina": "136"
             }
           ]
         },
@@ -65,11 +67,13 @@
           "nombre": "Canción de cuna del alba",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://uqload.is/embed-f1qvlj3wgupb.html"
+              "videoUrl": "https://uqload.is/embed-f1qvlj3wgupb.html",
+              "inicio": "134",
+              "termina": "219"
             }
           ]
         },
@@ -78,7 +82,7 @@
           "nombre": "Filo",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -91,7 +95,7 @@
           "nombre": "Una nueva compañera",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -104,7 +108,7 @@
           "nombre": "El santo del dios pájaro",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -117,7 +121,7 @@
           "nombre": "Escudo maldito",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -130,7 +134,7 @@
           "nombre": "Melty",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -143,7 +147,7 @@
           "nombre": "Entre la confusión",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -156,7 +160,7 @@
           "nombre": "La calamidad regresa",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -169,7 +173,7 @@
           "nombre": "La extraña de negro",
           "etiqueta": "T1 | E12",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -182,7 +186,7 @@
           "nombre": "El demonio del escudo",
           "etiqueta": "T1 | E13",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -195,7 +199,7 @@
           "nombre": "Recuerdos imborrables",
           "etiqueta": "T1 | E14",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -208,7 +212,7 @@
           "nombre": "Raphtalia",
           "etiqueta": "T1 | E15",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -221,7 +225,7 @@
           "nombre": "Reina de los filolial",
           "etiqueta": "T1 | E16",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -234,7 +238,7 @@
           "nombre": "Se forma una promesa",
           "etiqueta": "T1 | E17",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -247,7 +251,7 @@
           "nombre": "Una conspiración conectada",
           "etiqueta": "T1 | E18",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -260,7 +264,7 @@
           "nombre": "Los cuatro héroes sagrados",
           "etiqueta": "T1 | E19",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -273,7 +277,7 @@
           "nombre": "Batalla decisiva entre el bien y el mal",
           "etiqueta": "T1 | E20",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -286,7 +290,7 @@
           "nombre": "El retorno triunfal de Naofumi",
           "etiqueta": "T1 | E21",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -299,7 +303,7 @@
           "nombre": "Reunión de héroes",
           "etiqueta": "T1 | E22",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -312,7 +316,7 @@
           "nombre": "Isla de Cal Mira",
           "etiqueta": "T1 | E23",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -325,7 +329,7 @@
           "nombre": "Protectores de otro mundo",
           "etiqueta": "T1 | E24",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -338,7 +342,7 @@
           "nombre": "El escudo del héroe",
           "etiqueta": "T1 | E25",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -358,7 +362,7 @@
           "nombre": "Un nuevo rugido",
           "etiqueta": "T2 | E1",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -371,7 +375,7 @@
           "nombre": "Huellas del espíritu tortuga",
           "etiqueta": "T2 | E2",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -384,7 +388,7 @@
           "nombre": "Tierra temblorosa",
           "etiqueta": "T2 | E3",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -397,7 +401,7 @@
           "nombre": "Ruinas en la niebla",
           "etiqueta": "T2 | E4",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -410,7 +414,7 @@
           "nombre": "Ost Horai",
           "etiqueta": "T2 | E5",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -423,7 +427,7 @@
           "nombre": "Persecución",
           "etiqueta": "T2 | E6",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -436,7 +440,7 @@
           "nombre": "Laberinto infinito",
           "etiqueta": "T2 | E7",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -449,7 +453,7 @@
           "nombre": "El adiós de la nieve",
           "etiqueta": "T2 | E8",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -462,7 +466,7 @@
           "nombre": "Humming Fairy",
           "etiqueta": "T2 | E9",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -475,7 +479,7 @@
           "nombre": "El héroe de la Katana",
           "etiqueta": "T2 | E10",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -488,7 +492,7 @@
           "nombre": "Kizuna",
           "etiqueta": "T2 | E11",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -501,7 +505,7 @@
           "nombre": "El motivo para luchar",
           "etiqueta": "T2 | E12",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -514,7 +518,7 @@
           "nombre": "Flores para el recuerdo",
           "etiqueta": "T2 | E13",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -534,7 +538,7 @@
           "nombre": "El coliseo clandestino",
           "etiqueta": "T3 | E1",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -547,7 +551,7 @@
           "nombre": "Nadia",
           "etiqueta": "T3 | E2",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -560,7 +564,7 @@
           "nombre": "Los hermanos Hakoku",
           "etiqueta": "T3 | E3",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -573,7 +577,7 @@
           "nombre": "Capturar al héroe de la lanza",
           "etiqueta": "T3 | E4",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -586,7 +590,7 @@
           "nombre": "Distintos caminos",
           "etiqueta": "T3 | E5",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -599,7 +603,7 @@
           "nombre": "El foco de la fuerza",
           "etiqueta": "T3 | E6",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -612,7 +616,7 @@
           "nombre": "La niña y el dragón",
           "etiqueta": "T3 | E7",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -625,7 +629,7 @@
           "nombre": "El nido del dragón",
           "etiqueta": "T3 | E8",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -638,7 +642,7 @@
           "nombre": "El Emperador Dragón",
           "etiqueta": "T3 | E9",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -651,7 +655,7 @@
           "nombre": "Justicia perfecta",
           "etiqueta": "T3 | E10",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -664,7 +668,7 @@
           "nombre": "Justicia contra justicia",
           "etiqueta": "T3 | E11",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -677,7 +681,7 @@
           "nombre": "Los que debemos proteger",
           "etiqueta": "T3 | E12",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -697,7 +701,7 @@
           "nombre": "Siltvelt",
           "etiqueta": "T4 | E1",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -710,7 +714,7 @@
           "nombre": "Una cálida bienvenida",
           "etiqueta": "T4 | E2",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -723,7 +727,7 @@
           "nombre": "Un pueblo de verdades y mentiras",
           "etiqueta": "T4 | E3",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -736,7 +740,7 @@
           "nombre": "Poder encomendado",
           "etiqueta": "T4 | E4",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -749,7 +753,7 @@
           "nombre": "Tigre blanco",
           "etiqueta": "T4 | E5",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -762,7 +766,7 @@
           "nombre": "Zarpando",
           "etiqueta": "T4 | E6",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -775,7 +779,7 @@
           "nombre": "Llegada a Q'ten Lo",
           "etiqueta": "T4 | E7",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -788,7 +792,7 @@
           "nombre": "Gran serpiente",
           "etiqueta": "T4 | E8",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -801,7 +805,7 @@
           "nombre": "Zodia",
           "etiqueta": "T4 | E9",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -814,7 +818,7 @@
           "nombre": "Plegaria",
           "etiqueta": "T4 | E10",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -827,7 +831,7 @@
           "nombre": "La sacerdotisa oráculo",
           "etiqueta": "T4 | E11",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
@@ -840,7 +844,7 @@
           "nombre": "El retorno de la emperatriz",
           "etiqueta": "T4 | E12",
           "fechaPublicacion": "2026-08-16T16:46:26.083860",
-          "fechaActualizacion": "2026-08-17T13:07:31.308441",
+          "fechaActualizacion": "2026-08-18T08:58:42.049204",
           "audios": [
             {
               "idioma": "Latino",
