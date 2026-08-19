@@ -1,0 +1,127 @@
+{
+  "id": "3b610120-87ed-43ab-9300-ed67c236cfe4",
+  "nombre": "Mushoku Tensei Jobless Reincarnation",
+  "descripcion": "Tras morir atropellado a los 34 años, un hombre recibe una segunda oportunidad al reencarnar como Rudeus Greyrat, un niño en un mundo lleno de magia. Conservando los recuerdos de su vida pasada, decide aprovechar esta nueva oportunidad para cambiar su destino. Con su talento para la magia y nuevos compañeros, Rudeus emprenderá un viaje lleno de aventuras, peligros y descubrimientos.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/4b6a37e382ef65c121f10c4bc40c8b05.png",
+  "anio": 2021,
+  "estado": "En emisión",
+  "idioma": "LAT",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Seinen"
+  ],
+  "temporadas": [
+    {
+      "id": "8a2d1adb-278f-4cc3-a702-a08f1d26b6b2",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "d6c241ce-8ebf-4dbf-8516-759f80e6bc43",
+          "nombre": "Reencarnación sin empleo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/2840cf4gdfb6g30jch3bcgtsto31d596"
+            }
+          ]
+        },
+        {
+          "id": "98523d90-90a8-4c97-8ed9-e5d4083693c2",
+          "nombre": "Maestra",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://d000d.com/e/7ombyt7ygfaj"
+            }
+          ]
+        },
+        {
+          "id": "5ba0b3c3-0bc6-4cbe-b553-f718450121b3",
+          "nombre": "Un amigo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/uhwsq12rja90i3ml82sj0qsoyz4c1t2r"
+            }
+          ]
+        },
+        {
+          "id": "b46d7007-70c4-4668-bfa1-fa8213858c22",
+          "nombre": "Reunión familiar",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/pspv4tedxxzwtxyuh1ik3oyp1av5wvwx"
+            }
+          ]
+        },
+        {
+          "id": "5169291b-7cb4-427d-95df-91ff551eb01a",
+          "nombre": "Joven y violencia",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/tu0suc3avajrrdf99ab1qkjjqmpgvj27"
+            }
+          ]
+        },
+        {
+          "id": "f0b454ba-5874-4725-9d1a-4d8b740828e1",
+          "nombre": "Un día libre",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/4qywjvk42sg97jp1zsba8x9zyu6hodla"
+            }
+          ]
+        },
+        {
+          "id": "021527a2-f581-45a1-a403-553f740e3440",
+          "nombre": "Más allá del esfuerzo",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://hgcloud.to/e/w0oiaehrwnbk"
+            }
+          ]
+        },
+        {
+          "id": "30914729-04be-4bbc-9ecc-2b15d8443431",
+          "nombre": "Punto de inflexión",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.la/e/sci17ehkhizjc7ub0vkv0u2gq2h483cd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
