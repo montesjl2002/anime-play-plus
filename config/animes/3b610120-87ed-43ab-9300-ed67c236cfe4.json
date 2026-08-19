@@ -22,7 +22,7 @@
           "nombre": "Reencarnación sin empleo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -35,7 +35,7 @@
           "nombre": "Maestra",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -48,7 +48,7 @@
           "nombre": "Un amigo",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -61,7 +61,7 @@
           "nombre": "Reunión familiar",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -74,7 +74,7 @@
           "nombre": "Joven y violencia",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -87,7 +87,7 @@
           "nombre": "Un día libre",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -100,7 +100,7 @@
           "nombre": "Más allá del esfuerzo",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
@@ -113,11 +113,219 @@
           "nombre": "Punto de inflexión",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-19T13:19:00.182517",
-          "fechaActualizacion": "2026-08-19T13:19:00.182517",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
           "audios": [
             {
               "idioma": "Latino",
               "videoUrl": "https://dood.la/e/sci17ehkhizjc7ub0vkv0u2gq2h483cd"
+            }
+          ]
+        },
+        {
+          "id": "0747d619-0bde-4619-aa19-8ef9bfc58f18",
+          "nombre": "Encuentro fortuito",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/n3dxhjbx23118mblfguoiz3ruf9jq3s9"
+            }
+          ]
+        },
+        {
+          "id": "1e4e445c-7cdb-4988-a1de-2b8ce3b39fcc",
+          "nombre": "Primer encargo",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://hanerix.com/e/qvp0kdakr5ai"
+            }
+          ]
+        },
+        {
+          "id": "f17aca0d-6e62-4a1c-84af-dc8a2ac7bc86",
+          "nombre": "Niños y guerreros",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://hanerix.com/e/ao03g6ngf9n7"
+            }
+          ]
+        },
+        {
+          "id": "8d61a86d-3948-4f94-b4a4-d865c6606afb",
+          "nombre": "La mujer demonio",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://hanerix.com/e/2v6viliqy8bv"
+            }
+          ]
+        },
+        {
+          "id": "c807fb83-61e3-43fb-9084-61cca45b12b7",
+          "nombre": "Conexiones perdidas",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/b6auvcorb11rohynz4selbt740q8w6je"
+            }
+          ]
+        },
+        {
+          "id": "4e61194f-020c-44b0-ad55-3e02b7592b78",
+          "nombre": "Nada es gratis",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/tiyda5xoh5zahab5v09opeolpccimpq1"
+            }
+          ]
+        },
+        {
+          "id": "243c5c77-8484-4a6a-9ca7-f01c2b9c13a2",
+          "nombre": "La aldea Doldia",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/zfbydtv2lrtrxeg4dgv3s1v35fflbf26"
+            }
+          ]
+        },
+        {
+          "id": "a7fa8fc1-6cab-4313-806f-9ad2bbcfa612",
+          "nombre": "Conflicto familiar",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://audinifer.com/e/0f81xzd4cm2b"
+            }
+          ]
+        },
+        {
+          "id": "8f9654aa-6abb-4df9-901c-075198d959b2",
+          "nombre": "Reunión",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/5wcyayra9pls9b9g7wvwrzfq90fdg97p"
+            }
+          ]
+        },
+        {
+          "id": "366b5335-28f5-4034-9f67-9e7706e7e5b0",
+          "nombre": "Viajes separados",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/5yp8cf1qdg70pewqhrdo77x9omqljulo"
+            }
+          ]
+        },
+        {
+          "id": "b454f220-815c-4726-a5fd-e6111d11800f",
+          "nombre": "Elección de ruta",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/nssk1apu3cl4nnww6tjzeqt0at3ayjmf"
+            }
+          ]
+        },
+        {
+          "id": "6d4ebbf7-9fef-43cf-8b9a-62503a8b59e7",
+          "nombre": "Nacimiento de mi hermana",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vibuxer.com/e/fb0yjzh8pmnq"
+            }
+          ]
+        },
+        {
+          "id": "5cecc4d5-569e-4d05-a366-4e0d264a859a",
+          "nombre": "Punto de inflexión 2",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/ma694mmvltgfsrmwnfugweqa2p9xijko"
+            }
+          ]
+        },
+        {
+          "id": "7d6512e8-e47c-4508-94bc-6763c5efe5ef",
+          "nombre": "Sueño familiar",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://audinifer.com/e/nbk76ef5l0wx"
+            }
+          ]
+        },
+        {
+          "id": "15317657-533a-447c-a08e-55508358e6bd",
+          "nombre": "Despertar",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/hxv1uzx6wx68kdqwih4r1a9xz8dd8tsj"
+            }
+          ]
+        },
+        {
+          "id": "f2eef105-8b97-418d-844d-729f5c0490a9",
+          "nombre": "Sin trabajo y sin rumbo",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-08-19T14:18:50.122482",
+          "fechaActualizacion": "2026-08-19T14:18:50.122482",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://vibuxer.com/e/uz0nathsbsbr"
             }
           ]
         }
