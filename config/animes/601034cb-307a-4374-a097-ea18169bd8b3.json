@@ -1,0 +1,721 @@
+{
+  "id": "601034cb-307a-4374-a097-ea18169bd8b3",
+  "nombre": "Overlord",
+  "descripcion": "Cuando un popular MMORPG anuncia su cierre definitivo, el veterano jugador Momonoga decide quedarse en él hasta el mismo cierre, sin salir. El problema es que pasa la horra de cierre y él no se desconecta, pero los NPC han ganado conciencia propia. ¿Está atrapado?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/59dd9785564f46c3cf2a18b38149f5a1.jpg",
+  "anio": 2017,
+  "estado": "En emisión",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Sobrenatural"
+  ],
+  "temporadas": [
+    {
+      "id": "e235f301-6f46-4e3b-b221-eaa824c1e24c",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "c6642f52-58a5-4288-bafc-03e1420b6055",
+          "nombre": "Fin y principio",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/puaxzexpfymd"
+            }
+          ]
+        },
+        {
+          "id": "5e604f0a-c64e-40a5-a47a-4ca5c9ad14e5",
+          "nombre": "Guardianes de piso",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/nvt8eovtdy09"
+            }
+          ]
+        },
+        {
+          "id": "5a9608ed-3547-4ed4-88bb-f80a539fdc6c",
+          "nombre": "Batalla de Carne",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/zwq82rpqe95s"
+            }
+          ]
+        },
+        {
+          "id": "c3fd06fe-21c8-4b94-95a4-b0c0fb429db0",
+          "nombre": "Señor de la muerte",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/t0h3f9zevyht"
+            }
+          ]
+        },
+        {
+          "id": "f006886d-7697-42da-850f-0e90a1a1cbff",
+          "nombre": "Dos aventureros",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/j87wdgwy1fw9"
+            }
+          ]
+        },
+        {
+          "id": "a56dc3cd-82bf-4b9d-9beb-aabf34e8c97c",
+          "nombre": "Viaje",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/kpkmpv0wy83g"
+            }
+          ]
+        },
+        {
+          "id": "aeb4345b-36fe-4252-a935-0941372e7e1c",
+          "nombre": "Sabio rey del bosque",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/idq0f5uxprh4"
+            }
+          ]
+        },
+        {
+          "id": "156f5fcf-4c76-47d2-a7c6-32772f08f9ca",
+          "nombre": "Espadas gemelas",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/6aoq2e3la2hq"
+            }
+          ]
+        },
+        {
+          "id": "3caf1502-a505-4df7-b135-4b53e8972ef9",
+          "nombre": "El guerrero negro",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/43b7adol95bv"
+            }
+          ]
+        },
+        {
+          "id": "f5870934-ef3d-4556-8f30-fd55c22da154",
+          "nombre": "El verdadero vampiro",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/pdv6976qsacf"
+            }
+          ]
+        },
+        {
+          "id": "c96b8309-ef93-485a-a009-6a62b4caf463",
+          "nombre": "Confusión y entendimiento",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ccusyaf97gby"
+            }
+          ]
+        },
+        {
+          "id": "b369821b-0c27-42eb-8c27-b97d64f7ca68",
+          "nombre": "La valquiria sangrienta",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/yuf8fmnyyw5y"
+            }
+          ]
+        },
+        {
+          "id": "1e1916ed-50cb-4050-81a5-abd632b5e584",
+          "nombre": "Jugador contra NPC",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/mQrLjlM94WTGPJ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a50d96a6-cf87-44fb-97b9-c6e3c80a65e9",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "0ada730e-f4c7-426a-8123-b912f0e03f9b",
+          "nombre": "El amanecer de la desesperación",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/addf0852m9dlq4qy52w54177g4l5kvc0"
+            }
+          ]
+        },
+        {
+          "id": "ef68cf53-5af2-478d-b63f-a8c9beede992",
+          "nombre": "Partida",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/lnrlnag2h7q55o64yoswcuhuekgqu89j"
+            }
+          ]
+        },
+        {
+          "id": "9e6522ea-19e1-4fa4-b4e5-b2f6f7bbfae1",
+          "nombre": "Los hombres lagarto",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/zmgoh2zv9a9f"
+            }
+          ]
+        },
+        {
+          "id": "7523ce90-f80c-40c7-ad03-97f8dd13ae9d",
+          "nombre": "Ejército de la muerte",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/9xrky3nc0weg"
+            }
+          ]
+        },
+        {
+          "id": "2efa0787-e9ce-4630-b073-5cd7b62db78b",
+          "nombre": "El dios helador",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/k6qjeimdf8fb"
+            }
+          ]
+        },
+        {
+          "id": "bf757c9b-f89b-4407-9c86-4427d74e6fa0",
+          "nombre": "Los que recogen",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ebahg77q7cmb"
+            }
+          ]
+        },
+        {
+          "id": "a8b62317-d563-4173-8b43-c706efb2efe6",
+          "nombre": "Rosas Azules",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/yad78s0ul29f"
+            }
+          ]
+        },
+        {
+          "id": "5c286ebf-f148-4746-9a04-c861deb1e0f1",
+          "nombre": "Los sentimientos de un chico",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/7rl0ijc3ozt3"
+            }
+          ]
+        },
+        {
+          "id": "727d3f5c-4550-4e58-9ae0-c75e8c3f23fa",
+          "nombre": "Llamas elevándose",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/o3ytjaif089w"
+            }
+          ]
+        },
+        {
+          "id": "c4d7d6a5-bea5-4e23-b9b9-668e535a4f2a",
+          "nombre": "Disturbios en la capital",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/o5c0ye78qrdt"
+            }
+          ]
+        },
+        {
+          "id": "b1d44f77-a44e-4b10-9854-025d57bc5532",
+          "nombre": "Jaldabaoth",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/5h6y3dbx94ck"
+            }
+          ]
+        },
+        {
+          "id": "e30ad2c9-3e31-4ed8-af05-ab965c9494a6",
+          "nombre": "La batalla final",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/4e0q8br7fkgj2di6pngtfjm7ox2zv762"
+            }
+          ]
+        },
+        {
+          "id": "ae1806d3-1c39-463b-903b-126a4626cf50",
+          "nombre": "El mayor as en la manga",
+          "etiqueta": "T2 | E13",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/2ige66ll8g1vqmum4egs3k3cqbuwufy5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96b205c5-828f-4fba-8e7c-039f767043bf",
+      "numero": 3,
+      "nombre": "3ra Temporada",
+      "episodios": [
+        {
+          "id": "075103cd-f7a1-4641-a352-7dbf4f650d7b",
+          "nombre": "La melancolía del gobernante",
+          "etiqueta": "T3 | E1",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/krh32psnh807bzgj0zf84tcz3bvqkviu"
+            }
+          ]
+        },
+        {
+          "id": "66e04c89-9a87-41c0-a5e3-bd2b218300e1",
+          "nombre": "Carne de nuevo",
+          "etiqueta": "T3 | E2",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/nfppojigws01u5bmcsfxs09jmix1otpm"
+            }
+          ]
+        },
+        {
+          "id": "62b70842-d559-4bad-b777-2f89aac21087",
+          "nombre": "Los días de Enri",
+          "etiqueta": "T3 | E3",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/sq87xvtpzt5nikiqtz8zu6k5fvacf4p3"
+            }
+          ]
+        },
+        {
+          "id": "fa573b45-138e-494e-ba5c-a6f388dfb4a2",
+          "nombre": "Gigante y serpiente",
+          "etiqueta": "T3 | E4",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/px7qroqsz712k3ahnipl2snca42iyx86"
+            }
+          ]
+        },
+        {
+          "id": "f38ccebb-6ebd-4b83-8100-c830b4903077",
+          "nombre": "Dos líderes",
+          "etiqueta": "T3 | E5",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/iv0f0tdn3jvgegbsg2pi9xf677v0sr7v"
+            }
+          ]
+        },
+        {
+          "id": "5185ec00-09fb-4360-bc47-0ca7d9ec1b25",
+          "nombre": "Invitación a la muerte",
+          "etiqueta": "T3 | E6",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/6i1h3387eivej8eof36a4bacww30ve59"
+            }
+          ]
+        },
+        {
+          "id": "c504bcfd-c811-42a7-9dae-3654611ae36a",
+          "nombre": "Mariposas en la telaraña",
+          "etiqueta": "T3 | E7",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/fc5kay2ak865gcm7oxjcz4m136ckph3g"
+            }
+          ]
+        },
+        {
+          "id": "b9615682-a9b1-4c8e-9ee6-79b00b484df4",
+          "nombre": "Una pizca de esperanza",
+          "etiqueta": "T3 | E8",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/9u11t0673nufx6qvletixp69f14vg681"
+            }
+          ]
+        },
+        {
+          "id": "1c0f56af-7e29-4077-a00b-2b8a9d6de281",
+          "nombre": "Batalla dialéctica",
+          "etiqueta": "T3 | E9",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/huswll3689gc6ck9sxqcwjzle4d83wbk"
+            }
+          ]
+        },
+        {
+          "id": "5fc5e74d-1968-415d-a9a8-f3ce7ee938fe",
+          "nombre": "Preparativos para la guerra",
+          "etiqueta": "T3 | E10",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/aupv1x5gy5pqbi8bbmmy3u2arx5pgtds"
+            }
+          ]
+        },
+        {
+          "id": "d074a518-f346-4051-98c2-0c276cac7f23",
+          "nombre": "Otra batalla",
+          "etiqueta": "T3 | E11",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/tultngyvj0flbgo9g6ih1zfm9wm65hj0"
+            }
+          ]
+        },
+        {
+          "id": "6221c416-7f16-43a6-9268-ecbd77b923a8",
+          "nombre": "Masacre",
+          "etiqueta": "T3 | E12",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/qro5fvrlz0zpgf7en7is90r7xpzjrlqn"
+            }
+          ]
+        },
+        {
+          "id": "c6fceef6-c7a3-4405-bf4b-98e666412ab0",
+          "nombre": "Jugador contra jugador",
+          "etiqueta": "T3 | E13",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.so/e/p7sg9lg7y17v2f1vw7zmcezfslrz9qyx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28313697-f1de-4c31-96c5-cfd16c8d44a5",
+      "numero": 4,
+      "nombre": "4ta Temporada",
+      "episodios": [
+        {
+          "id": "97e7cc1f-190b-4bd0-af5d-4adaf0bd81ce",
+          "nombre": "La gobernante",
+          "etiqueta": "T4 | E1",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/jOd9l22ydWUz0z2/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "80227803-7891-49eb-adcd-34e2ef61070c",
+          "nombre": "El reino Re-Estize",
+          "etiqueta": "T4 | E2",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/X2Jy72qpDacDQwZ/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "398487a8-2f03-4661-afe2-380ea4690796",
+          "nombre": "El plan de Enri",
+          "etiqueta": "T4 | E3",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Xka7RWOlDbCW3K/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f47e0020-ef84-4f8a-8935-23c1d99f5908",
+          "nombre": "La ciudad del enano",
+          "etiqueta": "T4 | E4",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/OA4G46dJjbUmx2/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9f4aac2c-7b26-4feb-a5ca-39faed1dc003",
+          "nombre": "Dos aventureros",
+          "etiqueta": "T4 | E5",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/DAJb2mO1yxhkZaz/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6075666c-dd76-448d-80e6-ea413a1ad34a",
+          "nombre": "La batalla del Reino Enano",
+          "etiqueta": "T4 | E6",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/wGMa7Z6BOdSVQm/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "bd543fee-f04a-4efd-9dc3-571e61b59822",
+          "nombre": "La conquista del reino",
+          "etiqueta": "T4 | E7",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/GvOOwp93rAiZ6m/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "28464494-3b15-43b5-a3ff-74d99345ff74",
+          "nombre": "Un mundo de caos",
+          "etiqueta": "T4 | E8",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/gqZQ9drzJGiqblw/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_08.mp4"
+            }
+          ]
+        },
+        {
+          "id": "49c71b56-5df2-4a51-87ac-86b3f3beeb24",
+          "nombre": "El reino de la hechicería",
+          "etiqueta": "T4 | E9",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/9lWPpwk8X6ua37w/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "94e09433-f229-4b7f-9843-5e01a9c56d07",
+          "nombre": "La caída del reino",
+          "etiqueta": "T4 | E10",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/jP4VjW91W7fz1La/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_10.mp4"
+            }
+          ]
+        },
+        {
+          "id": "9b17d955-0d7a-429d-af05-1eedf16f040c",
+          "nombre": "La última resistencia",
+          "etiqueta": "T4 | E11",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/9k7rm0MDaQia0PL/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8762f215-3c49-4870-b771-bb1e20d8e689",
+          "nombre": "La masacre",
+          "etiqueta": "T4 | E12",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/4mzedp6vqQsKqex/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "0a2ce4d5-267b-4615-92c5-1c86f90436f8",
+          "nombre": "La bruja del reino",
+          "etiqueta": "T4 | E13",
+          "fechaPublicacion": "2026-08-19T12:26:16.790571",
+          "fechaActualizacion": "2026-08-19T12:26:16.790571",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/7pXaGOOGk8Fxdo/%5BAnimeOnlineNinja%5D_Overlord_IV_BD_Latino_13_v2.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
