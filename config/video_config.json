@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "extensions": [
     ".mp4",
     ".m3u8",
@@ -42,7 +42,8 @@
     "filemooon.link",
     "hgcloud.to",
     "hanerix.com",
-    "vibuxer.com"
+    "vibuxer.com",
+    "dood.la"
   ],
   "tokenPairs": [
     [
