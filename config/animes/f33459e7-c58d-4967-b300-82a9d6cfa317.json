@@ -1,0 +1,278 @@
+{
+  "id": "f33459e7-c58d-4967-b300-82a9d6cfa317",
+  "nombre": "from old country bumpkin to master swordsman",
+  "descripcion": "Beryl Gardinant, un humilde maestro de espada de un pequeño pueblo, lleva una vida tranquila enseñando en su dojo. Todo cambia cuando una antigua alumna, ahora comandante de los caballeros del reino, lo invita a convertirse en instructor en la capital. Allí se reencontrará con sus antiguos discípulos, quienes se han convertido en grandes guerreros, y descubrirá que su verdadera habilidad con la espada es mucho mayor de lo que jamás imaginó.",
+  "imagen": "https://imgs.search.brave.com/cC-Bzc_tEa1gxvQQaMr1IAVkogz4Rqz8rUlMYFTbvuE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy9z/aGFyZWRpbWFnZXMv/MjAyNS8wMy9mcm9t/LW9sZC1jb3VudHJ5/LWJ1bXBraW4tdG8t/bWFzdGVyLXN3b3Jk/c21hbi1wb3N0ZXIu/anBnP3E9NDkmZml0/PWNvbnRhaW4mdz00/ODAmZHByPTI",
+  "anio": 2025,
+  "estado": "En emisión",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Comedia"
+  ],
+  "temporadas": [
+    {
+      "id": "3703fbd7-4467-40f8-92bc-1fc1b030b3fa",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "effc4355-acef-4d55-9cd6-9f8b73a1632c",
+          "nombre": "Rumbo a la capital",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/dpy5en4doj76"
+            }
+          ]
+        },
+        {
+          "id": "161edbe4-2d10-4bfd-863f-1f06cd4ff7a9",
+          "nombre": "Asombro ante un mago",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/6y414jyko33d"
+            }
+          ]
+        },
+        {
+          "id": "6a184ea3-c039-4ca9-a86b-b563d18d65b4",
+          "nombre": "Un ataque feroz",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-igp7tsacbmlf.html"
+            }
+          ]
+        },
+        {
+          "id": "817c0f9b-2d98-4bca-886d-a6200fab4577",
+          "nombre": "Volando con un monstruo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/g8h2j6rb3481"
+            }
+          ]
+        },
+        {
+          "id": "5a506d51-5459-4f49-9499-f1dc6729bf59",
+          "nombre": "La furia del maestro",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-f7ddccd1fc9g.html"
+            }
+          ]
+        },
+        {
+          "id": "eed30c24-fe7d-4658-a285-c9341a6cada0",
+          "nombre": "Frente a los muertos",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/eqwvk80rvueo"
+            }
+          ]
+        },
+        {
+          "id": "1c16bc3f-1615-4d06-89d6-1b63e209d052",
+          "nombre": "Los retos de la paternidad",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/7ilkq0aj9kbs"
+            }
+          ]
+        },
+        {
+          "id": "a1cb1fb7-6edb-4d38-a97c-e19c6a34174b",
+          "nombre": "La espada relámpago",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-15wjnjz685b4.html"
+            }
+          ]
+        },
+        {
+          "id": "969c4f03-9e38-4ef8-92c2-5ef84da4cc5b",
+          "nombre": "La primera cacería",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cvh08qpzx8xk.html"
+            }
+          ]
+        },
+        {
+          "id": "b21a7f40-6207-4def-8736-02d7177865e1",
+          "nombre": "Protegiendo a una princesa",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-i9e52qk1ooot.html"
+            }
+          ]
+        },
+        {
+          "id": "985d5c0c-4566-496c-b9cc-e132e819de1d",
+          "nombre": "Una pelea mortal",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-chhim19deg6c.html"
+            }
+          ]
+        },
+        {
+          "id": "3ee37217-a028-4184-a270-cd92a2cd6096",
+          "nombre": "El gran maestro espadachín",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-oqaa68n2psa7.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2cb029b-9611-4cf1-a35b-53db0f8aebd6",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "f7b49fc0-ce91-4e12-a012-fb01b36078b7",
+          "nombre": "El regreso al campo",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/1zyz4vesctow"
+            }
+          ]
+        },
+        {
+          "id": "43f32f69-3552-4e93-9864-695c7c3cb18c",
+          "nombre": "El viejo pueblerino y el pasado",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/K4zzJXrZrwH0QyR/%5BAnimeOnlineNinja%5D_From_Old_Country_Bumpkin_to_Master_Swordsman_S2_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "940af208-7e34-4daf-b6d3-aa0362b98ecc",
+          "nombre": "Un nuevo desafío",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/12v4o9JKP9F0gq/%5BAnimeOnlineNinja%5D_From_Old_Country_Bumpkin_to_Master_Swordsman_S2_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "dbb43dca-ae92-4aa9-9771-2754170c50d1",
+          "nombre": "De vuelta a casa",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-y49fspqonenc.html"
+            }
+          ]
+        },
+        {
+          "id": "b1146840-d368-4943-bf88-25bb8a17a917",
+          "nombre": "El rugido del maestro",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/vxvQ7q2A68T4pxK/%5BAnimeOnlineNinja%5D_From_Old_Country_Bumpkin_to_Master_Swordsman_S2_Latino_05.mp4"
+            }
+          ]
+        },
+        {
+          "id": "6ec8e1fe-5c64-477b-8cc7-57ffed5c773a",
+          "nombre": "Frente a su padre",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/j6050q8dc3u8"
+            }
+          ]
+        },
+        {
+          "id": "fc447c41-9ac5-4d9a-a207-36bc8c9b224a",
+          "nombre": "Invitado por un noble",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-20T17:56:45.109296",
+          "fechaActualizacion": "2026-08-20T17:56:45.109296",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0y6jtu4ob9il.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
