@@ -1,0 +1,75 @@
+{
+  "id": "7a557b1f-0171-4c43-8741-91fcba09c68c",
+  "nombre": "Tomb Raider King",
+  "descripcion": "Cuando misteriosas tumbas repletas de reliquias divinas aparecen por todo el mundo, comienza una feroz lucha por obtener su poder. Traicionado y abandonado a su suerte, el saqueador Jooheon Suh recibe una segunda oportunidad al regresar al pasado, antes de que todo comenzara. Ahora, conoce el futuro y está decidido a adelantarse a todos para conquistar las tumbas y hacerse con cada reliquia antes que nadie.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b1fa4cfec92000dc539f7330051d05da.png",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "63da6a09-3b24-46db-b329-f3087a32234c",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "9ae4734c-eea3-40a0-9ac9-a0c74e131fc6",
+          "nombre": "Empezar de nuevo",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/g7c5zkwvdk1a"
+            }
+          ]
+        },
+        {
+          "id": "00ce2340-0f31-4e69-9723-a382fbea954e",
+          "nombre": "El dueño de las reliquias",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/lQLvG9bkGqf7XB7/%5BAnimeOnlineNinja%5D_Tomb_Raider_King_Latino_02.mp4"
+            }
+          ]
+        },
+        {
+          "id": "8472f4da-1b5a-4e89-8360-7db1e416fff0",
+          "nombre": "Alguien apto para controlar",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/ZPBvqZZ99jTq8zY/%5BAnimeOnlineNinja%5D_Tomb_Raider_King_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "55b87a09-91df-4d3c-a598-d744aa5cac13",
+          "nombre": "Aquel que roba el futuro",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/vxqb09ogmvCboo/%5BAnimeOnlineNinja%5D_Tomb_Raider_King_Latino_04.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
