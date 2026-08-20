@@ -1073,5 +1073,18 @@
       "Romance",
       "Seinen"
     ]
+  },
+  {
+    "id": "f33459e7-c58d-4967-b300-82a9d6cfa317",
+    "nombre": "from old country bumpkin to master swordsman",
+    "imagen": "https://imgs.search.brave.com/cC-Bzc_tEa1gxvQQaMr1IAVkogz4Rqz8rUlMYFTbvuE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy9z/aGFyZWRpbWFnZXMv/MjAyNS8wMy9mcm9t/LW9sZC1jb3VudHJ5/LWJ1bXBraW4tdG8t/bWFzdGVyLXN3b3Jk/c21hbi1wb3N0ZXIu/anBnP3E9NDkmZml0/PWNvbnRhaW4mdz00/ODAmZHByPTI",
+    "descripcion": "Beryl Gardinant, un humilde maestro de espada de un pequeño pueblo, lleva una vida tranquila enseñando en su dojo. Todo cambia cuando una antigua alumna, ahora comandante de los caballeros del reino, lo invita a convertirse en instructor en la capital. Allí se reencontrará con sus antiguos discípulos, quienes se han convertido en grandes guerreros, y descubrirá que su verdadera habilidad con la espada es mucho mayor de lo que jamás imaginó.",
+    "idioma": "LAT",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Comedia"
+    ]
   }
 ]
