@@ -21,7 +21,7 @@
           "nombre": "Prólogo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -36,7 +36,7 @@
           "nombre": "Tecnología perdida",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -51,7 +51,7 @@
           "nombre": "Exterminio Total",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -66,7 +66,7 @@
           "nombre": "Busca la libertad",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -81,7 +81,7 @@
           "nombre": "A través de sus ojos",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-07-23T17:14:29.238968",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -96,7 +96,7 @@
           "nombre": "Eftal",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-07-30T13:03:13.241887",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -111,7 +111,7 @@
           "nombre": "Sonrisa maestra",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-10T08:46:47.989286",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -124,11 +124,24 @@
           "nombre": "Sin escape",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-15T19:10:41.958279",
-          "fechaActualizacion": "2026-08-15T19:10:41.958279",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/x1qguwmf7jh2"
+            }
+          ]
+        },
+        {
+          "id": "1200e7a8-5068-4515-a0b9-cf6fd072db81",
+          "nombre": "Déjame pagar",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-20T16:39:06.418623",
+          "fechaActualizacion": "2026-08-20T16:39:06.418623",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-p7wtid50s4xg.html"
             }
           ]
         }
