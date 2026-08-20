@@ -22,7 +22,7 @@
           "nombre": "Elymas, el caballero pesado",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "La amenazante araña mono",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "La misión de asalto",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,7 +67,7 @@
           "nombre": "Evolución de la existencia",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -82,7 +82,7 @@
           "nombre": "El colmillo de la locura latente",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-10T08:20:36.089157",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -95,7 +95,7 @@
           "nombre": "Ruche, la pierrot",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:20:36.089157",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -108,11 +108,24 @@
           "nombre": "A cazar la raana dorada",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-15T18:46:29.222983",
-          "fechaActualizacion": "2026-08-15T18:46:38.750624",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/svmmdssabjvy"
+            }
+          ]
+        },
+        {
+          "id": "71e38e55-6e2e-4bfd-b6fb-7dc8a4ac4c72",
+          "nombre": "Errancia",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-20T16:37:07.600897",
+          "fechaActualizacion": "2026-08-20T16:37:07.600897",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/u93knlifixgh"
             }
           ]
         }
