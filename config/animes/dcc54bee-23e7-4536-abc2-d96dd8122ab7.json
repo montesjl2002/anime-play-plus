@@ -1,0 +1,370 @@
+{
+  "id": "dcc54bee-23e7-4536-abc2-d96dd8122ab7",
+  "nombre": "My Happy Marriage",
+  "descripcion": "Para su abusiva familia, Miyo es alguien insignificante. Pero cuando conoce a su futuro esposo, su verdadero ser —y sus poderes ocultos— no tardan en salir a la luz.",
+  "imagen": "https://drive.google.com/uc?export=view&id=1NZxzdABFcbr_ZVJTwfM1Q2b8H_kstQAi",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Drama",
+    "Histórico",
+    "Josei",
+    "Romance",
+    "Sobrenatural"
+  ],
+  "temporadas": [
+    {
+      "id": "88ee1fb9-3053-41da-8ce3-b7680676b72e",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "70cb24f1-cd6c-4dd6-a704-e75907f46a5c",
+          "nombre": "El encuentro",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ufnic2soiyk9.html"
+            }
+          ]
+        },
+        {
+          "id": "9cdd60a4-715e-4a84-8679-595396635a30",
+          "nombre": "El nuevo hogar",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/yra24walqciq"
+            }
+          ]
+        },
+        {
+          "id": "eeecad4b-badb-453e-bf55-bd1320881532",
+          "nombre": "El primer día de verano",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-4z028opsgd1f.html"
+            }
+          ]
+        },
+        {
+          "id": "0f3b6a7a-0de3-4b93-b409-1edbf6a3b5af",
+          "nombre": "El regalo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-getycvo5eise.html"
+            }
+          ]
+        },
+        {
+          "id": "45c93ba4-db65-407a-9a1b-de138eaa9294",
+          "nombre": "Las ondas",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/g8gd4vkdtgh2"
+            }
+          ]
+        },
+        {
+          "id": "e48e7182-40b9-4ce8-9b39-27b3fa7e40f2",
+          "nombre": "La decisión",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-8rwrcwm491qe.html"
+            }
+          ]
+        },
+        {
+          "id": "2d374ce6-a822-461b-b9be-b0d754a85df2",
+          "nombre": "La dama del verano",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/95gb06aws4pq"
+            }
+          ]
+        },
+        {
+          "id": "82a7a42a-7adb-42de-b505-480a85dcb58a",
+          "nombre": "Pesadillas",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/lhunmtu9wue3"
+            }
+          ]
+        },
+        {
+          "id": "04de5e9b-0259-41a8-9459-aeaf6f37d40e",
+          "nombre": "El encuentro con el padre",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-al03enmypzd8.html"
+            }
+          ]
+        },
+        {
+          "id": "5d568195-ed81-48bf-bd63-5ee06cffccb7",
+          "nombre": "La mujer de la primavera",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-eph2u42gl5yu.html"
+            }
+          ]
+        },
+        {
+          "id": "7e25812a-5942-4224-ad1e-fbf3cbd9add3",
+          "nombre": "La luz en la oscuridad",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/o3jmxcv2777e"
+            }
+          ]
+        },
+        {
+          "id": "53f4c016-4b63-4838-861a-642acbc7619c",
+          "nombre": "La luz del amanecer",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-n1jcguo5nn1y.html"
+            }
+          ]
+        },
+        {
+          "id": "33154e0d-e7a5-45f2-95ee-ad1a207ae937",
+          "nombre": "La promesa",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-sdt8q0djfree.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e8d6e24b-82f1-4950-b936-f72637612aa8",
+      "numero": 2,
+      "nombre": "2da Temporada",
+      "episodios": [
+        {
+          "id": "ba98ecc2-bdd5-4fcc-a67a-4fbfda6915f6",
+          "nombre": "Otra oportunidad",
+          "etiqueta": "T2 | E1",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ta5xg8zhkplj"
+            }
+          ]
+        },
+        {
+          "id": "f4c7aa1d-8dc4-482f-a4ef-d05127e98e95",
+          "nombre": "El nuevo desafío",
+          "etiqueta": "T2 | E2",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/t1wkyua2r6la"
+            }
+          ]
+        },
+        {
+          "id": "aa897f63-66bf-4ff8-aa13-4744d48178a4",
+          "nombre": "La familia Usuba",
+          "etiqueta": "T2 | E3",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-od7o5sa09ycb.html"
+            }
+          ]
+        },
+        {
+          "id": "eb9c7a1f-e03e-4246-ba5f-a129279bf39e",
+          "nombre": "La casa de los sueños",
+          "etiqueta": "T2 | E4",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/flv8zby6xk2v"
+            }
+          ]
+        },
+        {
+          "id": "d0b34bf9-0b7c-425d-828d-070f684659c3",
+          "nombre": "La decisión de Miyo",
+          "etiqueta": "T2 | E5",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/u8gg14nufs3q"
+            }
+          ]
+        },
+        {
+          "id": "ca0c4d89-e78e-4a9b-9217-15a107705f5d",
+          "nombre": "La sombra que se acerca",
+          "etiqueta": "T2 | E6",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-eu54grp2bql7.html"
+            }
+          ]
+        },
+        {
+          "id": "5a31591b-7771-477d-be6e-6a29f77e4f3a",
+          "nombre": "La verdad oculta",
+          "etiqueta": "T2 | E7",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/16ix6635h48b"
+            }
+          ]
+        },
+        {
+          "id": "fa0a03d8-a690-4317-a92b-00a2ca31b5d1",
+          "nombre": "El poder de Miyo",
+          "etiqueta": "T2 | E8",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-n62r1rqp11fl.html"
+            }
+          ]
+        },
+        {
+          "id": "8ad9adc2-6463-477c-9cff-70d20906da76",
+          "nombre": "El destino de Kiyoka",
+          "etiqueta": "T2 | E9",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/an13cr1ehzil"
+            }
+          ]
+        },
+        {
+          "id": "b57ee552-9671-46b8-a05e-48c244c2ee04",
+          "nombre": "Una batalla inevitable",
+          "etiqueta": "T2 | E10",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fgz24kc1f3zk.html"
+            }
+          ]
+        },
+        {
+          "id": "d25e87ea-7609-4dfd-a382-123e45bdb73a",
+          "nombre": "Una partida inevitable",
+          "etiqueta": "T2 | E11",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/dqa47x83lede"
+            }
+          ]
+        },
+        {
+          "id": "f234c193-616c-469b-b7d7-c906669beb03",
+          "nombre": "Sentimientos que trascienden a los sueños",
+          "etiqueta": "T2 | E12",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mayv871smf2h.html"
+            }
+          ]
+        },
+        {
+          "id": "842cdd2b-1fca-4c4d-86f9-633dae8aea5e",
+          "nombre": "Cuando llega la primavera…",
+          "etiqueta": "T2 | E13",
+          "fechaPublicacion": "2026-08-21T09:49:29.469976",
+          "fechaActualizacion": "2026-08-21T09:49:29.469976",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0030k8kk8iin.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
