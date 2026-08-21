@@ -1,0 +1,1728 @@
+{
+  "id": "f50f0acf-4642-4af8-bd8d-51adaefba553",
+  "nombre": "Dragon Ball Super",
+  "descripcion": "Tras la derrota de Majin Buu, la Tierra vuelve a vivir en paz. Sin embargo, todo cambia cuando Beerus, el Dios de la Destrucción, despierta de su largo sueño en busca del legendario Dios Super Saiyajin. Goku y sus amigos deberán enfrentarse a enemigos cada vez más poderosos mientras descubren nuevos universos, transformaciones y desafíos que llevarán sus límites mucho más allá.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/98ea4207e23a2ea3e3af39ad641d8800.jpg",
+  "anio": 2016,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Ciencia ficción",
+    "Artes marciales"
+  ],
+  "temporadas": [
+    {
+      "id": "27f65f02-d733-4fc1-b9f4-f4079c7b2119",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "5bffdef0-f0d0-497a-bca9-54c29c7f90d0",
+          "nombre": "El premio de la paz",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/n0mzjpru8xuw"
+            }
+          ]
+        },
+        {
+          "id": "738c93e2-fe54-48fe-b9a3-c27f48caa693",
+          "nombre": "Vacaciones en familia",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dkk5jitf8kew.html"
+            }
+          ]
+        },
+        {
+          "id": "ae63133a-70e2-410c-b40a-38a6bea05940",
+          "nombre": "En busca del Super Saiyan Dios",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/y6z8d6gzhl7t"
+            }
+          ]
+        },
+        {
+          "id": "e62aa2c2-737f-46ab-90b9-790e2ac16a08",
+          "nombre": "El plan de Pilaf",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/O444VvMkxmSZRll/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_BD_Latino_004.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f3b956b6-0528-45ac-bbfa-814c1345e343",
+          "nombre": "Goku contra Beerus",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-tjp0bw1n5d5y.html"
+            }
+          ]
+        },
+        {
+          "id": "3fb10bc8-4cb2-4158-b5b1-af6e205a1211",
+          "nombre": "La fiesta de cumpleaños",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/3te74i7ucpq0"
+            }
+          ]
+        },
+        {
+          "id": "0d596f5c-fbf5-4c1f-9427-a1f2a95b248f",
+          "nombre": "La ira de Vegeta",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0iomb4piw568.html"
+            }
+          ]
+        },
+        {
+          "id": "eebf6aed-91a9-4f65-b560-cb01a59c568a",
+          "nombre": "La última oportunidad",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/10kpizdpln22"
+            }
+          ]
+        },
+        {
+          "id": "adf9944b-261a-4c25-880d-d6ec261979df",
+          "nombre": "El Super Saiyan Dios",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-io3u017u7a1r.html"
+            }
+          ]
+        },
+        {
+          "id": "21df87b7-4f1a-4f63-814e-230a0fcf5b17",
+          "nombre": "El poder del Dios",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/uuhcc4qqndwf"
+            }
+          ]
+        },
+        {
+          "id": "8aa15925-cd97-4d60-ab87-f33fe08fac85",
+          "nombre": "La batalla continúa",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-auiyedavw8wa.html"
+            }
+          ]
+        },
+        {
+          "id": "973d3f2c-9d72-45e3-b34f-7a12602ffd50",
+          "nombre": "Dios contra Dios",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-jbxm4526b16l.html"
+            }
+          ]
+        },
+        {
+          "id": "b60ab380-6e33-4dd8-90ca-5d98b0cd06c0",
+          "nombre": "Superando al Dios",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hgl880uijufl.html"
+            }
+          ]
+        },
+        {
+          "id": "126fb828-c6a9-4db0-a5a3-e128f3a01f9b",
+          "nombre": "El final de la batalla",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/no71mypg04dv"
+            }
+          ]
+        },
+        {
+          "id": "7ebf223a-a2f1-44c8-ad7f-4cbbbb370cb6",
+          "nombre": "¡Valiente Satán!",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-nu9idztkvtrt.html"
+            }
+          ]
+        },
+        {
+          "id": "0b16e6f6-63bd-4eec-9a0d-977ca1a59da2",
+          "nombre": "Vegeta se entrena",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/3tq5spmapcog"
+            }
+          ]
+        },
+        {
+          "id": "77668901-36b5-4d3e-9676-cf87a11c5c49",
+          "nombre": "Pan ha nacido",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-io6u90c0es4r.html"
+            }
+          ]
+        },
+        {
+          "id": "54b3c924-f404-4951-a93b-134aa9407d1c",
+          "nombre": "Las nuevas tropas de Freezer",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/toyosda1yadc"
+            }
+          ]
+        },
+        {
+          "id": "662084ad-0463-4c50-91d0-88fc1c1b1559",
+          "nombre": "El regreso de Freezer",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-09ex8lv0cyg4.html"
+            }
+          ]
+        },
+        {
+          "id": "c3491ec2-2341-4bc4-a7df-8c5a326e70c1",
+          "nombre": "El ejército de Freezer",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-u69c9mghe6sx.html"
+            }
+          ]
+        },
+        {
+          "id": "3df19dd7-e155-45e6-a34b-67228d29736e",
+          "nombre": "La venganza de Freezer",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-s5ndaszw0bgw.html"
+            }
+          ]
+        },
+        {
+          "id": "e665b696-1460-4180-ae49-ed7c9c6dca92",
+          "nombre": "La transformación de Freezer",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/o6ti97z0l12m"
+            }
+          ]
+        },
+        {
+          "id": "6411b661-a2ec-4c4b-9ac3-5d510f5fedc8",
+          "nombre": "El combate comienza",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2m6x0osfcs3a.html"
+            }
+          ]
+        },
+        {
+          "id": "f8abf9dc-5ebc-4426-a888-65739daa80df",
+          "nombre": "La batalla definitiva",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/9h45dkbifw64"
+            }
+          ]
+        },
+        {
+          "id": "dba9ad6f-dbcb-434b-8c88-bdc3a80fd995",
+          "nombre": "La fuerza de Freezer",
+          "etiqueta": "T1 | E25",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ual5w8x9i5d6.html"
+            }
+          ]
+        },
+        {
+          "id": "c3baa02d-6d0e-4eaf-b3e8-a05f25ecf5e6",
+          "nombre": "El regreso de Goku",
+          "etiqueta": "T1 | E26",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/5ncjcqjh2igc"
+            }
+          ]
+        },
+        {
+          "id": "5d34b077-e792-4543-86bd-5ad7cae46a54",
+          "nombre": "El final de Freezer",
+          "etiqueta": "T1 | E27",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/hjb7xwtme4sx"
+            }
+          ]
+        },
+        {
+          "id": "dd04fb66-93e3-409e-8768-7b3708fd7701",
+          "nombre": "El torneo comienza",
+          "etiqueta": "T1 | E28",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-v56sl533zn9o.html"
+            }
+          ]
+        },
+        {
+          "id": "48c4f211-04c6-43e2-ae56-172d458535d2",
+          "nombre": "Los guerreros del Universo 6",
+          "etiqueta": "T1 | E29",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/tbzti6rdifxi"
+            }
+          ]
+        },
+        {
+          "id": "9d82d630-e757-4d0a-b79e-119901da1ab7",
+          "nombre": "Goku contra Botamo",
+          "etiqueta": "T1 | E30",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ennflrpn8cu9.html"
+            }
+          ]
+        },
+        {
+          "id": "75060627-6c12-4e12-9e2c-53f481c03311",
+          "nombre": "El misterioso Frost",
+          "etiqueta": "T1 | E31",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/nqluz30vz9u2"
+            }
+          ]
+        },
+        {
+          "id": "7c1492db-b1a2-41a1-84e5-de62808fce95",
+          "nombre": "El guerrero del sexto universo",
+          "etiqueta": "T1 | E32",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/skni7x7qjcm6"
+            }
+          ]
+        },
+        {
+          "id": "9d6b2e62-9303-4c8c-adc0-99025c7754b0",
+          "nombre": "La técnica de Piccolo",
+          "etiqueta": "T1 | E33",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/a3b21c6vg92q"
+            }
+          ]
+        },
+        {
+          "id": "1ad0858c-98f8-471a-83ec-1063dd58cd54",
+          "nombre": "El poder de Frost",
+          "etiqueta": "T1 | E34",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xdqa1cyn61fb.html"
+            }
+          ]
+        },
+        {
+          "id": "525a102f-fdcd-45a6-a075-31f86c2a21a1",
+          "nombre": "La revancha de Vegeta",
+          "etiqueta": "T1 | E35",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/08c9134ylm49"
+            }
+          ]
+        },
+        {
+          "id": "8f21aabb-3b94-4c7e-a69c-0b6c7da1c888",
+          "nombre": "La furia de Vegeta",
+          "etiqueta": "T1 | E36",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ps62gfwtpj3z.html"
+            }
+          ]
+        },
+        {
+          "id": "521a3f0a-ede7-4cfb-b382-c0ae91831f3c",
+          "nombre": "Vegeta contra Cabba",
+          "etiqueta": "T1 | E37",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/hbkk1ud4fo03"
+            }
+          ]
+        },
+        {
+          "id": "209d8912-9216-4c89-bf28-f496a5fa8c35",
+          "nombre": "El asesino Hit",
+          "etiqueta": "T1 | E38",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-qmhvk5zpb9hy.html"
+            }
+          ]
+        },
+        {
+          "id": "0fd9fff4-0386-4ee3-a631-d71ef9b4c25a",
+          "nombre": "El verdadero poder de Hit",
+          "etiqueta": "T1 | E39",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-vhk4xjy7lig5.html"
+            }
+          ]
+        },
+        {
+          "id": "4341cf63-6b83-489f-be4f-6de7e9e0d6b8",
+          "nombre": "La batalla final",
+          "etiqueta": "T1 | E40",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2a91ktse0qbr.html"
+            }
+          ]
+        },
+        {
+          "id": "479b1ba2-db26-4fd7-9154-7ab461d50b05",
+          "nombre": "Shenlong aparece",
+          "etiqueta": "T1 | E41",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-3uasud37emyl.html"
+            }
+          ]
+        },
+        {
+          "id": "c04b84f7-70ae-4e95-9fb4-9082d9763e35",
+          "nombre": "La reunión de los universos",
+          "etiqueta": "T1 | E42",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hfsk99olm2f1.html"
+            }
+          ]
+        },
+        {
+          "id": "e4f8bb28-16eb-4aee-bc5b-72e2bf496b60",
+          "nombre": "La enfermedad de Goku",
+          "etiqueta": "T1 | E43",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/27g7xutbu78r"
+            }
+          ]
+        },
+        {
+          "id": "5f658a99-dcf7-4659-9343-8ae9fd34508b",
+          "nombre": "El regreso de Monaka",
+          "etiqueta": "T1 | E44",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7xy5zsqfx2mv.html"
+            }
+          ]
+        },
+        {
+          "id": "f6b945b0-090d-4cf7-8da5-aca41d9776d6",
+          "nombre": "Vegeta desaparece",
+          "etiqueta": "T1 | E45",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-t85dzsol8ucu.html"
+            }
+          ]
+        },
+        {
+          "id": "16da3dd6-6591-4d79-859a-01ddad281e35",
+          "nombre": "Goku contra Vegeta",
+          "etiqueta": "T1 | E46",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/epqrmyhca9hw"
+            }
+          ]
+        },
+        {
+          "id": "454704e0-a637-4ab1-97da-3aaf631231e8",
+          "nombre": "El enemigo del futuro",
+          "etiqueta": "T1 | E47",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/jcs09z9h3yyf"
+            }
+          ]
+        },
+        {
+          "id": "40407d4d-2702-4b70-8e05-2a4cd0380782",
+          "nombre": "Goku Black",
+          "etiqueta": "T1 | E48",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/nrxzpbj41jv0"
+            }
+          ]
+        },
+        {
+          "id": "bfea26ef-0998-4654-a917-60091ef2ee08",
+          "nombre": "El misterioso Saiyan",
+          "etiqueta": "T1 | E49",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/e83b8osbl8e2"
+            }
+          ]
+        },
+        {
+          "id": "57a58950-2812-4ad9-b597-ea55697463af",
+          "nombre": "Goku contra Black",
+          "etiqueta": "T1 | E50",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dfaawmf5imjr.html"
+            }
+          ]
+        },
+        {
+          "id": "f6c6aa7d-1c93-4a07-89b4-d9841e99a620",
+          "nombre": "La reunión de los amigos",
+          "etiqueta": "T1 | E51",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/ra0wgct0p7vo"
+            }
+          ]
+        },
+        {
+          "id": "78a0765e-4d58-4e7e-9e83-4ac571fd2253",
+          "nombre": "El aprendiz de Kaioshin",
+          "etiqueta": "T1 | E52",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/5kyt6r397y60"
+            }
+          ]
+        },
+        {
+          "id": "bc62ca1d-d000-42ba-8c45-906de2cd8e63",
+          "nombre": "La verdadera identidad de Black",
+          "etiqueta": "T1 | E53",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/js098mkmcyw7"
+            }
+          ]
+        },
+        {
+          "id": "6842b9c8-bf02-45e3-9f10-7f9bb0cf9090",
+          "nombre": "El futuro de Vegeta",
+          "etiqueta": "T1 | E54",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-o2ek3ztvi73w.html"
+            }
+          ]
+        },
+        {
+          "id": "294bf849-7719-410b-a3aa-e8ef6207d703",
+          "nombre": "La promesa de Zamasu",
+          "etiqueta": "T1 | E55",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hk0rryevvi26.html"
+            }
+          ]
+        },
+        {
+          "id": "4bf526c7-5efe-483b-9eb4-1f92d5f454c0",
+          "nombre": "La revancha de Black",
+          "etiqueta": "T1 | E56",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/887s7j3uf57b"
+            }
+          ]
+        },
+        {
+          "id": "f9d726f6-8dc1-4794-a5ec-f1dc7113f77d",
+          "nombre": "El Dios inmortal",
+          "etiqueta": "T1 | E57",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/egtk52f9mvgp"
+            }
+          ]
+        },
+        {
+          "id": "2b50b386-066a-4eb6-88a4-51e227616d2d",
+          "nombre": "El misterio de Zamasu",
+          "etiqueta": "T1 | E58",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/fsr9jlit66ld"
+            }
+          ]
+        },
+        {
+          "id": "5026cafc-eb18-4d39-a59b-01b99b5f0812",
+          "nombre": "La decisión de los dioses",
+          "etiqueta": "T1 | E59",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/wp5d9p7lpv3r"
+            }
+          ]
+        },
+        {
+          "id": "cb5efb1c-172c-4e88-ac2d-959b5cf5207c",
+          "nombre": "El plan de Zamasu",
+          "etiqueta": "T1 | E60",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/vmby2d28k3k1"
+            }
+          ]
+        },
+        {
+          "id": "b86f6397-b236-476f-8df5-44ad6863d76f",
+          "nombre": "La verdad sobre Black",
+          "etiqueta": "T1 | E61",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/g1cdu5dhnvpp"
+            }
+          ]
+        },
+        {
+          "id": "e9d3750b-77e4-4bb6-92bd-858d85757aab",
+          "nombre": "¡Goku, vuelve al futuro!",
+          "etiqueta": "T1 | E62",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-zr9pwom0i2j4.html"
+            }
+          ]
+        },
+        {
+          "id": "eb330281-0e7c-4cda-b781-fdd3fd94b6fe",
+          "nombre": "La determinación de Vegeta",
+          "etiqueta": "T1 | E63",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/q18g9aqdzcbi"
+            }
+          ]
+        },
+        {
+          "id": "0aca0628-9550-4c4b-aed0-9985e4e94d82",
+          "nombre": "La fusión de Zamasu",
+          "etiqueta": "T1 | E64",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/unanbqqahniq"
+            }
+          ]
+        },
+        {
+          "id": "ce06e1f1-9b4b-42fc-b334-0d5c7bc0d660",
+          "nombre": "El guerrero definitivo",
+          "etiqueta": "T1 | E65",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/aserqgpdwga1"
+            }
+          ]
+        },
+        {
+          "id": "cef2a457-70fa-48f7-982d-52cc6a52ad85",
+          "nombre": "La batalla final",
+          "etiqueta": "T1 | E66",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-a4a2zq2vucuk.html"
+            }
+          ]
+        },
+        {
+          "id": "97913a82-a3d6-4f21-8d0e-e45b5017adcf",
+          "nombre": "El futuro desaparece",
+          "etiqueta": "T1 | E67",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hd5nnoojlih9.html"
+            }
+          ]
+        },
+        {
+          "id": "7df9cff0-a9b5-4d22-9039-6cb62df2d088",
+          "nombre": "Shenlong vuelve a aparecer",
+          "etiqueta": "T1 | E68",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/p8e97aehsjth"
+            }
+          ]
+        },
+        {
+          "id": "8b54f751-02da-457c-b918-22496e8241ac",
+          "nombre": "Goku contra Arale",
+          "etiqueta": "T1 | E69",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/xqgfnwsdxej2"
+            }
+          ]
+        },
+        {
+          "id": "3f194dd2-ba2f-40f7-b331-debdde0ddbe9",
+          "nombre": "El desafío de Champa",
+          "etiqueta": "T1 | E70",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dhsk2oiuviyh.html"
+            }
+          ]
+        },
+        {
+          "id": "71196968-5900-43e2-a994-6ad464b4f80b",
+          "nombre": "El asesino Goku",
+          "etiqueta": "T1 | E71",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/m2dxwsrvmof6"
+            }
+          ]
+        },
+        {
+          "id": "a63fb203-6934-4706-b64d-c00c925e3603",
+          "nombre": "El contraataque",
+          "etiqueta": "T1 | E72",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/iqh8rdrb2f52"
+            }
+          ]
+        },
+        {
+          "id": "66997d39-aa7d-41d9-ad47-b7fd99723aff",
+          "nombre": "Gohan, el gran Saiyaman",
+          "etiqueta": "T1 | E73",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/vscvnl8e3kjk"
+            }
+          ]
+        },
+        {
+          "id": "574ed577-4a9d-4b25-bc5b-1db6875d3baf",
+          "nombre": "La película de Gohan",
+          "etiqueta": "T1 | E74",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-pg27amkgwa42.html"
+            }
+          ]
+        },
+        {
+          "id": "04ffec63-c966-4785-aadb-64b379468528",
+          "nombre": "Goku y Krilin entrenan",
+          "etiqueta": "T1 | E75",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-aoiumha1ewsn.html"
+            }
+          ]
+        },
+        {
+          "id": "e1eb920b-423d-4a85-a142-ee6fc84dde3f",
+          "nombre": "La prueba de Krilin",
+          "etiqueta": "T1 | E76",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/jmx4ubmepczx"
+            }
+          ]
+        },
+        {
+          "id": "ec4726b4-efe2-4161-839e-73706ae3ea12",
+          "nombre": "El Torneo de Poder",
+          "etiqueta": "T1 | E77",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/zaif0bnbp4x9"
+            }
+          ]
+        },
+        {
+          "id": "daa4d690-d645-4890-91ac-4ed52f202a51",
+          "nombre": "La supervivencia de los universos",
+          "etiqueta": "T1 | E78",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/brnllcj2v7oa"
+            }
+          ]
+        },
+        {
+          "id": "cdef590f-5013-4aa1-8267-8c8620bf3de8",
+          "nombre": "Basil, el guerrero",
+          "etiqueta": "T1 | E79",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2k3f11pz9vjf.html"
+            }
+          ]
+        },
+        {
+          "id": "bd46554a-414b-44c0-9658-0461015d171a",
+          "nombre": "El poder de Gohan",
+          "etiqueta": "T1 | E80",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-4ney0xgehfi5.html"
+            }
+          ]
+        },
+        {
+          "id": "fcd6b420-7b9b-41c1-a48f-eb72095e86b9",
+          "nombre": "Goku contra Bergamo",
+          "etiqueta": "T1 | E81",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/5l8fcrchf8d2"
+            }
+          ]
+        },
+        {
+          "id": "e26be7c8-9dd3-47cb-a5f9-3a9232ed0afd",
+          "nombre": "El guerrero más fuerte",
+          "etiqueta": "T1 | E82",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1wgd9pu6xfak.html"
+            }
+          ]
+        },
+        {
+          "id": "193e3c9f-7b98-4290-9c44-eee646fc7b1f",
+          "nombre": "Los diez guerreros",
+          "etiqueta": "T1 | E83",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-585q6kdlz3js.html"
+            }
+          ]
+        },
+        {
+          "id": "5a410227-ae61-4985-9401-bb5aa6e36ddb",
+          "nombre": "Reclutando al equipo",
+          "etiqueta": "T1 | E84",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-sn91xqnlzat0.html"
+            }
+          ]
+        },
+        {
+          "id": "4e634ddc-1edd-4dee-ab75-932e2f7fb6d9",
+          "nombre": "Los dioses se reúnen",
+          "etiqueta": "T1 | E85",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/41p0dqsl88re"
+            }
+          ]
+        },
+        {
+          "id": "835a37ff-bb79-40ff-aa98-647932001acf",
+          "nombre": "Goku y Androide 17",
+          "etiqueta": "T1 | E86",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wqf3p79n3ngm.html"
+            }
+          ]
+        },
+        {
+          "id": "ea744ee3-2846-42f4-889c-58d2e50637fd",
+          "nombre": "La caza furtiva",
+          "etiqueta": "T1 | E87",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-9drac03hvusq.html"
+            }
+          ]
+        },
+        {
+          "id": "e2ff65d4-1e14-4398-8a06-cf1bc6df0105",
+          "nombre": "Entrenamiento de Gohan",
+          "etiqueta": "T1 | E88",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/d0lejk4oqz7f"
+            }
+          ]
+        },
+        {
+          "id": "236ef6d0-92b6-43c7-a693-d9072c738070",
+          "nombre": "La verdadera identidad de Yurin",
+          "etiqueta": "T1 | E89",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/4829nt7mrgfo"
+            }
+          ]
+        },
+        {
+          "id": "b26ad9a1-0294-4736-9115-52850cd81303",
+          "nombre": "Gohan y Piccolo",
+          "etiqueta": "T1 | E90",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-3xiyv0so0xm2.html"
+            }
+          ]
+        },
+        {
+          "id": "d74656f1-3f97-445d-9e0b-b45e295dca78",
+          "nombre": "Los guerreros definitivos",
+          "etiqueta": "T1 | E91",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/qdha71vg69id"
+            }
+          ]
+        },
+        {
+          "id": "f0972ac0-838e-4872-851d-f16f43484b10",
+          "nombre": "La traición de Freezer",
+          "etiqueta": "T1 | E92",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/krxj7g8pkq8p"
+            }
+          ]
+        },
+        {
+          "id": "4060a0bd-ea8b-4212-aa2e-3fb6f4aadb4b",
+          "nombre": "La resurrección de Freezer",
+          "etiqueta": "T1 | E93",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/pbnc5hrza5pa"
+            }
+          ]
+        },
+        {
+          "id": "f2f1f010-4664-4dbc-864e-f78f2cf953c0",
+          "nombre": "El plan de Freezer",
+          "etiqueta": "T1 | E94",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-g7sedmjgik86.html"
+            }
+          ]
+        },
+        {
+          "id": "0eca2773-0563-48b7-9682-a6513f987c7c",
+          "nombre": "El emperador del mal",
+          "etiqueta": "T1 | E95",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/2u9njdn3wxc4"
+            }
+          ]
+        },
+        {
+          "id": "303adcc6-5ddb-4a16-af1e-ebbd2c0b68c2",
+          "nombre": "El Torneo comienza",
+          "etiqueta": "T1 | E96",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-v82iv751z27c.html"
+            }
+          ]
+        },
+        {
+          "id": "61f680dd-7ee6-48f0-b8c4-35fee613e764",
+          "nombre": "La batalla de supervivencia",
+          "etiqueta": "T1 | E97",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/axdbgjxgo5ct"
+            }
+          ]
+        },
+        {
+          "id": "10fb27bf-82a3-4483-8e7f-48a468653b8e",
+          "nombre": "El poder de la desesperación",
+          "etiqueta": "T1 | E98",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/p785h2ma2xo2"
+            }
+          ]
+        },
+        {
+          "id": "a272063c-5810-4b6f-8d5a-fcc6a111a70c",
+          "nombre": "Los guerreros del Universo 7",
+          "etiqueta": "T1 | E99",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-xs444ov2y57i.html"
+            }
+          ]
+        },
+        {
+          "id": "e10258d2-4e46-4bf9-9b34-adc7773b72da",
+          "nombre": "La furia de Kale",
+          "etiqueta": "T1 | E100",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-obzpisx3wyt9.html"
+            }
+          ]
+        },
+        {
+          "id": "5fb47319-262c-493f-a97b-2fc73204e87e",
+          "nombre": "Las guerreras Saiyan",
+          "etiqueta": "T1 | E101",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/oxo82a4o20e0"
+            }
+          ]
+        },
+        {
+          "id": "02c3e664-ad09-4219-a1dc-6a5777ca18b9",
+          "nombre": "El amor de Ribrianne",
+          "etiqueta": "T1 | E102",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-z9tbmf64rnd7.html"
+            }
+          ]
+        },
+        {
+          "id": "b41853b5-4b93-4ecc-93ec-61154f033946",
+          "nombre": "Gohan contra el Universo 10",
+          "etiqueta": "T1 | E103",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/8o5kk750o8ag"
+            }
+          ]
+        },
+        {
+          "id": "225ea0eb-a7ec-4690-a1f6-9499721460a4",
+          "nombre": "Goku y Hit",
+          "etiqueta": "T1 | E104",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/az6lmm3djk47"
+            }
+          ]
+        },
+        {
+          "id": "31171391-58cd-4c45-b63a-5e7fb64c18db",
+          "nombre": "El sacrificio de Roshi",
+          "etiqueta": "T1 | E105",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/m17uczmf8o7z"
+            }
+          ]
+        },
+        {
+          "id": "342f3900-397e-4f71-a747-5cffc8c0f7ec",
+          "nombre": "La estrategia de Tenshinhan",
+          "etiqueta": "T1 | E106",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-64wk54tjtzft.html"
+            }
+          ]
+        },
+        {
+          "id": "8a60d51b-cd0a-47df-a443-83a340ee1d4c",
+          "nombre": "La traición de Freezer",
+          "etiqueta": "T1 | E107",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/gp78f63oehff"
+            }
+          ]
+        },
+        {
+          "id": "c71bb08d-5fa9-4d81-a6d7-d363cb6adcef",
+          "nombre": "Freezer contra Frost",
+          "etiqueta": "T1 | E108",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/aahss2cbquii"
+            }
+          ]
+        },
+        {
+          "id": "74746a7e-fa33-4110-a6a3-60e8b171dec8",
+          "nombre": "El guerrero de la esperanza",
+          "etiqueta": "T1 | E109",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-2lg50thyb6ln.html"
+            }
+          ]
+        },
+        {
+          "id": "f0716fe8-67db-4163-a38b-5ecb6d442cd2",
+          "nombre": "El despertar del Ultra Instinto",
+          "etiqueta": "T1 | E110",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/cuztmj2r7woc"
+            }
+          ]
+        },
+        {
+          "id": "ea953693-f612-4f3c-81b7-94b7e92bd436",
+          "nombre": "El contraataque de Hit",
+          "etiqueta": "T1 | E111",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/bbz9824bjmb7"
+            }
+          ]
+        },
+        {
+          "id": "1a598d7f-05b7-41b9-a9ef-7e7d7f82bba4",
+          "nombre": "La promesa de Cabba",
+          "etiqueta": "T1 | E112",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/7pcksto9vec4"
+            }
+          ]
+        },
+        {
+          "id": "c0f743ed-bbf1-4ef7-973b-ce61cb5d60d9",
+          "nombre": "La batalla de los Saiyan",
+          "etiqueta": "T1 | E113",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/azb1p8jeooap"
+            }
+          ]
+        },
+        {
+          "id": "10e3a688-5cf1-476f-b7ea-94105a7e3ce8",
+          "nombre": "La fusión de Kale y Caulifla",
+          "etiqueta": "T1 | E114",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-81kdifblj3tv.html"
+            }
+          ]
+        },
+        {
+          "id": "83f635f6-0808-4732-bb09-d978034bf223",
+          "nombre": "Kefla",
+          "etiqueta": "T1 | E115",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/0zy7sphg555y"
+            }
+          ]
+        },
+        {
+          "id": "bc3de391-d068-4a75-9cd2-f3f991c305b6",
+          "nombre": "El Ultra Instinto",
+          "etiqueta": "T1 | E116",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7dzj7y9rbv5m.html"
+            }
+          ]
+        },
+        {
+          "id": "867f5d29-c1d5-45b6-8a12-c4cba5ecb5b4",
+          "nombre": "Los androides contra el Universo 2",
+          "etiqueta": "T1 | E117",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/y6ioysmb1v13"
+            }
+          ]
+        },
+        {
+          "id": "3a203148-1064-40af-bff3-f93c48d8df42",
+          "nombre": "Dos universos desaparecen",
+          "etiqueta": "T1 | E118",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1l375zqqb57p.html"
+            }
+          ]
+        },
+        {
+          "id": "68f69391-5a20-46b1-a10c-2bb360c83c70",
+          "nombre": "La amenaza invisible",
+          "etiqueta": "T1 | E119",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/dgew3bnb6l7j"
+            }
+          ]
+        },
+        {
+          "id": "8716c3ad-f591-4912-a4bd-1c2184353c69",
+          "nombre": "El guerrero definitivo",
+          "etiqueta": "T1 | E120",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-6yg32ciu6x9q.html"
+            }
+          ]
+        },
+        {
+          "id": "f06fcc31-597b-408e-bd36-170137abf3cf",
+          "nombre": "La fusión cuádruple",
+          "etiqueta": "T1 | E121",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/pepi9lkddpvw"
+            }
+          ]
+        },
+        {
+          "id": "ff237697-a0c8-4efa-bb9d-211b59cac63d",
+          "nombre": "Vegeta contra Jiren",
+          "etiqueta": "T1 | E122",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-dsuaxhvtv4f0.html"
+            }
+          ]
+        },
+        {
+          "id": "68d3d88c-b2c5-40ae-889b-d25b64cb751c",
+          "nombre": "El poder de Goku y Vegeta",
+          "etiqueta": "T1 | E123",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-n8anmc9weq0i.html"
+            }
+          ]
+        },
+        {
+          "id": "c9c2f89c-f539-4dee-9e19-ff7e0920d4e2",
+          "nombre": "El ataque de Freezer",
+          "etiqueta": "T1 | E124",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/aifd528qbsxb"
+            }
+          ]
+        },
+        {
+          "id": "5cc766f4-58b9-4558-aec8-f29181e8efb3",
+          "nombre": "Toppo, Dios de la Destrucción",
+          "etiqueta": "T1 | E125",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/n0ftz8959obp"
+            }
+          ]
+        },
+        {
+          "id": "ad79d2b6-469a-4081-99c3-59f5315e95fa",
+          "nombre": "El sacrificio de Vegeta",
+          "etiqueta": "T1 | E126",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wbk77ukzhtcb.html"
+            }
+          ]
+        },
+        {
+          "id": "e2d320da-8014-462b-b8cd-7d7a1df99462",
+          "nombre": "La última barrera",
+          "etiqueta": "T1 | E127",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-j4g11mhnhn67.html"
+            }
+          ]
+        },
+        {
+          "id": "a0c2220c-6eb3-435c-afe2-b8cb7f756cba",
+          "nombre": "El orgullo de Vegeta",
+          "etiqueta": "T1 | E128",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-r7om07kqndjs.html"
+            }
+          ]
+        },
+        {
+          "id": "d0e81d27-715a-427c-86d7-73b212c4baea",
+          "nombre": "El Ultra Instinto dominado",
+          "etiqueta": "T1 | E129",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/u41qjajrh7aj"
+            }
+          ]
+        },
+        {
+          "id": "f9d28762-698f-40bf-97ba-683fdc8b34f7",
+          "nombre": "La batalla definitiva",
+          "etiqueta": "T1 | E130",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/6b0h6mcpbq83"
+            }
+          ]
+        },
+        {
+          "id": "1b127357-d9cc-49dd-bba2-e5c147ef3dca",
+          "nombre": "Un final milagroso",
+          "etiqueta": "T1 | E131",
+          "fechaPublicacion": "2026-08-20T19:42:35.024570",
+          "fechaActualizacion": "2026-08-20T19:42:35.024570",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/v/lri3xlpqmk8x"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
