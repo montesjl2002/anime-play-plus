@@ -1,0 +1,36 @@
+{
+  "id": "a752095f-fd70-4a1b-9984-12af78c660cb",
+  "nombre": "Shangri-La Frontier",
+  "descripcion": "\"¿Cuándo fue la última vez que jugué un juego que no fuera una basura?\" Este es un mundo en el futuro cercano donde los juegos que usan pantallas se consideran retro, y muchos juegos de realidad virtual no llegan a un mínimo de calidad: son los llamados \"juegos basura\". A aquellos que dedican sus vidas a completar estos juegos se les llama \"cazadores de juegos basura\", y Rakuro Hizutome es uno...",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/2060f63d21f0e55ec492721b1d5dfc3c.png",
+  "anio": 2023,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "3b761285-6c78-4535-98d1-64eea01f9113",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "3f83fcc8-1bda-4787-b55b-4e6c1a2ce38b",
+          "nombre": "¿Tú para qué juegas?",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-25T12:46:36.139027",
+          "fechaActualizacion": "2026-08-25T12:46:36.139027",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/lu08nycwjvr7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
