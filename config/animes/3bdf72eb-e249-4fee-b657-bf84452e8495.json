@@ -1,0 +1,180 @@
+{
+  "id": "3bdf72eb-e249-4fee-b657-bf84452e8495",
+  "nombre": "No Game No Life",
+  "descripcion": "La historia está protagonizada por Sora y Shiro, hermano y hermana, que son muy famosos en todo Internet como NEETs y hikikomoris que se pasan el día jugando a videojuegos, tanto que son una leyenda. Los dos consideran el mundo real como “un juego malo”. Un día, un chico llamado “Dios” les invoca a otro mundo. Allí, Dios ha prohibido las guerras y declara que en el mundo todo se decidirá mediante juegos, incluso cuáles serán las fronteras entre países.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/5a4525c6fc5508fa27f0ed229ad2cbde.jpe",
+  "anio": 2014,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Fantasía",
+    "Ciencia Ficción"
+  ],
+  "temporadas": [
+    {
+      "id": "3963cfc9-ed98-4c8f-9ed8-2fa3faeeb09b",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "b19efc5d-5804-4804-b364-542e9d9d993c",
+          "nombre": "Principiante",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/gr8etb6ij674"
+            }
+          ]
+        },
+        {
+          "id": "e28a0257-8716-4b92-bb52-dfa8562de4ff",
+          "nombre": "Desafiante",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/wgz7scl1ociz"
+            }
+          ]
+        },
+        {
+          "id": "d546624a-7f51-4774-bf76-50d54b38d5b0",
+          "nombre": "Experto",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/v7xp1deyp0vz"
+            }
+          ]
+        },
+        {
+          "id": "1d3e2c1d-a1a0-490e-afae-b3234b77262f",
+          "nombre": "Gran Maestro",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/mipzgw1qate6"
+            }
+          ]
+        },
+        {
+          "id": "3cf3fc27-e4b0-4555-828e-bfc1526e86c8",
+          "nombre": "Casilla débil",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/q6zdjngkl4nn"
+            }
+          ]
+        },
+        {
+          "id": "20d53b52-0f5b-4a21-bc42-179a48701b30",
+          "nombre": "Interesante",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/jmgsb3xaf7sb"
+            }
+          ]
+        },
+        {
+          "id": "22d1ce26-cb7d-4e97-85c6-511c3ac8e138",
+          "nombre": "Sacrificio",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-gvnqadxswcfp.html"
+            }
+          ]
+        },
+        {
+          "id": "c0fae5ff-f44f-4d02-a942-a682798494f2",
+          "nombre": "Falso final",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fjofpk3xpaaq.html"
+            }
+          ]
+        },
+        {
+          "id": "ba009aa0-1d79-4d6e-9592-714f2c02932f",
+          "nombre": "Caminata en el cielo",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/eulk9b9x9kf3"
+            }
+          ]
+        },
+        {
+          "id": "fb88b123-8a50-4056-8c2d-90ba38897183",
+          "nombre": "Rosa Azul",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/42ykp2hf1y39"
+            }
+          ]
+        },
+        {
+          "id": "678205ca-84e8-496f-943f-82d906a50c8b",
+          "nombre": "Gigante asesino",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.top/e/g7xsdlv6sza3"
+            }
+          ]
+        },
+        {
+          "id": "d16a9705-3ca8-46f3-beeb-1020a56a7244",
+          "nombre": "Regla número 10",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-25T11:08:34.833156",
+          "fechaActualizacion": "2026-08-25T11:08:34.833156",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ewb8zq5x26uc.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
