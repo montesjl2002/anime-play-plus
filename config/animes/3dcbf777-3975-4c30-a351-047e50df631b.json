@@ -1,0 +1,182 @@
+{
+  "id": "3dcbf777-3975-4c30-a351-047e50df631b",
+  "nombre": "Gamers!",
+  "descripcion": "Keita Amano es un estudiante solitario cuya mayor pasión son los videojuegos. Un día, Karen Tendou, la chica más popular de la escuela y presidenta del Club de Videojuegos, lo invita a unirse al club.\n\nLo que parecía el comienzo de una vida escolar perfecta se convierte en una caótica cadena de malentendidos cuando Keita conoce a otros estudiantes con su misma afición. Entre amistades, rivalidades, videojuegos y sentimientos que nadie parece expresar correctamente, sus vidas terminarán completamente enredadas.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/98f94178329c46c723333b638ce05103.jpg",
+  "anio": 2017,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Recuentos de la vida",
+    "Comedia romántica",
+    "Escolar",
+    "Videojuegos"
+  ],
+  "temporadas": [
+    {
+      "id": "ace33e2e-855f-4e0b-8be7-cc6dc18b392a",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "6ecdf04e-0831-40b5-adf8-a48c1751e464",
+          "nombre": "Keita Amano y el capítulo del elegido",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/lobwg7zxl2s4"
+            }
+          ]
+        },
+        {
+          "id": "02f89c62-7ee2-4b29-aed4-725f12f3d95e",
+          "nombre": "Tasuku Uehara y el Juego Nuevo+",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/aaj8rr123ovp"
+            }
+          ]
+        },
+        {
+          "id": "a937eda9-bc32-455a-aa71-4ac3596df6a7",
+          "nombre": "Chiaki Hoshinomori y la Comunicación StreetPass",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/c3j45jqvskv0"
+            }
+          ]
+        },
+        {
+          "id": "d4b3f912-c2a5-4f52-a1f7-388ba85cdff2",
+          "nombre": "Intermedio x Karen Tendou y los días de bajón",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/efyf6hc54r09"
+            }
+          ]
+        },
+        {
+          "id": "594ec219-b007-4396-bd3b-b6bc282bb37a",
+          "nombre": "Aguri y el error de comunicación",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/9x1hdy9v2wkw"
+            }
+          ]
+        },
+        {
+          "id": "78f5cddf-0739-4e1a-8dec-6071d8344e86",
+          "nombre": "Gamers y la aniquilación del fin del juego",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/bj6m3gkttsym"
+            }
+          ]
+        },
+        {
+          "id": "087db221-303b-40d5-904e-4a711f368553",
+          "nombre": "Keita Amano y el mejor entretenimiento de Karen",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/8m9ro6rvvhb4"
+            }
+          ]
+        },
+        {
+          "id": "a2ac343b-3571-4538-82f6-ed3287cfe176",
+          "nombre": "Erogamer y modo de observación",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/o8b0ibz6qvmk"
+            }
+          ]
+        },
+        {
+          "id": "31a79d81-d4cb-4b70-a603-3c82759dead6",
+          "nombre": "Chiaki Hoshinomori y el hackeo de cuenta",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/8lcronigui4y"
+            }
+          ]
+        },
+        {
+          "id": "8f67f000-1fe7-4b77-9c83-475ff41c35e3",
+          "nombre": "Gamers y el siguiente nivel",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/8utw9fcbglb5"
+            }
+          ]
+        },
+        {
+          "id": "da1d53ca-1800-4855-9cd1-b0bcf71b8bae",
+          "nombre": "Gamers y la juventud continúa",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/gs2nc9xv3bir"
+            }
+          ]
+        },
+        {
+          "id": "37cb988a-1de4-4aa8-a115-a6dde605fa1f",
+          "nombre": "Gamers y la charla del sistema de pagos",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-25T10:55:36.087822",
+          "fechaActualizacion": "2026-08-25T10:55:36.087822",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-hp8urg2z14wy.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
