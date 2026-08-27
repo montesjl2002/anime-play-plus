@@ -22,7 +22,7 @@
           "nombre": "¿Tú para qué juegas?",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-25T12:46:36.139027",
-          "fechaActualizacion": "2026-08-26T17:09:38.324228",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
           "audios": [
             {
               "idioma": "Latino",
@@ -35,7 +35,7 @@
           "nombre": "Aquel que se vuelve peculiar",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-26T17:09:38.324228",
-          "fechaActualizacion": "2026-08-26T17:09:38.324228",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
           "audios": [
             {
               "idioma": "Latino",
@@ -48,7 +48,7 @@
           "nombre": "El ataque nocturno del lobo negro",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-26T17:09:38.324228",
-          "fechaActualizacion": "2026-08-26T17:09:38.324228",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
           "audios": [
             {
               "idioma": "Latino",
@@ -61,7 +61,7 @@
           "nombre": "Los valores inútiles se quitan con juegos basura",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-26T17:09:38.324228",
-          "fechaActualizacion": "2026-08-26T17:09:38.324228",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
           "audios": [
             {
               "idioma": "Latino",
@@ -74,11 +74,167 @@
           "nombre": "Acorralado por la lanza de la revuelta",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-26T17:09:38.324228",
-          "fechaActualizacion": "2026-08-26T17:09:38.324228",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
           "audios": [
             {
               "idioma": "Latino",
               "videoUrl": "https://filelions.top/embed/7m8k146dktsb"
+            }
+          ]
+        },
+        {
+          "id": "b10d2c30-4728-470f-8447-e88d67b3a9e8",
+          "nombre": "La reina de los caballeros de papelería",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/7YkmjqjYkLIADgr/%5BAnimeOnlineNinja%5D_Shangri-La_Frontier_BD_Latino_06.mp4"
+            }
+          ]
+        },
+        {
+          "id": "f17f73d3-468e-4773-ad66-527cf14e66a7",
+          "nombre": "Restos de la Era de los Dioses",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/40636uijk0nt"
+            }
+          ]
+        },
+        {
+          "id": "3ebba9f2-6269-4762-957c-c14f296ce809",
+          "nombre": "El caprichoso límite de 300",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/17w7hsyjesg8"
+            }
+          ]
+        },
+        {
+          "id": "227d7afe-527a-4c1e-97be-141a33c33b92",
+          "nombre": "El gran bosque frondoso",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/Vx82PkWp0PiK7dG/%5BAnimeOnlineNinja%5D_Shangri-La_Frontier_BD_Latino_09.mp4"
+            }
+          ]
+        },
+        {
+          "id": "b4985650-9ce0-4ba0-99eb-3ada77c3ffaa",
+          "nombre": "¡Todos listos para saquear tumbas!",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/bvxu7hiwnjty"
+            }
+          ]
+        },
+        {
+          "id": "abc52cf8-2aa0-4561-a1fa-b0e0dfef9c1d",
+          "nombre": "El verdadero esplendor",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/VzovbbGV2zcK6WZ/%5BAnimeOnlineNinja%5D_Shangri-La_Frontier_BD_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "510a459b-799e-426d-85b8-36c70d078e94",
+          "nombre": "No tiene caso arrepentirse del pasado",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ep299adgvhnu.html"
+            }
+          ]
+        },
+        {
+          "id": "0169583c-39ff-4e02-b29f-9e475531c41c",
+          "nombre": "Solo me queda arrepentimiento",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/rllul3scyluk"
+            }
+          ]
+        },
+        {
+          "id": "a9b67236-47ae-4fe1-89a8-9faee4c69c20",
+          "nombre": "La uva murió aplastada",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/lQ9pMzq2WKFam6/%5BAnimeOnlineNinja%5D_Shangri-La_Frontier_BD_Latino_14.mp4"
+            }
+          ]
+        },
+        {
+          "id": "2b86d2fa-3ed3-4ff0-b367-835e0527b018",
+          "nombre": "Con cariño para Setsuna, parte 1",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/85awoaimyuay"
+            }
+          ]
+        },
+        {
+          "id": "c33a3974-2782-4d6a-9281-94c9337c0d00",
+          "nombre": "Con cariño para Setsuna, parte 2",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/hfzk7lqtzlv4"
+            }
+          ]
+        },
+        {
+          "id": "1f2b955e-05db-4235-89c9-e3fe99772363",
+          "nombre": "Con cariño para Setsuna, parte 3",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-08-26T18:46:10.871235",
+          "fechaActualizacion": "2026-08-26T18:46:10.871235",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/jp1e2jtd3fuk"
             }
           ]
         }
