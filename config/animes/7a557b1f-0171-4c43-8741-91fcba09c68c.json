@@ -22,7 +22,7 @@
           "nombre": "Empezar de nuevo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-27T21:05:44.104908",
           "audios": [
             {
               "idioma": "Latino",
@@ -35,7 +35,7 @@
           "nombre": "El dueño de las reliquias",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-27T21:05:44.104908",
           "audios": [
             {
               "idioma": "Latino",
@@ -48,7 +48,7 @@
           "nombre": "Alguien apto para controlar",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-27T21:05:44.104908",
           "audios": [
             {
               "idioma": "Latino",
@@ -61,11 +61,24 @@
           "nombre": "Aquel que roba el futuro",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-08-20T16:36:06.548360",
+          "fechaActualizacion": "2026-08-27T21:05:44.104908",
           "audios": [
             {
               "idioma": "Latino",
               "videoUrl": "https://streamtape.com/e/vxqb09ogmvCboo/%5BAnimeOnlineNinja%5D_Tomb_Raider_King_Latino_04.mp4"
+            }
+          ]
+        },
+        {
+          "id": "d11c0fcb-ad30-41ec-a0f8-bb96facb4fec",
+          "nombre": "El dueño de la Planta de la inmortalidad",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-08-27T21:05:44.104908",
+          "fechaActualizacion": "2026-08-27T21:05:44.104908",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/515xzogf4c86"
             }
           ]
         }
