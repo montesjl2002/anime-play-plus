@@ -22,7 +22,7 @@
           "nombre": "El príncipe insípido",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:29:46.066104",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "¿Una cita en la capital imperial?",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:29:46.066104",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "El ataque de Elna",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-24T10:55:18.953421",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,7 +67,7 @@
           "nombre": "La víspera del Festival de la Caza de los Caballeros en la ciudad",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-28T16:51:16.949696",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -82,7 +82,7 @@
           "nombre": "Festival de la caza de los caballeros (Parte I)",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-10T08:24:03.846213",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -95,7 +95,7 @@
           "nombre": "Festival de la caza de los caballeros (Parte II)",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:24:03.846213",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -108,7 +108,7 @@
           "nombre": "Operaciones furtivas y cooperación",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-20T18:02:48.077042",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -121,11 +121,24 @@
           "nombre": "Refugiarnos de la lluvia",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-24T15:23:39.628540",
-          "fechaActualizacion": "2026-08-29T21:12:46.143042",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/2tcpk6n07dgf"
+            }
+          ]
+        },
+        {
+          "id": "51781669-0802-41f9-ae81-0d3f91d96093",
+          "nombre": "El intercambio y el dilema de Arnold",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-08-31T14:07:37.518474",
+          "fechaActualizacion": "2026-08-31T14:07:37.518474",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-3naes93wljc3.html"
             }
           ]
         }
