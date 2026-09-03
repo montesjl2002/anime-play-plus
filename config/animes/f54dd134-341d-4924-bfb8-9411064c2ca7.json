@@ -1,0 +1,179 @@
+{
+  "id": "f54dd134-341d-4924-bfb8-9411064c2ca7",
+  "nombre": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
+  "descripcion": "Noor ha pasado más de una década entrenando en las montañas con un único objetivo: convertirse en aventurero. Sin embargo, está convencido de que no tiene talento, pues la única habilidad que domina es Parry, una técnica considerada prácticamente inútil.\n\nLo que Noor desconoce es que su entrenamiento extremo ha llevado esa habilidad a un nivel inimaginable, permitiéndole desviar ataques que ningún humano sería capaz de detener. Mientras intenta cumplir su sueño de convertirse en aventurero, termina involucrándose en una conspiración que amenaza al Reino de Clays y al destino de todo el continente.",
+  "imagen": "https://m.media-amazon.com/images/M/MV5BYjhlMzNiNjQtZjQ5Ni00N2Y0LTllYmMtMDkxYmI2OTliODNmXkEyXkFqcGc@._V1_FMjpg_UY2228_.jpg",
+  "anio": 2024,
+  "estado": "Finalizado",
+  "idioma": "JAP",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "temporadas": [
+    {
+      "id": "cbc1211d-eb1e-4629-8d9b-48eb4068e235",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "f68081fe-d125-4c25-8547-07afc079fc8b",
+          "nombre": "Hice parry a una vaca",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/a0ikhu5iy2fv"
+            }
+          ]
+        },
+        {
+          "id": "8041c5c2-fe88-4071-bf25-9421c8a32084",
+          "nombre": "Hice parry a la recompensa",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/k7ur2gbbxvm8"
+            }
+          ]
+        },
+        {
+          "id": "168d9b85-33a3-4485-903e-8fe150dbd86f",
+          "nombre": "Hice parry tomando una aprendiz",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-akpo351fv6ga.html"
+            }
+          ]
+        },
+        {
+          "id": "80c8e4c6-3e3f-4bce-a9a5-1a578d7eee66",
+          "nombre": "Hice parry a un goblin",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-xk72pqkrcdba.html"
+            }
+          ]
+        },
+        {
+          "id": "271e14ff-5f4d-4a2d-9fde-d4d43280190e",
+          "nombre": "Hice parry a una rana",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/ck2sbbailmj5"
+            }
+          ]
+        },
+        {
+          "id": "ab0bd793-4a0c-4a76-87e1-830cfe18934b",
+          "nombre": "Hice parry a un veneno mortal",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/2jyde63gyvul"
+            }
+          ]
+        },
+        {
+          "id": "b970ae9c-61e8-4fe4-bbfa-2bf840dedaa6",
+          "nombre": "Hice parry a un hombre muerto",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-p57ow8kh97b3.html"
+            }
+          ]
+        },
+        {
+          "id": "1742364b-d518-4972-b869-0b1ce2f41fb2",
+          "nombre": "Hice parry a un dragón",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-wtivbw4z4ryk.html"
+            }
+          ]
+        },
+        {
+          "id": "11205ebf-71f8-4540-aa45-c124f2bfc3da",
+          "nombre": "Hice parry a un ejército",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/4llmovw82cul"
+            }
+          ]
+        },
+        {
+          "id": "ee4b2cea-4c74-49b9-8784-d837ec9f6c38",
+          "nombre": "Hice parry a la autoridad del Emperador",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-u0mqucn856wg.html"
+            }
+          ]
+        },
+        {
+          "id": "b89ae289-8365-4208-bd68-2bdb31c285e9",
+          "nombre": "Hice parry al juicio final",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://www.mp4upload.com/embed-32weejgas5ju.html"
+            }
+          ]
+        },
+        {
+          "id": "7b8d6138-7b11-4156-ba6d-ddd47fea5816",
+          "nombre": "Le hago parry a todo",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-09-03T11:14:55.192480",
+          "fechaActualizacion": "2026-09-03T11:14:55.192480",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/qbzq615qs2ji"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
