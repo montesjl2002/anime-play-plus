@@ -1,0 +1,178 @@
+{
+  "id": "190d1250-f96f-4e70-89a2-4a256a41334a",
+  "nombre": "Rooster Fighter",
+  "descripcion": "En un mundo donde misteriosas criaturas conocidas como Kiju aparecen para sembrar el caos y destruir ciudades, un gallo llamado Keiji recorre Japón enfrentándose a estos monstruos con una fuerza y determinación extraordinarias. Tras perder a su hermana a manos de una de estas criaturas, Keiji emprende un viaje marcado por la venganza, pero en el camino termina protegiendo a personas y formando inesperados lazos con otros animales. Armado con sus poderosas patadas y su devastador grito «¡Kokekokko!», este peculiar héroe demostrará que incluso un gallo puede convertirse en el mayor defensor de la humanidad.",
+  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GTkNGAmakYHQZMutpPN_BXQK3na5S9dmZNKx1it7IA&s=10",
+  "anio": 2026,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Comedía"
+  ],
+  "temporadas": [
+    {
+      "id": "12be1a70-51e4-4786-bbbd-2bc239a27718",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "0dd68a2c-3980-42b8-aba8-643d6c6ff0f3",
+          "nombre": "Un Gallo Entre las Grullas",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/8w6c7c1yyi7g"
+            }
+          ]
+        },
+        {
+          "id": "2495675f-6520-4cbd-b8b4-a657e568ee58",
+          "nombre": "Ave Enjaulada",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/jtwnaig2fp0r"
+            }
+          ]
+        },
+        {
+          "id": "9b0bf08b-a4ea-4c62-9ae5-e3da06d9630f",
+          "nombre": "La Parábola de las Tres Aves",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/xXv1yKxYdaUqkw/%5BAnimeOnlineNinja%5D_Rooster_Fighter_Latino_03.mp4"
+            }
+          ]
+        },
+        {
+          "id": "41a30218-f7f0-4a03-9bad-b4117781e5d8",
+          "nombre": "Entrando en el Deseo",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/l0lahaq45941"
+            }
+          ]
+        },
+        {
+          "id": "1dae0897-81e1-41d5-b069-a51fa5565fba",
+          "nombre": "La Extravagante Bandada se Dispersa",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/begjraffj4xc"
+            }
+          ]
+        },
+        {
+          "id": "27af869f-9824-41a5-99b1-ad4044212dca",
+          "nombre": "Gallinero de Ladrillos",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/i12yyd51238p"
+            }
+          ]
+        },
+        {
+          "id": "9541fd03-edd9-414a-8544-9aa70f61f6cc",
+          "nombre": "Cacareando Sobre una Pluma",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/jlpw38duxwye"
+            }
+          ]
+        },
+        {
+          "id": "aa5b4823-b311-4e30-be03-cf204a57766f",
+          "nombre": "El Canto Puede Ser Dulce, Pero No Sincero",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/wmwb2yo5o4dl"
+            }
+          ]
+        },
+        {
+          "id": "795b0948-0adc-43ec-8503-1344829d20ab",
+          "nombre": "Dejarse Llevar por los Pájaros",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/x5aeraancwww"
+            }
+          ]
+        },
+        {
+          "id": "e63bc38f-7e1c-4e56-af87-97f7dbc1c1b4",
+          "nombre": "Arrinconando al Ave",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/k9est15aszwx"
+            }
+          ]
+        },
+        {
+          "id": "3f81a834-b33e-40bf-8cc6-db548892ec34",
+          "nombre": "Se Necesitan Dos Alas Para Volar",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/R6vXB36Kzmu0Kk/%5BAnimeOnlineNinja%5D_Rooster_Fighter_Latino_11.mp4"
+            }
+          ]
+        },
+        {
+          "id": "c12463e7-bdee-430f-a43c-41ff2e4b5f07",
+          "nombre": "Lo Que Los Pájaros, Las Bestias y Los Árboles Comparten",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-09-07T11:48:18.241777",
+          "fechaActualizacion": "2026-09-07T11:48:18.241777",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-wwsdenfylpws.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
