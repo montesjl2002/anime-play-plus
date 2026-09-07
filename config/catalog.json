@@ -800,6 +800,17 @@
     ]
   },
   {
+    "id": "190d1250-f96f-4e70-89a2-4a256a41334a",
+    "nombre": "Rooster Fighter",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GTkNGAmakYHQZMutpPN_BXQK3na5S9dmZNKx1it7IA&s=10",
+    "descripcion": "En un mundo donde misteriosas criaturas conocidas como Kiju aparecen para sembrar el caos y destruir ciudades, un gallo llamado Keiji recorre Japón enfrentándose a estos monstruos con una fuerza y determinación extraordinarias. Tras perder a su hermana a manos de una de estas criaturas, Keiji emprende un viaje marcado por la venganza, pero en el camino termina protegiendo a personas y formando inesperados lazos con otros animales. Armado con sus poderosas patadas y su devastador grito «¡Kokekokko!», este peculiar héroe demostrará que incluso un gallo puede convertirse en el mayor defensor de la humanidad.",
+    "idioma": "LAT",
+    "generos": [
+      "Acción",
+      "Comedía"
+    ]
+  },
+  {
     "id": "479858db-a801-4aae-bc21-1d9587253b86",
     "nombre": "Saving 80,000 Gold in Another World for my Retirement",
     "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/a6ffa8f8b91daf0e7fe95f995e1dd90d.jpe",
