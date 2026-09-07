@@ -1,0 +1,361 @@
+{
+  "id": "ea5b9f17-8622-4d4f-9890-afa5d57ad52a",
+  "nombre": "The Future Diary",
+  "descripcion": "Yukiteru Amano, un estudiante solitario que documenta su vida en un diario, recibe un móvil capaz de predecir el futuro. Obligado a participar en un mortal juego de supervivencia, debe eliminar a otros portadores de diarios para convertirse en dios del tiempo y el espacio. Su aliada y obsesiva protectora, Yuno Gasai, hará lo imposible para mantenerlo a salvo.",
+  "imagen": "https://m.media-amazon.com/images/M/MV5BYjZjNmIxYTgtYzdkZC00Yzc5LWI5YTAtZWQ5YWNjZmQ1NTUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "anio": 2011,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Drama",
+    "Ciencia Ficción",
+    "Thriller"
+  ],
+  "temporadas": [
+    {
+      "id": "272dddb1-a3b7-4551-9dfa-18892f393c86",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "bd89dd49-4aa5-46ab-a935-aea4a9098510",
+          "nombre": "Registrarse",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/e456v97wzusgvt5azhw9djopldb55ake"
+            }
+          ]
+        },
+        {
+          "id": "9f51b973-cb28-47ba-bcb1-2218fac83200",
+          "nombre": "Términos del contrato",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/vp0e999nob4k890wyz3u7ke4vd8uf5fv"
+            }
+          ]
+        },
+        {
+          "id": "58ad6fa5-e87b-4130-8b94-610a8c2cceb3",
+          "nombre": "Complicación temprana",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/js1h4mmo6y9roaqgwlvzl35dytornxe0"
+            }
+          ]
+        },
+        {
+          "id": "4249bebd-24b6-4a8d-8db9-a9bd9143dfee",
+          "nombre": "Entrada manuscrita",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/mplk2elamicor7qexrbyxqh005zw70a1"
+            }
+          ]
+        },
+        {
+          "id": "814400f7-c26e-407e-a8fa-4e5951da050d",
+          "nombre": "Notas de voz",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/6vfi5gaa26dqptoh6u11vbphg6mxrlms"
+            }
+          ]
+        },
+        {
+          "id": "c5431db1-b1fc-4a14-80e8-74246f72d8e1",
+          "nombre": "Modo vibración",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/hje1fu4y7i0k5n210opguivuyqg1olrc"
+            }
+          ]
+        },
+        {
+          "id": "bd077675-cdb8-43a4-82ad-b0632a06638b",
+          "nombre": "Tono de marcado",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/dgi3g7h5exqz"
+            }
+          ]
+        },
+        {
+          "id": "cfabcf31-50bf-461c-b35e-3666bc598449",
+          "nombre": "Nuevo modelo",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/t35avici3moosb0tl11jkaef21ymko9c"
+            }
+          ]
+        },
+        {
+          "id": "698802f2-cc05-4e54-bcf8-8251f3c161e2",
+          "nombre": "Número bloqueado",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/5zmjtjabdrx18m7hj94f4adgs35d0nb9"
+            }
+          ]
+        },
+        {
+          "id": "6743ab97-db9b-4ceb-aeeb-7e023db92f9c",
+          "nombre": "Plan familiar",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/almh3kujohm7mjni9y3kqwub2xe020o6"
+            }
+          ]
+        },
+        {
+          "id": "f9c9dd6d-7241-4f89-8eb0-f6ba681e8940",
+          "nombre": "Terminación del servicio",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/dnrvuzd7q2qu5396yk5hzy6qr3upgpg0"
+            }
+          ]
+        },
+        {
+          "id": "55dae066-7d31-4fd2-a0c0-3dd4594521f6",
+          "nombre": "Sin señal",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/dsk3drx58aht5n4a3chtblmvx1f0tmqp"
+            }
+          ]
+        },
+        {
+          "id": "ed84b47c-31c3-44c2-80f0-9880e1c3f923",
+          "nombre": "Llamada restringida",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/xpbhjztqep2s"
+            }
+          ]
+        },
+        {
+          "id": "55158bf9-1296-4063-a115-5c0de3962a4d",
+          "nombre": "Restablecimiento de memoria",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/mjwkndpqtsrq6xnlfx6pkne4i714vuzs"
+            }
+          ]
+        },
+        {
+          "id": "d4a90987-4857-4610-947e-57d1ef468070",
+          "nombre": "Doble portador",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/kxz8uerx0lw7gc818gudffxozbth8tz2"
+            }
+          ]
+        },
+        {
+          "id": "345c8495-3a6c-4deb-80a6-4ec8fc3ff7cd",
+          "nombre": "Reparaciones",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/nno3hsmrivgd"
+            }
+          ]
+        },
+        {
+          "id": "fbc8e924-d39a-4b8a-9ff7-8920183d38b6",
+          "nombre": "Descuento familiar",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://dood.sh/e/fugybyol6qyfmu2b0fc6fnlc37t9fgf9"
+            }
+          ]
+        },
+        {
+          "id": "ca29ab51-89ab-4351-af95-f9f41f19a195",
+          "nombre": "Interferencia",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/d1thu31yoydp"
+            }
+          ]
+        },
+        {
+          "id": "1822fa19-f4a7-47aa-93a5-f4716116e724",
+          "nombre": "Borrar todos los mensajes",
+          "etiqueta": "T1 | E19",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/0rruqjxdvpoh"
+            }
+          ]
+        },
+        {
+          "id": "c0d5593d-bda7-4acf-87c3-7715f1bcf0e9",
+          "nombre": "Transferencia de datos",
+          "etiqueta": "T1 | E20",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/dljv1pzslug2"
+            }
+          ]
+        },
+        {
+          "id": "4b2fe28d-68a0-4922-af30-64d82ac71516",
+          "nombre": "PIN",
+          "etiqueta": "T1 | E21",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/kroalkyey2bf"
+            }
+          ]
+        },
+        {
+          "id": "80e5b804-0ace-4b91-a0b2-7843350a63a5",
+          "nombre": "Desconexión",
+          "etiqueta": "T1 | E22",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/h4ms2ezaholr"
+            }
+          ]
+        },
+        {
+          "id": "9ab719ee-d584-42e4-ba18-3fa1728e6d89",
+          "nombre": "Incumplimiento de contrato",
+          "etiqueta": "T1 | E23",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/cboclpt5henh"
+            }
+          ]
+        },
+        {
+          "id": "40f8a635-f24e-48ce-8c54-4204caef2caa",
+          "nombre": "Recuperación de datos",
+          "etiqueta": "T1 | E24",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/q8xwconzdtyb"
+            }
+          ]
+        },
+        {
+          "id": "85bb37dd-3174-49d8-a890-531727b49424",
+          "nombre": "Restablecimiento",
+          "etiqueta": "T1 | E25",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/wegxalfnzac8"
+            }
+          ]
+        },
+        {
+          "id": "7878ec0c-c19f-4d42-8acc-95e2111e1600",
+          "nombre": "Formato",
+          "etiqueta": "T1 | E26",
+          "fechaPublicacion": "2026-09-07T15:47:57.154737",
+          "fechaActualizacion": "2026-09-07T15:47:57.154737",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://voe.sx/e/i54rlv3ka6mj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
