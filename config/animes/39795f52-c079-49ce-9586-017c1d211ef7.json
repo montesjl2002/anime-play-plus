@@ -22,7 +22,7 @@
           "nombre": "La señorita perfecta",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -35,7 +35,7 @@
           "nombre": "El primer día del cuidador",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -50,7 +50,7 @@
           "nombre": "Reencuentro",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -65,7 +65,7 @@
           "nombre": "Mentiras y secretos",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -80,7 +80,7 @@
           "nombre": "Secuéstrame",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-01T21:42:49.848019",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -95,7 +95,7 @@
           "nombre": "La propuesta de Mirei Tennoji",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:16:39.253379",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -110,7 +110,7 @@
           "nombre": "Las preocupaciones de una señorita",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-15T18:40:03.664963",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -125,7 +125,7 @@
           "nombre": "No más mentiras",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-29T21:09:00.843239",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -138,11 +138,24 @@
           "nombre": "El día libre de la señorita",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-29T21:09:00.843239",
-          "fechaActualizacion": "2026-08-29T21:09:00.843239",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/dwk95tkk9xp8"
+            }
+          ]
+        },
+        {
+          "id": "424079c1-7c10-4721-89a3-7d3fc36a159c",
+          "nombre": "El plan para sacar a Narika de su aislamiento",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-09-07T12:00:19.294197",
+          "fechaActualizacion": "2026-09-07T12:00:19.294197",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/5ecjgzv1z9ka"
             }
           ]
         }
