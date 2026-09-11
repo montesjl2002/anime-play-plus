@@ -1,0 +1,75 @@
+{
+  "id": "2cb4116c-334f-4764-a82f-bcff5eb200f8",
+  "nombre": "Masamune-kun's Revenge",
+  "descripcion": "\"¡He vuelto a esta ciudad para vengarme!\". Hace ocho años, Makabe Masamune, un chico débil y gordito, fue cruelmente rechazado por la hermosa Adagaki Aki. Ahora, ha perdido muchísimo peso, ha cambiado de nombre y ha regresado convertido en un apuesto adolescente... todo para hacer que la \"Princesa Brutal\", Aki, se enamore de él y así poder rechazarla con la misma crueldad con la que ella lo hizo.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/4a14232f9a00d313fbef0ff664ebd58f.jpg",
+  "anio": 2017,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "temporadas": [
+    {
+      "id": "eafd1ffd-5001-4279-bf20-732c88d2a358",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "b28d3a80-d5b5-4ac9-a273-5f5008a42c5c",
+          "nombre": "El hombre al que llamaban Cerdito",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/s5umwwdu82t6"
+            }
+          ]
+        },
+        {
+          "id": "a6c500f0-005a-4f77-8761-d3188d7534af",
+          "nombre": "La Cenicienta no sonríe",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/irtpm46yrfy0"
+            }
+          ]
+        },
+        {
+          "id": "20731a86-e45c-4196-94d4-f2f7c2b5a90d",
+          "nombre": "El show de magia de Yoshino",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/ab091qtq6m12"
+            }
+          ]
+        },
+        {
+          "id": "c62fd982-6a86-4497-adca-6e103b28d466",
+          "nombre": "Peligro claro e inminente",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamwish.to/e/ae2dldhf08my"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
