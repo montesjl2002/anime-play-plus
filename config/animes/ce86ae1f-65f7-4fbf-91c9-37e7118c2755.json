@@ -1,0 +1,179 @@
+{
+  "id": "ce86ae1f-65f7-4fbf-91c9-37e7118c2755",
+  "nombre": "Kill Blue",
+  "descripcion": "Juuzou Oogami es un legendario asesino a sueldo de 39 años que jamás ha fallado una misión, por imposible que parezca. Sin embargo, después de eliminar a una poderosa organización, es picado por una misteriosa avispa y pierde el conocimiento. Al despertar, descubre que su cuerpo ha rejuvenecido hasta convertirse en el de un chico de 13 años. Antes de poder comprender lo sucedido, su jefe le asigna una nueva misión: infiltrarse en una escuela secundaria utilizando su nueva apariencia. Mientras intenta cumplir su trabajo, Juuzou se ve obligado a experimentar una inesperada vida escolar junto a compañeros peculiares, actividades juveniles y situaciones que jamás imaginó vivir. Al mismo tiempo, los peligros de su pasado continúan persiguiéndolo. ¿Podrá recuperar su cuerpo original antes de que sus enemigos descubran su verdadera identidad?",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/bc0255e21eebfd1ee806282db8722961.png",
+  "anio": 2026,
+  "estado": "Finalizado",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "e357bc15-d89c-4899-a1e3-973cb44841d7",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "f782e25a-cbc0-46e5-a9e7-9392032435f2",
+          "nombre": "Vamos a la escuela",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-cs6734y2elrt.html"
+            }
+          ]
+        },
+        {
+          "id": "c7314238-f016-4030-86b9-a4b6214204bf",
+          "nombre": "Noren Mitsuoka",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/v3jf0yfju2yz"
+            }
+          ]
+        },
+        {
+          "id": "f50de28a-1051-42da-8a06-0f67dd0d39e8",
+          "nombre": "Límpiate tú mismo",
+          "etiqueta": "T1 | E3",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/yt0fzsm54nm8"
+            }
+          ]
+        },
+        {
+          "id": "16de4091-1c06-4721-935d-ab6b7ec0039b",
+          "nombre": "Duelo del chupete",
+          "etiqueta": "T1 | E4",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iw2do4ehtp91.html"
+            }
+          ]
+        },
+        {
+          "id": "c91bd84b-61da-4a48-a549-14ce0356293b",
+          "nombre": "Hay un unicornio adelante",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fb12f819yofi.html"
+            }
+          ]
+        },
+        {
+          "id": "77bf0b2e-6354-4ab7-9d56-e4e2827e1ac2",
+          "nombre": "¿Qué tal un «gracias»?",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-f4ns5nrk63sa.html"
+            }
+          ]
+        },
+        {
+          "id": "c4570281-9f2b-4057-a2f4-44695e93b263",
+          "nombre": "Cita doble emocionante",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-ss3l86vo9k2s.html"
+            }
+          ]
+        },
+        {
+          "id": "fff3e4e0-c9b6-4957-b0f5-d7a493401dc2",
+          "nombre": "Contra los hermanos Rindou",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/bvtx8qemsyg9"
+            }
+          ]
+        },
+        {
+          "id": "50bbe20d-fbe1-415b-83dc-6dc2660f8ffd",
+          "nombre": "Las consecuencias de un juego imposible",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/ghb9dkl8y2pg"
+            }
+          ]
+        },
+        {
+          "id": "1973d59c-970b-4ebb-b480-6d35601f8c42",
+          "nombre": "¿Muerte o beso?",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-7atimij1piry.html"
+            }
+          ]
+        },
+        {
+          "id": "32471dfe-bca1-4491-b024-dcecaed4c649",
+          "nombre": "La primera reunión de asesinos",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/r2gngdhb53mo"
+            }
+          ]
+        },
+        {
+          "id": "b5b056db-4773-4360-8bb5-8fe438e2c5ca",
+          "nombre": "El futuro",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-09-12T19:59:05.347970",
+          "fechaActualizacion": "2026-09-12T19:59:05.347970",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-duxkcn4fi2hg.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
