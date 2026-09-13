@@ -4,7 +4,7 @@
   "descripcion": "En el mundo de Earthclear, el destino de cada persona queda sellado desde su nacimiento por un rol predeterminado, y el de Aldeano es considerado el más débil y sin futuro. Mientras la mayoría jamás supera el nivel 5, Koji Kagami rompe todas las reglas al alcanzar el increíble nivel 999. Durante una expedición conoce a Alice, la hija del Rey Demonio, y descubre que ambos comparten un mismo ideal: poner fin a la guerra y lograr la convivencia entre humanos y demonios. Con un poder que desafía el destino y un sueño que amenaza el equilibrio del mundo, Koji deberá enfrentarse a quienes harán cualquier cosa para impedir que esa paz se haga realidad.",
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/12ef246b33a4112986ba6a0cde041df1.png",
   "anio": 2026,
-  "estado": "En emisión",
+  "estado": "Finalizado",
   "idioma": "JAP",
   "generos": [
     "Acción",
@@ -22,7 +22,7 @@
           "nombre": "Nv. 1: Cómo funciona el mundo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:56:04.985724",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "Nv. 2: Más tonto que las piedras",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:56:04.985724",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "Nv. 3: Coexistencia entre humanos y demonios",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:56:04.985724",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,7 +67,7 @@
           "nombre": "Nv. 4: Te tengo algunas preguntas",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:56:04.985724",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -82,7 +82,7 @@
           "nombre": "Nv. 5: Roles asignados",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-07-23T17:56:04.985724",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -97,7 +97,7 @@
           "nombre": "Nv. 6: El razonamiento de Su Alteza",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-07-29T20:36:50.727895",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -112,7 +112,7 @@
           "nombre": "Nv. 7: Las personas que conoces te cambian",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-10T08:27:46.028753",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -125,7 +125,7 @@
           "nombre": "Nv. 8: Incompatibles",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-16T10:00:15.225508",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -138,7 +138,7 @@
           "nombre": "Nv. 9: Esperanza como nunca",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-20T16:40:31.244660",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -151,7 +151,7 @@
           "nombre": "Nv. 10: Voy a destruir esto ahora.",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-08-27T21:11:56.125327",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -164,11 +164,24 @@
           "nombre": "Nv. 11: La autoridad del rey es absoluta",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-09-07T12:11:48.031249",
-          "fechaActualizacion": "2026-09-07T12:11:48.031249",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/pqs9qav1tzt1"
+            }
+          ]
+        },
+        {
+          "id": "c1a074fd-2a5a-4062-933a-5a16c96aa317",
+          "nombre": "Nv. 12: Ese sentido común de mierda",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-09-12T19:08:12.728576",
+          "fechaActualizacion": "2026-09-12T19:08:12.728576",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/gx6i5rehpcbx"
             }
           ]
         }
