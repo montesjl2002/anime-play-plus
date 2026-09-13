@@ -22,11 +22,11 @@
           "nombre": "El hombre al que llamaban Cerdito",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-09-11T11:46:39.544772",
-          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://streamwish.to/e/s5umwwdu82t6"
+              "videoUrl": "https://playmogo.com/e/bdmp4udll13z"
             }
           ]
         },
@@ -35,11 +35,11 @@
           "nombre": "La Cenicienta no sonríe",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-09-11T11:46:39.544772",
-          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://streamwish.to/e/irtpm46yrfy0"
+              "videoUrl": "https://www.mp4upload.com/embed-u92dkwg7ad35.html"
             }
           ]
         },
@@ -48,11 +48,11 @@
           "nombre": "El show de magia de Yoshino",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-09-11T11:46:39.544772",
-          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://streamwish.to/e/ab091qtq6m12"
+              "videoUrl": "https://www.mp4upload.com/embed-t5apndw6up2r.html"
             }
           ]
         },
@@ -61,11 +61,115 @@
           "nombre": "Peligro claro e inminente",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-09-11T11:46:39.544772",
-          "fechaActualizacion": "2026-09-11T11:46:39.544772",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
           "audios": [
             {
               "idioma": "Latino",
-              "videoUrl": "https://streamwish.to/e/ae2dldhf08my"
+              "videoUrl": "https://www.mp4upload.com/embed-usbb7hm461a7.html"
+            }
+          ]
+        },
+        {
+          "id": "67a9bfa1-91f3-4f16-b6b4-ddbf50ac4934",
+          "nombre": "Gato misterioso",
+          "etiqueta": "T1 | E5",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-fddpx1bei7uq.html"
+            }
+          ]
+        },
+        {
+          "id": "0d45bb89-6e50-4901-83e1-5102df697b14",
+          "nombre": "¡Ataque! La batalla de las visitas a casa",
+          "etiqueta": "T1 | E6",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-iptl39lrg563.html"
+            }
+          ]
+        },
+        {
+          "id": "016ecc66-12dd-4f55-b619-3116cd7526e9",
+          "nombre": "El incidente de la isla Tsunade",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-h3k9y6s3sfur.html"
+            }
+          ]
+        },
+        {
+          "id": "25d97f71-4a84-4a88-9558-72d2f712ddce",
+          "nombre": "No eres tú",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-hb5s06lwijd2.html"
+            }
+          ]
+        },
+        {
+          "id": "799ea66b-9d23-4dd2-a42d-663eb724f005",
+          "nombre": "Se llama amor y afecto",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-mcj2xbb5bkvg.html"
+            }
+          ]
+        },
+        {
+          "id": "c0e38e89-046b-4048-a629-3d5f9a2d0393",
+          "nombre": "El nuevo trimestre escolar lleno de dudas",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-etvb8b0afqkh.html"
+            }
+          ]
+        },
+        {
+          "id": "85ea198d-0cf0-4ec0-8a59-62629f1efe94",
+          "nombre": "Blancanieves y el festival Yasaka",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-0zqnq2xu3skk.html"
+            }
+          ]
+        },
+        {
+          "id": "e61de1ef-6007-45de-9cb0-8f90f4411d72",
+          "nombre": "No dejes el micrófono, aunque mueras",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-09-12T19:33:22.006937",
+          "fechaActualizacion": "2026-09-12T19:33:22.006937",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://www.mp4upload.com/embed-1jacd8w3wg1f.html"
             }
           ]
         }
