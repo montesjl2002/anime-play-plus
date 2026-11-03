@@ -4,7 +4,7 @@
   "descripcion": "Cuando misteriosas tumbas repletas de reliquias divinas aparecen por todo el mundo, comienza una feroz lucha por obtener su poder. Traicionado y abandonado a su suerte, el saqueador Jooheon Suh recibe una segunda oportunidad al regresar al pasado, antes de que todo comenzara. Ahora, conoce el futuro y está decidido a adelantarse a todos para conquistar las tumbas y hacerse con cada reliquia antes que nadie.",
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b1fa4cfec92000dc539f7330051d05da.png",
   "anio": 2026,
-  "estado": "En emisión",
+  "estado": "Finalizado",
   "idioma": "LAT",
   "generos": [
     "Acción",
@@ -22,7 +22,7 @@
           "nombre": "Empezar de nuevo",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-09-07T12:13:23.925512",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
           "audios": [
             {
               "idioma": "Latino",
@@ -35,7 +35,7 @@
           "nombre": "El dueño de las reliquias",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-09-07T12:13:23.925512",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
           "audios": [
             {
               "idioma": "Latino",
@@ -48,7 +48,7 @@
           "nombre": "Alguien apto para controlar",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-09-07T12:13:23.925512",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
           "audios": [
             {
               "idioma": "Latino",
@@ -61,7 +61,7 @@
           "nombre": "Aquel que roba el futuro",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-08-20T16:36:06.548360",
-          "fechaActualizacion": "2026-09-07T12:13:23.925512",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
           "audios": [
             {
               "idioma": "Latino",
@@ -74,7 +74,7 @@
           "nombre": "El dueño de la Planta de la inmortalidad",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-27T21:05:44.104908",
-          "fechaActualizacion": "2026-09-07T12:13:23.925512",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
           "audios": [
             {
               "idioma": "Latino",
@@ -87,11 +87,89 @@
           "nombre": "La Gran Erupción de Tumbas",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-09-07T12:13:23.925512",
-          "fechaActualizacion": "2026-09-07T12:13:23.925512",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
           "audios": [
             {
               "idioma": "Latino",
               "videoUrl": "https://filelions.top/embed/q1c6phoie956"
+            }
+          ]
+        },
+        {
+          "id": "0a3850b7-3a8f-4487-8366-4ceb6f7cd7c1",
+          "nombre": "Restauracón de reliquias",
+          "etiqueta": "T1 | E7",
+          "fechaPublicacion": "2026-11-03T10:45:35.756843",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/sp9pahusn29k"
+            }
+          ]
+        },
+        {
+          "id": "225a4323-b7a0-4672-9b9e-500741495f74",
+          "nombre": "El secreto del cuervo",
+          "etiqueta": "T1 | E8",
+          "fechaPublicacion": "2026-11-03T10:45:35.756843",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/h8gdjwdjs0pp"
+            }
+          ]
+        },
+        {
+          "id": "280ee667-f82c-4b2e-802e-2f9b3bb515f4",
+          "nombre": "Aquel que gobierna las reliquias",
+          "etiqueta": "T1 | E9",
+          "fechaPublicacion": "2026-11-03T10:45:35.756843",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/t771zdob095b"
+            }
+          ]
+        },
+        {
+          "id": "294d60e0-fbdf-46e7-b345-0fc764db80d7",
+          "nombre": "La maldición de las reliquias",
+          "etiqueta": "T1 | E10",
+          "fechaPublicacion": "2026-11-03T10:45:35.756843",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/fq7or82rmmo8"
+            }
+          ]
+        },
+        {
+          "id": "9844d0a5-474b-40f4-88e7-2b93334e9409",
+          "nombre": "La reliquia de Tianfu",
+          "etiqueta": "T1 | E11",
+          "fechaPublicacion": "2026-11-03T10:45:35.756843",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/01tssqrfhvbe"
+            }
+          ]
+        },
+        {
+          "id": "ed636b2d-ef62-436d-ae11-25556cfce2d5",
+          "nombre": "Tomb Raider King",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-11-03T10:45:35.756843",
+          "fechaActualizacion": "2026-11-03T10:45:35.756843",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://filelions.top/embed/wts19xy3709p"
             }
           ]
         }
