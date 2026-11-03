@@ -22,7 +22,7 @@
           "nombre": "Elymas, el caballero pesado",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -37,7 +37,7 @@
           "nombre": "La amenazante araña mono",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -52,7 +52,7 @@
           "nombre": "La misión de asalto",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -67,7 +67,7 @@
           "nombre": "Evolución de la existencia",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-23T17:46:05.826994",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -82,7 +82,7 @@
           "nombre": "El colmillo de la locura latente",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-10T08:20:36.089157",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -95,7 +95,7 @@
           "nombre": "Ruche, la pierrot",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:20:36.089157",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -108,7 +108,7 @@
           "nombre": "A cazar la raana dorada",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-15T18:46:29.222983",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -121,7 +121,7 @@
           "nombre": "Errancia",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-20T16:37:07.600897",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -134,7 +134,7 @@
           "nombre": "Maestro",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-27T21:15:55.524143",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -147,7 +147,7 @@
           "nombre": "Negociación",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-09-07T12:03:59.125487",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -160,11 +160,102 @@
           "nombre": "Un pasado ineludible",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-09-12T19:03:15.947593",
-          "fechaActualizacion": "2026-09-12T19:03:15.947593",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/v5j9zs0k6o03"
+            }
+          ]
+        },
+        {
+          "id": "c39a233c-98e2-45b2-b301-33bdc795d194",
+          "nombre": "Malicia, el maestro espadachín",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/dr7tdg15vd5a"
+            }
+          ]
+        },
+        {
+          "id": "c82ed36b-c62e-4016-a4ce-77f66b134bde",
+          "nombre": "Lacoryna, Ciudad de Aventureros",
+          "etiqueta": "T1 | E13",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/nylx0mo9dfpd"
+            }
+          ]
+        },
+        {
+          "id": "0d6b49ae-e322-43fa-baab-04366dbea420",
+          "nombre": "Gigante de mithril",
+          "etiqueta": "T1 | E14",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/avrt06fvkd4r"
+            }
+          ]
+        },
+        {
+          "id": "486b9777-be48-48e1-bcd4-2c5b441bdaff",
+          "nombre": "Señor de los sueños del agujero de los sueños",
+          "etiqueta": "T1 | E15",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/toxpbi8lo8lk"
+            }
+          ]
+        },
+        {
+          "id": "f773d4c3-54d7-4fc3-9a52-cd7a077f0df6",
+          "nombre": "Ningún defensor se salva",
+          "etiqueta": "T1 | E16",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/g1huf3wgmhju"
+            }
+          ]
+        },
+        {
+          "id": "305e8e1b-00e3-45bd-acb5-29c07568aa94",
+          "nombre": "Maestra del gremio Haillen",
+          "etiqueta": "T1 | E17",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/caeamkq9jzt9"
+            }
+          ]
+        },
+        {
+          "id": "15d59dfd-a97f-4291-bcc5-f74d9dd1d92b",
+          "nombre": "Herrero Veruga",
+          "etiqueta": "T1 | E18",
+          "fechaPublicacion": "2026-11-03T10:54:10.221641",
+          "fechaActualizacion": "2026-11-03T10:54:10.221641",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/xspfmdfamcl7"
             }
           ]
         }
