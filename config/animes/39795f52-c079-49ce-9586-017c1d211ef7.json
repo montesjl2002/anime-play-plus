@@ -4,7 +4,7 @@
   "descripcion": "Hinako Konohana parece la chica perfecta: elegante, refinada y admirada por todos. Sin embargo, lejos de las miradas ajenas, es incapaz de desenvolverse en las tareas más simples del día a día. Cuando Itsuki Tomonari comienza a cuidarla, mantener su imagen impecable se convierte en un reto constante… aunque entre ambos podría surgir algo más que una simple convivencia.",
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8af7f347a59650ef4416b8a92d439d33.png",
   "anio": 2026,
-  "estado": "En emisión",
+  "estado": "Finalizado",
   "idioma": "JAP",
   "generos": [
     "Comedia",
@@ -22,7 +22,7 @@
           "nombre": "La señorita perfecta",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -35,7 +35,7 @@
           "nombre": "El primer día del cuidador",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -50,7 +50,7 @@
           "nombre": "Reencuentro",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -65,7 +65,7 @@
           "nombre": "Mentiras y secretos",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-30T12:36:15.540508",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -80,7 +80,7 @@
           "nombre": "Secuéstrame",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-01T21:42:49.848019",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -95,7 +95,7 @@
           "nombre": "La propuesta de Mirei Tennoji",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:16:39.253379",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -110,7 +110,7 @@
           "nombre": "Las preocupaciones de una señorita",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-15T18:40:03.664963",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -125,7 +125,7 @@
           "nombre": "No más mentiras",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-29T21:09:00.843239",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -138,7 +138,7 @@
           "nombre": "El día libre de la señorita",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-29T21:09:00.843239",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -151,7 +151,7 @@
           "nombre": "El plan para sacar a Narika de su aislamiento",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-09-07T12:00:19.294197",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -164,11 +164,24 @@
           "nombre": "El enfrentamiento de las señoritas",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-09-12T19:01:44.068710",
-          "fechaActualizacion": "2026-09-12T19:01:44.068710",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://filelions.top/embed/mde6owlp86rx"
+            }
+          ]
+        },
+        {
+          "id": "0ba6f411-65e8-4bff-9918-5bb509a76d12",
+          "nombre": "Un lugar lleno de bellezas inalcanzables",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-11-03T10:40:02.280788",
+          "fechaActualizacion": "2026-11-03T10:40:02.280788",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://filelions.top/embed/vm0exv3g7pfz"
             }
           ]
         }
