@@ -4,7 +4,7 @@
   "descripcion": "Tras pasar décadas luchando en la guerra, Dias regresa como un héroe y recibe un territorio como recompensa. Sin embargo, el lugar resulta ser una inmensa llanura desolada donde parece imposible construir un futuro. Mientras intenta adaptarse a una vida lejos del campo de batalla, conocerá a Alna, una misteriosa chica con cuernos que le mostrará que esas tierras esconden secretos y un potencial mucho mayor de lo que cualquiera podría imaginar.",
   "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/29af68bb77fbdab9faaa018f7b7dbb4c.png",
   "anio": 2026,
-  "estado": "En emisión",
+  "estado": "Finalizado",
   "idioma": "JAP",
   "generos": [
     "Aventura",
@@ -21,7 +21,7 @@
           "nombre": "El señor de la frontera y la chica del cuerno azul",
           "etiqueta": "T1 | E1",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -34,7 +34,7 @@
           "nombre": "La primera visita del señor de la frontera",
           "etiqueta": "T1 | E2",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -47,7 +47,7 @@
           "nombre": "El señor de la frontera y el extraño mercader ambulante",
           "etiqueta": "T1 | E3",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -60,7 +60,7 @@
           "nombre": "El señor de la frontera y el señor del dominio vecino",
           "etiqueta": "T1 | E4",
           "fechaPublicacion": "2026-07-29T09:40:01.657883",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -73,7 +73,7 @@
           "nombre": "El señor de la frontera y los asaltantes del desierto",
           "etiqueta": "T1 | E5",
           "fechaPublicacion": "2026-08-01T21:40:08.793371",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -86,7 +86,7 @@
           "nombre": "El señor de la frontera y la plegaria de las gemelas",
           "etiqueta": "T1 | E6",
           "fechaPublicacion": "2026-08-10T08:22:08.122102",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -99,7 +99,7 @@
           "nombre": "El señor de la frontera y los nuevos subditos",
           "etiqueta": "T1 | E7",
           "fechaPublicacion": "2026-08-15T18:43:40.269812",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -112,7 +112,7 @@
           "nombre": "El señor de la frontera y la batalla de las praderas",
           "etiqueta": "T1 | E8",
           "fechaPublicacion": "2026-08-29T21:12:01.315075",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -125,7 +125,7 @@
           "nombre": "El señor de la frontera y la boda",
           "etiqueta": "T1 | E9",
           "fechaPublicacion": "2026-08-29T21:12:01.315075",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -138,7 +138,7 @@
           "nombre": "El señor de la frontera, su hijo y sus hijas",
           "etiqueta": "T1 | E10",
           "fechaPublicacion": "2026-09-07T12:08:46.954984",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
@@ -151,11 +151,24 @@
           "nombre": "El señor de la frontera y el hermano mayor de Alna",
           "etiqueta": "T1 | E11",
           "fechaPublicacion": "2026-09-12T19:05:02.515653",
-          "fechaActualizacion": "2026-09-12T19:05:02.515653",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
           "audios": [
             {
               "idioma": "SubJapones",
               "videoUrl": "https://www.mp4upload.com/embed-a3czxdgi31mf.html"
+            }
+          ]
+        },
+        {
+          "id": "fcde99f2-2f24-48c2-aafd-ae2ca8d40c80",
+          "nombre": "El señor de la frontera y la historia que empezó con cero súbditos",
+          "etiqueta": "T1 | E12",
+          "fechaPublicacion": "2026-11-20T16:51:00.820048",
+          "fechaActualizacion": "2026-11-20T16:51:00.820048",
+          "audios": [
+            {
+              "idioma": "SubJapones",
+              "videoUrl": "https://streamtape.com/e/DaaAA1q2ydSk9MB/%5BAnimeOnlineNinja%5D_The_Frontier_Lord_Begins_with_Zero_Subjects_12_v2.mp4"
             }
           ]
         }
