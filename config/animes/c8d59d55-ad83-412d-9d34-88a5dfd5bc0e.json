@@ -1,0 +1,50 @@
+{
+  "id": "c8d59d55-ad83-412d-9d34-88a5dfd5bc0e",
+  "nombre": "Dragon Ball Super: Beerus",
+  "descripcion": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz y la tranquilidad. Sin embargo, el despertar de Beerus, el Dios de la Destrucción, amenaza con poner fin a esa era de calma. Impulsado por los rumores sobre el Saiyajin que derrotó a Freezer, Beerus llega a la Tierra en busca de Goku, decidido a poner a prueba su poder. Ante una fuerza capaz de destruir planetas enteros, Goku y sus aliados deberán enfrentarse a un enemigo cuya presencia pondrá en peligro no solo la Tierra, sino el destino del universo entero.",
+  "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=85%2Cwidth=480%2Cheight=720/display/keyart/T00389311-base_asset_2x3-en-US",
+  "anio": 2026,
+  "estado": "En emisión",
+  "idioma": "LAT",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía",
+    "Shounen"
+  ],
+  "temporadas": [
+    {
+      "id": "6cdfee97-bae7-4084-819f-385ae416fd63",
+      "numero": 1,
+      "nombre": "1era Temporada",
+      "episodios": [
+        {
+          "id": "3566f2e9-9852-4368-8dce-4af3891e4172",
+          "nombre": "El Dios que Destruye",
+          "etiqueta": "T1 | E1",
+          "fechaPublicacion": "2026-11-20T16:43:19.960313",
+          "fechaActualizacion": "2026-11-20T16:43:19.960313",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/PwejkZgo0bC0dgo/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_Beerus_Latino_01.mp4"
+            }
+          ]
+        },
+        {
+          "id": "506f55e3-84a1-41a6-b083-920894276139",
+          "nombre": "El Dios de la Destrucción se dirige al planeta de los Kaio",
+          "etiqueta": "T1 | E2",
+          "fechaPublicacion": "2026-11-20T16:43:19.960313",
+          "fechaActualizacion": "2026-11-20T16:43:19.960313",
+          "audios": [
+            {
+              "idioma": "Latino",
+              "videoUrl": "https://streamtape.com/e/zQVMVdPWBWIkD0/%5BAnimeOnlineNinja%5D_Dragon_Ball_Super_Beerus_Latino_02.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
